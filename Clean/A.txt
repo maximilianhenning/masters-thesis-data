@@ -552,7 +552,7 @@ L/MAR/B/174Q(2) Pay Book
 Capt Henry Cobb
 Downs 19 May 1816-31 May Madeira - 23 Sep Bombay 7 Dec -14 Dec Tellicherry - 30 Dec Cochin -18 Feb 1817 Cape -14 Mar St Helena - 29 May Blackwall
 ALFRED (1)
-Built by Barnard, launched 1772, 3 decks, 4in bottom, length 136ft Tin, keel 110ft, breadth 36ft, hold 14ft 51/2in, wing transom 23ft 2in, between decks 6ft 2in, 763 tons Principal Managing Owner: George Willson
+Built by Barnard, launched 1772, 3 decks, 4in bottom, length 136ft Tin, keel 110ft, breadth 36ft, hold 14ft 51/2in, wing transom 23ft 2in, between decks 6ft 2in, 763 tons. Principal Managing Owner: George Willson. Voyage 4: From an initial Lascar crew of 141, 97 either died, deserted or were pressed
 1 1772/3 St Helena and Benkulen
 L/MAR/B/140A Journal 11 Nov 1772-24 Mar 1775, Chief Mate William Gowland 
 L/MAR/B/140-O(l) Ledger 
@@ -576,10 +576,10 @@ Portsmouth 7 Mar 1779 - 5 Apr Madeira - 3 Oct Whampoa 20 Jan 1780 - 8 Feb Malacc
 L/MAR/B/140D-E Journal 27 Jul 1781-28 Jul 1786
 L/MAR/B/140R(1) Ledger
 L/MAR/B/140R(2) Pay Book
-L/MAR/B/140S Ledger (Lascars)*
+L/MAR/B/140S Ledger (Lascars)
 Capt James Brown
 Portsmouth 6 Feb 1782 - 28 Apr Rio de Janeiro - 5 Sep Bombay -19 Oct Madras -15 Jan 1783 Kedgeree -13 May Ingeli - 6 Sep Bombay - 9 Jan 1784 Cochin -18 Apr Bombay 18 Nov - 9 Dec Anjengo - 3 Jan 1785 Bombay - 9 Jun Malacca -10 Jul Whampoa - Second Bar 30 Nov -17 Mar 1786 St Helena - 20 Jun Downs
-* From an initial crew of 141, 97 either died, deserted or were pressed
+*
 ALFRED (2)
 Built by Todd & Pitcher, launched 1790, 3 decks, 4in bottom, length 165ft 21/2in, keel 134ft, breadth 41ft 5in, hold 17ft 21/2, wing transom 26ft, port cell 29ft lin, waist 3ft 61/2in, between decks 6ft 4in & 6ft 6in, roundhouse 6ft 6in, ports 14 middle & 13 upper, deck range 95ft 6in, 1221 tons Principal Managing Owners: 1 James Farquharson, 2-6 William Fraser, 7-8 Andrew Timbrell
 1 1790/1 St Helena, Madras and China
@@ -899,7 +899,7 @@ Mar 1670 - 17 Apr 1671 Plymouth
 2 1670/1 Bantam
 BL: Sloane Ms 3668 Abstract of journal 28 Jun-12 Sep 1671
 Capt Zachary Browne
-Jul 1671-19 Jun 1672 Downs
+Jul 1671 - 19 Jun 1672 Downs
 3 1672/3 Madras and Surat
 Capt Zachary Browne
 Dec 1672 -

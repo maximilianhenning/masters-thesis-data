@@ -127,7 +127,7 @@ Downs 16 Apr 1827 - 3 Sep Whampoa - 30 Oct Second Bar -14 Jan 1828 St Helena - 2
     5 1828/9	Bengal
 L/MAR/B/99F	Deck Log 12 Jun-20 Dec 1828
 Capt Henry Hutchinson
-East India Dock 12 Jun 1828 -10	Dec Calcutta
+East India Dock 12 Jun 1828 - 10	Dec Calcutta
     6 1831/3	China and Quebec
 L/MAR/B/99G	Deck Log 18 May 1832-4 Jul 1833
 Capt Orlando Hart Wilson
@@ -275,7 +275,7 @@ Calcutta 29 Nov 1804 - Kedgeree 1 Apr 1805 - 28 Jun St Helena -17 Aug Long Reach
 BELLMONT
 Built by Randall, launched 1780, 3 decks, 4in bottom, length 143ft 5in, keel 116ft TAm, breadth 35ft 2!/2in, hold 14ft 6in, wing transom 22ft 71/2in, between decks 5ft llin, ports 13 middle & upper, 769 tons
 Principal Managing Owners: 1-2 Charles Foulis, 3-6 Robert Preston
-1 	1779/80 Madras and Bengal
+	1 1779/80 Madras and Bengal
 L/MAR/B/444A	Journal 24 Feb 1780-10 May 1782
 L/MAR/B/444H(1)	Ledger
 L/MAR/B/444H(2)	Pay Book
@@ -434,7 +434,9 @@ L/MAR/A/LXXXm Journal 11 Sep 1686-10 May 1688 Capt William Perse
 Downs 17 Nov 1686 - 4 Jan 1687 Sao Tiago -18 Mar Cape -17 Apr Johanna -14 Aug Calicut - 7 Sep Bombay - 8 Dec Goa -12 Dec Karwar - 20 Dec Mangalore - 27 Jan 1688 Tellicheny - 31 Jan Calicut - 7 Feb Tellicheny 22 Feb Calicut - 29 Feb ‘Ruttera’ - 28 Mar ‘Brinjoan’ -13 Apr Madras - voyage ended 23 Jul 1689 Portsmouth
 BENGAL MERCHANT (2)
     1 1770/1 New Company voyage
-L/MAR/A/CLVni Imprest Book Capt Henry Trenwith 5 Dec 1700 - home mid-1704
+L/MAR/A/CLVni Imprest Book 
+Capt Henry Trenwith 
+5 Dec 1700 - home mid-1704
 BENGAL MERCHANT (3)
 Built at Howrah 1812, 463 tons
 Principal Managing Owners: 2 Sedgwick & Heame, 3 John Groves

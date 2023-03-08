@@ -22,14 +22,14 @@ for file in file_list:
                 line_class = "ship"
             elif " - " in line:
                 line_class = "itinerary"
-            elif str(line[:5]).isalpha() and not "/" in line[:10]:
+            elif str(line).startswith("Capt"):
+                line_class = "captain"
+            elif str(line[:4]).isalpha() and not "/" in line[:10]:
                 line_class = "info"
             elif str(line[:1]).isnumeric() and str(line[1] == " "):
                 line_class = "voyage_id"
             elif str(line).startswith("L/"):
                 line_class = "reference"
-            elif str(line).startswith("Capt"):
-                line_class = "captain"
             else:
                 line_class = "unclassed"
             lines_classed.append([line, line_class])
@@ -58,15 +58,32 @@ for file in file_list:
             # If voyage ID, add to ship dict & start voyage dict
             if line[1] == "voyage_id":
                 voyage = "voyage_" + line[0][0]
+                voyage_info = line[0][2:]
+                if "From" in voyage_info:
+                    voyage_time = voyage_info.split(" ")[-1]
+                    voyage_destination = voyage_info.split(" ")[:-1]
+                    voyage_destination = " ".join(voyage_destination)
+                else:
+                    voyage_time = voyage_info.split(" ")[0]
+                    voyage_destination = voyage_info.split(" ")[1:]
+                    voyage_destination = " ".join(voyage_destination)
+                if "/" in voyage_time:
+                    voyage_start = voyage_time[:4]
+                    voyage_end = voyage_time.split("/")[1]
+                    if len(voyage_end) == 1:
+                        voyage_end = voyage_start[:3] + voyage_end
+                    else:
+                        voyage_end = voyage_start[:2] + voyage_end
+                    voyage_time = [voyage_start, voyage_end]
                 # Start or empty dict for voyage
-                voyage_dict = {"reference": [], "captain": []}
+                voyage_dict = {"time": voyage_time, "destination": voyage_destination, "reference": [], "captain": []}
                 ship_dict[voyage] = voyage_dict
             # Add references
             if line[1] == "reference":
                 voyage_dict["reference"].append(line[0])
             # Add captain
             if line[1] == "captain":
-                voyage_dict["captain"] = line[0]
+                voyage_dict["captain"] = line[0][5:]
             # Add itinerary
             if line[1] == "itinerary":
                 voyage_dict["itinerary"] = line[0]
