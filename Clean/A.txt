@@ -48,7 +48,8 @@ L/MAR/B/527A Journal 31 Jan-4 Aug 1796
 Capt John Gilmore
 Kedgeree 1 Feb 1796 - 23 Apr St Helena - 21 Jun Falmouth -18 Jul Blackwall
 ABIGAIL
-Built 1622, 200/300 tons 1 1621/2 Java and Sumatra
+Built 1622, 200/300 tons
+1 1621/2 Java and Sumatra
 Downs Jul 1622 -17 Dec Cape - Batavia - Tiku - Dec 1623 Batavia - voyages to Sumatra 1624, Lagundy 1625, Coromandel 1626-27, Sumatra 1628 & 1629 - laid up 1631, rotten
 ABINGDON
 400 tons, 30 guns, 80 crew
@@ -67,7 +68,6 @@ Downs 14 Apr 1708 - 3 Sep Cape - 9 Jan 1709 Anjengo - 20 Jan Calicut - 6 Feb Man
 L/MAR/B/687D Journal 6 May 1712-6 Jun 1714, William Jordan, Third Mate 
 Capt John Lesley
 Downs 20 Jun 1712-3 Nov St Helena - 21 Feb 1713 Batavia - 20 Mar Benkulen - 27 Mar Silebar - 1 May Benkulen - 28 Sep Batavia -12 Feb 1714 Cape -1 Mar St Helena - 6 Jun Nore
-ACHILLES see SURAT
 ADDISON
 470/490 tons, 30/34 guns, 94/98 crew
 1 1717/8 Bombay
@@ -239,7 +239,6 @@ Frigate, 230 tons Owner Thomas Lucas
 1 1670/1 Bantam, Cambodia and Taiwan
 Capt Roger Bennett
 Downs Jan 1671 - 3 Jan 1673 Downs
-ADVENTURE see LOYAL ADVENTURE
 ADVICE (1)
 Bought in 1614, former name Judith, 350 tons
 1 1614/5 Bantam and Japan
@@ -281,7 +280,7 @@ Capt Thomas Harman
 Downs 23 Mar 1665 - 3 Sep Surat 10 Sep 1666 - Mar 1667 Downs
 AIRLY CASTLE
 Built by Barnard, launched 1787, 3 decks, 4in bottom, length 143ft Sin, keel 116ft, breadth 36ft 3!/2in, hold 14ft llin, wing transom 23ft 4in, port cell 26ft 5in, waist 1ft 21/2in, between decks 6ft & 6ft 3in, roundhouse 6ft 3in, ports 13 middle & upper, deck range 80ft 9in, 813 tons Principal Managing Owner: Robert Williams
-1     1 1787/8 Bengal and Benkulen
+1 1787/8 Bengal and Benkulen
 L/MAR/B/321A Journal 8 Jan 1788-1 Sep 1789
 L/MAR/B/321 K(l) Ledger
 L/MAR/B/321K(2) Pay Book
@@ -365,7 +364,8 @@ L/MAR/B/620B(2) Receipt Book
 Capt George Lindsay
 Downs 30 Mar 1759 - 1 May Madeira -10 Aug St Augustine’s Bay - 28 Oct Madras - 25 Dec Balasore -1 Jan 1760 Culpee - Ingeli 16 Mar - 24 Apr Moco Moco - 30 May Madras 18 Aug - 28 Nov St Helena - captured by the French 6 Mar 1761 off Scilly
 ALBEMARLE
-330 tons, 30 guns, 66 crew 1 1704/5 Bombay
+330 tons, 30 guns, 66 crew
+1 1704/5 Bombay
 L/MAR/B/718A Journal 1 Oct 1707-14 Aug 1708
 Capt William Beawes
 Downs 31 Jan 1705 - Bombay 3 Oct 1707 - 29 Jan 1708 Cape -19 Mar St Helena -1 Aug Rio de Janeiro - wrecked 9 Dec 1708 Polperro, Cornwall
@@ -695,7 +695,8 @@ L/MAR/B/189N(2) Pay Book
 Capt Peter Rolland
 Downs 27 Apr 1815 - 25 Sep Whampoa 14 Jan 1816 - 23 Mar St Helena -15 May Long Reach
 ALTHEA
-Built at Calcutta 1801, 810 tons 1 From Bengal 1802
+Built at Calcutta 1801, 810 tons
+1 From Bengal 1802
 L/MAR/B/521A Journal 24 Jan-2 Dec 1802 
 Capt Arundel Roberts
 Calcutta 24 Jan 1802 - 13 Apr Saugor - 24 Jul St Helena -15 Oct Deptford
@@ -881,7 +882,6 @@ Downs 3 Jun 1830 - 3 Dec Whampoa - 24 Jan 1831 Lintin - 3 Apr St Helena -18 May 
 L/MAR/B/80D Deck Log 14 Jul 1832-15 Sep 1833
 Capt William Compton
 Portsmouth 17 Aug 1832 - 6 Nov Cape - 22 Jan 1833 Saugor - 22 Jun St Helena - went on shore 1 Sep at Berck nr Boulogne, abandoned
-ANNE see COURTEEN ASSOCIATION ANNE
 ANNE (1)
 Frigate, 230 tons, 20 guns, 48 crew
 1 1650/1 Bantam
@@ -930,11 +930,11 @@ Capt Abraham Dawes
 Capt Samuel Chamblet
 3 Apr 1675 - 27 Jun 1676
 ANNE (4)
-Licensed ship, 120 tons, 18 guns, 25 crew 1 1687/8 Madras
+Licensed ship, 120 tons, 18 guns, 25 crew
+1 1687/8 Madras
 E/3/48 no.5690 Freke’s account of the wreck and subsequent adventures
 Capt William Freke
 Downs 21 Feb 1688 - Delagoa river 24 Apr 1689 - 9 May wrecked at Madagascar - crew reached Johanna in sloop and longboat 31 May - 9 Jun met pirates and 8 men deserted to them - left Johanna in sloop 2 Aug -14 Sep reached Indian coast nr Vingula -15 Sep captured and plundered by Shivaji’s forces
-ANNE AND JOYCE see RESTORATION
 ANNE ROYAL
 700/900 tons
 1 1616/7 Surat and Red Sea
@@ -948,7 +948,8 @@ L/MAR/A/XXXV f.15 Fragment of journal 22 Feb-11 Apr 1624, Edmund Sayers
 Masters: Walter Bennett/Bartholomew Goodall/Peter Elliot/Eustace Man
 Downs - Sep 1621 Batavia - joined Anglo-Dutch Fleet of Defence off Goa - Apr 1622 sent for Mozambique Channel - Malabar - Oct Dabhol - 24 Oct Surat - Nov Goa - May 1623 Batavia - Jambi - Batavia Feb 1624 - Apr Surat - Mar 1625 Mokha - Bandar Abbas - Surat - 3 Jun 1626 Batavia - broken up, rotten
 ANSON (1)
-Rated at 499 tons, 28 guns, 99 crew 1 1746/7 Bombay
+Rated at 499 tons, 28 guns, 99 crew 
+1 1746/7 Bombay
 L/MAR/B/549A Journal 2 Nov 1746-1 Sep 1747, anon
 L/MAR/B/549-0(l) Imprest Book
 L/MAR/B/549-0(2) Receipt Book
@@ -1204,7 +1205,7 @@ L/MAR/B/24HH Receipt Book
 Capt William Dick Gamage
 Downs 24 Dec 1773 - 16 Jan 1774 Lisbon - 23 Mar Madeira - 25 Jun Johanna - 28 Jul Madras - 17 Aug Kedgeree - 5 Sep Bankshall - condemned 7 Oct because of leaks
 ASIA (3)
-Built by Perry, launched 1780, 3 decks, 4in bottom, length 143ft b^in, keel 116ft, breadth 36ft 5in, hold 14ft 11 'Ain, wing transom 23ft 1 lin, port cell 26ft 6Ain, between decks 6ft 2in & 6ft 4in, roundhouse 6ft 6in, ports 13 middle & upper, 816 tons Principal Managing Owner: Thomas Newte
+Built by Perry, launched 1780, 3 decks, 4in bottom, length 143ft b^in, keel 116ft, breadth 36ft 5in, hold 14ft 11 'Ain, wing transom 23ft 1 lin, port cell 26ft 6Ain, between decks 6ft 2in & 6ft 4in, roundhouse 6ft 6in, ports 13 middle & upper, 816 tons Principal Managing Owner: Thomas Newte XXXX
 Journal 14 Nov 1780-25 Apr 1783
 Ledger
 Pay Book

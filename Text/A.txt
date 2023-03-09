@@ -47,7 +47,8 @@ ABERCROMBY
 L/MAR/B/527A Journal 31 Jan-4 Aug 1796 Capt John Gilmore
 Kedgeree 1 Feb 1796 - 23 Apr St Helena - 21 Jun Falmouth -18 Jul Blackwall
 ABIGAIL
-Built 1622, 200/300 tons 1	1621/2 Java and Sumatra
+Built 1622, 200/300 tons 
+1	1621/2 Java and Sumatra
 Downs Jul 1622 -17 Dec Cape - Batavia - Tiku - Dec 1623 Batavia - voyages to Sumatra 1624, Lagundy 1625, Coromandel 1626-27, Sumatra 1628 & 1629 - laid up 1631, rotten
 ABINGDON
 400 tons, 30 guns, 80 crew
@@ -266,7 +267,7 @@ Capt Thomas Harman
 Downs 23 Mar 1665 - 3 Sep Surat 10 Sep 1666 - Mar 1667 Downs
 AIRLY CASTLE
 Built by Barnard, launched 1787, 3 decks, 4in bottom, length 143ft Sin, keel 116ft, breadth 36ft 3!/2in, hold 14ft llin, wing transom 23ft 4in, port cell 26ft 5in, waist 1ft 21/2in, between decks 6ft & 6ft 3in, roundhouse 6ft 3in, ports 13 middle & upper, deck range 80ft 9in, 813 tons Principal Managing Owner: Robert Williams
-1     1 1787/8	Bengal and Benkulen
+    1 1787/8	Bengal and Benkulen
 L/MAR/B/321A	Journal 8 Jan	1788-1	Sep	1789
 L/MAR/B/321 K(l)	Ledger
 L/MAR/B/321K(2)	Pay Book
@@ -346,7 +347,8 @@ L/MAR/B/620B(2)	Receipt Book
 Capt George Lindsay
 Downs 30 Mar 1759 - 1 May Madeira -10 Aug St Augustine’s Bay - 28 Oct Madras - 25 Dec Balasore -1 Jan 1760 Culpee - Ingeli 16 Mar - 24 Apr Moco Moco - 30 May Madras 18 Aug - 28 Nov St Helena - captured by the French 6 Mar 1761 off Scilly
 ALBEMARLE
-330 tons, 30 guns, 66 crew 1	1704/5 Bombay
+330 tons, 30 guns, 66 crew 
+1	1704/5 Bombay
 L/MAR/B/718A	Journal 1 Oct 1707-14 Aug 1708
 Capt William Beawes
 Downs 31 Jan 1705 - Bombay 3 Oct 1707 - 29 Jan 1708 Cape -19 Mar St Helena -1 Aug Rio de Janeiro - wrecked 9 Dec 1708 Polperro, Cornwall
@@ -666,7 +668,8 @@ L/MAR/B/189N(2)	Pay Book
 Capt Peter Rolland
 Downs 27 Apr 1815 - 25 Sep Whampoa 14 Jan 1816 - 23 Mar St Helena -15 May Long Reach
 ALTHEA
-Built at Calcutta 1801, 810 tons 1 From Bengal 1802
+Built at Calcutta 1801, 810 tons 
+1 From Bengal 1802
 L/MAR/B/521A Journal 24 Jan-2 Dec 1802 Capt Arundel Roberts
 Calcutta 24 Jan 1802 - 13 Apr Saugor - 24 Jul St Helena -15 Oct Deptford
 AMAZON
@@ -891,7 +894,8 @@ Capt Abraham Dawes
 Capt Samuel Chamblet
     3 Apr 1675 - 27 Jun 1676
 	ANNE (4)
-Licensed ship, 120 tons, 18 guns, 25 crew 1	1687/8	Madras
+Licensed ship, 120 tons, 18 guns, 25 crew 
+1	1687/8	Madras
 E/3/48 no.5690	Freke’s account of the wreck and subsequent adventures
 Capt William Freke
 Downs 21 Feb 1688 - Delagoa river 24 Apr 1689 - 9 May wrecked at Madagascar - crew reached Johanna in sloop and longboat 31 May - 9 Jun met pirates and 8 men deserted to them - left Johanna in sloop 2 Aug -14 Sep reached Indian coast nr Vingula -15 Sep captured and plundered by Shivaji’s forces
@@ -1154,7 +1158,7 @@ L/MAR/B/24HH	Receipt Book
 Capt William Dick Gamage
 Downs 24 Dec 1773 - 16 Jan 1774 Lisbon - 23 Mar Madeira - 25 Jun Johanna - 28 Jul Madras - 17 Aug Kedgeree - 5 Sep Bankshall - condemned 7 Oct because of leaks
 ASIA (3)
-Built by Perry, launched 1780, 3 decks, 4in bottom, length 143ft b^in, keel 116ft, breadth 36ft 5in, hold 14ft 11 'Ain, wing transom 23ft 1 lin, port cell 26ft 6Ain, between decks 6ft 2in & 6ft 4in, roundhouse 6ft 6in, ports 13 middle & upper, 816 tons Principal Managing Owner: Thomas Newte
+Built by Perry, launched 1780, 3 decks, 4in bottom, length 143ft b^in, keel 116ft, breadth 36ft 5in, hold 14ft 11 'Ain, wing transom 23ft 1 lin, port cell 26ft 6Ain, between decks 6ft 2in & 6ft 4in, roundhouse 6ft 6in, ports 13 middle & upper, 816 tons Principal Managing Owner: Thomas Newte XXXX
 Journal 14 Nov 1780-25 Apr 1783
 Ledger
 Pay Book
@@ -1540,7 +1544,7 @@ Extra ship, built by Cox, launched 1797, 3 decks, 3in bottom, length 106fl 41/2i
 L/MAR/B/344A-B Journal 26 Mar 1803-17 Jan 1804 Capt John Baker
 Calcutta 26 Mar 1803 - 21 May Saugor - 29 Jun Penang -12 Oct St Helena - 27 Dec Deptford
 AUTOMATIA
-1	1799/1800 Madras and Bengal
+1 1799/1800 Madras and Bengal
 L/MAR/B/517A Journal 25 Dec 1800-6 Apr 1802, Chief Mate John Lamb Capt Anthony Curtis
 Plymouth 25 Dec 1800 - 23 Jun 1801 Madras - 5 Jul Calcutta - 22 Sep Kedgeree 5 Oct -19 Dec Cape 3 Jan 1802 - 13 Mar Downs
 19 Oct 1801 recaptured Friendship snow of Vizagapatam from French

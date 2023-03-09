@@ -110,7 +110,8 @@ Capt John Hunter
 13 Dec 1729 - lost going into Bombay
 BARROSA
 Chartered ship, built at Cossipore 1811, 968 tons
-Principal Managing Owners: 1-3 John William Buckle, 4-5 Buckle & Co, 6 John Clarkson 1 From Bengal 1812
+Principal Managing Owners: 1-3 John William Buckle, 4-5 Buckle & Co, 6 John Clarkson
+1 From Bengal 1812
 L/MAR/B/99A Journal 1 Mar-26 Dec 1812
 L/MAR/B/99B Journal 1 Mar-31 Dec 1812, anon
 Capt Benjamin Fergusson
@@ -202,7 +203,8 @@ Free ship to trade in the country
 Capt John Cribb
 Downs 18 Aug 1686 - Madeira - attacked by pirates off Sao Tiago 26 Oct - Bombay - Oct 1687 Johanna - seized by natives at Massalege, Madagascar
 BEAR
-Purchased in 1618 for £2400, former name Merchant Royal, 100 crew, 700 tons 1 1618/9 Bantam
+Purchased in 1618 for £2400, former name Merchant Royal, 100 crew, 700 tons
+1 1618/9 Bantam
 Downs - 21 Aug 1619 Tiku - captured there by the Dutch 1 Oct
 BEAUFORT (1)
 750/775 tons, 3 decks, 50/60 guns, 150/154 crew
@@ -287,14 +289,15 @@ BEE
 Master John Hatch/John Roberts
 Gravesend 4 Feb 1617 - 21 Jun Cape -12 Aug Moheli - 20 Sep Surat - 6 Dec Jask -17 Jan 1618 Surat - Masulipatam - Sep Bantam 27 May 1619 - Jun Masulipatam - Bantam - Jun 1620 Acheh -10 Oct Batavia - Jambi - 23 Nov 1621 Batavia - Jambi - Feb 1623 Batavia - Siam - feared lost Feb 1624
 BELLE
-Brig, built at Calcutta 1802, 281 tons 1 From Bengal 1805
+Brig, built at Calcutta 1802, 281 tons
+1 From Bengal 1805
 L/MAR/B/306A Journal 29 Nov 1804-7 Sep 1805 
 Capt Alexander Fogo
 Calcutta 29 Nov 1804 - Kedgeree 1 Apr 1805 - 28 Jun St Helena -17 Aug Long Reach captured off the French coast Jan 1806
 BELLMONT
 Built by Randall, launched 1780, 3 decks, 4in bottom, length 143ft 5in, keel 116ft TAm, breadth 35ft 2!/2in, hold 14ft 6in, wing transom 22ft 71/2in, between decks 5ft llin, ports 13 middle & upper, 769 tons
 Principal Managing Owners: 1-2 Charles Foulis, 3-6 Robert Preston
-1  1779/80 Madras and Bengal
+1 1779/80 Madras and Bengal
 L/MAR/B/444A Journal 24 Feb 1780-10 May 1782
 L/MAR/B/444H(1) Ledger
 L/MAR/B/444H(2) Pay Book
@@ -391,7 +394,8 @@ Capt James Peter Fearon
 Portsmouth 19 May 1801 - 31 Jul Rio de Janeiro -1 Nov Penang - 30 Jan 1802 Whampoa - 20 Mar Second Bar - 8 Jul St Helena -16 Sep Gravesend
 BENCOOLEN
 416 tons
-Principal Managing Owner: William Martin 1 1831/2 Bengal
+Principal Managing Owner: William Martin
+1 1831/2 Bengal
 L/MAR/B/158A Deck Log 23 Jul 1832-1 Jul 1833 
 Capt William Tullis
 Downs 8 Aug 1832 - 27 Dec Calcutta -11 Feb 1833 Diamond Harbour - 24 Apr St Helena -15 Jun Blackwall
@@ -461,8 +465,9 @@ Capt William Perse
 Downs 17 Nov 1686 - 4 Jan 1687 Sao Tiago -18 Mar Cape -17 Apr Johanna -14 Aug Calicut - 7 Sep Bombay - 8 Dec Goa -12 Dec Karwar - 20 Dec Mangalore - 27 Jan 1688 Tellicheny - 31 Jan Calicut - 7 Feb Tellicheny 22 Feb Calicut - 29 Feb ‘Ruttera’ - 28 Mar ‘Brinjoan’ -13 Apr Madras - voyage ended 23 Jul 1689 Portsmouth
 BENGAL MERCHANT (2)
 1 1770/1 New Company voyage
-L/MAR/A/CLVni Imprest Book 
-Capt Henry Trenwith 5 Dec 1700 - home mid-1704
+L/MAR/A/CLVni Imprest Book
+Capt Henry Trenwith
+5 Dec 1700 - home mid-1704
 BENGAL MERCHANT (3)
 Built at Howrah 1812, 463 tons
 Principal Managing Owners: 2 Sedgwick & Heame, 3 John Groves
@@ -696,7 +701,8 @@ L/MAR/B/368B Journal 10 Feb-9 Oct 1802
 Capt W Bampton
 Calcutta 10 Feb 1802 - Saugor 10 Mar - 30 Jun St Helena - 20 Sep Deptford
 BHEEMOOLAH
-Built at Howrah 1808, 486 tons 1 From Bengal 1811
+Built at Howrah 1808, 486 tons 
+1 From Bengal 1811
 L/MAR/B/273A Journal 4 Jul 1810-9 Mar 1812, anon 
 Capt David Chauvet
 Calcutta 4 Jul 1810 - 7 Sep Diamond Harbour - 6 Dec Mauritius -15 Mar 1811 Madras - 6 May Calcutta - 28 Jul Saugor - 29 Sep Mauritius -15 Nov St Helena - 29 Jan 1812 Blackwall
@@ -896,7 +902,8 @@ L/MAR/B/48X(2) Pay Book
 Capt James Kellaway
 Downs 17 Jan 1833 - 15 Mar St Helena - 6 Jun Saugor -15 Aug Penang - 2 Sep Singapore - 26 Sep Whampoa -10 Nov Second Bar -1 Feb 1834 St Helena - 30 Mar Long Reach
 BOMBAY
-Country ship 1 1786
+Country ship 
+1 1786
 L/MAR/B/48A Journal 7 Aug-29 Oct 1786, J Sutherland
 Bombay 7 Aug 1786 -11 Sep Diego Garcia Bay -13 Oct Tellicheny - 29 Oct Bombay
 BOMBAY CASTLE (1)
@@ -981,7 +988,6 @@ Capt George Bennett
 5 1676/7 Bantam and Surat
 Capt Roger Bennett
 25 Mar 1677 - Mar 1679
-BONA VENTURE see EXPEDITION
 BONITO
 1 1647/8 Madras
 Capt James Birkdell Downs - 25 Jun 1648 Madras - Masulipatam - Madras Jan 1649 - Downs
@@ -1074,7 +1080,8 @@ L/MAR/B/45C Deck Log 1 Mar -25 Sep 1827
 Cork 29 Jun 1826 - New South Wales - Whampoa 1 Mar 1827 - 29 Jun St Helena -11 Sep Blackwall
 BRAMPTON
 432 tons, 32 crew
-Principal Managing Owner: William Bottomley 1 1819/20 Bengal
+Principal Managing Owner: William Bottomley 
+1 1819/20 Bengal
 L/MAR/B/328A Deck Log 8 Jun 1820-31 Oct 1821
 Capt Samuel Moore
 Downs 11 Jun 1820 - 22 Sep Benguela -1 Jan 1821 Car Nicobar - 25 Jan Calcutta - 4 Apr Saugor - 22 Apr Madras - 26 Jul St Helena - 28 Sep Gravesend
@@ -1473,7 +1480,8 @@ L/MAR/B/766A(3) Owners’ accounts
 Capt Thomas Gilbert 5 Dec 1715 - 20 Aug 1717
 BROTHERS
 425 tons
-Principal Managing Owner: Aaron Chapman 1 1819/20 Bombay
+Principal Managing Owner: Aaron Chapman
+1 1819/20 Bombay
 L/MAR/B/251A Deck Log 8 Apr 1820-12 Apr 1821
 Capt Ralph Stamp
 Downs 2 May 1820 - 10 Aug Bombay - 25 Dec Cape -17 Jan 1821 St Helena - 22 Mar Gravesend
@@ -1538,7 +1546,8 @@ L/MAR/B/349B Journal 14 Aug 1795-8 Apr 1797
 Capt Charles Ryland
 Downs 23 Sep 1795 - 12 Apr 1796 Calcutta - 28 Jul Saugor - 22 Nov St Helena -18 Feb 1797 Long Reach
 BUCKHURST
-Licensed ship, 300 tons 1 1697/8 Muscat
+Licensed ship, 300 tons
+1 1697/8 Muscat
 Downs 16 Aug 1698 -
 BUCKINGHAMSHIRE
 Company’s own ship, built at Bombay, launched 13 Apr 1816, 3 decks, 6in bottom, length 166fl, keel 133ft 1 l1/8in, breadth 43ft lOin, hold 17ft, wing transom 26ft 2in, port cell 30ft lin, waist 1ft 4in, between decks 6ft SV^in & 6ft 4in, roundhouse 6ft 3in, ports 14 middle & 13 upper, deck range 98ft,

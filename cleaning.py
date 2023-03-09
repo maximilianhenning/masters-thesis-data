@@ -1,11 +1,11 @@
 from glob import glob
 
-path = "C:/Users/lorga/Uni/Thesis/Data"
-file_list = glob(path + "/Text/*")
+path = "C:/Users/lorga/Uni/Thesis/Data/"
+file_list = glob(path + "Text/*")
 
 for file in file_list:
     file = file.split("\\")[-1].split(".")[0]
-    with open(path + "/Text/" + file + ".txt", "r") as input:
+    with open(path + "Text/" + file + ".txt", "r") as input:
         text = input.read()
     lines = text.split("\n")
 
@@ -30,11 +30,26 @@ for file in file_list:
                 lines_cleaned.append(line_split[0])
                 lines_cleaned.append("Capt" + line_split[-1])
             # Line break before voyage ID
-
-            # Put together travel lines
-
+            elif "1 1" in line[5:]:
+                print(line)
+                line_split = line.split("1 1")
+                line_split[1] = "1 1" + line_split[1]
+                print(line_split[0] + "\n" + line_split[1])
+                lines_cleaned.append(line_split[0])
+                lines_cleaned.append(line_split[1])
+            elif "1 From" in line[5:]:
+                print(line)
+                line_split = line.split("1 From")
+                line_split[1] = "1 From" + line_split[1]
+                print(line_split[0] + "\n" + line_split[1])
+                lines_cleaned.append(line_split[0])
+                lines_cleaned.append(line_split[1])
             # Remove XXXX see XXXX lines
-
+            elif " see " in line:
+                if line.replace(" see ", "").isupper():
+                    pass
+                else:
+                    lines_cleaned.append(line)
             # Finally add working lines with content
             elif line:
                 lines_cleaned.append(line)
@@ -49,6 +64,6 @@ for file in file_list:
         line_cleaned_counter += 1
     print(file + "\nOriginal lines:", str(line_counter) + "\nCleaned lines:", str(line_cleaned_counter))
 
-    with open(path + "/Clean/" + file + ".txt", "w") as output:
+    with open(path + "Clean/" + file + ".txt", "w") as output:
         for line in lines_cleaned:
             output.write(line + "\n")
