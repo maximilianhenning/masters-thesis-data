@@ -1,0 +1,197 @@
+ship_id,name,info,tons,guns,crew,type,built_by,built_year
+0,ABBERTON,"['Chartered ship, 32/35 crew, 450 tons Principal Managing Owner: William Bawtree']",450,nan,"['32', '35']",Chartered,nan,nan
+1,ABERCROMBIE ROBINSON,"['Built by Wigram, launched 1825, 3 decks, 4in bottom, length 165fl lOin, keel 133fl 4in, breadth 43fl 33/4in, hold 17fl 2in, wing transom 26fl, port cell 29ft Sin, waist 1ft 4in, between decks 6ft Sin & 6ft 4in, roundhouse 6ft 31/2in, ports 14 middle & 13 upper, deck range 97ft 6in, 149/174 crew, 1331 tons Principal Managing Owners: 1-3 Henry Bonham, 4 John Innes Sold to Palmers McKillop & Co 9 Oct 1834, Â£8000']",1331,nan,"['149', '174']",nan,Wigram,1825
+2,ABERCROMBY,[],nan,nan,nan,nan,nan,nan
+3,ABIGAIL,"['Built 1622, 200/300 tons']","['200', '300']",nan,nan,nan,nan,1622
+4,ABINGDON,"['400 tons, 30 guns, 80 crew']",400,30,80,nan,nan,nan
+5,ADDISON,"['470/490 tons, 30/34 guns, 94/98 crew']","['470', '490']","['30', '34']","['94', '98']",nan,nan,nan
+6,ACHILLES,[],nan,nan,nan,nan,nan,nan
+7,ADMIRAL APLEV,"['Built by Temple at South Shields, measured 1802, 2 decks, length 122fl 2in, keel 98fl 4in, breadth 32ft, hold 14ft llin, wing transom 17ft, port cell 25ft Sin, waist lOin, between decks 6ft lOin, roundhouse 6ft 4in, ports 6 middle, 60 crew, 558 tons Principal Managing Owner: Moses Agar']",558,nan,60,nan,Temple,nan
+8,ADMIRAL BARRINGTON,"[""Extra ship, built by Butler, measured 1786, 3 decks, 3in bottom, length 119ft, keel 94ft lOin, breadth 32ft 4in, hold 13ft 93/4in, wing transom 19ft 2in, port cell 22ft 9in, between decks 4ft 71/2in & 5ft i'Ain, ports 12 middle & upper, deck range 76ft, 18 guns, 84 crew, 527 tons Principal Managing Owner: Godfrey Thornton""]",527,18,84,"[""Extra",Butler,nan
+9,ADMIRAL GAMBLER,[],nan,nan,nan,nan,nan,nan
+10,ADMIRAL GARDNER,"['Built by Hill, launched 1797, 3 decks, 4in bottom, length 145ft 8in, keel 118ft 3 ^in, breadth 36ft 2!/2in, hold 14ft lOin, wing transom 24ft, port cell 26ft lOin, waist 3ft 8in, between decks 6ft 3in & 6ft 6in, roundhouse 6ft 6in, ports 12 middle & 11 upper, deck range 82ft 6in, 816 tons Principal Managing Owner: John Woolmore']",816,nan,nan,nan,Hill,1797
+11,ADMIRAL POCOCK,"['Built by Wells, launched 1762, 3 decks, 3in bottom, keel 110ft 6in, breadth 33ft Sin, 26 guns, 123/138 crew, 666 tons', 'Principal Managing Owner: John Durand']",666,26,"['123', '138']",nan,Wells,1762
+12,ADMIRAL RAINIER,"['Built by Hudson & Bacon at Calcutta 1798, 511 tons Sold in England for a store ship']",511,nan,nan,store,Hudson,nan
+13,ADMIRAL STEVENS,[],nan,nan,nan,nan,nan,nan
+14,ADMIRAL VERNON,"['Rated at 499 tons, 30 guns, 99/105 crew']",499,30,"['99', '105']",nan,nan,nan
+15,ADMIRAL WATSON,"['Companyâ€™s own ship, built by Woolcombe, launched 1758, 3 decks, 3in bottom, keel 90ft, breadth 40ft, 430 tons']",430,nan,nan,own,Woolcombe,1758
+16,ADVANCE,"['Frigate, 230 tons Owner Thomas Lucas']",230,nan,nan,nan,nan,nan
+17,ADVICE (1),"['Bought in 1614, former name Judith, 350 tons', 'Master John Totten/Richard Wickham']",350,nan,nan,nan,nan,nan
+18,ADVICE (2),"['350/375 tons, 25/30 guns, 75 crew']","['350', '375']","['25', '30']",75,nan,nan,nan
+19,ADVICE (3),"['Pinnace, former name Canary Bird, 100/150 tons', 'Plymouth Feb 1674 -']","['100', '150']",nan,nan,nan,nan,nan
+20,ADVICE (4),"['Frigate, 130 tons, 12 guns, 26 crew', 'Cowns 7 Jul 1700 -']",130,12,26,nan,nan,nan
+21,AFRICAN,"['240 tons', 'BL: Lansdowne Ms 213 Journal on Has African and London 6 May 1661-24 Apr 1663, ', 'BL: Harleian Ms 4252 Abstract of journal 23 Mar 1665-13 Feb 1667']",240,nan,nan,nan,nan,nan
+22,AIRLY CASTLE,"['Built by Barnard, launched 1787, 3 decks, 4in bottom, length 143ft Sin, keel 116ft, breadth 36ft 3!/2in, hold 14ft llin, wing transom 23ft 4in, port cell 26ft 5in, waist 1ft 21/2in, between decks 6ft & 6ft 3in, roundhouse 6ft 3in, ports 13 middle & upper, deck range 80ft 9in, 813 tons Principal Managing Owner: Robert Williams']",813,nan,nan,nan,Barnard,1787
+23,AISLABIE,"['380/400 tons, 26 guns, 76/80 crew']","['380', '400']",26,"['76', '80']",nan,nan,nan
+24,AJAX,"['Built by Perry, launched 1759, 3 decks, 3in bottom, keel 107ft 3in, breadth 33ft lOin, 26 guns, 106 crew, 655 tons']",655,26,106,nan,Perry,1759
+25,ALBEMARLE,"['330 tons, 30 guns, 66 crew']",330,30,66,nan,nan,nan
+26,ALBION (1),"['Built by West, launched 1762, 3 decks, 3in bottom, keel 116ft, breadth 33ft, 26 guns, 99 crew, 668 tons', 'Principal Managing Owner: John Hyde', 'Wrecked outward-bound 15 Jan 1765 off the North Foreland']",668,26,99,nan,West,1762
+27,ALBION (2),"['Built by Perry, launched 1787, 3 decks, 4in bottom, length 153ft llin, keel 125ft, breadth 38ft, hold 15th 7in, wing transom 23fl Sin, port cell 27fl 3 in, waist Iff lin, between decks 6ft 4in, roundhouse 6ft 4in, ports 14 middle & upper, deck range 87fl lOin, 116/140 crew, 961 tons Principal Managing Owners: 1-6 Richard Lewin, 7-8 Andrew Timbrell']",961,nan,"['116', '140']",nan,Perry,1787
+28,ALBION (4),"['Chartered ship, 35/44 crew, 470 tons', 'Principal Managing Owners: 1 Samuel Granger, 2 Charles Weller']",470,nan,"['35', '44']",Chartered,nan,nan
+29,ALEPPO MERCHANT,"['Chartered ship, 350 tons Managing Owners: John Millet']",350,nan,nan,Chartered,nan,nan
+30,ALEXANDER (1),"['Extra ship, measured 1786, 2 decks, 3in bottom, length lllfl 6in, keel 88ft 51/?in, breadth 30fl 9in, hold 13ft 9in, wing transom 18ft 5in, between decks 6ft 9in, 444 tons']",444,nan,nan,Extra,nan,nan
+31,ALBION (3),"['Extra ship, repaired by Perry, measured 1797, 3 decks, 3in bottom, length 109fl 4in, keel 86ft 91>4in, breadth 30ft bV^in, hold 12ft llin, wing transom 16ft lOin, waist 3in, between decks 5ft 2in & 5ft 6in, ports 8 upper, 45 crew, 430 tons']",430,nan,45,Extra,nan,nan
+32,ALEXANDER (2),[],nan,nan,nan,nan,nan,nan
+33,ALEXANDER (3),"['Extra ship, built at Liverpool, measured 1804, 3 decks, 4in bottom, length 128ft, keel 102ft 5in, breadth 33ft Tin, hold 12ft lOin, wing transom 21ft 9in, waist 1ft 6^in, between decks 5ft 6in & 6ft, roundhouse 6ft 3in, 614 tons', 'Principal Managing Owners: 1 George Clay, 2-3 Felix Clay, 4 John Hotson, 5-6 James Mangles, 7 Robert Mangles']",614,nan,nan,Extra,nan,nan
+34,ALFRED (1),"['Built by Barnard, launched 1772, 3 decks, 4in bottom, length 136ft Tin, keel 110ft, breadth 36ft, hold 14ft 51/2in, wing transom 23ft 2in, between decks 6ft 2in, 763 tons. Principal Managing Owner: George Willson. Voyage 4: From an initial Lascar crew of 141, 97 either died, deserted or were pressed', '*']",763,nan,Lascar,nan,Barnard,1772
+35,ALFRED (2),"['Built by Todd & Pitcher, launched 1790, 3 decks, 4in bottom, length 165ft 21/2in, keel 134ft, breadth 41ft 5in, hold 17ft 21/2, wing transom 26ft, port cell 29ft lin, waist 3ft 61/2in, between decks 6ft 4in & 6ft 6in, roundhouse 6ft 6in, ports 14 middle & 13 upper, deck range 95ft 6in, 1221 tons Principal Managing Owners: 1 James Farquharson, 2-6 William Fraser, 7-8 Andrew Timbrell']",1221,nan,nan,nan,Todd,1790
+36,ALFRED (3),"['Chartered ship, 716 tons', 'Principal Managing Owners: Fraser, Living & Co']",716,nan,nan,Chartered,nan,nan
+37,ALLIGATOR,"['Extra ship, built by Cox, measured 1798, 2 decks, 3in bottom, length 102ft 41/4in, keel 80ft 6in, breadth 28ft 41/2in, hold 12ft 5in, wing transom 19ft 4in, between decks 6ft 6in, 345 tons']",345,nan,nan,Extra,Cox,nan
+38,ALMORAH,"['Chartered ship, 416 tons', 'Principal Managing Owner: Matthew Boyd']",416,nan,nan,Chartered,nan,nan
+39,ALNWICK CASTLE,"['Built by Perry, launched 1801, 3 decks, 5in bottom, length 165ft 71/2in, keel 133ft IVAin, breadth 42ft, hold 17ft, wing transom 25ft lO^in, port cell 29ft 4in, waist 3ft lOin, between decks 6ft 6in, roundhouse 6ft 6in, ports 14 middle & 13 upper, deck range 96ft 4in, 1256 tons Principal Managing Owner: John Locke']",1256,nan,nan,nan,Perry,1801
+40,ALTHEA,"['Built at Calcutta 1801, 810 tons']",810,nan,nan,nan,nan,nan
+41,AMAZON,[],nan,nan,nan,nan,nan,nan
+42,AMERICA,"['210 tons, 24 guns, 42 crew']",210,24,42,nan,nan,nan
+43,AMERICAN (1),['225 tons'],225,nan,nan,nan,nan,nan
+44,AMERICAN (2),['140 tons'],140,nan,nan,nan,nan,nan
+45,AMITY,"['120 tons, 10 guns, 24 crew']",120,10,24,nan,nan,nan
+46,ANGLESEY,"['Rated at 490 tons, 30 guns, 98 crew']",490,30,98,nan,nan,nan
+47,ANN (1),"['Extra ship, built by Randall, measured 1801, 2 decks, 3in bottom, length 128ft 7in, keel 105ft lOV^in, breadth 30ft 21/2in, hold 15ft 41/2in, wing transom 18ft 9in, port cell 25ft 4in, waist 1ft VAin, roundhouse 6ft 3in, ports 10 upper, 508 tons', 'Principal Managing Owners: 1 Matthew White, 2-6 William Masson, 7 Shakespeare Read, 8 James Masson']",508,nan,nan,Extra,Randall,nan
+48,ANKERWYKE,"['Built by Wells, launched 1764, 3 decks, 3in bottom, keel 110ft, breadth 34ft, rated at 26 guns & 99 crew, 676 tons', 'Principal Managing Owner: Barrington Buggin']",676,26,99,nan,Wells,1764
+49,ANNA (1),"['350 tons, 26 guns, 70 crew']",350,26,70,nan,nan,nan
+50,ANNA (2),[],nan,nan,nan,nan,nan,nan
+51,ANNA (3),"['Built at Bombay 1790', 'Principal Managing Owners: Bruce, Fawcett & Co']",nan,nan,nan,nan,nan,nan
+52,ANN AND AMELIA (1),"['Extra ship, built by Wells, measured 1781, 3 decks, 4in bottom, length 126ft llin, keel 102ft Sin, breadth 33ft 2in, hold 13ft lin, wing transom 17ft 5!/2in, port cell 24ft 3in, between decks 6ft 3in & 6ft 9in, ports 14 middle & upper, 600 tons Principal Managing Owner: John Julius Angerstin']",600,nan,nan,Extra,Wells,nan
+53,ANN AND AMELIA (2),[],nan,nan,nan,nan,nan,nan
+54,ANN AND AMELIA (3),"['Chartered ship, 587 tons', 'Principal Managing Owner: Joseph Somes']",587,nan,nan,Chartered,nan,nan
+55,ANNE (1),"['Frigate, 230 tons, 20 guns, 48 crew', 'BL: Sloane Ms 3231 Journal 4 Jan-28 Jul 1652, Charles Wylde, passenger ']",230,20,48,nan,nan,nan
+56,ANNE (2),"['3 decks, 430/530 tons, 34/36 guns, 80/108 crew', 'BL: Sloane Ms 3668 Abstract of journal 28 Jun-12 Sep 1671', 'Dec 1672 -']","['430', '530']","['34', '36']","['80', '108']",nan,nan,nan
+57,ANNE (3),"['300/360 tons, 30 guns, 66 crew']","['300', '360']",30,66,nan,nan,nan
+58,ANNE (4),"['Licensed ship, 120 tons, 18 guns, 25 crew', 'E/3/48 no.5690 Frekeâ€™s account of the wreck and subsequent adventures']",120,18,25,Licensed,nan,nan
+59,ANNE ROYAL,"['700/900 tons', 'Masters: Walter Bennett/Bartholomew Goodall/Peter Elliot/Eustace Man']","['700', '900']",nan,nan,nan,nan,nan
+60,ANSON (1),"['Rated at 499 tons, 28 guns, 99 crew ']",499,28,99,nan,nan,nan
+61,ANSON (2),"['370/400 tons, 18/20 guns, 82/113 crew']","['370', '400']","['18', '20']","['82', '113']",nan,nan,nan
+62,ANSON (3),"['Built by Perry, launched 1763, 3 decks, 3in bottom, keel 107fl, breadth 34fl, 26/30 guns, 102/106 crew, 657 tons', 'Principal Managing Owner: Charles Foulis']",657,"['26', '30']","['102', '106']",nan,Perry,1763
+63,ANTELOPE (1),[],nan,nan,nan,nan,nan,nan
+64,ANTELOPE (2),"['VA decks, 30 guns, 91 crew, 400 tons']",400,30,91,nan,nan,nan
+65,ANTELOPE (3),"['450 tons, 30 guns']",450,30,nan,nan,nan,nan
+66,ANTELOPE (4),"['Companyâ€™s packet, built by Barnard, measured 1781, length 96fl Sin, keel 77fl 6in, breadth 25ft 71/2in, hold 12ft, wing transom 15ft 3in, port cell 16ft llin, ports 9 middle & upper, 8 guns, 52 crew, 270 tons', 'To carry despatches by the Pacific route ']",270,8,52,nan,Barnard,nan
+67,APOLLO (1),[],nan,nan,nan,nan,nan,nan
+68,APOLLO (2),"['Built by Stemson at Pauli nr Hull, launched 1812, 3 decks, 3in bottom, length 127ft 2in, keel 100ft 6!/2in, breadth, 34ft llin, hold 13ft lin, wing transom 22ft Sin, port cell 29ft 7in, waist Sl^in, between decks 6ft, ports 10 upper, 12 guns, 65 crew, 652 tons']",652,12,65,nan,Stemson,1812
+69,ARABELLA,"['140 tons, 18 guns, 28 crew']",140,18,28,nan,nan,nan
+70,ARABIA FACTOR,"['160 tons, 14 guns, 32 crew']",160,14,32,nan,nan,nan
+71,ARCHDUKE CHARLES,[],nan,nan,nan,nan,nan,nan
+72,ARDASEER,[],nan,nan,nan,nan,nan,nan
+73,ARIADNE,[],nan,nan,nan,nan,nan,nan
+74,ARMENIAN MERCHANT,"['200/240 tons, 16/26 guns, 40/48 crew', 'renamed JOHN AND MARY']","['200', '240']","['16', '26']","['40', '48']",nan,nan,nan
+75,ARNISTON,"['Built by Barnard, launched 1794, 3 decks, 5in bottom, length 176ft 4in, keel 143fl lOin, breadth 43fl 3 Yiin, hold 17fl 6in, wing transom 26ft 4in, port cell 32ft, waist 3ft lOin, between decks 6ft lOin, roundhouse 6ft 7in, ports 15 middle & 14 upper, deck range 103ft 6in, 1200 tons Principal Managing Owners: 1-6 John Wedderbum, 7-8 Robert Hudson', 'Wrecked 30 May 1815 nr Cape Lagullas, South Africa, while chartered as a British Government', 'See also PRO: C.108/115 for ownerâ€™s accounts 1794-1804']",1200,nan,nan,nan,Barnard,1794
+76,ARRAN,"['Built at Calcutta, 350 tons', 'Principal Managing Owners: Fairlie, Gilmore & Co']",350,nan,nan,nan,nan,nan
+77,ASCENSION,"['Formerly in Levant trade, 260 tons, 24 guns, 75/82 crew', 'BL: Sloane Ms 858 ff.2-7 Narrative Mar 1608-Sep 1609, John Jourdain, factor ']",260,24,"['75', '82']",nan,nan,nan
+78,ASIA (1),"['450 tons, 32 guns, 89 crew']",450,32,89,nan,nan,nan
+79,ASIA (2),"['Built by Perry, launched 1763, 3 decks, 3in bottom, keel 107ft, breadth 34ft, 651 tons Principal Managing Owner: Charles Foulis']",651,nan,nan,nan,Perry,1763
+80,ASIA (3),"[""Built by Perry, launched 1780, 3 decks, 4in bottom, length 143ft b^in, keel 116ft, breadth 36ft 5in, hold 14ft 11 'Ain, wing transom 23ft 1 lin, port cell 26ft 6Ain, between decks 6ft 2in & 6ft 4in, roundhouse 6ft 6in, ports 13 middle & upper, 816 tons Principal Managing Owner: Thomas Newte XXXX"", 'Journal 14 Nov 1780-25 Apr 1783', 'Ledger', 'Pay Book', 'Imprest Book', 'Receipt Book']",816,nan,nan,nan,Perry,1780
+81,ASIA (4),"['Built by Humble at Liverpool, launched 1798, 3 decks, 4in bottom, length 146fl lin, keel 118fl T^in, breadth 36fl 31>4in, hold 14ft 9in, wing transom 23fl 4in, port cell 26ft lOin, waist 1ft 6in, between decks 6ft 2in & 6ft 4in, roundhouse 6ft 6in, ports 13 middle & upper, deck range 84ft 6in, 819 tons Principal Managing Owners: 1-2 Robert Chamock, 3-5 Henry Bonham']",819,nan,nan,nan,Humble,1798
+82,ASIA (5),[],nan,nan,nan,nan,nan,nan
+83,ASIA (6),"['Built by Barnard, launched 1811, 3 decks, 4in bottom, length 149ft 3in, keel 120ft, breadth 38ft 9in, hold 15ft lin, wing transom 24ft, port cell 27ft lin, waist 1ft 5in, between decks 6ft 3in & 6ft 5in, roundhouse 6ft S^in, ports 13 middle & 12 upper, deck range 85ft 6in, 26 guns, 118 crew, 958 tons Principal Managing Owners: 1-9 Henry Bonham, 10 Thomas Heath']",958,26,118,nan,Barnard,1811
+84,ASIA (7),"['Chartered ship, 458 tons', 'Principal Managing Owner: Aaron Campbell']",458,nan,nan,Chartered,nan,nan
+85,ASIA (8),"['Chartered ship, 410 tons', 'Principal Managing Owner: Richard Stoveld']",410,nan,nan,Chartered,nan,nan
+86,ASIA (9),"['Chartered ship, 536 tons', 'Principal Managing Owner: George Maclnnes']",536,nan,nan,Chartered,nan,nan
+87,ASIA (10),"['Chartered ship, 525 tons', 'Principal Managing Owner: Charles A Racket']",525,nan,nan,Chartered,nan,nan
+88,ASTELL,"['Built by Mestaer, launched 1809, 3 decks, 4in bottom, length 146fl 9in, keel 118fl UHin, breadth 36ft, hold 14fl 9!/2in, wing transom 24ft 9in, port cell 26ft Sin, waist 1ft 3in, between decks 6ft 2in & 6ft 31/2in, roundhouse 6ft 3!/2in, ports 13 middle & 12 upper, deck range 82ft 6in, 26 guns, 100 crew, 820 tons', 'Principal Managing Owners: 1-6 George Gooch, 7-10 Stewart Marjoribanks']",820,26,100,nan,Mestaer,1809
+89,ATLANTIC,[],nan,nan,nan,nan,nan,nan
+90,ATLAS (1),"['Built by Perry, launched 1778, 3 decks, 4in bottom, keel 110ft, breadth 36fl, 764 tons Principal Managing Owner: Sir Charles Raymond']",764,nan,nan,nan,Perry,1778
+91,ATLAS (2),[],nan,nan,nan,nan,nan,nan
+92,ATLAS (3),[],nan,nan,nan,nan,nan,nan
+93,ATLAS (4),"[""Built by Steemson at Pauli nr Hull, launched 1812, 3 decks, 4in bottom, length 165fl 8'Ain, keel 134fl, breadth 42fl 2in, hold 17ft, wing transom 25fl 6in, port cell 29fl 2in, waist 1ft 41/2in, between decks"", '6ft 5in & 6ft 4in, roundhouse 6ft 5in, ports 14 middle & upper, deck range 97ft 3in, 26 guns, 130', 'crew, 1267 tons', 'Principal Managing Owners: 1-3 John Staniforth, 4-6 Jasper Vaux, 7-9 Charles Otway Mayne; sold to Charles Carter 20 May 1831, Â£4100']",1267,26,',nan,Steemson,1812
+94,ATTENDANT,"['Pinnace, purchased 1614', 'Master Thomas Hounsell/John Alexander']",nan,nan,nan,nan,nan,nan
+95,AUGUSTA,"['Rated at 499 tons, 28/30 guns, 99 crew']",499,"['28', '30']",99,nan,nan,nan
+96,AURENGZEBE,"['425/450 tons, 30/32 guns, 83/90 crew', 'Spithead 17 Jan 1714 -1 May 1715']","['425', '450']","['30', '32']","['83', '90']",nan,nan,nan
+97,AURORA,"['Built on the Hugh by Foreman 1789, 573 tons', 'Free trader of London in 1820, later lost between Canada and England']",573,nan,nan,nan,nan,nan
+98,AUSPICIOUS,"['Extra ship, built by Cox, launched 1797, 3 decks, 3in bottom, length 106fl 41/2in, keel 83fl 101 2/4in, breadth 30ft L/un, hold 12ft 4in, wing transom 17ft Sin, waist Sin, between decks 4ft 9in, ports 5 middle & 4 upper, 404 tons']",404,nan,nan,Extra,Cox,1797
+99,AUTOMATIA,[],nan,nan,nan,nan,nan,nan
+100,AVERELLA,"['250/300 tons, 20/22 guns, 50/60 crew', '']","['250', '300']","['20', '22']","['50', '60']",nan,nan,nan
+0,BANGALORE,"['Built by Gillet at Calcutta 1792, 206 tons']",206,nan,nan,nan,Gillet,nan
+1,BANTAM,"['Pink, 25 crew, 100 tons']",100,nan,25,nan,nan,nan
+2,BARBADOS MERCHANT,[],nan,nan,nan,nan,nan,nan
+3,BARING (1),"['Built by Barnard, launched 1801, 3 decks, 4in bottom, length 146ft VAin, keel 118ft 8in, breadth 36ft V^in, hold 14ft 9in, wing transom 23ft 4in, port cell 26ft 9in, waist 1ft 6in, between decks 6ft 6in & 6ft 4in, ports 13 middle & 12 upper, deck range 83ft 6in, 820 tons Principal Managing Owners: 1 Robert Chamock, 2 John Rogers, 3-6 George Fraser']",820,nan,nan,nan,Barnard,1801
+4,BARING (2),"['Extra ship, built at Calcutta 1805, 2 decks, 4in bottom, length 138fl 8in, keel 111ft 91/2in, breadth 35ft Sin, hold 16ft lin, wing transom 21ft llin, port cell 27ft lin, waist 1ft 2in, between decks 6ft lin, roundhouse 6ft 3in, ports 10 upper, 756 tons Principal Managing Owner: Thomas G Murray']",756,nan,nan,Extra,nan,nan
+5,BARKWORTH,"['Extra ship, built at Hull 1811, 2 decks, 4in bottom, length 115ft 9in, keel 91ft lOin, breadth 32ft 2in, hold 14ft lOin, wing transom 18ft 6in, port cell 24ft 4in, waist 7in, between decks 6ft 63/4in, ports 8 upper, 505 tons', 'Principal Managing Owner: John Barkworth']",505,nan,nan,Extra,nan,nan
+6,BARNARDISTON,"['2 decks, length 83ft, breadth 28ft 6in, hold 12ft 6in, between decks 5ft lOin, 20/30 guns, 60/72 crew, 350/400 tons', 'Downs 7 Nov 1674 -10 Mar 1676 Downs', 'BL: Sloane Ms 854 Journal 25 Apr 1684-10 May 1685, Jacob Bevan ']","['350', '400']","['20', '30']","['60', '72']",nan,nan,nan
+7,BARRINGTON,"['440/450 tons, 30 guns, 88/90 crew']","['440', '450']",30,"['88', '90']",nan,nan,nan
+8,BARROSA,"['Chartered ship, built at Cossipore 1811, 968 tons', 'Principal Managing Owners: 1-3 John William Buckle, 4-5 Buckle & Co, 6 John Clarkson']",968,nan,nan,Chartered,nan,nan
+9,HARWELL (1),"['Built by Wells, launched 1782, 3 decks, 4in bottom, length 145ft 7in, keel 118ft 4in, breadth 35ft 7in, hold 14ft 9in, wing transom 23ft 71 2 3/4in, port cell 26ft 4in, waist 1ft 23/4in, between decks 6ft & 6ft 5in, roundhouse 6ft 4in, ports 13 middle & upper, 797 tons Principal Managing Owner: Sir Richard Neave']",797,nan,nan,nan,Wells,1782
+10,HARWELL (2),[],nan,nan,nan,nan,nan,nan
+11,BATAVIA,"['Extra ship, built by Topsham, measured 1810, 3 decks, 4in bottom, length 125ft 3in, keel 100ft 103/8in, breadth 32ft 9in, hold 12ft 672in, wing transom 20ft 4in, port cell 28ft, waist Sin, between decks 5ft 4in & 6ft 3in, roundhouse 6ft 61/2in, ports 8 upper, 555 tons Principal Managing Owner: John William Buckle']",555,nan,nan,Extra,Topsham,nan
+12,BAWDEN,"['Frigate, 16 guns, 30 crew, 150 tons', 'Free ship to trade in the country ']",150,16,30,'Free,nan,nan
+13,BEAR,"['Purchased in 1618 for Â£2400, former name Merchant Royal, 100 crew, 700 tons']",700,nan,100,nan,nan,nan
+14,BEAUFORT (1),"['750/775 tons, 3 decks, 50/60 guns, 150/154 crew']","['750', '775']","['50', '60']","['150', '154']",nan,nan,nan
+15,BEAUFORT (2),"['Rated at 499 tons, 99 crew, 32 guns']",499,32,99,nan,nan,nan
+16,BECKENHAM,"['350 tons', 'Principal Managing Owner: John Hutchinson']",350,nan,nan,nan,nan,nan
+17,BEDFORD (1),"['750/800 tons, 46/50 guns, 150/160 crew']","['750', '800']","['46', '50']","['150', '160']",nan,nan,nan
+18,BEDFORD (2),"['Rated at 490 tons, 32 guns, 98 crew']",490,32,98,nan,nan,nan
+19,BEE,"['150 tons', 'Master John Hatch/John Roberts']",150,nan,nan,nan,nan,nan
+20,BELLE,"['Brig, built at Calcutta 1802, 281 tons']",281,nan,nan,nan,nan,nan
+21,BELLMONT,"['Built by Randall, launched 1780, 3 decks, 4in bottom, length 143ft 5in, keel 116ft TAm, breadth 35ft 2!/2in, hold 14ft 6in, wing transom 22ft 71/2in, between decks 5ft llin, ports 13 middle & upper, 769 tons', 'Principal Managing Owners: 1-2 Charles Foulis, 3-6 Robert Preston']",769,nan,nan,nan,Randall,1780
+22,BELLONA,"['Extra ship, built by Woolcombe, measured 1795, 3 decks, length 113ft SViin, keel 90ft, breadth 30ft lO/rin, hold 10ft 6in, wing transom 19ft 9in, waist 1ft lin, between decks 6ft lin, roundhouse 6ft 2in, deck range 84ft, 456 tons']",456,nan,nan,Extra,Woolcombe,nan
+23,BELVEDERE,"['Built by Crockenden at Itchenor, launched 1786, 3 decks, 4in bottom, length 151fl 91/2in, keel 122ft P/dn, breadth 39ft, hold 16ft, wing transom 25ft 2in, port cell 27ft 7in, waist 3ft lin, between decks 6ft 2in & 6ft 4in, roundhouse 6ft 5in, ports 13 middle & upper, deck range 84ft 7in, 988 tons Principal Managing Owners: 1 Edward Fiott, 2 John Fiott, 3-6 Samuel Bonham']",988,nan,nan,nan,Crockenden,1786
+24,BENCOOLEN,"['416 tons', 'Principal Managing Owner: William Martin']",416,nan,nan,nan,nan,nan
+25,BENGAL (1),"['Galley/ketch, 10 guns, 35 crew, 160 tons']",160,10,35,nan,nan,nan
+26,BENGAL (2),"['Built by Wells, launched 1799, 3 decks, 4in bottom, length 146ft, keel 118ft 5!/2in, breadth 36ft !/2in, hold 14ft 9in, wing transom 23ft 6!/2in, port cell 26ft 9in, waist 1ft 6in, between decks 6ft 2in & 6ft 4in, roundhouse 6ft 6in, ports 13 middle & 12 upper, deck range 84ft 5in, 818 tons Principal Managing Owner: Gabriel Gillett']",818,nan,nan,nan,Wells,1799
+27,BENGAL (3),"['Built by Wells, launched 1811, 3 decks, 4in bottom, length 149ft 4in, keel 120ft l3/8in, breadth 38ft 8in, hold 15ft Van, wing transom 24ft, port cell 26ft lOin, waist 1ft 3 in, between decks 6ft 2in & 6ft 4in, roundhouse 6ft 3!4in, ports 13 middle & 12 upper, deck range 86ft 6in, 955 tons Principal Managing Owner: Gabriel Gillett']",955,nan,nan,nan,Wells,1811
+28,BENGAL MERCHANT (1),"['3 decks, length 103ft, breadth 33ft 3in, depth 17ft, 36/40 guns, 105/114 crew, 525/570 tons']","['525', '570']","['36', '40']","['105', '114']",nan,nan,nan
+29,BENGAL MERCHANT (2),[],nan,nan,nan,nan,nan,nan
+30,BENGAL MERCHANT (3),"['Built at Howrah 1812, 463 tons', 'Principal Managing Owners: 2 Sedgwick & Heame, 3 John Groves']",463,nan,nan,nan,nan,nan
+31,BENIN,"['Pinnace, 60 tons']",60,nan,nan,nan,nan,nan
+32,BENJAMIN (1),"['450/468 tons, 30 guns, 90/93 crew', 'BL: Add Ms 18989 Journal 15 Apr 1689-31 Oct 1693, Jacob Ward ']","['450', '468']",30,"['90', '93']",nan,nan,nan
+33,BENJAMIN (2),"['160 tons, 14 guns, 32 crew']",160,14,32,nan,nan,nan
+34,BENJAMIN (3),"['350/360 tons, 22 guns, 70 crew']","['350', '360']",22,70,nan,nan,nan
+35,BERKELEY CASTLE,"['3 decks, 24/40 guns, 106/130 crew, 500/650 tons', 'NMM: Ms 8097 Journal 18 Mar-14 Sep 1670 ', 'Downs Dec 1671 -', 'BL: Sloane Ms 3668 Journal 19 Nov 1679-13 Jan 1682, Chief Mate Benjamin Harry ']","['500', '650']","['24', '40']","['106', '130']",nan,nan,nan
+36,BERRINGTON,"['Built by Randall, launched 1783, 3 decks, 4in bottom, length 144fl 6in, keel 117ft, breadth 26th 23/4in, hold 14ft 93/4in, wing transom 23ft 2in, port cell 26ft 51/2in, waist lOin, between decks 5ft 11 ^in & 6ft S^in, roundhouse 6ft 4in, ports 13 middle & upper, 816 tons Principal Managing Owners: 1-5 Donald Cameron, 6 Thomas Newte']",816,nan,nan,nan,Randall,1783
+37,BERWICK (1),[],nan,nan,nan,nan,nan,nan
+38,BERWICK (2),[],nan,nan,nan,nan,nan,nan
+39,BERWICKSHIRE,"['Built by Charles Gordon & Co at Deptford, launched 11 Oct 1821, 3 decks, 4in bottom, length 166ft 5in, keel 133ft ll5/8 in, breadth 43ft 3in, hold 17ft IVfcin, wing transom 26ft, port cell 29ft 6in, waist 1ft 4in, between decks 6ft 1Va\\vl & 6ft 4in, roundhouse 6ft 5in, ports 14 middle & 13 upper, deck range 97ft 6in, 1333 tons', 'Principal Managing Owner: Stewart Maijoribanks']",1333,nan,nan,nan,Charles,11
+40,BESSBOROUGH,"['Built by Randall, launched 1772, 3 decks, 4in bottom, length 143ft S^in, keel 114ft SV^in, breadth 38ft 63/4in, hold 15ft 31/4in, wing transom 23ft 7in, between decks 6ft 4in, 907 tons', 'HMN/142-143 Invoice Books 1777-81', 'HMN/144 ']",907,nan,nan,nan,Randall,1772
+41,BETSY (1),[],nan,nan,nan,nan,nan,nan
+42,BETSY (2),[],nan,nan,nan,nan,nan,nan
+43,BHEEMOOLAH,"['Built at Howrah 1808, 486 tons ']",486,nan,nan,nan,nan,nan
+44,BLACKAMOOR,"['Frigate, 240 tons']",240,nan,nan,nan,nan,nan
+45,BLANDFORD,"['Extra ship, built by Randall, measured 1781, 3 decks, 4in bottom, length 124ft 6in, keel 98ft 7in, breadth 34ft, hold 14ft 6in, wing transom 22ft lin, port cell 25ft 7Vfcin, between decks 5ft 9in & 6ft, roundhouse 6ft, ports 11 middle & upper, 606 tons Principal Managing Owner: William Moffat']",606,nan,nan,Extra,Randall,nan
+46,BLENHEIM,"['250/280 tons, 20 guns, 50/60 crew']","['250', '280']",20,"['50', '60']",nan,nan,nan
+47,BLESSING (1),"['Built 1621, 700 tons', 'Master Emanuel Butta', 'Master John Slade', 'Master John Elsmore/John White']",700,nan,nan,nan,nan,1621
+48,BLESSING (2),"['250 tons, sold to ', 'Downs 6 Apr 1644 -']",250,nan,nan,nan,nan,nan
+49,BODDAM,"['Built by Barnard, launched 1787, 3 decks, 4in bottom, keel 128ft, breadth 38ft 6in, 1021 tons Principal Managing Owner: William Palmer']",1021,nan,nan,nan,Barnard,1787
+50,BODDINGTON,[],nan,nan,nan,nan,nan,nan
+51,BOLTON,"['Chartered ship, 540 tons', 'Principal Managing Owner: Thomas H Oldfield']",540,nan,nan,Chartered,nan,nan
+52,BOMBAY (1),"['Frigate, 180 tons']",180,nan,nan,nan,nan,nan
+53,BOMBAY (2),"['Galley, 10 guns, 35 crew, 160 tons']",160,10,35,nan,nan,nan
+54,BOMBAY (3),"['Built at Bombay 1807, 3 decks, 5in bottom, length 163ft llin, keel 132ft 55/8in, breadth 42ft, hold 17ft 3in, wing transom 25ft lin, port cell 30ft 7in, waist 1ft lOin, between decks 6ft Sin & 6ft 71/2in, roundhouse 6ft 7!4in, ports 14 middle & 13 upper, deck range 92ft 9in, 1243 tons Principal Managing Owners: 2-7 John Forbes, 8-12 Henry Templer, HMN/60-141 for voyages 1809/10-1818/9']",1243,nan,nan,nan,nan,nan
+55,BOMBAY,['Country ship '],nan,nan,nan,Country,nan,nan
+56,BOMBAY CASTLE (1),"['Rated at 499 tons, 28 guns, 99 crew']",499,28,99,nan,nan,nan
+57,BOMBAY CASTLE (2),"['Built by Randall, launched 1792, 3 decks, 4in bottom, length 164ft 4in, keel 132ft 71/4in, breadth 42ft 2in, hold 17ft, wing transom 25ft 9in, port cell 29ft lin, waist 3ft 9in, between decks 6ft 6in, roundhouse 6ft 7in, ports 14 middle & upper, deck range 97ft 4in, 1234 tons Principal Managing Owners: 1 James Feams, 2-4 Alexander Montgomerie, 5-6 Joseph Dorin', 'See also NMM: HMN/1-59']",1234,nan,nan,nan,Randall,1792
+58,BOMBAY MERCHANT,"['370/400 tons, IVi decks, 24/30 guns, 72/91 crew']","['370', '400']","['24', '30']","['72', '91']",nan,nan,nan
+59,BONITO,"['BL: Sloane MS 3231 Journal 4 Feb 1650-28 Dec 1651, Charles Wylde, purser ']",nan,nan,nan,nan,nan,nan
+60,BORNEO,"['180/200 tons, 12 guns, 30/40 crew', 'Plymouth 24 Dec 1718-28 Sep 1720 Deptford']","['180', '200']",12,"['30', '40']",nan,nan,nan
+61,BOSCAWEN,"['Rated at 499 tons, 26 guns, 99 crew Principal Managing Owner: 4 Richard Crabb', 'See Journal or narrative of the Boscawenâ€™s voyage to Bombay in the East Indies, Benjamin Braund, Commander. With remarks on her remarkable quick passage thither, and some surprising events that occurrâ€™d during the same, anno 1749. By a Young Gentleman, passenger on board, communicated to his father in London, August 1750 London: 1750 IOL: Tr.133']",499,26,99,nan,nan,nan
+62,BOUVEREE,"['420/450 tons, 30 guns, 84/90 crew']","['420', '450']",30,"['84', '90']",nan,nan,nan
+63,BOYD,"['Extra ship, built by Hill, measured 1795, 3 decks, length 109ft Sin, keel 87ft, breadth 29ft Sin, hold lift llin, wing transom 19ft 9in, waist Sin, between decks 4ft Sin & 6ft 2in, ports 10 middle & upper, deck range 66ft, 407 tons']",407,nan,nan,Extra,Hill,nan
+64,BOYNE (1),"['Built at Calcutta 1807, 800 tons', 'Principal Managing Owner: Benjamin Fergusson']",800,nan,nan,nan,nan,nan
+65,BOYNE (3),"['619 tons', 'Principal Managing Owner: George Green']",619,nan,nan,nan,nan,nan
+66,BRAMPTON,"['432 tons, 32 crew', 'Principal Managing Owner: William Bottomley ']",432,nan,32,nan,nan,nan
+67,BRIDGEWATER (1),"['360/410 tons, 28 guns, 72/82 crew']","['360', '410']",28,"['72', '82']",nan,nan,nan
+68,BRIDGEWATER (2),"['Built by Dudman, launched 1769, 3 decks, 4in bottom, length 141fl 21/2in, keel 113ft lin, breadth 37ft 4Vain, hold 14ft Sin, wing transom 22ft 10!/2in, between decks 6ft 3in, 840 tons Principal Managing Owners: 1 John Wood, 2 Mrs Ann Wood, 3-4 Nicholas Skottowe 1 2 3']",840,nan,nan,nan,Dudman,1769
+69,BRIDGEWATER (3),"['Built by Barnard, launched 1785, 3 decks, 4in bottom, length 143ft 5in, keel 116ft, breadth 36ft, hold 14ft 93/4in, wing transom 23ft 5in, port cell 26ft 21/2in, waist 1ft Win, between decks 6ft & 6ft 3in, roundhouse 6ft 3in, ports 13 middle & upper, 799 tons Principal Managing Owner: Nicholas Skottowe']",799,nan,nan,nan,Barnard,1785
+70,BRIDGEWATER (4),[],nan,nan,nan,nan,nan,nan
+71,BRIDGEWATER (5),"[""Built by Brent, launched 1812, 3 decks, 4in bottom, length 166ft 5in, keel 135ft 85/sin, breadth 42ft I'Ain, hold 17ft V&in, wing transom 25ft 6in, port cell 29ft 3in, waist 1ft 4in, between decks 6ft 41/4in & 6ft 4in, roundhouse 6ft 5'Ain, ports 14 middle & upper, deck range 98ft 3in, 1276 tons Principal Managing Owner: James Sims""]",1276,nan,nan,nan,Brent,1812
+72,BRILLIANT,"['Extra ship, built by Barnard, measured 1781, 3 decks, 3in bottom, length 131ft 7in, keel 105ft 41/4in, breadth 35ft SKin, hold 12ft 3in, wing transom 19ft llin, port cell 23ft 6in, between decks 5ft lOin & 6ft 2in, deck range 66ft, 704 tons Principal Managing Owner: Sir William James']",704,nan,nan,Extra,Barnard,nan
+73,BRITANNIA (1),"['Rated at 499 tons, 99 crew, 30 guns']",499,30,99,nan,nan,nan
+74,BRITANNIA (2),"['Rated at 499 tons, 99 crew, 30 guns']",499,30,99,nan,nan,nan
+75,BRITANNIA (3),"['Built by Randall, launched 1761, 3 decks, 3in bottom, keel 110ft, breadth 34ft, 676 tons Principal Managing Owner: Thomas Lane']",676,nan,nan,nan,Randall,1761
+76,BRITANNIA (4),"['Companyâ€™s own ship, built in India, launched 1775, 3 decks, 5in bottom, length 137ft 4in, keel 110ft !/2in, breadth 36ft 31/2in, hold 14ft 7in, wing transom 22ft lin, port cell 26ft, waist 1ft 2l4in, between decks 5ft lOin & 6ft 5in, roundhouse 6ft 5in, deck range 72ft, 770 tons']",770,nan,nan,own,nan,1775
+77,BRITANNIA (5),"['Extra ship, measured 1786, 2 decks, 3in bottom, length 97fl lOin, keel 77fl 3in, breadth 27ft 3in, hold 12ft, wing transom 17ft, between decks 5ft llin, 305 tons']",305,nan,nan,Extra,nan,nan
+78,BRITANNIA (6),[],nan,nan,nan,nan,nan,nan
+79,BRITANNIA (7),[],nan,nan,nan,nan,nan,nan
+80,BRITANNIA (8),[],nan,nan,nan,nan,nan,nan
+81,BRITANNIA (9),"['Companyâ€™s own ship, built by Wells, launched 1806, 3 decks, 4in bottom, length 165ft 5!/2in, keel 133ft 71/2in, breadth 42ft 4in, hold 17ft lin, wing transom 25ft 9in, port cell 29ft 6in, waist 1ft lOin, between decks 6ft 7in & 6ft 6in, roundhouse 6ft 574in, ports 14 middle & upper, deck range 97ft, 1273 tons']",1273,nan,nan,own,Wells,1806
+82,BRITISH KING,"['Built by Wells, launched 1763, 3 decks, 3in bottom, keel 110ft, breadth 33ft Sin, 663 tons Principal Managing Owners: 1 Abraham Hume, 2-4 William Black']",663,nan,nan,nan,Wells,1763
+83,BRITISH MERCHANT,"['200 tons, 22 guns, 40 crew']",200,22,40,nan,nan,nan
+84,BROTHERS,"['425 tons', 'Principal Managing Owner: Aaron Chapman']",425,nan,nan,nan,nan,nan
+85,BROXBORNEBURY,"[""Built by Pitcher, launched 1812, 3 decks, 4in bottom, length 132ft 65/8in, keel 105ft 9in, breadth 35ft 6in, hold 18ft 6in, wing transom 22ft, port cell 29ft Sin, waist 1ft 4in, between decks 6ft & 6ft 2in, roundhouse 6ft I'Ain, ports 10 upper, deck range 76ft, 709 tons Principal Managing Owners: 1 Andrew Timbrell, 2-4 Alfred Chapman""]",709,nan,nan,nan,Pitcher,1812
+86,BRUNSWICK (1),"['Built by Perry, launched 1792, 3 decks, 4in bottom, keel 130ft, breadth 42ft, 1244 tons Principal Managing Owner: Thomas Newte', 'Journal 28 Jan 1802-17 Jun 1803']",1244,nan,nan,nan,Perry,1792
+87,BRUNSWICK (2),[],nan,nan,nan,nan,nan,nan
+88,BUCKHURST,"['Licensed ship, 300 tons', 'Downs 16 Aug 1698 -']",300,nan,nan,Licensed,nan,nan
+89,BUCKINGHAMSHIRE,"['Companyâ€™s own ship, built at Bombay, launched 13 Apr 1816, 3 decks, 6in bottom, length 166fl, keel 133ft 1 l1/8in, breadth 43ft lOin, hold 17ft, wing transom 26ft 2in, port cell 30ft lin, waist 1ft 4in, between decks 6ft SV^in & 6ft 4in, roundhouse 6ft 3in, ports 14 middle & 13 upper, deck range 98ft,', '26 guns, 130 crew, 1369 tons', 'Sold to Thacker & Mangles 25 Jun 1834 for Â£10,500']",1369,'26,130,own,nan,13
+90,BULL (1),"['400 tons', 'merchant']",400,nan,nan,nan,nan,nan
+91,BULL (2),"['Country ship, â€˜belonging to the King of Bantamâ€™']",nan,nan,nan,Country,nan,nan
+92,BUSBRIDGE,"['Built by Perry, launched 1781, 3 decks, 4in bottom, length 143ft lOin, keel 116ft 9in, breadth 35ft 3in, hold 14ft 9in, wing transom 23ft Sin, port cell 26ft 2in, between decks 6ft & 6ft 3in, roundhouse 6ft 4in, ports 13 middle & upper, 771 tons Principal Managing Owners: 1-6 Robert Preston, 7 Samuel Dobree']",771,nan,nan,nan,Perry,1781
+93,BUSSORAH MERCHANT,[],nan,nan,nan,nan,nan,nan
+94,BUTE,"['Built by Perry, launched 1762, 3 decks, 3in bottom, keel 107ft, breadth 34ft, 657 tons Principal Managing Owners: 1 Charles Raymond, 2-4 Andrew Moffatt', '* see G/17/3 ff.294-342 for charterparty, instructions, victualling bill, invoices and manifest', '']",657,nan,nan,nan,Perry,1762

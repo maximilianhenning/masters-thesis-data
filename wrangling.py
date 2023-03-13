@@ -119,4 +119,4 @@ for file in partial_file_list:
         df = pd.read_csv(path + "Partial/" + file + ".csv")
         df_list.append(df)
 df_combined = pd.concat(df_list)
-df_combined.to_csv(path + "combined.csv", index = False)
+df_combined.to_csv(path + "Output/combined.csv", index = False)
