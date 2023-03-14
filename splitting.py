@@ -95,6 +95,10 @@ df_voyages = pd.concat([df_voyages, df_voyages_expand], axis = 1)
 df_voyages.to_csv(path + "Output/voyages.csv", index = False)
 print(df_voyages.head())
 
+# Stops table
+# ship_id   voyage_id   stop_id date    location
+# ship_id   voyage_id   stop_id string  place_id    
+
 # Employees table
 # employee_id   owner   captain
 # employee_id   ship_id voyage_id

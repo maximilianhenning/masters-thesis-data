@@ -31,17 +31,13 @@ for file in file_list:
                 lines_cleaned.append("Capt" + line_split[-1])
             # Line break before voyage ID
             elif "1 1" in line[5:]:
-                print(line)
                 line_split = line.split("1 1")
                 line_split[1] = "1 1" + line_split[1]
-                print(line_split[0] + "\n" + line_split[1])
                 lines_cleaned.append(line_split[0])
                 lines_cleaned.append(line_split[1])
             elif "1 From" in line[5:]:
-                print(line)
                 line_split = line.split("1 From")
                 line_split[1] = "1 From" + line_split[1]
-                print(line_split[0] + "\n" + line_split[1])
                 lines_cleaned.append(line_split[0])
                 lines_cleaned.append(line_split[1])
             # Remove XXXX see XXXX lines

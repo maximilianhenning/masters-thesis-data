@@ -44,15 +44,15 @@ for file in clean_file_list:
     lines_classed = line_classify(lines)
 
     df_line_classes = pd.DataFrame(lines_classed, columns = ["line", "class"])
+    # Monitoring
     print(file)
-    print(df_line_classes.value_counts("class"))
+    #print(df_line_classes.value_counts("class"))
     print(df_line_classes.loc[df_line_classes["class"] == "unclassed"])
 
     # Group lines into ship entries
     def ship_creator(lines_classed):
         ships = {}
         for line in lines_classed:
-            #print(line)
             # If line is a ship's name, add to ships dict as key
             if line[1] == "ship":
                 ship = line[0]
@@ -114,9 +114,7 @@ df_list = []
 partial_file_list = glob(path + "Partial/*")
 for file in partial_file_list:
     file = file.split("\\")[-1].split(".")[0]
-    # Except test
-    if file != "test":
-        df = pd.read_csv(path + "Partial/" + file + ".csv")
-        df_list.append(df)
+    df = pd.read_csv(path + "Partial/" + file + ".csv")
+    df_list.append(df)
 df_combined = pd.concat(df_list)
 df_combined.to_csv(path + "Output/combined.csv", index = False)
