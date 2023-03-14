@@ -104,8 +104,6 @@ for file in clean_file_list:
     df_ships = ship_creator(lines_classed)
     # Convert ship name from index to column
     df_ships = df_ships.reset_index().rename(columns = {"index": "name"})
-    # Convert ship ID from index to column
-    df_ships = df_ships.reset_index().rename(columns = {"index": "ship_id"})
     # Save to CSV
     df_ships.to_csv(path + "Partial/" + file + ".csv", index = False)
 
@@ -116,5 +114,9 @@ for file in partial_file_list:
     file = file.split("\\")[-1].split(".")[0]
     df = pd.read_csv(path + "Partial/" + file + ".csv")
     df_list.append(df)
+# Concatenate and drop old indexes
 df_combined = pd.concat(df_list)
+df_combined = df_combined.reset_index().drop(columns = ["index"])
+# Convert ship ID from index to column
+df_combined = df_combined.reset_index().rename(columns = {"index": "ship_id"})
 df_combined.to_csv(path + "Output/combined.csv", index = False)
