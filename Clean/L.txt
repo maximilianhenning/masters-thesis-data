@@ -254,7 +254,7 @@ L/MAR/B/22H Journal 21 Nov 1828-30 Jul 1830
 L/MAR/B/22R(1) Ledger
 L/MAR/B/22R(2) Pay Book
 Capt Richard Clifford
-Downs 11 Jan 1829 - 1 May Saugor -13 Jul Penang - 28 Jul Singapore -14 Aug Urmston’s Bay - 6 Nov Cap Sing Moon - 9 Feb 1830 Whampoa - 24 Feb Second Bar - 24 May St Helena - 5 Jul Downs
+Downs 11 Jan 1829 - 1 May Saugor -13 Jul Penang - 28 Jul Singapore -14 Aug Urmston s Bay - 6 Nov Cap Sing Moon - 9 Feb 1830 Whampoa - 24 Feb Second Bar - 24 May St Helena - 5 Jul Downs
 9 1830/1 Bengal and China
 L/MAR/B/22-I Journal 8 Dec 1830-24 Apr 1832
 L/MAR/B/22S(1) Ledger
@@ -358,7 +358,7 @@ L/MAR/B/475L(2) Pay Book
 Capt Francis Cheyne
 Downs 6 Sep 1749 - 17 Jan 1750 Fort St David - 5 Mar Calcutta -17 Aug Culpee -19 Sep Fort St David - 5 Jan 1751 St Helena - 7 Mar Downs
 LAPWING (2)
-Company’s packet, 190 tons, 30 crew, 10 guns
+Company s packet, 190 tons, 30 crew, 10 guns
 Madras
 L/MAR/B/475D Journal 28 Feb 1763-18 Feb 1764
 L/MAR/B/475M(1) Ledger
@@ -372,7 +372,7 @@ L/MAR/B/475E Journal 28 Feb 1764-30 Nov 1765
 Capt John Griffin
 Portsmouth 3 Jun 1764 - 6 Dec Acheh - 23 Jan 1765 Ingeli - 4 Apr Calcutta - sold in Bengal
 LAPWING (3)
-Company’s packet, 120 tons
+Company s packet, 120 tons
 1 1768/9 Bengal and Madras
 L/MAR/B/475F Journal 17 Aug 1770-27 Apr 1771, John Weller, Second Mate
 L/MAR/B/475N(1) Ledger
@@ -527,7 +527,7 @@ L/MAR/B/482-0(l) Ledger
 L/MAR/B/482-0(2) Pay Book
 Capt John Prince
 Downs 21 Feb 1770 - 15 Jul Benkulen - 24 Sep Whampoa -11 Jan 1771 Second Bar - 4 Apr St Helena - 9 Jul Downs
-• contains ‘Remarks on rocks, shoals and islands said to be seen’
+• contains ‘Remarks on rocks, shoals and islands said to be seen 
 2 1772/3 Madras and Bengal
 L/MAR/B/482F Journal 13 Oct 1772-25 May 1774
 L/MAR/B/482P(1) Ledger
@@ -699,7 +699,7 @@ LITTLE JOSIAH
 1 1691/2 Madagasgar and Benkulen
 Capt William Derow Downs 10 Nov 1691 -
 LIVELY
-Company’s packet, 94 tons, 17 crew, 4 guns 
+Company s packet, 94 tons, 17 crew, 4 guns 
 1 1790/1 Madras and Bengal
 L/MAR/B/534A Journal 29 Jul 1780-8 Jul 1783 Robert Neve, Chief Mate
 L/MAR/B/534B(1) Ledger
@@ -756,19 +756,19 @@ Downs Jul 1634 - Dec Surat - Bandar Abbas - Surat - 25 Apr 1635 Goa - 5 Jun Mala
 6 1638/9 Surat
 L/MAR/A/LXTV Journal 12 Mar 1639-17 Jul 1640, James Birkdell, mate 
 Capt Matthew Wills, Master Richard Gilson
-Downs 25 Mar 1639 - 8 Jul St Augustine’s Bay - 30 Jul Johanna -16 Sep Surat -11 Nov Bandar Abbas -16 Dec Surat 29 Jan 1640 - 21 Apr St Helena - 8 Jul Downs
+Downs 25 Mar 1639 - 8 Jul St Augustine s Bay - 30 Jul Johanna -16 Sep Surat -11 Nov Bandar Abbas -16 Dec Surat 29 Jan 1640 - 21 Apr St Helena - 8 Jul Downs
 7 1640/1 Surat
 Master John Proud
 Downs 3 Apr 1641 - 27 Sep Surat 25 Oct -11 Nov Calicut - Goa - 27 Dec Surat 20 Jan 1642 - Downs
 LONDON (2)
-Company’s own ship, rated at 400 tons, 80/96 crew, 30 guns
+Company s own ship, rated at 400 tons, 80/96 crew, 30 guns
 1 1658/9 St Helena and Surat 
 Capt Robert Bowen
 Downs Feb 1659 - May St Helena, to settle the island - Aug 1660 Downs
 2 1660/1 Bantam and Pulau Run
 L/MAR/A/LXIX Journal 17 Apr 1661-23 Apr 1663, Edward Newall, Third Mate * 
 L/MAR/A/LXX Journal 29 Jan-9 Jul 1662, anon Capt Robert Bowen
-Downs 17 Apr 1661-6 May Falmouth - 20 Oct Bantam 4 Jan 1662 - 11 Feb Makassar -11 Mar Pulau Run - 3 May Makassar - 25 Jun Bantam 1 Oct - 22 Jan 1663 St Helena - 29 Apr Downs * includes ‘Directions from Bantam to Makassar’ by John Edwards
+Downs 17 Apr 1661-6 May Falmouth - 20 Oct Bantam 4 Jan 1662 - 11 Feb Makassar -11 Mar Pulau Run - 3 May Makassar - 25 Jun Bantam 1 Oct - 22 Jan 1663 St Helena - 29 Apr Downs * includes ‘Directions from Bantam to Makassar  by John Edwards
 See also BL' Lansdowne Ms 213 ff.435-41 Journal of 
 Capt John Dutton, Governor of St Helena, on the African and London 6 May 1661-24 Apr 1663
 3 1663/4 Surat
@@ -811,7 +811,7 @@ LONDON (6)
 1 1710/1 Persia and Bombay
 L/MAR/B/313M(A) Ledger
 L/MAR/B/313N(1) Ledger
-L/MAR/B/313N(2) Dead Men’s Effects
+L/MAR/B/313N(2) Dead Men s Effects
 L/MAR/B/313N(3) Pay Book 
 Capt William Upton 27 Jan 1711-11 Jun 1714
 LONDON (7)
@@ -888,7 +888,7 @@ L/MAR/B/1A-B Journal 12 Dec 1757-9 Nov 1759
 L/MAR/B/1BB(1) Ledger
 L/MAR/B/1BB(2) Pay Book
 Capt Richard Allwight
-Portsmouth 20 Apr 1758 - 1 Aug St Augustine’s Bay -12 Oct Madras -17 Nov Culpee - 8 Jan 1759 Ingeli -18 Feb Benkulen - 21 Jun St Helena -17 Sep Kinsale -19 Oct Downs
+Portsmouth 20 Apr 1758 - 1 Aug St Augustine s Bay -12 Oct Madras -17 Nov Culpee - 8 Jan 1759 Ingeli -18 Feb Benkulen - 21 Jun St Helena -17 Sep Kinsale -19 Oct Downs
 4 1759/60 Bombay<
 L/MAR/B/IC Journal 16 Mar 1760-5 Feb 1762
 L/MAR/B/1CC(1) Ledger
@@ -896,9 +896,9 @@ L/MAR/B/1 CC(2) Pay Book
 L/MAR/B/1CC(3) Imprest Book
 L/MAR/B/1CC(4) Absence Book
 Capt John Webb
-Plymouth 3 Jun 1760 - 30 Jul St Augustine’s Bay -12 Dec Colombo - 21 Dec Anjengo - 30 Dec Tellicheny -13 Jan 1761 Bombay -16 Apr Tellicheny - 2 Aug St Helena - 9 Dec Blackwall
+Plymouth 3 Jun 1760 - 30 Jul St Augustine s Bay -12 Dec Colombo - 21 Dec Anjengo - 30 Dec Tellicheny -13 Jan 1761 Bombay -16 Apr Tellicheny - 2 Aug St Helena - 9 Dec Blackwall
 LONDON (10)
-Company’s packet, 30 crew, 10 guns
+Company s packet, 30 crew, 10 guns
 1 From Madras 1761
 L/MAR/B/600A Journal 15 May 1760-23 Jul 1761 
 L/MAR/B/600B Deck Log 7 Feb-21 Aug 1761
@@ -922,7 +922,7 @@ L/MAR/B/1E Journal 4 Nov 1766-30 Aug 1769
 L/MAR/B/1EE(1) Ledger
 L/MAR/B/1EE(2) Pay Book
 Capt Thomas Motley
-Downs 4 Mar 1767 - 20 Jun St Augustine’s Bay -10 Aug Madras -11 Nov Malacca -15 Jul 1768 Whampoa -18 Dec Second Bar - 22 Apr 1769 St Helena -15 Jul Downs
+Downs 4 Mar 1767 - 20 Jun St Augustine s Bay -10 Aug Madras -11 Nov Malacca -15 Jul 1768 Whampoa -18 Dec Second Bar - 22 Apr 1769 St Helena -15 Jul Downs
 LONDON (12)
 Built by Perry, launched 1771, 3 decks, 4in bottom, length 137ft lin, keel 110ft lin, breadth 35ft b^in, hold 14ft 3in, wing transom 22ft 91/2in, port cell 23ft 73/4in, between decks 5ft 9m, 738 tons Principal Managing Owners: 1 John Wilkinson, 2-3 John Webb
 1 1770/1 Bombay and China
@@ -982,7 +982,7 @@ L/MAR/B/1N Deck Log 3 Jan 1798-28 Sep 1799
 Capt George Lukin
 Portsmouth 25 Mar 1798 - 12 Jul Bombay -15 Aug Madras - 6 Sep Diamond Harbour -14 Dec Saugor - 4 Feb 1799 Colombo -18 May St Helena -28 Jul Downs * log includes crew list of Regent
 LONDON (14)
-Company’s own ship, built by Pitcher, launched 1817, 3 decks, 4in bottom, length 166ft 2m, keel 133ft 73Ain, breadth 43ft 3 Vain, hold 17ft VAn, wing transom 26ft 2in, port cell 29ft 4!4m, waist 1ft 4in, between decks 6ft e'/ain & 6ft 41/ain, roundhouse 6ft Sin, ports 14 middle & 13 upper, deck range 97ft 4in, 1332 tons
+Company s own ship, built by Pitcher, launched 1817, 3 decks, 4in bottom, length 166ft 2m, keel 133ft 73Ain, breadth 43ft 3 Vain, hold 17ft VAn, wing transom 26ft 2in, port cell 29ft 4!4m, waist 1ft 4in, between decks 6ft e'/ain & 6ft 41/ain, roundhouse 6ft Sin, ports 14 middle & 13 upper, deck range 97ft 4in, 1332 tons
 Sold to Thomas Ward 7 May 1834 for £5900
 1 1817/8 Madras and China
 L/MAR/B/1-O Journal 6 Dec 1817-30 May 1819
@@ -1088,7 +1088,7 @@ L/MAR/B/419A Journal 15 Dec 1765-25 Jul 1767
 L/MAR/B/419K(1) Ledger
 L/MAR/B/419K(2) Pay Book
 Capt Nathaniel Smith
-Downs 21 Feb 1766 - 2 Jun Johanna - 7 Jul Madras - 2 Aug Kedgeree - 3 Sep Ingeli - 6 Oct Madras - 21 Nov St George’s Channel - 23 Dec Madras - 22 Apr 1767 St Helena -16 Jul Downs
+Downs 21 Feb 1766 - 2 Jun Johanna - 7 Jul Madras - 2 Aug Kedgeree - 3 Sep Ingeli - 6 Oct Madras - 21 Nov St George s Channel - 23 Dec Madras - 22 Apr 1767 St Helena -16 Jul Downs
 2 1768/9 Bombay and China
 L/MAR/B/419B Journal 7 Jan 1769-23 Aug 1771, John Reddall, Chief Mate 
 L/MAR/B/419L(1) Ledger
@@ -1126,7 +1126,7 @@ L/MAR/B/419G Journal 3 Jan 1791-18 Aug 1792
 L/MAR/B/419Q(1) Ledger
 L/MAR/B/419Q(2) Pay Book
 Capt Nathaniel Dance jun
-Downs 4 Apr 1791-1 May Sao Tiago - 29 Jun Simons Bay -15 Aug Madras - 25 Aug Diamond Harbour - 8 Oct Madras -17 Nov Diamond Harbour - 30 Jan 1792 Cox’s Island - 20 Mar Madras - 1 Jun St Helena - 25 Jul Downs
+Downs 4 Apr 1791-1 May Sao Tiago - 29 Jun Simons Bay -15 Aug Madras - 25 Aug Diamond Harbour - 8 Oct Madras -17 Nov Diamond Harbour - 30 Jan 1792 Cox s Island - 20 Mar Madras - 1 Jun St Helena - 25 Jul Downs
 4 1793/4 Madras
 L/MAR/B/419H Journal 21 Oct 1793-14 Sep 1795
 L/MAR/B/419R(1) Ledger
@@ -1877,7 +1877,7 @@ L/MAR/B/50K Deck Log 10 Mar 1829-18 Oct 1830
 L/MAR/B/50X(1) Ledger
 L/MAR/B/50X(2) Pay Book
 Capt George Kinnaird Bathie
-Downs 23 Apr 1829 - 2 Aug Singapore - 25 Aug Urmston’s Bay -10 Dec Hong Kong - 8 Feb 1830 Whampoa - 28 Mar Second Bar - 28 Jun St Helena - 30 Aug Downs
+Downs 23 Apr 1829 - 2 Aug Singapore - 25 Aug Urmston s Bay -10 Dec Hong Kong - 8 Feb 1830 Whampoa - 28 Mar Second Bar - 28 Jun St Helena - 30 Aug Downs
 11 1830/1 China
 L/MAR/B/50L Journal 19 Mar 1831-25 Jun 1832
 L/MAR/B/50 Y (1) Ledger
@@ -1912,7 +1912,7 @@ Downs 6 Jan 1705 - 19 Jul Benkulen - 9 Sep Batavia - China -10 Mar 1708 Downs
 L/MAR/B/121B Journal 17 Nov 1708-9 Aug 1711
 L/MAR/B/121D Ledger
 Capt Robert Hudson
-Downs 9 Mar 1709 - 5 May Sao Tiago - 8 Oct Karwar - 4 Jan 1710 Balasore - 22 Jan Rogue’s River - 11 Jan 1711 Cape - 23 Jul Texel - 9 Aug Deptford
+Downs 9 Mar 1709 - 5 May Sao Tiago - 8 Oct Karwar - 4 Jan 1710 Balasore - 22 Jan Rogue s River - 11 Jan 1711 Cape - 23 Jul Texel - 9 Aug Deptford
 4 1712/3 China
 L/MAR/B/121C Journal 23 Nov 1712-8 Aug 1714
 L/MAR/B/121E(1) Ledger
@@ -2004,7 +2004,7 @@ LUCY MARIA
 L/MAR/B/391A Journal 15 Jan-6 Nov 1801
 L/MAR/B/391B Journal 15 Jan 1801-11 Jan 1802, James Horn, Chief Mate 
 Capt Walter James
-Calcutta 7 Feb 1801 - 21 Mar Saugor -13 Jul Simon’s Bay -19 Aug St Helena -31 Oct Downs
+Calcutta 7 Feb 1801 - 21 Mar Saugor -13 Jul Simon s Bay -19 Aug St Helena -31 Oct Downs
 LYELL (1)
 Rated at 470 tons, 94 crew, 30 guns
 1 1721/2 China
@@ -2071,7 +2071,7 @@ L/MAR/B/627D Journal 3 Nov 1738-20 Sep 1740
 L/MAR/B/627L(1) Ledger
 L/MAR/B/627L(2) Pay Book
 Capt Charles Gilbert
-Portsmouth 11 Mar 1739 - 28 Mar Madeira -17 Aug Madras -18 Sep ‘Miapore’ - 28 Nov Ingeli - 21 Mar 1740 St Helena -17 Sep Downs
+Portsmouth 11 Mar 1739 - 28 Mar Madeira -17 Aug Madras -18 Sep ‘Miapore  - 28 Nov Ingeli - 21 Mar 1740 St Helena -17 Sep Downs
 2 1741/2 Madras
 L/MAR/B/627E Journal 3 Nov 1741-10 Aug 1743
 L/MAR/B/627M(1) Ledger

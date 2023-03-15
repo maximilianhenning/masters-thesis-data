@@ -58,10 +58,10 @@ L/MAR/B/713B Journal 20 Nov 1704-10 Mar 1705, Robert Pye, Chief Mate
 L/MAR/B/687A Journal 24 Feb 1703-14 May 1704, Hawes Newport
 L/MAR/B/687E Ledger
 Capt John Goodfellow
-Downs 11 Jun 1703 - 11 Oct ‘Sandy Bay’ Guinea - 24 Nov Cape -18 Mar 1704 Anjengo - 31 Mar Calicut -10 Apr Tellicherry -16 Apr Karwar - 29 Apr Mangalore -14 May Bombay -11 Dec Surat - 4 Mar 1705 Bombay - voyage ended 31 May 1707
+Downs 11 Jun 1703 - 11 Oct ‘Sandy Bay  Guinea - 24 Nov Cape -18 Mar 1704 Anjengo - 31 Mar Calicut -10 Apr Tellicherry -16 Apr Karwar - 29 Apr Mangalore -14 May Bombay -11 Dec Surat - 4 Mar 1705 Bombay - voyage ended 31 May 1707
 2 1707/8 Surat
 L/MAR/B/687C Journal 24 Jan 1708-6 Feb 1711 
-L/MAR/B/687B Boatswain’s Book 19 Dec 1707-28 Apr 1710
+L/MAR/B/687B Boatswain s Book 19 Dec 1707-28 Apr 1710
 Capt John Lesley
 Downs 14 Apr 1708 - 3 Sep Cape - 9 Jan 1709 Anjengo - 20 Jan Calicut - 6 Feb Mangalore -11 Feb Karwar - 9 Mar Bombay -10 Apr Surat - 7 May Bombay -19 Jun Madras -10 Jul Balasore - 24 Jul Calcutta -16 Oct Rogues River - 6 Jan 1710 Bombay -17 Jan Surat - 2 Apr Bombay - 30 May Madras - 27 Sep Cape - 25 Oct St Helena - voyage ended 21 May
 3 1711/2 St Helena and Benkulen
@@ -211,7 +211,7 @@ L/MAR/B/623H(1) Ledger
 L/MAR/B/623H(2) Pay Book Capt Edmund Cooke
 Downs 17 Jan 1752 - 26 May Johanna - 5 Jul Fort St David -1 Aug Vizagapatam - 22 Aug Culpee - 3 Oct Calcutta -15 Jan 1753 Hugh - 8 Feb Madras -1 Jun St Helena - 2 Sep Deptford
 ADMIRAL WATSON
-Company’s own ship, built by Woolcombe, launched 1758, 3 decks, 3in bottom, keel 90ft, breadth 40ft, 430 tons
+Company s own ship, built by Woolcombe, launched 1758, 3 decks, 3in bottom, keel 90ft, breadth 40ft, 430 tons
 1 1757/8 Persia and Bombay
 L/MAR/B/624A Journal 11 Jan 1758-6 Nov 1759
 L/MAR/B/624D(1) Ledger
@@ -223,7 +223,7 @@ L/MAR/B/624B Journal 3 Dec 1762-21 May 1763, anon
 L/MAR/B/624E(1) Ledger
 L/MAR/B/624E(2) Pay Book
 Capt Francis Fowler
-Downs 18 Mar 1760 - Bengal - ‘towards England’ 3 Dec 1762 -16 Feb 1763 St Helena - 7 May Limehouse
+Downs 18 Mar 1760 - Bengal - ‘towards England  3 Dec 1762 -16 Feb 1763 St Helena - 7 May Limehouse
 3 1763/4 Benkulen, Madras and Bengal
 L/MAR/B/624C Journal 5 Nov 1763-30 Jan 1767, William Money, Second Mate
 L/MAR/B/624F(1) Ledger
@@ -291,7 +291,7 @@ L/MAR/B/321B Journal 12 Mar 1791-8 Feb 1793
 L/MAR/B/321L(1) Ledger
 L/MAR/B/321 L(2) Pay Book
 Capt Charles Stewart
-Downs 10 May 1791 - 20 Sep Madras - 5 Nov Diamond Harbour -19 Jan 1792 Cox’s Island - 4 Mar Tellicherry -12 Apr Cannanore -10 May Bombay - 6 Sep Malacca -18 Oct Whampoa -11 Dec Second Bar -16 Jun 1793 Downs
+Downs 10 May 1791 - 20 Sep Madras - 5 Nov Diamond Harbour -19 Jan 1792 Cox s Island - 4 Mar Tellicherry -12 Apr Cannanore -10 May Bombay - 6 Sep Malacca -18 Oct Whampoa -11 Dec Second Bar -16 Jun 1793 Downs
 L/MAR/B/321D Journal 7 Nov 1793-8 May 1794
 L/MAR/B/321C Journal 7 Nov 1793-30 Nov 1795, Chief Mate Samuel Barnard
 L/MAR/B/321M(1) Ledger
@@ -362,7 +362,7 @@ L/MAR/B/620A Journal 13 Jan 1759-19 Feb 1761, Chief Mate Patrick Maitland
 L/MAR/B/620B(1) Imprest Book
 L/MAR/B/620B(2) Receipt Book
 Capt George Lindsay
-Downs 30 Mar 1759 - 1 May Madeira -10 Aug St Augustine’s Bay - 28 Oct Madras - 25 Dec Balasore -1 Jan 1760 Culpee - Ingeli 16 Mar - 24 Apr Moco Moco - 30 May Madras 18 Aug - 28 Nov St Helena - captured by the French 6 Mar 1761 off Scilly
+Downs 30 Mar 1759 - 1 May Madeira -10 Aug St Augustine s Bay - 28 Oct Madras - 25 Dec Balasore -1 Jan 1760 Culpee - Ingeli 16 Mar - 24 Apr Moco Moco - 30 May Madras 18 Aug - 28 Nov St Helena - captured by the French 6 Mar 1761 off Scilly
 ALBEMARLE
 330 tons, 30 guns, 66 crew
 1 1704/5 Bombay
@@ -448,7 +448,7 @@ ALEPPO MERCHANT
 Chartered ship, 350 tons Managing Owners: John Millet
 1 1641/2 Surat
 Capt John Millet
-Downs 6 Apr 1642 - 2 Aug St Augustine’s Bay -16 Aug Johanna - 21 Sep Surat 13 Oct - 23 Oct Goa - 8 Nov Cochin - 22 Dec Surat 19 Jan 1643 - 31 Mar Cape - 26 Apr St Helena -19 Jul Downs
+Downs 6 Apr 1642 - 2 Aug St Augustine s Bay -16 Aug Johanna - 21 Sep Surat 13 Oct - 23 Oct Goa - 8 Nov Cochin - 22 Dec Surat 19 Jan 1643 - 31 Mar Cape - 26 Apr St Helena -19 Jul Downs
 2 1647/8 Surat
 Capt John Millet
 Downs Apr 1648 - 27 Sep Surat 1 Feb 1649 - Downs
@@ -483,7 +483,7 @@ ALEPPO MERCHANT
 Chartered ship, 350 tons Managing Owners: John Millet
 1 1641/2 Surat
 Capt John Millet
-Downs 6 Apr 1642 - 2 Aug St Augustine’s Bay -16 Aug Johanna - 21 Sep Surat 13 Oct - 23 Oct Goa - 8 Nov Cochin - 22 Dec Surat 19 Jan 1643 - 31 Mar Cape - 26 Apr St Helena -19 Jul Downs
+Downs 6 Apr 1642 - 2 Aug St Augustine s Bay -16 Aug Johanna - 21 Sep Surat 13 Oct - 23 Oct Goa - 8 Nov Cochin - 22 Dec Surat 19 Jan 1643 - 31 Mar Cape - 26 Apr St Helena -19 Jul Downs
 2 1647/8 Surat
 Capt John Millet
 Downs Apr 1648 - 27 Sep Surat 1 Feb 1649 - Downs
@@ -557,7 +557,7 @@ Built by Barnard, launched 1772, 3 decks, 4in bottom, length 136ft Tin, keel 110
 L/MAR/B/140A Journal 11 Nov 1772-24 Mar 1775, Chief Mate William Gowland 
 L/MAR/B/140-O(l) Ledger 
 L/MAR/B/140-O(2) Pay Book Capt John Lauder
-Downs 29 Jan 1773 - 1 May St Helena -18 Aug Batavia - 30 Sep Benkulen 5 Apr 1774 -14 May ‘Allas’ -16 Jun ‘Saloomah’ - 2 Jul Benkulen - 8 Oct Cape -13 Nov St Helena -12 Feb 1775 Gravesend
+Downs 29 Jan 1773 - 1 May St Helena -18 Aug Batavia - 30 Sep Benkulen 5 Apr 1774 -14 May ‘Allas  -16 Jun ‘Saloomah  - 2 Jul Benkulen - 8 Oct Cape -13 Nov St Helena -12 Feb 1775 Gravesend
 2 1776/7 St Helena, Benkulen and China
 L/MAR/B/140B Journal 27 Sep 1776-1 Oct 1778
 L/MAR/B/140P(1) Ledger
@@ -742,7 +742,7 @@ Rated at 490 tons, 30 guns, 98 crew
 L/MAR/B/785A(1) Imprest Book
 L/MAR/B/785A(2) Receipt Book
 Capt William Studholm
-Downs 2 Feb 1738 - wrecked 23 Jul 1738 north of Goa, in ‘the Mallwan’s country’, survivors imprisoned
+Downs 2 Feb 1738 - wrecked 23 Jul 1738 north of Goa, in ‘the Mallwan s country , survivors imprisoned
 ANN (1)
 Extra ship, built by Randall, measured 1801, 2 decks, 3in bottom, length 128ft 7in, keel 105ft lOV^in, breadth 30ft 21/2in, hold 15ft 41/2in, wing transom 18ft 9in, port cell 25ft 4in, waist 1ft VAin, roundhouse 6ft 3in, ports 10 upper, 508 tons
 Principal Managing Owners: 1 Matthew White, 2-6 William Masson, 7 Shakespeare Read, 8 James Masson
@@ -932,9 +932,9 @@ Capt Samuel Chamblet
 ANNE (4)
 Licensed ship, 120 tons, 18 guns, 25 crew
 1 1687/8 Madras
-E/3/48 no.5690 Freke’s account of the wreck and subsequent adventures
+E/3/48 no.5690 Freke s account of the wreck and subsequent adventures
 Capt William Freke
-Downs 21 Feb 1688 - Delagoa river 24 Apr 1689 - 9 May wrecked at Madagascar - crew reached Johanna in sloop and longboat 31 May - 9 Jun met pirates and 8 men deserted to them - left Johanna in sloop 2 Aug -14 Sep reached Indian coast nr Vingula -15 Sep captured and plundered by Shivaji’s forces
+Downs 21 Feb 1688 - Delagoa river 24 Apr 1689 - 9 May wrecked at Madagascar - crew reached Johanna in sloop and longboat 31 May - 9 Jun met pirates and 8 men deserted to them - left Johanna in sloop 2 Aug -14 Sep reached Indian coast nr Vingula -15 Sep captured and plundered by Shivaji s forces
 ANNE ROYAL
 700/900 tons
 1 1616/7 Surat and Red Sea
@@ -942,7 +942,7 @@ Capt Andrew Shilling
 Gravesend 4 Feb 1617 - 22 Jun Cape -12 Aug Moheli - 20 Sep Surat - Mokha 19 Aug 1618 - Surat 17 Feb 1619, carried Sir Thomas Roe home - Sep Downs
 2 1619/20
 Capt Richard Swanley
-Voyage lost, ship ‘cast away’ between London and Gravesend 20 Mar 1620 - buoyed up and towed to Northfleet
+Voyage lost, ship ‘cast away  between London and Gravesend 20 Mar 1620 - buoyed up and towed to Northfleet
 3 1620/1 East Indies
 L/MAR/A/XXXV f.15 Fragment of journal 22 Feb-11 Apr 1624, Edmund Sayers
 Masters: Walter Bennett/Bartholomew Goodall/Peter Elliot/Eustace Man
@@ -954,7 +954,7 @@ L/MAR/B/549A Journal 2 Nov 1746-1 Sep 1747, anon
 L/MAR/B/549-0(l) Imprest Book
 L/MAR/B/549-0(2) Receipt Book
 Capt Charles Foulls
-Downs 23 Jan 1747 - 24 May St Augustine’s Bay - captured by French 2 Sep off Bombay
+Downs 23 Jan 1747 - 24 May St Augustine s Bay - captured by French 2 Sep off Bombay
 ANSON (2)
 370/400 tons, 18/20 guns, 82/113 crew
 1 1750/1 China
@@ -968,7 +968,7 @@ L/MAR/B/549E-F Journal 10 Dec 1753-8 Oct 1756, Chief Mate Thomas Debuke
 L/MAR/B/549S(1) Ledger
 L/MAR/B/549S(2) Pay Book
 Capt Robert Veitch
-Downs 6 Mar 1754 - 30 Mar Sao Tiago - 24 Jun St Augustine’s Bay - 29 Aug Madras - 22 Sep Vizagapatam - 8 Oct Balasore - 9 Nov Calcutta -12 Feb 1755 Kedgeree - 29 Mar Cochin - 30 Apr Mangalore - 29 May Bombay - 3 Oct Culpee - 20 Nov Kedgeree - 31 Dec Benkulen -15 May 1756 St Helena -13 Sep Deptford
+Downs 6 Mar 1754 - 30 Mar Sao Tiago - 24 Jun St Augustine s Bay - 29 Aug Madras - 22 Sep Vizagapatam - 8 Oct Balasore - 9 Nov Calcutta -12 Feb 1755 Kedgeree - 29 Mar Cochin - 30 Apr Mangalore - 29 May Bombay - 3 Oct Culpee - 20 Nov Kedgeree - 31 Dec Benkulen -15 May 1756 St Helena -13 Sep Deptford
 ANSON (3)
 Built by Perry, launched 1763, 3 decks, 3in bottom, keel 107fl, breadth 34fl, 26/30 guns, 102/106 crew, 657 tons
 Principal Managing Owner: Charles Foulis
@@ -1004,7 +1004,7 @@ Capt Robert Monro
 Spithead 19 Nov 1773 - Bengal river 19 Dec 1774 - 31 Mar 1775 Kedgeree -15 Apr Ingeli -19 May Acheh - 21 Aug Cape - 9 Oct St Helena - 24 Dec Kinsale -17 Apr 1776 Blackwall
 ANTELOPE (1)
 1 1645/6 Surat and Persia
-Downs Apr 1646 - 6 Sep St Augustine’s Bay - 24 Jan 1647 Surat - 4 Apr Bandar Abbas - 7 Jun Madras - Masulipatam 19 Sep - 7 Oct Madras - 7 Dec Surat 7 Jan 1648 - Downs
+Downs Apr 1646 - 6 Sep St Augustine s Bay - 24 Jan 1647 Surat - 4 Apr Bandar Abbas - 7 Jun Madras - Masulipatam 19 Sep - 7 Oct Madras - 7 Dec Surat 7 Jan 1648 - Downs
 ANTELOPE (2)
 VA decks, 30 guns, 91 crew, 400 tons
 1 1668/9 Madras and Bengal 
@@ -1022,9 +1022,9 @@ Capt Henry Hammond Downs 8 Dec 1695 -
 2 1698/9 Bengal
 L/MAK/A/CXX Journal 1 Jan 1699-12 May 1701
 Capt Hemy Hammond
-Downs 26 Jan 1699 - Plymouth 24 Feb - 8 Mar Madeira - 24 Jul Balasore -13 Oct Rogues River - 28 Nov Hugh -1 May 1700 Bedthar -12 Jul Hugli -1 Nov Cox’s Island - 7 Feb 1701 St Helena - May Downs
+Downs 26 Jan 1699 - Plymouth 24 Feb - 8 Mar Madeira - 24 Jul Balasore -13 Oct Rogues River - 28 Nov Hugh -1 May 1700 Bedthar -12 Jul Hugli -1 Nov Cox s Island - 7 Feb 1701 St Helena - May Downs
 ANTELOPE (4)
-Company’s packet, built by Barnard, measured 1781, length 96fl Sin, keel 77fl 6in, breadth 25ft 71/2in, hold 12ft, wing transom 15ft 3in, port cell 16ft llin, ports 9 middle & upper, 8 guns, 52 crew, 270 tons
+Company s packet, built by Barnard, measured 1781, length 96fl Sin, keel 77fl 6in, breadth 25ft 71/2in, hold 12ft, wing transom 15ft 3in, port cell 16ft llin, ports 9 middle & upper, 8 guns, 52 crew, 270 tons
 1 1781/2 China
 To carry despatches by the Pacific route 
 L/MAR/B/570A Journal 31 Dec 1781-4 Jun 1783
@@ -1070,7 +1070,7 @@ L/MAR/A/CLXX Ledger
 Capt Abraham Jackson
 19 Nov 1701 - 23 Oct 1703
 2 1704/5 Mokha, Bombay and Calicut
-L/MAR/B/752A Journal 26 Aug 1704-30 Apr 1707, Mr Young, Surgeon’s Mate
+L/MAR/B/752A Journal 26 Aug 1704-30 Apr 1707, Mr Young, Surgeon s Mate
 Capt Abraham Jackson
 Downs 12 Dec 1704 - 28 Jun 1705 Mokha -19 Oct Bombay -19 Nov Gogha - 31 Dec Bombay - 23 Jan 1706 Calicut - 24 Mar Bombay - 30 Apr Surat - 5 May Bombay - 20 May Karwar - 20 Oct Bombay - 5 Jan 1707 Karwar - 27 Jan Tellicherry - 3 Feb Calicut - 24 Apr Mauritius -11 Sep 1708 Downs
 ARCHDUKE CHARLES
@@ -1154,7 +1154,7 @@ Capt Walter Campbell
 Torbay 4 Jan 1812 - 5 Apr Johanna - 7 May Bombay -11 Sep Whampoa - 4 Jan 1813 Macao - 27 Mar St Helena - 7 Jun Long Reach
 Wrecked 30 May 1815 nr Cape Lagullas, South Africa, while chartered as a British Government
 transport - see Asiatic Journal 2 (1816) pp.32-34
-See also PRO: C.108/115 for owner’s accounts 1794-1804
+See also PRO: C.108/115 for owner s accounts 1794-1804
 ARRAN
 Built at Calcutta, 350 tons
 Principal Managing Owners: Fairlie, Gilmore & Co
@@ -1211,7 +1211,7 @@ Ledger
 Pay Book
 Imprest Book
 Receipt Book
-Portsmouth 13 Mar 1781 -10 Apr Sao Tiago - 21 Jul Cape - 3 Sep Johanna - 5 Dec Qishm - 4 Mar 1782 Bombay - 5 Oct Whampoa - ‘towards England’ 6 Jan 1783 - 17 Jun St Helena - 28 Oct Downs
+Portsmouth 13 Mar 1781 -10 Apr Sao Tiago - 21 Jul Cape - 3 Sep Johanna - 5 Dec Qishm - 4 Mar 1782 Bombay - 5 Oct Whampoa - ‘towards England  6 Jan 1783 - 17 Jun St Helena - 28 Oct Downs
 2 1784/5 Benkulen and China
 L/MAR/B/24F Journal 27 Nov 1784-18 Oct 1786
 L/MAR/B/24JJ(1) Ledger
@@ -1254,7 +1254,7 @@ L/MAR/B/24M Journal 27 Dec 1800-2 Aug 1803
 L/MAR/B/24PP(1) Ledger 
 L/MAR/B/24PP(2) Pay Book
 Capt Robert Wardlaw
-Portsmouth 31 Mar 1801 - 24 Jul Madras - 20 Aug Diamond Harbour - 29 Oct Saugor - 22 Nov Kedgeree - 3 Dec Saugor - 29 Dec Malacca - 4 Feb 1802 Amboina -18 Mar Lintin -10 Apr ‘Samkoke’ Island -15 May Lintin - 22 Oct Diamond Harbour -15 Dec Saugor - 25 Feb 1803 Madras -15 Mar St Helena -15 Aug Deptford
+Portsmouth 31 Mar 1801 - 24 Jul Madras - 20 Aug Diamond Harbour - 29 Oct Saugor - 22 Nov Kedgeree - 3 Dec Saugor - 29 Dec Malacca - 4 Feb 1802 Amboina -18 Mar Lintin -10 Apr ‘Samkoke  Island -15 May Lintin - 22 Oct Diamond Harbour -15 Dec Saugor - 25 Feb 1803 Madras -15 Mar St Helena -15 Aug Deptford
 3 1803/4 Madras and Bengal
 L/MAR/B/24-O Journal 27 Jan 1804-18 Oct 1805 
 L/MAR/B/24QQ(1) Ledger
@@ -1271,7 +1271,7 @@ Portsmouth 30 Mar 1806 - 27 Aug Madras - 28 Oct Diamond Harbour - 20 Dec Saugor 
 L/MAR/B/24SS Imprest Book
 L/MAR/B/24SS(A) Receipt Book
 Capt Henry Pendares Tremenheere
-Portsmouth 17 Sep 1808 - lost 1 Jun 1809 ‘in the Bengal river’
+Portsmouth 17 Sep 1808 - lost 1 Jun 1809 ‘in the Bengal river 
 ASIA (5)
 1 From Bombay 1799
 L/MAR/B/24K Journal 1 Dec 1799-3 Jun 1800
@@ -1585,7 +1585,7 @@ Downs 23 Mar 1706 -11 Aug off Point de Galle -17 Nov Colombo - voyage ended 8 Ma
 L/MAR/B/702B Journal 9 Nov 1710-21 Oct 1712, Chief Mate Nicholas Luhome
 L/MAR/B/702E Ledger
 Capt Edmund Stacey
-Downs 20 Dec 1710 - 22 Dec Stokes Bay - 25 Arp 1711 Cape -10 Jul Madras -11 Aug Fort St David -15 Aug Madras - 25 Sep Rogues River - 5 Feb 1712 Cox’s Island - 3 Jun Cape - 3 Jul St Helena - 2 Oct Woolwich
+Downs 20 Dec 1710 - 22 Dec Stokes Bay - 25 Arp 1711 Cape -10 Jul Madras -11 Aug Fort St David -15 Aug Madras - 25 Sep Rogues River - 5 Feb 1712 Cox s Island - 3 Jun Cape - 3 Jul St Helena - 2 Oct Woolwich
 4 1713/4 Madras and Bengal
 L/MAR/B/702F(1) Ledger
 L/MAR/B/702F(2) Pay Book
@@ -1597,7 +1597,7 @@ Free trader of London in 1820, later lost between Canada and England
 1 From Bengal 1801
 L/MAR/B/228A Journal 5 Apr 1801-27 Jan 1802 
 Capt Mungo Gilmore
-Kedgeree 5 Apr 1801 - 22 Jul St Augustine’s Bay -19 Sep St Helena - 24 Dec Deptford
+Kedgeree 5 Apr 1801 - 22 Jul St Augustine s Bay -19 Sep St Helena - 24 Dec Deptford
 2 from China 1817
 L/MAR/B/228B Journal 21 Feb-22 Sep 1817 
 Capt Thomas Heaviside

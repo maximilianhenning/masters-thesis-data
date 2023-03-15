@@ -15,6 +15,7 @@ for file in file_list:
             line = line.strip()
             # Clean characters: dot to line etc.
             line = line.replace("\t", " ")
+            line = line.replace("â€™", " ")
             # Line break before L/MAR
             if "L/MAR" in line[5:]:
                 line_split = line.split("L/MAR")

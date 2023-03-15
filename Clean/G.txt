@@ -6,7 +6,7 @@ Diamond Harbour 16 Jan 1796 - 13 Feb Saugor - 27 Jun St Helena - 26 Nov Crookhav
 2 From Bengal 1799
 L/MAR/B/370B Journal 9 Feb-17 Jul 1799, James Waters, Chief Mate 
 Capt Turnbull ?
-Bengal 9 Feb 1799 - 10 May St Helena -17 Jul ‘towards England’
+Bengal 9 Feb 1799 - 10 May St Helena -17 Jul ‘towards England 
 GANGES (1)
 Built by Wells, launched 1778, 3 decks, 4in bottom, length 139ft 7in, keel 112ft lin, breadth 36ft S^in, hold 15ft, wing transom 23ft, port cell 25ft lin, between decks 6ft 41/4in, 784 tons Principal Managing Owners: 1 John Durand, 2 Robert Preston, 3-6 William Moffat
 1 1778/9 Madras and Bengal
@@ -16,7 +16,7 @@ L/MAR/B/86Q(2) Pay Book
 L/MAR/B/86Q(3) Absence Book
 L/MAM/B/86Q(4) Imprest Book
 Capt George Richardson
-Portsmouth 7 May 1779 - 5 Apr Madeira -10 May Goree -18 Sep Madras -11 Nov Kedgeree - 10 Jan 1780 Barrabulla - 24 Feb Madras -14 Jun St Augustine’s Bay - 25 Aug Cape - 29 Oct St Helena - 9 Jan 1781 Crookhaven - 8 Feb Downs
+Portsmouth 7 May 1779 - 5 Apr Madeira -10 May Goree -18 Sep Madras -11 Nov Kedgeree - 10 Jan 1780 Barrabulla - 24 Feb Madras -14 Jun St Augustine s Bay - 25 Aug Cape - 29 Oct St Helena - 9 Jan 1781 Crookhaven - 8 Feb Downs
 2 1781/2 Madras, Bengal, Bombay and China
 L/MAR/B/86B Journal 27 Jul 1781-9 May 1785
 L/MAR/B/86R(1) Ledger
@@ -28,7 +28,7 @@ L/MAR/B/86C Journal 1 Nov 1785-1 Sep 1787 Joseph Gamault, Chief Mate
 L/MAR/B/86S(1) Ledger
 L/MAR/B/86S(2) Pay Book
 Capt James Williamson
-Portsmouth 1 Feb 1786 - 15 May Johanna -17 Jun Madras - 30 Jun Diamond Harbour - 29 Nov Cox’s Island - 24 May 1787 St Helena - 28 Jul Long Reach
+Portsmouth 1 Feb 1786 - 15 May Johanna -17 Jun Madras - 30 Jun Diamond Harbour - 29 Nov Cox s Island - 24 May 1787 St Helena - 28 Jul Long Reach
 4 1788/9 China
 L/MAR/B/86D Journal 10 Feb 1789-21 May 1790
 L/MAR/B/86T(1) Ledger
@@ -84,7 +84,7 @@ L/MAR/B/86AA Absence Book
 L/MAR/B/86BB List of those on board when lost
 Capt Thomas Talbot Harrington
 Portsmouth 25 Apr 1805 - 23 Aug Madras -14 Sep Saugor - 6 Nov Camicobar -14 Nov Penang - 1 Dec Malacca -1 Feb 1806 Whampoa - 19 Mar Second Bar - 2 Jul Bombay 27 Feb 1807 - lost off St Vincent 29 May
-See ‘The Ganges East Indiaman by W. J. Huggins’ in Bulletin of the Victoria Memorial Calcutta 8 (1974) pp.21-23, illus
+See ‘The Ganges East Indiaman by W. J. Huggins  in Bulletin of the Victoria Memorial Calcutta 8 (1974) pp.21-23, illus
 GANGES (4)
 Chartered ship, 627 tons
 Principal Managing Owner: Edward Moore Boultbee
@@ -149,7 +149,7 @@ L/MAM/B/441E Journal 24 Apr 1793-10 Dec 1794
 L/MAM/B/441J(1) Ledger
 L/MAR/B/441J(2) Pay Book
 Capt Robert Williams
-Portsmouth 7 Jul 1793 - 18 Sep Cape - 2 Nov Madras - 29 Jan 1794 Diamond Harbour - 25 Feb Cox’s Island -18 Jun St Helena - 7 Sep Downs
+Portsmouth 7 Jul 1793 - 18 Sep Cape - 2 Nov Madras - 29 Jan 1794 Diamond Harbour - 25 Feb Cox s Island -18 Jun St Helena - 7 Sep Downs
 6 1794/5 China
 L/MAM/B/441F Journal 22 Feb 1795-30 Mar 1797
 L/MAR/B/441K(1) Ledger
@@ -218,7 +218,7 @@ L/MAR/B/440E Journal 23 Feb 1792-1 Jun 1793
 L/MAM/B/440K(1) Ledger
 L/MAR/B/440K(2) Pay Book
 Capt Thomas Wakefield
-Portsmouth 16 Feb 1792 - 14 May Simons Bay - 6 Jul Diamond Harbour - 3 Dec Cox’s Island - 28 Feb 1793 St Helena - 2 May Downs
+Portsmouth 16 Feb 1792 - 14 May Simons Bay - 6 Jul Diamond Harbour - 3 Dec Cox s Island - 28 Feb 1793 St Helena - 2 May Downs
 5 1793/4 Madras and Bengal
 L/MAM/B/440F Journal 5 Nov 1793-30 Nov 1795
 L/MAM/B/440L(1) Ledger
@@ -293,7 +293,7 @@ L/MAM/B/32R(2) '1 Pay Book
 Capt Joseph Stanton
 Downs 15 Feb 1830 - 27 May Saugor - 20 Sep Whampoa - 29 Nov Second Bar -10 Feb 1831 St Helena - 5 Apr Downs
 GENERAL HEWETT
-Company’s own ship, built in Bengal, launched 1811, 3 decks, 4in bottom, length 147ft 2in, keel 118ft 7in, breadth 37ft 9in, hold 15ft, wing transom 23ft 9in, port cell 28ft, waist 1ft 5in, between decks 6ft 3in & 6ft 33/4in, roundhouse 6ft 5in, ports 13 middle & upper, deck range 87ft, 898 tons Sold to William Tindall 22 Sep 1830 for £6250
+Company s own ship, built in Bengal, launched 1811, 3 decks, 4in bottom, length 147ft 2in, keel 118ft 7in, breadth 37ft 9in, hold 15ft, wing transom 23ft 9in, port cell 28ft, waist 1ft 5in, between decks 6ft 3in & 6ft 33/4in, roundhouse 6ft 5in, ports 13 middle & upper, deck range 87ft, 898 tons Sold to William Tindall 22 Sep 1830 for £6250
 1 1815/6 China
 L/MAR/B/37A Journal 2 Dec 1815-10 Jun 1817
 L/MAR/B/37F(1) Ledger
@@ -458,7 +458,7 @@ L/MAR/B/236A Journal 1 Nov 1813-23 May 1814
 Capt J L Heathom
 Hugh river 19 Nov 1813-1 Feb 1814 Cape - 25 Feb St Helena - 21 May Blackwall
 GEORGE
-Company’s own ship, formerly Richard & Elizabeth
+Company s own ship, formerly Richard & Elizabeth
 1 1668/9 St Helena and Surat
 Capt William Bass Downs Feb 1669 -
 GEORGE (2)
@@ -501,7 +501,7 @@ Capt Nathaniel White
 Downs 1 Nov 1736 14 Mar 1737 St Helena - 6 Jul Batavia - 3 Aug Benkulen - 29 Sep Moco Moco - 5 Oct Bantal - 28 Oct Moco Moco - 3 Dec Benkulen - 8 Jan 1738 Batavia 15 May St Helena - 9 Aug Downs
 GEORGE (4)
 Snow, 100 tons
-1 1746/7 ‘For India’
+1 1746/7 ‘For India 
 Capt Thomas Wadham
 Poole 25 Apr 1747 - 24 Oct 1748 Lisbon - 24 Nov Downs
 GEORGE AND MARTHA
@@ -509,7 +509,7 @@ GEORGE AND MARTHA
 Capt John Eymout
 Downs Jul 1662 - 2 Oct Guinea - 25 Jan 1663 St Helena - 17 Jun Madras 10 Dec - Bantam - 26 Jul 1664 Madras Jan 1665 - Downs
 GEORGE THE FOURTH
-Company’s own ship, built by Pitcher, launched 1825, 3 decks, 4in bottom, length 166ft 3‘Ain, keel 133ft 103/8in, breadth 43ft 2‘/2in, hold 17ft Ain, wing transom 26ft, port cell 29ft Sin, between decks 6ft Sin & 6ft 5in, roundhouse 6ft 5 Ain, ports 14 middle & 13 upper, deck range 86ft Sin, 1329 tons
+Company s own ship, built by Pitcher, launched 1825, 3 decks, 4in bottom, length 166ft 3‘Ain, keel 133ft 103/8in, breadth 43ft 2‘/2in, hold 17ft Ain, wing transom 26ft, port cell 29ft Sin, between decks 6ft Sin & 6ft 5in, roundhouse 6ft 5 Ain, ports 14 middle & 13 upper, deck range 86ft Sin, 1329 tons
 1 1825/6 Bengal and China
 L/MAR/B/79A Journal 27 Dec 1825-19 Jun 1827
 L/MAR/B/79E(1) Ledger
@@ -535,7 +535,7 @@ L/MAR/B/79H(2) Pay Book
 Capt Thomas William Barrow
 Downs 10 Feb 1832 - 7 Jun Bombay - 6 Sep Whampoa - 23 Oct Second Bar - 20 Jan 1833 St Helena - 10 Mar Blackwall
 GEORGIANA (1) „ l/v
-Company’s packet, built by Wells, 3 decks, length 94ft Sin, keel 74ft Sin, breadth 26ft 10m, hold 11ft, wing transom 16ft Sin, between decks 5ft lO^in, 285 tons
+Company s packet, built by Wells, 3 decks, length 94ft Sin, keel 74ft Sin, breadth 26ft 10m, hold 11ft, wing transom 16ft Sin, between decks 5ft lO^in, 285 tons
 1 1795/6 St Helena and Bengal
 L/MAR/B/156A Journal 31 Oct 1795-10 Jun 1797
 L/MAR/B/156K(1) Ledger
@@ -570,7 +570,7 @@ L/MAR/B/156H Journal 21 Jun 1809-10 Sep 1811
 L/MAR/B/156P(1) Ledger
 L/MAR/B/156P(2) Pay Book
 Capt Henry Leigh
-Portsmouth 4 Oct 1809 - 16 Feb 1810 Madras -16 May Calcutta’ -11 Sep Saugor - 9 Oct Madras - Nov Calcutta -19 Feb 1811 Kedgeree - 2 Jun Cape - 4 Jul St Helena - 5 Sep Deptford
+Portsmouth 4 Oct 1809 - 16 Feb 1810 Madras -16 May Calcutta  -11 Sep Saugor - 9 Oct Madras - Nov Calcutta -19 Feb 1811 Kedgeree - 2 Jun Cape - 4 Jul St Helena - 5 Sep Deptford
 GEORGIANA (2)
 Chartered ship, 406 tons Managing Owners: Scott Fairlie & Co
 1 1831/2 Bengal
@@ -751,7 +751,7 @@ L/MAR/B/464B Journal 2 Feb 1771-2 Feb 1773
 L/MAR/B/464G(1) Ledger
 L/MAR/B/464G(2) Pay Book
 Capt Francis Reed
-Portsmouth 29 Apr 1771 -12 Sep St Augustine’s Bay - 2 Jan 1772 Colombo - 28 Jan Tellicherry - 26 Feb Bombay -11 May Tellicherry - 17 Jul St Augustine’s Bay - 20 Sep St Helena -12 Dec Downs
+Portsmouth 29 Apr 1771 -12 Sep St Augustine s Bay - 2 Jan 1772 Colombo - 28 Jan Tellicherry - 26 Feb Bombay -11 May Tellicherry - 17 Jul St Augustine s Bay - 20 Sep St Helena -12 Dec Downs
 2 1774/5 Madras and Bengal
 L/MAR/B/464C Journal 17 Dec 1774-25 Sep 1776
 L/MAR/B/464H(1) Ledger
@@ -763,7 +763,7 @@ L/MAR/B/464D Journal 31 Oct 1777-3 Mar 1780
 L/MAR/B/464-I(l) Ledger
 L/MAR/B/464-1(2) Pay Book
 Capt Francis Reed
-Plymouth 9 Feb 1778 - 21 Feb Madeira - 7 Jul St Augustine’s Bay - 27 Aug Madras - 27 Sep Kedgeree -16 Mar 1779 Madras - 25 Jul St Augustine’s Bay - 8 Oct St Helena - 12 Jan 1780 Downs
+Plymouth 9 Feb 1778 - 21 Feb Madeira - 7 Jul St Augustine s Bay - 27 Aug Madras - 27 Sep Kedgeree -16 Mar 1779 Madras - 25 Jul St Augustine s Bay - 8 Oct St Helena - 12 Jan 1780 Downs
 4 1779/80 Bombay
 Capt Hemy Grueber
 Portsmouth 27 Jul 1780 - captured 9 Aug (with the Gatton, Hillsborough, Mountstuart and Royal George) by the combined Franco-Spanish fleet in 36°28'N IS^O'W
@@ -772,7 +772,7 @@ Rated at 280 tons, 60 crew, 20 guns
 1 1708/9 Bombay
 L/MAR/B/594A Journal 27 Dec 1708-24 Mar 1710
 L/MAR/B/594K Ledger
-L/MAR/B/594T Ship’s Accounts
+L/MAR/B/594T Ship s Accounts
 Capt John ap Rice
 Plymouth 9 Apr 1709 - 25 Oct Cape - 25 Jan 1710 Colombo - 9 Feb Anjengo - 18 Feb Calicut - lost at Bombay
 GODOLPHIN (2)
@@ -820,7 +820,7 @@ L/MAR/B/594H Journal 5 Nov 1755-12 Aug 1757
 L/MAR/B/594R(1) Ledger
 L/MAR/B/594R(2) Pay Book
 Capt William Hutchinson
-Downs 27 Jan 1756 - 22 May St Augustine’s Bay - 5 Jul Madras -19 Aug Malacca - 25 Sep Whampoa - 30 Dec Second Bar -1 Apr 1757 St Helena - 26 Jun Leith - 9 Aug Gravesend
+Downs 27 Jan 1756 - 22 May St Augustine s Bay - 5 Jul Madras -19 Aug Malacca - 25 Sep Whampoa - 30 Dec Second Bar -1 Apr 1757 St Helena - 26 Jun Leith - 9 Aug Gravesend
 4 1758/9 Bombay, Madras and Bengal
 L/MAR/B/594I-J Journal 27 Feb 1759-23 Jul 1763, Collingwood Roddam, Second Mate
 L/MAR/B/594S(1) Ledger
@@ -833,7 +833,7 @@ GODSPEED
 Pinnace, 60 tons
 1 1601/2 North-West Passage
 Master John Drew
-Ratcliffe 2 May 1602 - 4 Jun Orkneys -18 Jun off Greenland - 28 Jun Warwick’s Foreland - attempted mutiny 19 Jul - penetrated Hudson’s Strait but driven out and south - 4 Aug off Scilly - 11 Aug Dartmouth
+Ratcliffe 2 May 1602 - 4 Jun Orkneys -18 Jun off Greenland - 28 Jun Warwick s Foreland - attempted mutiny 19 Jul - penetrated Hudson s Strait but driven out and south - 4 Aug off Scilly - 11 Aug Dartmouth
 Project abandoned, ship sold 1603
 GOLCONDA
 1 From Madras 1819
@@ -945,7 +945,7 @@ Portsmouth 7 Mar 1779 - 5 Apr Madeira - 9 May Goree - 30 Jul Cape -18 Jan 1780 M
 GRANT
 1 1800/1 Bengal
 L/MAR/B/376A Journal 16 Dec 1800-18 Jan 1802, anon
-‘English coast’ 16 Dec 1800 - 30 Apr 1801 Calcutta - left Bengal 25 Jul -18 Jan 1802 off Dungeness
+‘English coast  16 Dec 1800 - 30 Apr 1801 Calcutta - left Bengal 25 Jul -18 Jan 1802 off Dungeness
 GRANTHAM (1)
 Rated at 450/470 tons, 90/94 crew 36/40 guns
 1 1711/2 Bombay
@@ -955,7 +955,7 @@ Downs 23 Apr 1712 - 30 May Sao Tiago -19 Aug Cape - 18 Nov Anjengo - 28 Nov Coch
 2 1715/6 Bengal
 L/MAM/B/617B Journal 14 Sep 1715-10 Sep 1717 
 Capt Thomas Collett
-Downs 23 Feb 1716 - 28 May Cape - 3 Aug Madras - 27 Aug Rogues River -11 Jan 1717 Cox’s Island - 29 Apr St Helena - 2 Aug Erith
+Downs 23 Feb 1716 - 28 May Cape - 3 Aug Madras - 27 Aug Rogues River -11 Jan 1717 Cox s Island - 29 Apr St Helena - 2 Aug Erith
 3 1717/8 Bengal
 Capt Thomas Collett
 15 Jan 1718 - 18 Aug 1719
@@ -996,7 +996,7 @@ L/MAWB/617-I Journal 18 Jan 1742-28 Feb 1744
 L/MAR/B/617Q(1) Imprest Book
 L/MAR/B/617Q(2) Absence Book
 Capt Roger Hale
-Portsmouth 21 Feb 1742 - 7 Jul Madras - 24 Jul Balasore - 27 Dec Benkulen - 20 Jul 1743 St Augustine’s Bay - 1 Dec St Helena - lost off Folkestone 28 Feb 1744
+Portsmouth 21 Feb 1742 - 7 Jul Madras - 24 Jul Balasore - 27 Dec Benkulen - 20 Jul 1743 St Augustine s Bay - 1 Dec St Helena - lost off Folkestone 28 Feb 1744
 GRANTHAM (3)
 Rated at 499 tons, 99 crew, 28 guns
 1 1746/7 St Helena and Benkulen
@@ -1025,7 +1025,7 @@ GREENWICH (1)
 Rated at 450/480 tons, 90/96 crew, 32 guns
 1 1719/20 Bombay
 L/MAM/B/488A Journal 6 Oct 1719-13 Jul 1772, John Barnes, Chief Mate 
-L/MAR/B/488B Boatswain’s Book 30 May-20 Aug 1722
+L/MAR/B/488B Boatswain s Book 30 May-20 Aug 1722
 Capt Richard Kirby
 Downs 3 Mar 1720 - 29 Apr Sao Tiago - 26 Jul Johanna - 3 Sep Bombay -10 Oct Surat -12 Nov Bombay - 21 Dec Karwar -31 Jan 1721 Calicut - 26 Feb Karwar -17 Mar Bombay - 31 May Bandar Abbas - 21 Oct Bombay -1 Dec Chaul - 6 Dec Bombay - 27 Jan 1722 Cochin - 2 Apr Cape - 5 May St Helena -19 Jul Gravesend * attacked by pirates at Johanna 8 Aug 1720
 2 1723/4 Mokha and Bombay
@@ -1112,7 +1112,7 @@ Jan 1665 - Jul 1669
 Capt William Goodlad
 Jul 1670 - 11 Jul 1671 Downs
 GREYHOUND (3)
-Company’s packet, 158 tons, 25 crew, 6 guns
+Company s packet, 158 tons, 25 crew, 6 guns
 1 1781/2 Benkulen, to remain
 L/MAM/B/7 71 A(l) Ledger
 L/MAR/B/771 A(2) Pay Book
@@ -1144,7 +1144,7 @@ L/MAM/B/603D Journal 27 Feb 1759-20 Jan 1761
 L/MAM/B/603H(1) Imprest Book
 L/MAM/B/603H(2) Absence Book
 Capt Thomas Dethick
-Portsmouth 28 Apr 1759 - 23 Aug Madagascar - 3 Oct Bombay - 9 Nov Goa -12 Dec Calicut -12 Jan 1760 Bombay - 28 Feb Surat - 29 Mar Bombay -16 Apr Tellicheny -15 Jul Whampoa - 9 Dec Second Bar - ship lost Jan 1761 at the ‘island of Zelo’
+Portsmouth 28 Apr 1759 - 23 Aug Madagascar - 3 Oct Bombay - 9 Nov Goa -12 Dec Calicut -12 Jan 1760 Bombay - 28 Feb Surat - 29 Mar Bombay -16 Apr Tellicheny -15 Jul Whampoa - 9 Dec Second Bar - ship lost Jan 1761 at the ‘island of Zelo 
 GROSVENOR (1)
 Built by Wells, launched 1761, 3 decks, 3in bottom, rated at 499 tons, 99 crew, 26 guns Principal Managing Owners: 1-2 John Hallett, 3-5 David Mitchell
 1 1761/2 Madras and China
