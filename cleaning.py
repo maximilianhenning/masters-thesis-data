@@ -1,11 +1,12 @@
 from glob import glob
+from os import path
 
-path = "C:/Users/lorga/Uni/Thesis/Data/"
-file_list = glob(path + "Text/*")
+path = path.dirname(__file__)
+file_list = glob(path + "/Text/*")
 
 for file in file_list:
     file = file.split("\\")[-1].split(".")[0]
-    with open(path + "Text/" + file + ".txt", "r") as input:
+    with open(path + "/Text/" + file + ".txt", "r") as input:
         text = input.read()
     lines = text.split("\n")
 
@@ -61,6 +62,6 @@ for file in file_list:
         line_cleaned_counter += 1
     print(file + "\nOriginal lines:", str(line_counter) + "\nCleaned lines:", str(line_cleaned_counter))
 
-    with open(path + "Clean/" + file + ".txt", "w") as output:
+    with open(path + "/Clean/" + file + ".txt", "w") as output:
         for line in lines_cleaned:
             output.write(line + "\n")

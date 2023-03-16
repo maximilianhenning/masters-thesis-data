@@ -1,12 +1,13 @@
 import pandas as pd
 from glob import glob
+from os import path
 
-path = "C:/Users/lorga/Uni/Thesis/Data/"
-clean_file_list = glob(path + "Clean/*")
+path = path.dirname(__file__)
+clean_file_list = glob(path + "/Clean/*")
 
 for file in clean_file_list:
     file = file.split("\\")[-1].split(".")[0]
-    with open(path + "Clean/" + file + ".txt", "r") as input:
+    with open(path + "/Clean/" + file + ".txt", "r") as input:
         text = input.read()
     lines = text.split("\n")
 
@@ -105,18 +106,18 @@ for file in clean_file_list:
     # Convert ship name from index to column
     df_ships = df_ships.reset_index().rename(columns = {"index": "name"})
     # Save to CSV
-    df_ships.to_csv(path + "Partial/" + file + ".csv", index = False)
+    df_ships.to_csv(path + "/Partial/" + file + ".csv", index = False)
 
 # Combine files
 df_list = []
-partial_file_list = glob(path + "Partial/*")
+partial_file_list = glob(path + "/Partial/*")
 for file in partial_file_list:
     file = file.split("\\")[-1].split(".")[0]
-    df = pd.read_csv(path + "Partial/" + file + ".csv")
+    df = pd.read_csv(path + "/Partial/" + file + ".csv")
     df_list.append(df)
 # Concatenate and drop old indexes
 df_combined = pd.concat(df_list)
 df_combined = df_combined.reset_index().drop(columns = ["index"])
 # Convert ship ID from index to column
 df_combined = df_combined.reset_index().rename(columns = {"index": "ship_id"})
-df_combined.to_csv(path + "Output/combined.csv", index = False)
+df_combined.to_csv(path + "/Output/combined.csv", index = False)

@@ -1,7 +1,8 @@
 import pandas as pd
 import ast
+from os import path
 
-path = "C:/Users/lorga/Uni/Thesis/Data/"
+path = path.dirname(__file__)
 df_combined = pd.read_csv(path + "/Output/combined.csv")
 
 # Ships table
@@ -11,7 +12,7 @@ df_combined = pd.read_csv(path + "/Output/combined.csv")
 df_ships = df_combined[["ship_id", "name", "info"]]
 
 def feature_getter(info, feature):
-    feature_result = info.split(feature)[0].strip().split(" ")[-1].replace("[\'", "")
+    feature_result = info.split(feature)[0].strip().split(" ")[-1].strip("[\'")
     if "/" in feature_result:
         feature_result = feature_result.split("/")
     return feature_result
@@ -53,7 +54,7 @@ def ship_splitter(info):
 df_ships_expand = df_ships["info"].apply(ship_splitter)
 df_ships_expand.rename(columns = {0: "tons", 1: "guns", 2: "crew", 3: "type", 4: "built_by", 5: "built_year"}, inplace = True)
 df_ships = pd.concat([df_ships, df_ships_expand], axis = 1)
-df_ships.to_csv(path + "Output/ships.csv", index = False)
+df_ships.to_csv(path + "/Output/ships.csv", index = False)
 
 # Voyages table
 # voyage_id     ship    start   end     destination reference   captain         itinerary
@@ -92,7 +93,7 @@ def voyage_splitter(info):
 df_voyages_expand = df_voyages["info"].apply(voyage_splitter)
 df_voyages_expand.rename(columns = {0: "start", 1: "end", 2: "captain"}, inplace = True)
 df_voyages = pd.concat([df_voyages, df_voyages_expand], axis = 1)
-df_voyages.to_csv(path + "Output/voyages.csv", index = False)
+df_voyages.to_csv(path + "/Output/voyages.csv", index = False)
 print(df_voyages.head())
 
 # Stops table
