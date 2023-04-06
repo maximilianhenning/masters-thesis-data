@@ -3,7 +3,7 @@ import ast
 from os import path
 
 path = path.dirname(__file__)
-df_combined = pd.read_csv(path + "/Output/combined.csv")
+df_combined = pd.read_csv(path + "/Output/combined.csv", sep = ";")
 
 # Ships table
 # ship_id   tons    guns    crew    type    built_by    built_year  Owner   info
@@ -54,7 +54,7 @@ def ship_splitter(info):
 df_ships_expand = df_ships["info"].apply(ship_splitter)
 df_ships_expand.rename(columns = {0: "tons", 1: "guns", 2: "crew", 3: "type", 4: "built_by", 5: "built_year"}, inplace = True)
 df_ships = pd.concat([df_ships, df_ships_expand], axis = 1)
-df_ships.to_csv(path + "/Output/ships.csv", index = False)
+df_ships.to_csv(path + "/Output/ships.csv", index = False, sep = ";")
 
 # Voyages table
 # voyage_id     ship    start   end     destination reference   captain         itinerary
@@ -93,7 +93,7 @@ def voyage_splitter(info):
 df_voyages_expand = df_voyages["info"].apply(voyage_splitter)
 df_voyages_expand.rename(columns = {0: "start", 1: "end", 2: "captain"}, inplace = True)
 df_voyages = pd.concat([df_voyages, df_voyages_expand], axis = 1)
-df_voyages.to_csv(path + "/Output/voyages.csv", index = False)
+df_voyages.to_csv(path + "/Output/voyages.csv", index = False, sep = ";")
 print(df_voyages.head())
 
 # Stops table
