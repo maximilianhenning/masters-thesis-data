@@ -647,7 +647,7 @@ DONEGAL
     1 1703/4	Mokha
 Capt Henry Cliff
     12 Feb 1704 - 4 Mar 1707
-1707/8	Bengal	and	Mokha
+2 1707/8	Bengal	and	Mokha
 L/MAR/B/716A Journal 15 Nov 1707-9 Aug 1711
 Capt Henry Cliff
 Downs 9 Apr 1708 - 27 Aug Cape -18 Jan 1709 Balasore - 24 Jan Rogues River - 26 Apr Fort St David - 6 May Madras -11 Jun Vizagapatam - 3 Aug Calcutta - 3 Jan 1710 Rogues River -11 Apr Mokha -13 Sep Karwar - 8 Dec Cape - 23 Jul 1711 Texel - 9 Aug Deptford
@@ -801,7 +801,8 @@ Built 1595 as a privateer/merchantman for George Clifford, 3rd Earl of Cumberlan
 1	1600/1 Bantam
 Capt James Lancaster, Master William Broadbent/Roger Hankin
 Woolwich 13 Feb 1601 - Torbay 20 Apr -1 May Canaries - 9 Sep Cape 29 Oct -17 Dec Madagascar 6 Mar 1602 - 9 May Nicobars - 5 Jun Acheh -11 Sep helped captured Santo Antonio carrack in Straits of Malacca - 24 Oct Acheh 9 Nov - Priaman 4 Dec - 16 Dec Bantam 20 Feb 1603 - 16 Jun St Helena 5 Jul - 11 Sep Downs
-2 1     603/4 Bantam Master Philip Grove
+2 1603/4 Bantam 
+Master Philip Grove
 Gravesend 25 Mar 1604 - 24 Apr Maio - 17 Jul Cape 20 Aug - 23 Dec Bantam 18 Jan 1605 - 10 Feb Amboina - 18 Mar Makian - 27 Mar Tidore - Makian 22 Apr - Tidore 3 May - 22 May Temate 18 Jun - Makian - 24 Jul Bantam 6 Oct - Dec Cape - 3 Feb 1606 St Helena - 6 May Downs
     3 1606/7	Bantam
 Capt William Keeling, Master Anthony Hippon/Gabriel Towerson L/MAR/A/m	Fragment of journal 12 Mar-17 Apr 1607, William Keeling
@@ -1277,14 +1278,14 @@ L/MAM/B/508G(1)	Ledger
 L/MAM/B/508G(2)	Pay Book
 Capt Samuel Bull
 Portsmouth 1 Apr 1772 - 18 Jul St Augustine’s Bay - 9 Aug	Johanna	-13	Sep Madras -12 Oct Culpee - 23 Jan 1773 Ingeli -1 May Cape - 23 May Cape - 23 May	St Helena -	1	Aug Downs
-1775/6	St Helena and Benkulen
+3 1775/6	St Helena and Benkulen
 L/MAR/B/508C Journal 22 Nov 1775-14 May 1778 
 L/MAR/B/508H(1) Ledger 
 L/MAR/B/508H(2) Pay Book 
 L/MAR/B/508H(3) Imprest Book
 Capt Samuel Bull
 Portsmouth 25 Mar 1776 - 5 Jun St Helena - 3 Aug Cape - 21 Oct Batavia - 5 Feb 1777 Benkulen - 5 Oct Cape -17 Nov St Helena - 4 Jan 1778 Lisbon - 23 Mar Downs
-1778/9	Madras and Bombay
+4 1778/9	Madras and Bombay
 L/MAR/B/508D-E Journal 21 Sep 1778-5 Nov 1781 
 L/MAR/B/508-I(l) Ledger 
 L/MAR/B/508-I(2) Pay Book 

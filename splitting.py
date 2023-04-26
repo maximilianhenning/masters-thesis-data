@@ -86,13 +86,24 @@ def voyage_splitter(info):
             start = info["time"]
             end = info["time"]
         # Destination
-        
+        destination = info["destination"]
+        # Reference
+        references = info["reference"]
+        reference_string = ""
+        for reference in references:
+            reference = reference.strip()
+            reference = "\"" + reference + "\""
+            reference_string += reference
+            if not len(references) == 1:
+                reference_string += ","
+            references = references[1:]
+        # Fill in start & end if they don't exist yet but stops do
         # Captain
         captain = info["captain"]
-    return pd.Series([start, end, captain])
+    return pd.Series([start, end, destination, captain, reference_string])
     #return captain
 df_voyages_expand = df_voyages["info"].apply(voyage_splitter)
-df_voyages_expand.rename(columns = {0: "start", 1: "end", 2: "captain"}, inplace = True)
+df_voyages_expand.rename(columns = {0: "start", 1: "end", 2: "destination", 3: "captain", 4: "references"}, inplace = True)
 df_voyages = pd.concat([df_voyages, df_voyages_expand], axis = 1)
 df_voyages.to_csv(path + "/Output/voyages.csv", index = False, sep = ";")
 print(df_voyages.head())
@@ -100,6 +111,15 @@ print(df_voyages.head())
 # Stops table
 # ship_id   voyage_id   stop_id date    location
 # ship_id   voyage_id   stop_id string  place_id    
+
+        # Stops
+        #itinerary = info["itinerary"]
+        #stops = itinerary.split("-")
+        #for stop in stops:
+        #    stop = stop.strip()
+        #    stop_parts = stop.split(" ")
+        #    for part in stop_parts:
+        #        if len(part) < 3:
 
 # Employees table
 # employee_id   owner   captain
