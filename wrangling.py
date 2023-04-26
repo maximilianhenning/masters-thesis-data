@@ -113,7 +113,7 @@ df_list = []
 partial_file_list = glob(path + "/Partial/*")
 for file in partial_file_list:
     file = file.split("\\")[-1].split(".")[0]
-    df = pd.read_csv(path + "/Partial/" + file + ".csv")
+    df = pd.read_csv(path + "/Partial/" + file + ".csv", sep = ";")
     df_list.append(df)
 # Concatenate and drop old indexes
 df_combined = pd.concat(df_list)
