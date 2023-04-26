@@ -66,7 +66,8 @@ voyages_list = []
 for row in df_voyages_list.iterrows():
     for x in range(1, 10):
         voyage_id = "voyage_" + str(x)
-        if row[1][voyage_id]:
+        # Check if cell is not nan (notna doesn't work on strings)
+        if type(row[1][voyage_id]) == str:
             voyages_list.append([row[1]["ship_id"], x, row[1][voyage_id]])
 df_voyages = pd.DataFrame(voyages_list)
 df_voyages.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "info"}, inplace = True)
