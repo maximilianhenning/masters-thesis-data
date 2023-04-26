@@ -121,5 +121,7 @@ df_combined = pd.concat(df_list)
 df_combined = df_combined.reset_index().drop(columns = ["index"])
 # Convert ship ID from index to column
 df_combined = df_combined.reset_index().rename(columns = {"index": "ship_id"})
-df_combined["ship_id"] = df_combined["ship_id"] + 1
+def id_creator(ship_id):
+    return "s" + str(ship_id + 1)
+df_combined["ship_id"] = df_combined["ship_id"].apply(id_creator)
 df_combined.to_csv(path + "/combined.csv", index = False, sep = ";", na_rep = "nan")

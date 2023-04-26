@@ -72,6 +72,9 @@ for row in df_voyages_list.iterrows():
             voyages_list.append([row[1]["ship_id"], x, row[1][voyage_id]])
 df_voyages = pd.DataFrame(voyages_list)
 df_voyages.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "info"}, inplace = True)
+def id_creator(voyage_id):
+    return "v" + str(voyage_id)
+df_voyages["voyage_id"] = df_voyages["voyage_id"].apply(id_creator)
 
 def voyage_splitter(info):
     start = "nan"
@@ -170,13 +173,16 @@ for row in df_voyages.iterrows():
 df_calls = pd.DataFrame(call_list)
 df_calls.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "call_id", 3: "raw", 4: "year", 5: "month", 6: "day", 7: "location", 8: "special"}, inplace = True)
 df_calls.to_csv(path + "/Output/calls.csv", index = False, sep = ";")
+def id_creator(calls_id):
+    return "c" + str(calls_id)
+df_calls["call_id"] = df_calls["call_id"].apply(id_creator)
 print(df_calls.head())
 
-# Places table
-# place_id  longitude   latitude
-# place_id  float       float
+# Location table
+# location_id   longitude   latitude
+# location_id   float       float
 
-# Employees table
+# Employee table
 # employee_id   owned   captained
 # employee_id   ship_id voyage_id
 
