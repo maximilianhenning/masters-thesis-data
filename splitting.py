@@ -168,7 +168,7 @@ for row in df_voyages.iterrows():
                     location = "nan"
                 call_list.append([ship_id, voyage_id, call_id, call, year, month, day, location, special])
 df_calls = pd.DataFrame(call_list)
-df_calls.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "stop_id", 3: "raw", 4: "year", 5: "month", 6: "day", 7: "location", 8: "special"}, inplace = True)
+df_calls.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "call_id", 3: "raw", 4: "year", 5: "month", 6: "day", 7: "location", 8: "special"}, inplace = True)
 df_calls.to_csv(path + "/Output/calls.csv", index = False, sep = ";")
 print(df_calls.head())
 
