@@ -215,7 +215,7 @@ L/MAR/B/8-I Journal 20 Oct 1801-30 Jun 1803
 L/MAR/B/8BB(1) Ledger
 L/MAR/B/8BB(2) Pay Book
 Capt Robert Williams Portsmouth 12 Feb 1802-11 Jun Bombay - 25 Sep Whampoa - Second Bar 3 Jan 1803-7 Mar
-St Helena-24 Apr Downs
+St Helena - 24 Apr Downs
 4 1803/4 St Helena and China
 L/MAR/B/8J Journal 28 Nov 1803-25 Nov 1805
 L/MAR/B/8CC(1) Ledger
@@ -302,7 +302,7 @@ Capt John Rhodes Pidding
 Portsmouth 21 Feb 1833 - 23 May Bombay 20 Jul - 2 Sep Singapore - 26 Sep Whampoa - Second Bar 27 Nov 25 Jan 1834 Cape - 12 Feb St Helena - 2 Apr Downs
 THETIS (1)
 Built by Randall, launched 1786. 3 decks, 4in bottom, length 143ft 6'Ain. keel 115ft 11 'Am. breadth 36ft 1 'Ain. hold 14ft lOin. wing transom 23ft Sin. port cell 26ft 472in. waist 1ft. between decks 5fl 1 lin & Oft 3in. roundhouse Oft 3'Ain. ports 13 middle & upper, deck range 82ft. 804 tons Principal Managing Owner: Thomas Ncwlc
-! 1786/7 Bengal
+1 1786/7 Bengal
 L/MAR/B/387A Journal 22 Ocl 1786-29 Jul 1788
 L/MAR/B/387H(1) 
 L/MAR/B/387H(2) 
@@ -578,7 +578,7 @@ L/MAR/B/219D Journal 3 Jul 1807-27 Jun 1809
 L/MAR/B/219K(1) Ledger
 L/MAR/B/219K(2) Pay Book
 Capt Dugald MacDougall
-Portsmouth 17 Sep 1807 - 28 Madeira - 27 Dec Cape - 5 Apr 1808 Madras - 18 May Calcutta - Saugor 3 Oct-17 Oct Madras -19 Jan 1809 Cape - 24 Feb St Helena - 21 May Downs i
+Portsmouth 17 Sep 1807 - 28 Madeira - 27 Dec Cape - 5 Apr 1808 Madras - 18 May Calcutta - Saugor 3 Oct-17 Oct Madras -19 Jan 1809 Cape - 24 Feb St Helena - 21 May Downs
 4 1809/10 Madras and Bengal
 L/MAM/B/219E Journal 23 Dec 1809-17 Apr 1811 
 L/MAR/B/219L(1) Ledger 
@@ -828,7 +828,7 @@ L/MAM/B/366V (1) Ledger
 L/MAM/B/366V(2) Pay Book
 Capt William Elphinstone
 Downs 1 Jan 1772 - 21 Jan Madeira - 5 May Cape - 19 Jun Johanna -15 Jul Madras - 5 Aug
-Kedgeree - 22 Aug Culpee - left Bengal 15 Jan 1773 - 2 Feb Madras - 20 Jun Cape - 28 Jul St Hlena -
+Kedgeree - 22 Aug Culpee - left Bengal 15 Jan 1773 - 2 Feb Madras - 20 Jun Cape - 28 Jul St Helena -
 8 Oct Downs
 4 1775/6 Madras and Bengal
 L/MAR/B/366H Journal 24 Dec 1775-1 Sep 1777

@@ -796,7 +796,7 @@ s43;s43v1;s43v1c2;4 Jun Tenerife;1695;6;4;Tenerife;False
 s43;s43v1;s43v1c3;5 Jan 1696 Calicut;1696;1;5;Calicut;False
 s43;s43v1;s43v1c4;29 Feb Bombay;1696;2;29;Bombay;False
 s43;s43v1;s43v1c5;16 Dec Cape;1696;12;16;Cape;False
-s43;s43v1;s43v1c6;16 Feb 1697 St Heleha;1697;2;16;St Heleha;False
+s43;s43v1;s43v1c6;16 Feb 1697 St Helena;1697;2;16;St Helena;False
 s43;s43v1;s43v1c7;16 Mar Ascension;1697;3;16;Ascension;False
 s43;s43v1;s43v1c8;13 Jun Cadiz;1697;6;13;Cadiz;False
 s43;s43v1;s43v1c9;28 Oct Downs;1697;10;28;Downs;False
@@ -5370,10 +5370,11 @@ s263;s263v1;s263v1c5;5 Jul Downs;1683;7;5;Downs;False
 s263;s263v2;s263v2c1;Downs 15 Nov 1683;1683;11;15;Downs;False
 s263;s263v2;s263v2c2;Surat 4 May 1685;1685;5;4;Surat;False
 s263;s263v2;s263v2c3;26 Jun Malacca;1685;6;26;Malacca;False
-s263;s263v2;s263v2c4;29Jul Amoy 1 Jan 1686;1686;1;1;29Jul Amoy;False
-s263;s263v2;s263v2c5;25 Apr Bombay;1686;4;25;Bombay;False
-s263;s263v2;s263v2c6;3 May Surat;1686;5;3;Surat;False
-s263;s263v2;s263v2c7;16 May 1687 Downs;1687;5;16;Downs;False
+s263;s263v2;s263v2c4;29 Jul Amoy;1685;7;29;Amoy;False
+s263;s263v2;s263v2c5;Amoy 1 Jan 1686;1686;1;1;Amoy;False
+s263;s263v2;s263v2c6;25 Apr Bombay;1686;4;25;Bombay;False
+s263;s263v2;s263v2c7;3 May Surat;1686;5;3;Surat;False
+s263;s263v2;s263v2c8;16 May 1687 Downs;1687;5;16;Downs;False
 s263;s263v3;s263v3c1;Capt Francis Hosier 27 Nov 1700;1700;11;27;Capt Francis Hosier;True
 s263;s263v3;s263v3c2;15 May 1703;1703;5;15;nan;False
 s264;s264v1;s264v1c1;Downs Feb 1626;1626;2;nan;Downs;False
@@ -20112,7 +20113,7 @@ s958;s958v1;s958v1c4;14 Dee Sural;1702;nan;14;Dee Sural;False
 s958;s958v1;s958v1c5;1 Jan 1703 Karwar;1703;1;1;Karwar;False
 s958;s958v1;s958v1c6;19 Jan Bombay;1703;1;19;Bombay;False
 s958;s958v1;s958v1c7;15 Feb Karwar;1703;2;15;Karwar;False
-s958;s958v1;s958v1c8;25 Feb Tcllichcrry;1703;2;25;Tcllichcrry;False
+s958;s958v1;s958v1c8;25 Feb Tellicherry;1703;2;25;Tellicherry;False
 s958;s958v1;s958v1c9;26 Apr Mauritius;1703;4;26;Mauritius;False
 s958;s958v1;s958v1c10;16 Sep Cape;1703;9;16;Cape;False
 s958;s958v1;s958v1c11;17 Oct St Helena;1703;10;17;St Helena;False
@@ -24466,7 +24467,7 @@ s1161;s1161v1;s1161v1c1;Downs 19 Jan 1801;1801;1;19;Downs;False
 s1161;s1161v1;s1161v1c2;25 May Diamond Harbour;1801;5;25;Diamond Harbour;False
 s1161;s1161v1;s1161v1c3;17 Aug Kedgeree;1801;8;17;Kedgeree;False
 s1161;s1161v1;s1161v1c4;31 Dec St Helena;1801;12;31;St Helena;False
-s1161;s1161v1;s1161v1c5;25 Feb 1802 JJowns;1802;2;25;JJowns;False
+s1161;s1161v1;s1161v1c5;25 Feb 1802 Downs;1802;2;25;Downs;False
 s1162;s1162v1;s1162v1c1;Downs 6 May 1833;1833;5;6;Downs;False
 s1162;s1162v1;s1162v1c2;4 Sep Penang;1833;9;4;Penang;False
 s1162;s1162v1;s1162v1c3;31 Oct Whampoa;1833;10;31;Whampoa;False
@@ -25331,7 +25332,7 @@ s1194;s1194v1;s1194v1c1;Portsmouth 22 Mar 1742;1742;3;22;Portsmouth;False
 s1194;s1194v1;s1194v1c2;9 Jul St Augustine s Bay;1742;7;9;St Augustine s Bay;True
 s1194;s1194v1;s1194v1c3;6 Sep Bombay;1742;9;6;Bombay;False
 s1194;s1194v1;s1194v1c4;24 Oct Cannanore;1742;10;24;Cannanore;False
-s1194;s1194v1;s1194v1c5;1 Nov Tellicheriy;1742;11;1;Tellicheriy;False
+s1194;s1194v1;s1194v1c5;1 Nov Tellicherry;1742;11;1;Tellicherry;False
 s1194;s1194v1;s1194v1c6;27 Nov Bombay;1742;11;27;Bombay;False
 s1194;s1194v1;s1194v1c7;20 Jan 1743 Bandar Abbas;1743;1;20;Bandar Abbas;False
 s1194;s1194v1;s1194v1c8;16 Feb Bombay;1743;2;16;Bombay;False
@@ -25699,7 +25700,7 @@ s1215;s1215v2;s1215v2c6;9 Sep Balasore;1738;9;9;Balasore;False
 s1215;s1215v2;s1215v2c7;19 Sep Rogues River;1738;9;19;Rogues River;False
 s1215;s1215v2;s1215v2c8;9 Nov Ingeli;1738;11;9;Ingeli;False
 s1215;s1215v2;s1215v2c9;28 Nov Acheh;1738;11;28;Acheh;False
-s1215;s1215v2;s1215v2c10;27 Dec Bcnkulen;1738;12;27;Bcnkulen;False
+s1215;s1215v2;s1215v2c10;27 Dec Benkulen;1738;12;27;Benkulen;False
 s1215;s1215v2;s1215v2c11;20 May 1739 St Helena;1739;5;20;St Helena;False
 s1215;s1215v2;s1215v2c12;24 Aug Falmouth;1739;8;24;Falmouth;False
 s1215;s1215v2;s1215v2c13;6 Sep Downs;1739;9;6;Downs;False
@@ -26290,7 +26291,7 @@ s1248;s1248v2;s1248v2c1;Cork 31 Aug 1805;1805;8;31;Cork;False
 s1248;s1248v2;s1248v2c2;30 Sep Madeira;1805;9;30;Madeira;False
 s1248;s1248v2;s1248v2c3;12 Nov San Salvador;1805;11;12;San Salvador;False
 s1248;s1248v2;s1248v2c4;6 Jan 1806 Cape;1806;1;6;Cape;False
-s1248;s1248v2;s1248v2c5;8 May Bomba>;1806;5;8;Bomba>;False
+s1248;s1248v2;s1248v2c5;8 May Bombay;1806;5;8;Bombay;False
 s1248;s1248v2;s1248v2c6;10 Jul Saugor;1806;7;10;Saugor;False
 s1248;s1248v2;s1248v2c7;15 Jul Calcutta;1806;7;15;Calcutta;False
 s1248;s1248v2;s1248v2c8;23 Aug Culpee;1806;8;23;Culpee;False
@@ -27218,11 +27219,11 @@ s1288;s1288v1;s1288v1c6;31 Jan 1795 Kinsale;1795;1;31;Kinsale;False
 s1288;s1288v1;s1288v1c7;27 Feb Downs;1795;2;27;Downs;False
 s1289;s1289v1;s1289v1c1;;1795;nan;nan;;False
 s1289;s1289v1;s1289v1c2;1 Dec Cochin;1795;12;1;Cochin;False
-s1289;s1289v1;s1289v1c3;11 Dec Tcllicherry;1795;12;11;Tcllicherry;False
+s1289;s1289v1;s1289v1c3;11 Dec Tellicherry;1795;12;11;Tellicherry;False
 s1289;s1289v1;s1289v1c4;28 Jan 1784 Mangalore;1784;1;28;Mangalore;False
-s1289;s1289v1;s1289v1c5;4 Feb Tcllicherry;1784;2;4;Tcllicherry;False
+s1289;s1289v1;s1289v1c5;4 Feb Tellicherry;1784;2;4;Tellicherry;False
 s1289;s1289v1;s1289v1c6;11 Mar Bombay;1784;3;11;Bombay;False
-s1289;s1289v1;s1289v1c7;23 Apr Tcllicherry;1784;4;23;Tcllicherry;False
+s1289;s1289v1;s1289v1c7;23 Apr Tellicherry;1784;4;23;Tellicherry;False
 s1289;s1289v1;s1289v1c8;1 Jim Malacca;1784;nan;1;Jim Malacca;False
 s1289;s1289v1;s1289v1c9;7 Jul Whampoa;1784;7;7;Whampoa;False
 s1289;s1289v1;s1289v1c10;5 Nov Second Bar;1784;11;5;Second Bar;False
@@ -27375,7 +27376,7 @@ s1297;s1297v2;s1297v2c2;25 Jul 1675 Downs;1675;7;25;Downs;False
 s1297;s1297v3;s1297v3c1;Downs 8 Jan 1676;1676;1;8;Downs;False
 s1297;s1297v3;s1297v3c2;Madras 3 Feb 1677;1677;2;3;Madras;False
 s1297;s1297v3;s1297v3c3;14 Jun St Helena;1677;6;14;St Helena;False
-s1297;s1297v3;s1297v3c4;2 Jul Ascentsion;1677;7;2;Ascentsion;False
+s1297;s1297v3;s1297v3c4;2 Jul Ascension;1677;7;2;Ascension;False
 s1297;s1297v3;s1297v3c5;18 Sep Downs;1677;9;18;Downs;False
 s1297;s1297v4;s1297v4c1;Capt Nathaniel Reynolds Downs 5 May 1682;1682;5;5;Capt Nathaniel Reynolds Downs;True
 s1297;s1297v4;s1297v4c2;lost;1682;nan;nan;lost;False
@@ -27979,11 +27980,8 @@ s1326;s1326v2;s1326v2c4;21 Jul Bombay 4 Feb 1800;1800;2;4;Bombay;False
 s1326;s1326v2;s1326v2c5;8 May Whampoa Second Bar 11 Aug;1800;8;11;Whampoa Second Bar;True
 s1326;s1326v2;s1326v2c6;1 Feb 1801 St Helena;1801;2;1;St Helena;False
 s1326;s1326v2;s1326v2c7;10 Apr Downs;1801;4;10;Downs;False
-s1326;s1326v3;s1326v3c1;Capt Robert Williams Portsmouth 12 Feb 1802;1802;2;12;Capt Robert Williams Portsmouth;True
-s1326;s1326v3;s1326v3c2;11 Jun Bombay;1802;6;11;Bombay;False
-s1326;s1326v3;s1326v3c3;25 Sep Whampoa;1802;9;25;Whampoa;False
-s1326;s1326v3;s1326v3c4;Second Bar 3 Jan 1803;1803;1;3;Second Bar;False
-s1326;s1326v3;s1326v3c5;7 Mar;1803;3;7;nan;False
+s1326;s1326v3;s1326v3c1;St Helena;1801;nan;nan;St Helena;False
+s1326;s1326v3;s1326v3c2;24 Apr Downs;1801;4;24;Downs;False
 s1326;s1326v4;s1326v4c1;Capt John Skottowe Plymouth 26 Feb 1804;1804;2;26;Capt John Skottowe Plymouth;True
 s1326;s1326v4;s1326v4c2;19 May St Helena 9 Jul 13 Oct Whampoa;1804;10;13;St Helena Whampoa;True
 s1326;s1326v4;s1326v4c3;Second Bar 1 Jan 1805;1805;1;1;Second Bar;False
@@ -28081,11 +28079,18 @@ s1329;s1329v6;s1329v6c5;6 Sep Whampoa;1831;9;6;Whampoa;False
 s1329;s1329v6;s1329v6c6;Second Bar 14 Nov;1831;11;14;Second Bar;False
 s1329;s1329v6;s1329v6c7;27 Jan 1832 St Helena;1832;1;27;St Helena;False
 s1329;s1329v6;s1329v6c8;14 Mar Downs;1832;3;14;Downs;False
-s1329;s1329v7;s1329v7c1;Downs 6 Jan 1787;1787;1;6;Downs;False
-s1329;s1329v7;s1329v7c2;27 May Diamond Harbour;1787;5;27;Diamond Harbour;False
-s1329;s1329v7;s1329v7c3;2 Nov Saugor;1787;11;2;Saugor;False
-s1329;s1329v7;s1329v7c4;left Bengal 21 St Helena;1787;nan;21;left Bengal St Helena;True
-s1329;s1329v7;s1329v7c5;25 Jun Downs;1787;6;25;Downs;False
+s1329;s1329v7;s1329v7c1;Portsmouth 21 Feb 1833;1833;2;21;Portsmouth;False
+s1329;s1329v7;s1329v7c2;23 May Bombay 20 Jul;1833;7;20;Bombay;False
+s1329;s1329v7;s1329v7c3;2 Sep Singapore;1833;9;2;Singapore;False
+s1329;s1329v7;s1329v7c4;26 Sep Whampoa;1833;9;26;Whampoa;False
+s1329;s1329v7;s1329v7c5;Second Bar 27 Nov 25 Jan 1834 Cape;1834;1;25;Second Bar Cape;True
+s1329;s1329v7;s1329v7c6;12 Feb St Helena;1834;2;12;St Helena;False
+s1329;s1329v7;s1329v7c7;2 Apr Downs;1834;4;2;Downs;False
+s1330;s1330v1;s1330v1c1;Downs 6 Jan 1787;1787;1;6;Downs;False
+s1330;s1330v1;s1330v1c2;27 May Diamond Harbour;1787;5;27;Diamond Harbour;False
+s1330;s1330v1;s1330v1c3;2 Nov Saugor;1787;11;2;Saugor;False
+s1330;s1330v1;s1330v1c4;left Bengal 21 St Helena;1787;nan;21;left Bengal St Helena;True
+s1330;s1330v1;s1330v1c5;25 Jun Downs;1787;6;25;Downs;False
 s1330;s1330v2;s1330v2c1;Downs 30 Nov 1788;1788;11;30;Downs;False
 s1330;s1330v2;s1330v2c2;26 Dec Madeira;1788;12;26;Madeira;False
 s1330;s1330v2;s1330v2c3;22 May 1789 Bombay 4 Aug;1789;8;4;Bombay;False
@@ -28351,7 +28356,7 @@ s1343;s1343v3;s1343v3c6;Saugor 3 Oct;1808;10;3;Saugor;False
 s1343;s1343v3;s1343v3c7;17 Oct Madras;1808;10;17;Madras;False
 s1343;s1343v3;s1343v3c8;19 Jan 1809 Cape;1809;1;19;Cape;False
 s1343;s1343v3;s1343v3c9;24 Feb St Helena;1809;2;24;St Helena;False
-s1343;s1343v3;s1343v3c10;21 May Downs i;1809;5;21;Downs i;False
+s1343;s1343v3;s1343v3c10;21 May Downs;1809;5;21;Downs;False
 s1343;s1343v4;s1343v4c1;Portsmouth 14 Mar 1810;1810;3;14;Portsmouth;False
 s1343;s1343v4;s1343v4c2;8 Jul Madras;1810;7;8;Madras;False
 s1343;s1343v4;s1343v4c3;29 Jul Calcutta;1810;7;29;Calcutta;False
@@ -28644,7 +28649,7 @@ s1356;s1356v3;s1356v3c2;22 Aug Culpee;1770;8;22;Culpee;False
 s1356;s1356v3;s1356v3c3;left Bengal 15 Jan 1773;1773;1;15;left Bengal;False
 s1356;s1356v3;s1356v3c4;2 Feb Madras;1773;2;2;Madras;False
 s1356;s1356v3;s1356v3c5;20 Jun Cape;1773;6;20;Cape;False
-s1356;s1356v3;s1356v3c6;28 Jul St Hlena;1773;7;28;St Hlena;False
+s1356;s1356v3;s1356v3c6;28 Jul St Helena;1773;7;28;St Helena;False
 s1356;s1356v3;s1356v3c7;;1773;nan;nan;;False
 s1356;s1356v4;s1356v4c1;Downs 9 Apr 1776;1776;4;9;Downs;False
 s1356;s1356v4;s1356v4c2;21 Jul Johanna;1776;7;21;Johanna;False
@@ -30603,7 +30608,7 @@ s1435;s1435v4;s1435v4c1;Downs 14 Apr 1684;1684;4;14;Downs;False
 s1435;s1435v4;s1435v4c2;14 May Sao Tiago;1684;5;14;Sao Tiago;False
 s1435;s1435v4;s1435v4c3;6 Sep Bombay;1684;9;6;Bombay;False
 s1435;s1435v4;s1435v4c4;14 Sep Surat;1684;9;14;Surat;False
-s1435;s1435v4;s1435v4c5;26 Nov Tcllicherry;1684;11;26;Tcllicherry;False
+s1435;s1435v4;s1435v4c5;26 Nov Tellicherry;1684;11;26;Tellicherry;False
 s1435;s1435v4;s1435v4c6;17 Dec Surat;1684;12;17;Surat;False
 s1435;s1435v4;s1435v4c7;23 Mar 1685 Bandar Abbas;1685;3;23;Bandar Abbas;False
 s1435;s1435v4;s1435v4c8;10 May Surat;1685;5;10;Surat;False

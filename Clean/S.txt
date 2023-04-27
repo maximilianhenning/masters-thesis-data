@@ -71,7 +71,7 @@ L/MAR/B/478A Journal 12 Jan 1742-9 Nov 1744
 L/MAR/B/478J(1) Ledger
 L/MAR/B/478J(2) Pay Book
 Capt Christopher Burrowes
-Portsmouth 22 Mar 1742 - 9 Jul St Augustine s Bay - 6 Sep Bombay - 24 Oct Cannanore -1 Nov Tellicheriy - 27 Nov Bombay - 20 Jan 1743 Bandar Abbas -16 Feb Bombay - 9 Mar Surat - 19 Mar Bombay 21 Mar - cruising with Harrington - 26 Mar Bombay - 20 Apr Cannanore - 24 Apr Tellicheriy - 30 Apr Calicut - 22 May Fort St David - 26 May Madras - 28 Dec Cape - 15 May 1744 St Helena - 8 Sep Teignmouth
+Portsmouth 22 Mar 1742 - 9 Jul St Augustine s Bay - 6 Sep Bombay - 24 Oct Cannanore -1 Nov Tellicherry - 27 Nov Bombay - 20 Jan 1743 Bandar Abbas -16 Feb Bombay - 9 Mar Surat - 19 Mar Bombay 21 Mar - cruising with Harrington - 26 Mar Bombay - 20 Apr Cannanore - 24 Apr Tellicheriy - 30 Apr Calicut - 22 May Fort St David - 26 May Madras - 28 Dec Cape - 15 May 1744 St Helena - 8 Sep Teignmouth
 2 1745/6 Bengal
 L/MAR/B/478B Journal 31 Dec 1745-18 Apr 1748
 L/MAR/B/478K(1) Ledger
@@ -417,7 +417,7 @@ L/MAM/B/355B Journal 28 Sep 1737-24 Aug 1739
 L/MAM/B/355K(1) Ledger
 L/MAM/B/355K(2) Pay Book
 Capt George Weslcott
-Downs 2 Feb 1738 - 3 Mar Sao Tiago - 10 Jun Johanna -19 Jul Fort St David - 30 Jul Madras - 9 Sep Balasore - 19 Sep Rogues River - 9 Nov Ingeli - 28 Nov Acheh - 27 Dec Bcnkulen - 20 May 1739 St Helena - 24 Aug Falmouth - 6 Sep Downs
+Downs 2 Feb 1738 - 3 Mar Sao Tiago - 10 Jun Johanna -19 Jul Fort St David - 30 Jul Madras - 9 Sep Balasore - 19 Sep Rogues River - 9 Nov Ingeli - 28 Nov Acheh - 27 Dec Benkulen - 20 May 1739 St Helena - 24 Aug Falmouth - 6 Sep Downs
 SCARBOROUGH (2)
 Rated at 499 tons. 99 crew, 30 guns
 1 1740/1 Madras and Bengal
@@ -925,7 +925,7 @@ L/MAR/B/190B Journal 2 May 1805-28 May 1807
 L/MAR/B/190H(1) Ledger
 L/MAR/B/190H(2) Pay Book
 Capt Henry Christopher
-Cork 31 Aug 1805 - 30 Sep Madeira - 12 Nov San Salvador - 6 Jan 1806 Cape - 8 May Bomba> - 10 Jul Saugor - 15 Jul Calcutta - 23 Aug Culpee - 20 Sep Saugor - 9 Oct Madras - 30 Dec Cape - 23 Jan 1807 St Helena - 12 Apr Downs
+Cork 31 Aug 1805 - 30 Sep Madeira - 12 Nov San Salvador - 6 Jan 1806 Cape - 8 May Bombay - 10 Jul Saugor - 15 Jul Calcutta - 23 Aug Culpee - 20 Sep Saugor - 9 Oct Madras - 30 Dec Cape - 23 Jan 1807 St Helena - 12 Apr Downs
 3 1806/7 Madras and Bombay
 L/MAR/B/190C Journal 15 Jul 1807-10 Feb 1809
 L/MAR/B/190-I(1) Ledger
@@ -1594,8 +1594,8 @@ L/MAR/B/257A Journal 5 Dec 1782-20 Jul 1785
 L/MAR/B/257H(1) Ledger
 L/MAR/B/257H(2) Pay Book
 Capt Stephen Williams
-Portsmouth 16 Mar 1783 - 10 Apr Sao Tiago - 19 Aug Johanna - 20 Sep Bombay - 23 Nov Tcllicherry
-- 1 Dec Cochin - 11 Dec Tcllicherry - 28 Jan 1784 Mangalore - 4 Feb Tcllicherry - 11 Mar Bombay - 23 Apr Tcllicherry - 1 Jim Malacca - 7 Jul Whampoa - 5 Nov Second Bar - 24 Mar 1785 St Helena - 11 Jun Downs
+Portsmouth 16 Mar 1783 - 10 Apr Sao Tiago - 19 Aug Johanna - 20 Sep Bombay - 23 Nov Tellicherry
+- 1 Dec Cochin - 11 Dec Tellicherry - 28 Jan 1784 Mangalore - 4 Feb Tellicherry - 11 Mar Bombay - 23 Apr Tellicherry - 1 Jim Malacca - 7 Jul Whampoa - 5 Nov Second Bar - 24 Mar 1785 St Helena - 11 Jun Downs
 2 1785/6 Madras and China
 L/MAR/B/257B Journal 21 Oct 1785-5 Sep 1787
 L/MAR/B/257-I(l) Ledger
@@ -1729,7 +1729,7 @@ Torbay 27 Apr 1674 - 25 Jul 1675 Downs
 3 1675 Madras and Bengal
 L/MAR/A/LXXHI ff.26-80 Journal 3 Feb-18 Sep 1677, John Slead
 Capt Francis Johnson
-Downs 8 Jan 1676 - Madras 3 Feb 1677 - 14 Jun St Helena - 2 Jul Ascentsion - 18 Sep Downs
+Downs 8 Jan 1676 - Madras 3 Feb 1677 - 14 Jun St Helena - 2 Jul Ascension - 18 Sep Downs
 4 1681/2 Bantam and the South Seas
 Capt Nathaniel Reynolds Downs 5 May 1682 - lost
 SURPRISE

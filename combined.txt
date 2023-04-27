@@ -711,7 +711,7 @@ AMERICA
 1 1694/5 Bombay
 L/MAR/A/LXXm Journal 15 Mar 1695-28 Oct 1697, anon 
 Capt Richard Laycock
-Down 24 Mar 1695 - 4 Jun Tenerife - 5 Jan 1696 Calicut - 29 Feb Bombay -16 Dec Cape -16 Feb 1697 St Heleha -16 Mar Ascension -13 Jun Cadiz - 28 Oct Downs
+Down 24 Mar 1695 - 4 Jun Tenerife - 5 Jan 1696 Calicut - 29 Feb Bombay -16 Dec Cape -16 Feb 1697 St Helena -16 Mar Ascension -13 Jun Cadiz - 28 Oct Downs
 AMERICAN (1)
 225 tons
 1 1659/60 Surat
@@ -4623,7 +4623,7 @@ Downs 11 Sep 1681 - Amoy - 'Macao islands' -15 Mar 1683 Surat - 5 Jul Downs
 G/12/16 Diary and consultations of the supercargoes 2 May 1685-3 May 1686
 R/10/1/1 Extracts from a journal
 Capt John Utber
-Downs 15 Nov 1683 - Surat 4 May 1685 - 26 Jun Malacca - 29Jul Amoy 1 Jan 1686 - 25 Apr Bombay - 3 May Surat - 16 May 1687 Downs
+Downs 15 Nov 1683 - Surat 4 May 1685 - 26 Jun Malacca - 29 Jul Amoy - Amoy 1 Jan 1686 - 25 Apr Bombay - 3 May Surat - 16 May 1687 Downs
 3 1699/1700 Borneo and China
 L/MAR/A/CXLD Ledger
 L/MAR/A/CXLIIa Administrators  Book
@@ -12760,7 +12760,7 @@ Capt John Cameron
 Portsmouth 10 Aug 1803 - 14 Aug Cork - 29 Sep Madeira - 10 Nov St Salvadorc - 4 Jan 1806 Cape - 17 Apr Madras - 21 Jun Diamond Harbour - 4 Sep Saugor - 9 Oct Madras - 30 Dec Cape - 23 Jan 1807 St Helena - 32 Apr Downs
 2 1807/8 Ceylon and Bengal
 L/MAR/B/299C(1) Imprest Book
-|L/MAR/B/299C(2) Absence Book
+L/MAR/B/299C(2) Absence Book
 Capt John Cameron
 Portsmouth 8 May 1808 - parted company off Mauritius 11 Mar 1809 and not heard of again
 JAVA
@@ -12783,19 +12783,19 @@ Downs 13 Nov 1633 - Jun 1634 Masuhpatam - Bantam - Masulipalam - 24 Mar 1636 Ban
 Downs - left Bantam for Surat summer 1641. not heard of again
 JOHANNA
 600 tons. 110 crew. 36 guns
-– 1 1671/2 Madras and Bengal
-Cap! Hopcfar Bcndall
+1 1671/2 Madras and Bengal
+Capt Hopefar Bendall
 2 3673/4 St Helena and Bantam
-Capl Hopcfar Bcndall
+Capt Hopefar Bendall
 9 Ma> 1674 - 30 Jun 1673
 3 \()15/() Madras and Bengal
-Capt Hopcfar Bcndall
+Capt Hopefar Bendall
 8 Jan 1676 - 13 Aug 1677
 4 1677/8 St Helena and Bantam
-Capl Hopcfar Bcndall
+Capt Hopefar Bendall
 27 Mar 1678 -
 5 1679/80 Sural
-Capt Hopcfar Bcndall
+Capt Hopefar Bendall
 -16 Jul 1681
 6 1681/2 Bengal
 Capl Robert Brown
@@ -17223,7 +17223,7 @@ Rated at 250 tons. 50 crew. 26 guns
 L/MAR/B/136A(1) Journal 6 Nov 1702-8 Apr 1704, 
 Capt Dennis?
 Capt Charles Hill/Benjamin Dennis
-Downs 20 Apr 1701 - Bandar Abbas 10 Nov 1702 - 4 Dee Bombay - 14 Dee Sural - 1 Jan 1703 Karwar - 19 Jan Bombay - 15 Feb Karwar - 25 Feb Tcllichcrry - 26 Apr Mauritius - 16 Sep Cape - 17 Oct St Helena - 11 Apr 1704 Downs
+Downs 20 Apr 1701 - Bandar Abbas 10 Nov 1702 - 4 Dee Bombay - 14 Dee Sural - 1 Jan 1703 Karwar - 19 Jan Bombay - 15 Feb Karwar - 25 Feb Tellicherry - 26 Apr Mauritius - 16 Sep Cape - 17 Oct St Helena - 11 Apr 1704 Downs
 2 1704/5 St Helena, Madras and Bcnkulcn
 L/MAR/B/136A(2) Journal 2 Jan 1705-29 Oct 1708. Jonathan Negus, Chief Mate
 Capt Benjamin Dennis
@@ -20828,7 +20828,7 @@ ROSE (3)
 1 1800/1 Bengal
 L/MAR/B/59G Journal 28 Nov 1800-23 Apr 1802
 Capt Christopher Kymer
-Downs 19 Jan 1801 - 25 May Diamond Harbour - 17 Aug Kedgeree - 31 Dec St Helena - 25 Feb 1802 JJowns
+Downs 19 Jan 1801 - 25 May Diamond Harbour - 17 Aug Kedgeree - 31 Dec St Helena - 25 Feb 1802 Downs
 ROSE (4)
 Built by wells, launched 1810, 955 tons
 Principal Managing Owners: 1-3 James Begbie, 4-6 Stuart Donaldson, 7-10 Thomas Milroy, 11 John Milroy
@@ -21480,7 +21480,7 @@ L/MAR/B/478A Journal 12 Jan 1742-9 Nov 1744
 L/MAR/B/478J(1) Ledger
 L/MAR/B/478J(2) Pay Book
 Capt Christopher Burrowes
-Portsmouth 22 Mar 1742 - 9 Jul St Augustine s Bay - 6 Sep Bombay - 24 Oct Cannanore -1 Nov Tellicheriy - 27 Nov Bombay - 20 Jan 1743 Bandar Abbas -16 Feb Bombay - 9 Mar Surat - 19 Mar Bombay 21 Mar - cruising with Harrington - 26 Mar Bombay - 20 Apr Cannanore - 24 Apr Tellicheriy - 30 Apr Calicut - 22 May Fort St David - 26 May Madras - 28 Dec Cape - 15 May 1744 St Helena - 8 Sep Teignmouth
+Portsmouth 22 Mar 1742 - 9 Jul St Augustine s Bay - 6 Sep Bombay - 24 Oct Cannanore -1 Nov Tellicherry - 27 Nov Bombay - 20 Jan 1743 Bandar Abbas -16 Feb Bombay - 9 Mar Surat - 19 Mar Bombay 21 Mar - cruising with Harrington - 26 Mar Bombay - 20 Apr Cannanore - 24 Apr Tellicheriy - 30 Apr Calicut - 22 May Fort St David - 26 May Madras - 28 Dec Cape - 15 May 1744 St Helena - 8 Sep Teignmouth
 2 1745/6 Bengal
 L/MAR/B/478B Journal 31 Dec 1745-18 Apr 1748
 L/MAR/B/478K(1) Ledger
@@ -21826,7 +21826,7 @@ L/MAM/B/355B Journal 28 Sep 1737-24 Aug 1739
 L/MAM/B/355K(1) Ledger
 L/MAM/B/355K(2) Pay Book
 Capt George Weslcott
-Downs 2 Feb 1738 - 3 Mar Sao Tiago - 10 Jun Johanna -19 Jul Fort St David - 30 Jul Madras - 9 Sep Balasore - 19 Sep Rogues River - 9 Nov Ingeli - 28 Nov Acheh - 27 Dec Bcnkulen - 20 May 1739 St Helena - 24 Aug Falmouth - 6 Sep Downs
+Downs 2 Feb 1738 - 3 Mar Sao Tiago - 10 Jun Johanna -19 Jul Fort St David - 30 Jul Madras - 9 Sep Balasore - 19 Sep Rogues River - 9 Nov Ingeli - 28 Nov Acheh - 27 Dec Benkulen - 20 May 1739 St Helena - 24 Aug Falmouth - 6 Sep Downs
 SCARBOROUGH (2)
 Rated at 499 tons. 99 crew, 30 guns
 1 1740/1 Madras and Bengal
@@ -22334,7 +22334,7 @@ L/MAR/B/190B Journal 2 May 1805-28 May 1807
 L/MAR/B/190H(1) Ledger
 L/MAR/B/190H(2) Pay Book
 Capt Henry Christopher
-Cork 31 Aug 1805 - 30 Sep Madeira - 12 Nov San Salvador - 6 Jan 1806 Cape - 8 May Bomba> - 10 Jul Saugor - 15 Jul Calcutta - 23 Aug Culpee - 20 Sep Saugor - 9 Oct Madras - 30 Dec Cape - 23 Jan 1807 St Helena - 12 Apr Downs
+Cork 31 Aug 1805 - 30 Sep Madeira - 12 Nov San Salvador - 6 Jan 1806 Cape - 8 May Bombay - 10 Jul Saugor - 15 Jul Calcutta - 23 Aug Culpee - 20 Sep Saugor - 9 Oct Madras - 30 Dec Cape - 23 Jan 1807 St Helena - 12 Apr Downs
 3 1806/7 Madras and Bombay
 L/MAR/B/190C Journal 15 Jul 1807-10 Feb 1809
 L/MAR/B/190-I(1) Ledger
@@ -23003,8 +23003,8 @@ L/MAR/B/257A Journal 5 Dec 1782-20 Jul 1785
 L/MAR/B/257H(1) Ledger
 L/MAR/B/257H(2) Pay Book
 Capt Stephen Williams
-Portsmouth 16 Mar 1783 - 10 Apr Sao Tiago - 19 Aug Johanna - 20 Sep Bombay - 23 Nov Tcllicherry
-- 1 Dec Cochin - 11 Dec Tcllicherry - 28 Jan 1784 Mangalore - 4 Feb Tcllicherry - 11 Mar Bombay - 23 Apr Tcllicherry - 1 Jim Malacca - 7 Jul Whampoa - 5 Nov Second Bar - 24 Mar 1785 St Helena - 11 Jun Downs
+Portsmouth 16 Mar 1783 - 10 Apr Sao Tiago - 19 Aug Johanna - 20 Sep Bombay - 23 Nov Tellicherry
+- 1 Dec Cochin - 11 Dec Tellicherry - 28 Jan 1784 Mangalore - 4 Feb Tellicherry - 11 Mar Bombay - 23 Apr Tellicherry - 1 Jim Malacca - 7 Jul Whampoa - 5 Nov Second Bar - 24 Mar 1785 St Helena - 11 Jun Downs
 2 1785/6 Madras and China
 L/MAR/B/257B Journal 21 Oct 1785-5 Sep 1787
 L/MAR/B/257-I(l) Ledger
@@ -23138,7 +23138,7 @@ Torbay 27 Apr 1674 - 25 Jul 1675 Downs
 3 1675 Madras and Bengal
 L/MAR/A/LXXHI ff.26-80 Journal 3 Feb-18 Sep 1677, John Slead
 Capt Francis Johnson
-Downs 8 Jan 1676 - Madras 3 Feb 1677 - 14 Jun St Helena - 2 Jul Ascentsion - 18 Sep Downs
+Downs 8 Jan 1676 - Madras 3 Feb 1677 - 14 Jun St Helena - 2 Jul Ascension - 18 Sep Downs
 4 1681/2 Bantam and the South Seas
 Capt Nathaniel Reynolds Downs 5 May 1682 - lost
 SURPRISE
@@ -23630,7 +23630,7 @@ L/MAR/B/8-I Journal 20 Oct 1801-30 Jun 1803
 L/MAR/B/8BB(1) Ledger
 L/MAR/B/8BB(2) Pay Book
 Capt Robert Williams Portsmouth 12 Feb 1802-11 Jun Bombay - 25 Sep Whampoa - Second Bar 3 Jan 1803-7 Mar
-St Helena-24 Apr Downs
+St Helena - 24 Apr Downs
 4 1803/4 St Helena and China
 L/MAR/B/8J Journal 28 Nov 1803-25 Nov 1805
 L/MAR/B/8CC(1) Ledger
@@ -23717,7 +23717,7 @@ Capt John Rhodes Pidding
 Portsmouth 21 Feb 1833 - 23 May Bombay 20 Jul - 2 Sep Singapore - 26 Sep Whampoa - Second Bar 27 Nov 25 Jan 1834 Cape - 12 Feb St Helena - 2 Apr Downs
 THETIS (1)
 Built by Randall, launched 1786. 3 decks, 4in bottom, length 143ft 6'Ain. keel 115ft 11 'Am. breadth 36ft 1 'Ain. hold 14ft lOin. wing transom 23ft Sin. port cell 26ft 472in. waist 1ft. between decks 5fl 1 lin & Oft 3in. roundhouse Oft 3'Ain. ports 13 middle & upper, deck range 82ft. 804 tons Principal Managing Owner: Thomas Ncwlc
-! 1786/7 Bengal
+1 1786/7 Bengal
 L/MAR/B/387A Journal 22 Ocl 1786-29 Jul 1788
 L/MAR/B/387H(1) 
 L/MAR/B/387H(2) 
@@ -23993,7 +23993,7 @@ L/MAR/B/219D Journal 3 Jul 1807-27 Jun 1809
 L/MAR/B/219K(1) Ledger
 L/MAR/B/219K(2) Pay Book
 Capt Dugald MacDougall
-Portsmouth 17 Sep 1807 - 28 Madeira - 27 Dec Cape - 5 Apr 1808 Madras - 18 May Calcutta - Saugor 3 Oct-17 Oct Madras -19 Jan 1809 Cape - 24 Feb St Helena - 21 May Downs i
+Portsmouth 17 Sep 1807 - 28 Madeira - 27 Dec Cape - 5 Apr 1808 Madras - 18 May Calcutta - Saugor 3 Oct-17 Oct Madras -19 Jan 1809 Cape - 24 Feb St Helena - 21 May Downs
 4 1809/10 Madras and Bengal
 L/MAM/B/219E Journal 23 Dec 1809-17 Apr 1811 
 L/MAR/B/219L(1) Ledger 
@@ -24243,7 +24243,7 @@ L/MAM/B/366V (1) Ledger
 L/MAM/B/366V(2) Pay Book
 Capt William Elphinstone
 Downs 1 Jan 1772 - 21 Jan Madeira - 5 May Cape - 19 Jun Johanna -15 Jul Madras - 5 Aug
-Kedgeree - 22 Aug Culpee - left Bengal 15 Jan 1773 - 2 Feb Madras - 20 Jun Cape - 28 Jul St Hlena -
+Kedgeree - 22 Aug Culpee - left Bengal 15 Jan 1773 - 2 Feb Madras - 20 Jun Cape - 28 Jul St Helena -
 8 Oct Downs
 4 1775/6 Madras and Bengal
 L/MAR/B/366H Journal 24 Dec 1775-1 Sep 1777
@@ -25874,7 +25874,7 @@ Capt Richard Warner
 4 1683/4 Surat
 BL: Sloane Ms 1045 Journal 14 Arp 1684-28 Jun 1686, Henry Starkey 
 Capt Richard Warner
-Downs 14 Apr 1684 - 14 May Sao Tiago - 6 Sep Bombay - 14 Sep Surat - 26 Nov Tcllicherry - 17 Dec Surat - 23 Mar 1685 Bandar Abbas -10 May Surat - 25 Dec Bombay - 25 Apr 1686 St Helena - Downs
+Downs 14 Apr 1684 - 14 May Sao Tiago - 6 Sep Bombay - 14 Sep Surat - 26 Nov Tellicherry - 17 Dec Surat - 23 Mar 1685 Bandar Abbas -10 May Surat - 25 Dec Bombay - 25 Apr 1686 St Helena - Downs
 5 1686/7 Madras
 Capt Richard Warner
 Downs 11 Feb 1687 - 12 Jul 1690 Plymouth

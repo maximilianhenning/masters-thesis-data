@@ -126,7 +126,7 @@ Capt John Cameron
 Portsmouth 10 Aug 1803 - 14 Aug Cork - 29 Sep Madeira - 10 Nov St Salvadorc - 4 Jan 1806 Cape - 17 Apr Madras - 21 Jun Diamond Harbour - 4 Sep Saugor - 9 Oct Madras - 30 Dec Cape - 23 Jan 1807 St Helena - 32 Apr Downs
 2	1807/8	Ceylon and Bengal
 L/MAR/B/299C(1)	Imprest Book
-|L/MAR/B/299C(2)	Absence Book
+L/MAR/B/299C(2)	Absence Book
 Capt John Cameron
 Portsmouth 8 May 1808 - parted company off Mauritius 11 Mar 1809 and not heard of again
 JAVA
@@ -150,19 +150,19 @@ Downs 13 Nov 1633 - Jun 1634 Masuhpatam - Bantam - Masulipalam - 24 Mar 1636 Ban
 Downs - left Bantam for Surat summer 1641. not heard of again
 JOHANNA
 600 tons. 110 crew. 36 guns
-■1	1671/2	Madras and Bengal
-Cap! Hopcfar Bcndall
+1	1671/2	Madras and Bengal
+Capt Hopefar Bendall
 2	3673/4	St Helena and Bantam
-Capl Hopcfar Bcndall
+Capt Hopefar Bendall
 9 Ma> 1674 - 30 Jun 1673
 3	\()15/()	Madras and Bengal
-Capt Hopcfar Bcndall
+Capt Hopefar Bendall
 8 Jan 1676 - 13 Aug 1677
 4	1677/8	St Helena and Bantam
-Capl Hopcfar Bcndall
+Capt Hopefar Bendall
 27 Mar 1678 -
 5	1679/80	Sural
-Capt Hopcfar Bcndall
+Capt Hopefar Bendall
 -16 Jul 1681
 6	1681/2	Bengal
 Capl Robert Brown
