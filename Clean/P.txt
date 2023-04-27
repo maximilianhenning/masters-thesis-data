@@ -86,7 +86,7 @@ L/MAR/B/607A Journal 26 Dec 1744-20 Aug 1747, George Lindsay, Chief Mate
 L/MAR/B/607F(1) Ledger
 L/MAM/B/607F(2) Pay Book
 Capt William Wells
-Downs 19 Apr 1745 - 22 Aug Cape 26 Sep - 3 Oct Cape - 23 Mar 1746 Bombay - 27 Sep Tellicherry - 29 Dec Cape - 22 Apr 1747 St Helena - 20 Aug ‘towards Lisbon 
+Downs 19 Apr 1745 - 22 Aug Cape 26 Sep - 3 Oct Cape - 23 Mar 1746 Bombay - 27 Sep Tellicherry - 29 Dec Cape - 22 Apr 1747 St Helena - 20 Aug 'towards Lisbon 
 2 1747/8 Madras and China
 L/MAR/B/607B Journal 4 Feb 1748-11 Jun 1750, Stephen Underdown, Chief Mate
 L/MAR/B/607G(1) Ledger
@@ -386,7 +386,7 @@ L/MAR/B/525A Journal 27 Nov 1757-28 Apr 1760
 L/MAR/B/525-I(l) Ledger
 L/MAR/B/525-I(2) Pay Book
 Capt William Wilson
-Portsmouth 6 Mar 1758 -3 May Fernando Noronha - 21 Jul St Augustine s Bay - 14 Sep Madras - 20 Oct Kedah - 10 Nov Malacca - 15 Dec Batavia -15 Apr 1759 Whampoa -15 May Second Bar - 6 Jun Macao - 24 Aug Batavia - 2 Sep Benkulen - 9 Dec St Helena - 23 Feb 1760 Kinsale - 8 Apr Downs * see ‘The voyage of the Pitt - a turning point in the East India navigation , R P Crowhurst, Mariner s Mirror 55 (1969) pp.43-56
+Portsmouth 6 Mar 1758 -3 May Fernando Noronha - 21 Jul St Augustine s Bay - 14 Sep Madras - 20 Oct Kedah - 10 Nov Malacca - 15 Dec Batavia -15 Apr 1759 Whampoa -15 May Second Bar - 6 Jun Macao - 24 Aug Batavia - 2 Sep Benkulen - 9 Dec St Helena - 23 Feb 1760 Kinsale - 8 Apr Downs * see 'The voyage of the Pitt - a turning point in the East India navigation , R P Crowhurst, Mariner s Mirror 55 (1969) pp.43-56
 2 1760/1 Madras and China
 L/MAR/B/525B Journal 24 Oct 1760-14 Sep 1762
 L/MAR/B/525J(1) Ledger
@@ -715,7 +715,7 @@ L/MAR/B/509-I(3) Imprest Book
 L/MAR/B/509-I(4) Absence Book
 Capt James Dundas
 Portsmouth 16 Jun 1779 - 10 Oct Cape - 2 Feb 1780 Cochin - 10 Feb Tellicherry - 19 Feb Onore - 22 Mar Bombay - 1 May Tellicherry - 12 May Madras - 24 Aug Bombay -31 Oct Goa - 14 Nov Tellicherry - 30 Nov Cochin - 8 Dec Anjengo -18 Dec Cochin - 26 Dec Tellicherry - 17 Jan 1781 Goa - 3 Feb Bombay -14 Sep St Helena -15 Mar 1782 Downs
-5 1782/3 ‘India , to remain
+5 1782/3 'India , to remain
 L/MAR/B/509J(1) Imprest Book
 L/MAR/B/509J(2) Absence Book
 Capt Philip Sharpe Portsmouth 16 Mar 1783 -
@@ -1007,7 +1007,7 @@ Torbay 23 Mar 1776 - 165 Jun Cape - 24 Aug Madras -17 Jan 1777 Ingeli - 22 Feb M
 PRINCE OF WALES (5)
 1 1786/7 British Columbia and China
 L/MAR/B/404-O Journal 15 Oct 1786-23 Jan 1789, anon
-Isle of Wight 15 Oct 1786 - 14 Nov Sao Tiago - 24 Jan 1789 ‘New Year s Island  - 6 Jul Nootka Sound - 21 Aug Queen Charlotte s Islands - 10 Jan 1788 Sandwich Islands - 27 Apr Montague Island -12 Sep off Morotai - 8 Nov off Taiwan - 25 Nov Whampoa
+Isle of Wight 15 Oct 1786 - 14 Nov Sao Tiago - 24 Jan 1789 'New Year s Island  - 6 Jul Nootka Sound - 21 Aug Queen Charlotte s Islands - 10 Jan 1788 Sandwich Islands - 27 Apr Montague Island -12 Sep off Morotai - 8 Nov off Taiwan - 25 Nov Whampoa
 PRINCE OF WALES (6)
 Armed transport
 1 1794/5 Cape, Madras, Ceylon and China
@@ -1269,7 +1269,7 @@ L/MAR/B/590C Journal 21 Nov 1759-21 Sep 1762
 L/MAR/B/590G(1) Ledger
 L/MAR/B/590G(2) Pay Book
 Capt Thomas Baddison
-Portsmouth 7 Mar 1760 - 20 Jul Anjengo - 31 Jul Cuddalore -10 Aug Madras -15 Nov Balambangan - 24 Jan 1761 ‘Straits of New Guinea  - 28 Mar Macao - 7 Apr Whampoa - 28 Jun Second Bar - 8 Jul Macao - 13 Oct returned to Macao (storms) - 23 Oct Pearl River - 23 Dec Macao - 14 Jan 1762 Malacca - 24 Apr St Helena -16 Jul Falmouth - 8 Aug Downs
+Portsmouth 7 Mar 1760 - 20 Jul Anjengo - 31 Jul Cuddalore -10 Aug Madras -15 Nov Balambangan - 24 Jan 1761 'Straits of New Guinea  - 28 Mar Macao - 7 Apr Whampoa - 28 Jun Second Bar - 8 Jul Macao - 13 Oct returned to Macao (storms) - 23 Oct Pearl River - 23 Dec Macao - 14 Jan 1762 Malacca - 24 Apr St Helena -16 Jul Falmouth - 8 Aug Downs
 4 1763/4 St Helena, Benkulen and China
 L/MAR/B/590D Journal 22 Sep 1763-29 Mar 1766
 L/MAR/B/590H(1) Ledger
@@ -1710,7 +1710,7 @@ Downs 26 Oct 1682 - off Ceylon 5 Apr 1683 - 21 Apr Balasore - 1 Jun 1684 Downs
 Capt Samuel Lake
 Downs 12 Nov 1684 - wrecked at Bombay
 PURSUIT
-Extra ship, repaired by Fletcher 1797, 2 decks, 4in bottom, lengh 107ft 9%in, keel 86ft H/dn, breadth 29ft 3y4in, hold 12ft 8%in, wing transom 16ft 4in, port cell 23ft lOin, waist 3ft 2‘Ain, between decks 6ft 33/4in, ports 3 lower & 4 upper, 393 tons
+Extra ship, repaired by Fletcher 1797, 2 decks, 4in bottom, lengh 107ft 9%in, keel 86ft H/dn, breadth 29ft 3y4in, hold 12ft 8%in, wing transom 16ft 4in, port cell 23ft lOin, waist 3ft 2'Ain, between decks 6ft 33/4in, ports 3 lower & 4 upper, 393 tons
 1 1795/6 Bengal
 L/MAR/B/406A Journal 2 Sep 1795-26 Jan 1797
 Capt John Barker

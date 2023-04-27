@@ -434,7 +434,7 @@ CARDIGAN
     1 1712/3	Bengal
 L/MAR/B/668A	Journal 5 Nov 1712-26 Apr 1716
 Capt Richard Grainger
-Downs 23 Feb 1713 - 15May Cape-29 JulBalasore-11 Aug Rogues River - 29 Oct Calcutta- 29 Jan 1714 Rogues River - 2 Mar Anjengo -1 May Bandar Abbas -18 Aug Madras - 28 Sep Balasore -10 Oct Rogues River - 6 Jan 1715 Cox’s Island -19 Feb Madras - 26 Feb Fort St David - 5 Mar Madras - 22 Mar Fort St David - 31 Mar Madras - 29 Oct Cape -12 Dec St Helena - 24 Apr 1716 Woolwich
+Downs 23 Feb 1713 - 15 May Cape-29 JulBalasore-11 Aug Rogues River - 29 Oct Calcutta- 29 Jan 1714 Rogues River - 2 Mar Anjengo -1 May Bandar Abbas -18 Aug Madras - 28 Sep Balasore -10 Oct Rogues River - 6 Jan 1715 Cox’s Island -19 Feb Madras - 26 Feb Fort St David - 5 Mar Madras - 22 Mar Fort St David - 31 Mar Madras - 29 Oct Cape -12 Dec St Helena - 24 Apr 1716 Woolwich
     2 1716/7	Bengal
 L/MAR/B/668B	Journal 26 Nov 1716-10 Oct 1718
 L/MAR/B/668E(1)	Ledger
@@ -1435,7 +1435,7 @@ Capt Henry Risby
 Downs Mar 1663 - 10 Jul 1664
     4 1667/8	Bantam and Jambi
 Capt Thomas Hall
-Do\yns 10 Mar 1668 - 15 Jul 1669
+Downs 10 Mar 1668 - 15 Jul 1669
     5 1669/70	Madras and Bengal
 Capt Thomas Hall
 Downs 10 Nov 1669 - 14 Jul 1671 Downs

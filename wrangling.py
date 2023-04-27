@@ -5,8 +5,6 @@ from os import path
 path = path.dirname(__file__)
 clean_file_list = glob(path + "/Clean/*")
 
-
-
 # Classify lines
 def line_classify(lines):
     lines_classed = []

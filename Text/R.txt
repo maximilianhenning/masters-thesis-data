@@ -44,7 +44,7 @@ Pulicat - 17 Jul Madras - 9 Aug Masulipatam - 21 Aug Diamond Harbour - 27 Aug of
  
 RANGER (2)
 Extra ship, repaired by Brent 1786, 3 decks, 3in bottom, length 120ft, keel 95ft 1 lin. breadth 32ft Sl/zin, hold 13ft 4in, wing transom 18ft 6in, port cell 22ft 'Ain, waist 3in, between decks 4ft 7Ain & 5ft Sin, ports 12 middle & upper, 537 tons Principal Managing Owner: Anthony Calvert
-l	1785/6 China
+1	1785/6 China
 L/MAR/B/421A(1)	Journal 8 Mar	1786-14 Jul 1787
 L/M AR/1B/421 E(l)	Ledger
 L/MAR/B/421 E(2)	Pay Book
@@ -107,7 +107,7 @@ Portsmouth 5 Jun 1797 - captured in Tellicheny Roads 20 Apr 1798 by French friga
 REBECCA (1)
 200/250
 1	1663/4	Madras	and	Bengal
-Capl William Baddiley
+Capt William Baddiley
 2	1667/8	Surat
 Capt William Baddiley
 3	1669/70	Bantam

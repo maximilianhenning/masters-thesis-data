@@ -11,7 +11,7 @@ L/MAR/A/XXXin Journal 14 Jan-27 May 1621 Master John Wood
 Downs 14 Jan 1621 -1 Mar Sierra Leone - 24 May Cape - Nov Batavia - Jambi - Mar 1622 Batavia - Jambi - May Batavia - Dec Cape - Jun 1623 Ireland - Downs Broken up in 1624
 JAMES (2)
 Sloop, 50 tons
-1 1683/4 â€˜India 
+1 1683/4 'India 
 Capt Unkettle 9 Dec 1683 -
 JAMES (3)
 Licencesed ship, 300 tons, 60 crew, 30 guns
@@ -73,7 +73,7 @@ Downs 27 Mar 1624 - 17 Jul Cape - 21 Aug St Augustine s Bay - 1 Sep Moheli -18 S
 Capt Matthew Morton
 Downs 19 Mar 1630 - Trimdade -14 Jul St Augustine s Bay - 22 Sep Surat - 7 Feb 1631 Bandar Abbas - Surat 27 Apr - Sumatra - 24 Aug Bantam 6 Oct - returned to Bantam - 4 Feb 1632 Mauritius - Mozambique Channel - 3 Oct Bandar Abbas - 27 Nov Surat 28 Jan 1633 - 1 Apr Mauntius - 6 Jun St Helena - Aug Downs Broken up in 1634
 JAMES SIBBALD
-Emit at Bombay, launched 1810, 2 decks, 41/2in bottom, length 135ft 1m, keel 109ft 7in, breadth 33ft 4m, hold 16ft 6m, wing transom 22ft, port cell 27ft lOin, waist 13 in, between decks 6ft 6â€˜Am, roundhouse 6ft 3 m, ports 11 upper, 647 tons Principal Managing Owner: 1-4 George Gooch
+Emit at Bombay, launched 1810, 2 decks, 41/2in bottom, length 135ft 1m, keel 109ft 7in, breadth 33ft 4m, hold 16ft 6m, wing transom 22ft, port cell 27ft lOin, waist 13 in, between decks 6ft 6'Am, roundhouse 6ft 3 m, ports 11 upper, 647 tons Principal Managing Owner: 1-4 George Gooch
 1 From Bombay 1810
 L/MAR/B/64A Journal 18 Jun-17 Dec 1810
 Capt George Harrower
@@ -153,7 +153,7 @@ Downs 13 Nov 1633 - Jun 1634 Masuhpatam - Bantam - Masulipalam - 24 Mar 1636 Ban
 Downs - left Bantam for Surat summer 1641. not heard of again
 JOHANNA
 600 tons. 110 crew. 36 guns
-â– 1 1671/2 Madras and Bengal
+– 1 1671/2 Madras and Bengal
 Cap! Hopcfar Bcndall
 2 3673/4 St Helena and Bantam
 Capl Hopcfar Bcndall

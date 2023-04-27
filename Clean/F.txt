@@ -77,7 +77,7 @@ L/MAR/B/582B Journal 25 Oct 1756-15 Mav 1759
 L/MAR/B/582F(1) Ledger
 L/MAR/B/582F(2) Pay Book
 Capt James Dale
-Downs 30 Jan 1757 - 13 Mar Torbay - 22 Jan St Helena - 29 Sen Bcnkuien - 8 Nov Moco Moco - 25 Jan 1758 Manna - 15 Feb Benkulen - 21 Mar Batavia - 5 Jui St Helena - 3 Aug Fernando Loronho - 6 Nov Clyde - 23 Feb 1659 Cork - 20 Apr Dow ns
+Downs 30 Jan 1757 - 13 Mar Torbay - 22 Jan St Helena - 29 Sen Bcnkuien - 8 Nov Moco Moco - 25 Jan 1758 Manna - 15 Feb Benkulen - 21 Mar Batavia - 5 Jui St Helena - 3 Aug Fernando Loronho - 6 Nov Clyde - 23 Feb 1659 Cork - 20 Apr Downs
 3 1759/60 Madras
 L/MAR/E/582C Journal 23 Nov 1759-21 May 1762
 L/MAR/B/582G(1) Ledger
@@ -210,7 +210,7 @@ See Barlow s journal, ed Basil Lubbock (London, 1934), II pp.529-44
 4 1704/5 Madras and Bengal
 L/MAR/B/693A Journal 10 Nov 1704-3 Apr 1707 [Charles Newton, Chief Mate ?]
 Capt Thomas Burgess
-Downs 5 Jan 1705 - 28 Jun Madras - 29 Jul Balasore - 7 Aug Rogues River - 22 Aug ‘Ganges  - 19 Jan 1706 Madras - 26 May Cape - 5 Aug St Helena -12 Nov Cork - 8 Mar 1707 Blackwall
+Downs 5 Jan 1705 - 28 Jun Madras - 29 Jul Balasore - 7 Aug Rogues River - 22 Aug 'Ganges  - 19 Jan 1706 Madras - 26 May Cape - 5 Aug St Helena -12 Nov Cork - 8 Mar 1707 Blackwall
 5 1707/8 St Helena, Bombay and Mokha
 Capt Charles Newton
 FLORENTIA
@@ -275,13 +275,13 @@ Country voyage
 1680 Tonkin
 L/MAE/A/LXXIV pp.125-53 Journal 21 Jun=10 Dec 1680 Bantam 21 Jun 1680 - 13 Jun Tonkin 14 Nov - 10 Dec Bantam
 FORTITUDE (1)
-Built by Wells, launched 1780, 3 decks. 4in bottom, length 139ft 4,/2in, keel 111ft 9in, breadth 36ft LAin, hold 14ft 9‘/2in, wing transom 23ft 9in, port cell 26ft 3 Ain, between decks 6ft lin & 6ft 61/2in, roundhouse 6ft 5 Ain, ports 12 middle & upper, 775 tons
+Built by Wells, launched 1780, 3 decks. 4in bottom, length 139ft 4,/2in, keel 111ft 9in, breadth 36ft LAin, hold 14ft 9'/2in, wing transom 23ft 9in, port cell 26ft 3 Ain, between decks 6ft lin & 6ft 61/2in, roundhouse 6ft 5 Ain, ports 12 middle & upper, 775 tons
 1 1780/1 Madras and Bengal
 L/MAR/B/540A Journal 14 Dec 1780-23 Jun 1782
 L/MAM/B/540B(1) Imprest Book
 L/MAR/B/540B(2) Absence Book
 Capt Charles Gregorie
-Portsmouth 13 Mar 1781 - 15 Apr engagment with French off Sao Tiago -17 Aug Madras - 28 Sep Kedgeree - 10 Nov Saugor - 10 Dec Madras - 16 Feb 1782 Kedgeree - 8 May ‘Cockelee  - 23 Jun captured by French frigate La Fine
+Portsmouth 13 Mar 1781 - 15 Apr engagment with French off Sao Tiago -17 Aug Madras - 28 Sep Kedgeree - 10 Nov Saugor - 10 Dec Madras - 16 Feb 1782 Kedgeree - 8 May 'Cockelee  - 23 Jun captured by French frigate La Fine
 FORTITUDE (2)
 Company s packet, 170 tons, 25 crew, 4 guns
 1 From India 1784 L/MAM/B/540C(1) Ledger 
@@ -361,7 +361,7 @@ FORT WILLIAM (3)
 Built at Calcutta, launched 1806, 3 decks, 4'Ain bottom, length 162ft 6in, keel 132ft, breadth 46ft 3in, hold 16ft Sin, wing transom 25ft Sin, port cell 29ft, waist 1ft lOin, between decks 6ft 6in & 6ft 6%m, roundhouse 6ft Sin, ports 14 middle & 13 upper, deck range 99ft, 1137 tons Principal Managing Owners: Gilmore & Co
 1 From India 1809
 L/MAR/B/91H Journal 12 Oct 1809-29 Jun 1810, anon [Parsons?]
-‘East Indies  12 Oct 1809 - 25 Dec Cape -13 Jan 1810 St Helena - 24 Mar Greenhithe
+'East Indies  12 Oct 1809 - 25 Dec Cape -13 Jan 1810 St Helena - 24 Mar Greenhithe
 2 From China 1812
 L/MAR/B/91-I Journal 29 Jul 1812-15 Jul 1813
 Capt J R Parish
@@ -390,7 +390,7 @@ L/MAR/B/455B Journal 19 Nov 1785-27 Nov 1788
 L/MAR/B/455E(1) Ledger
 L/MAR/B/455E(2) Pay Book
 Capt George Blachford
-Downs 20 Feb 1786 - 16 Jun False Bay - 26 Aug Madras -11 Sep Masulipatam - 4 Oct ‘Bengal  - 13 Dec Kedgeree -11 Feb 1787 Madras - 20 Mar Calicut -13 Apr Bombay -13 Aug Penang - 6 Oct Whampoa - 9 Feb 1788 Second Bar -17 Jul St Helena - 23 Oct Downs
+Downs 20 Feb 1786 - 16 Jun False Bay - 26 Aug Madras -11 Sep Masulipatam - 4 Oct 'Bengal  - 13 Dec Kedgeree -11 Feb 1787 Madras - 20 Mar Calicut -13 Apr Bombay -13 Aug Penang - 6 Oct Whampoa - 9 Feb 1788 Second Bar -17 Jul St Helena - 23 Oct Downs
 3 1789/90 Madras, Bengal and Benkulen
 Capt George Blachford
 Downs 3 Jun 1790 - left Madras for Benkulen 8 Mar 1791, not heard of again See 

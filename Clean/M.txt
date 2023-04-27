@@ -665,7 +665,7 @@ L/MAR/B/373G(2) Pay Book
 L/MAR/B/373G(3) Absence Book
 L/MAR/B/373G(4) Imprest Book
 Capt David Tolme
-Down5 12 Mar 1787 - 28 Aug Whampoa -10 Jan 1788 Second Bar - 22 Apr St Helena - 10 Jul Downs
+Downs 12 Mar 1787 - 28 Aug Whampoa -10 Jan 1788 Second Bar - 22 Apr St Helena - 10 Jul Downs
 2 1789/90 St Helena and China
 L/MAR/B/373B Journal 1 Jan 1790-4 Aug 1791
 L/MAR/B/373H(1) Ledger
@@ -837,12 +837,12 @@ Capt Thomas Raines
 L/MAR/A/CXLVI Journal 20 Apr 1700-14 Apr 1702, Samuel Goodman 
 L/MAR/B/118A(1) Journal 7 May 1702-17 Apr 1703, Samuel Goodman Capt Thomas Raines
 Downs 15 May 1700 - 7 Jun Sao Tiago - 22 Jul All Saints  Bay - 2 Feb 1701 Cochin -15 Mar Karwar - 13 Apr Bombay -10 Jul Bandar Abbas - 31 Oct Bombay - 17 Nov Surat - Bombay 7 May 1702 - 19 Jun Mauritius - 8 Nov St Helena - 25 Nov Ascension - 29 Dec Barbados -14 Apr 1703 Erith
-• 27 Oct 1700 description and sketch of a ‘sea duck 
+ 27 Oct 1700 description and sketch of a 'sea duck 
 4 1703/4 Madras and Bengal
 L/MAR/B/118A(2)-B Journal 13 Jan 1704-15 Feb 1706 
 Capt Samuel Goodman
-Downs 13 Feb 1704 - 28 Jul Madras -19 Sep Balasore - 20 Feb 1705 Masulipatam - 2 Mar Madras - 22 May Mauritius -13 Oct Cape - 18 Nov St Helena -15 Feb 1706 ‘towards England 
-• sketch of unidentified fish
+Downs 13 Feb 1704 - 28 Jul Madras -19 Sep Balasore - 20 Feb 1705 Masulipatam - 2 Mar Madras - 22 May Mauritius -13 Oct Cape - 18 Nov St Helena -15 Feb 1706 'towards England 
+ sketch of unidentified fish
 MARTHA (2)
 Extra ship, built by Mestaer, measured 1796, 3 decks, 3in bottom, length 113ft, keel 91ft VAin, breadth 28ft IVAin, hold 12ft 31/2in, wing transom 18ft, port cell 25ft SViin, waist 6in, between decks 5ft & 5ft Sin, ports 6 middle & 5 upper, 406 tons Principal Managing Owner: Peter Everitt Mestaer
 1 1795/6 Bengal
@@ -1044,7 +1044,7 @@ L/MAR/B/268C Journal 2 Jan 1792-6 Aug 1793
 L/MAR/B/268J(1) Ledger
 L/MAR/B/268J(2) Pay Book
 Capt Philip Dundas
-Downs 8 Mar 1792 - 17 Jun Johanna - 21 Jul Madras - 15 Aug Diamond Harbour -15 Sep ‘Broken Ground  - 8 Oct Masulipatam -14 Dec Diamond Harbour -18 Jan 1793 Saugor - 14 Apr St Helena - 6 Jul Long Reach
+Downs 8 Mar 1792 - 17 Jun Johanna - 21 Jul Madras - 15 Aug Diamond Harbour -15 Sep 'Broken Ground  - 8 Oct Masulipatam -14 Dec Diamond Harbour -18 Jan 1793 Saugor - 14 Apr St Helena - 6 Jul Long Reach
 4 1793/4 Madras and Bengal
 L/MAR/B/268D Journal 19 Oct 1793-13 Jan 1796
 L/MAR/B/268K(1) Ledger
@@ -1123,14 +1123,14 @@ L/MAR/B/167A Journal 1 Jan 1805-18 Sep 1806 L/M AR/B/16 7G(1) Ledger
 L/MAR/B/167G(2) Pay Book
 Capt Matthew Isacke
 Portsmouth 25 Apr 1805 - 11 Aug Bombay -16 Sep Madras - 6 Oct Diamond Harbour - 7 Dec Saugor
-• 15 Jan 1806 Madras - 21 Feb Colombo -14 May St Helena -18 Jul Downs
+ 15 Jan 1806 Madras - 21 Feb Colombo -14 May St Helena -18 Jul Downs
 2 1806/7 Bombay
 L/MAR/B/167B Journal 9 Dec 1806-1 Oct 1808
 L/MAR/B/16 7H(1) Ledger
 L/MAR/B/167H(2) Pay Book
 Capt Matthew Isacke
 Portsmouth 4 Mar 1807 - 27 Jun Bombay -18 Aug Madras - 3 Sep Diamond Harbour - 24 Oct Saugor
-• 19 Dec Colombo - 3 Jan 1808 Bombay - 8 Mar Colombo -11 Jun St Helena - 14 Aug Downs
+ 19 Dec Colombo - 3 Jan 1808 Bombay - 8 Mar Colombo -11 Jun St Helena - 14 Aug Downs
 3 1808/9 Madras and Bengal
 L/MAR/B/167C Journal 14 Jan 1809-23 Aug 1810
 L/MAR/B/167-I(1) Ledger
@@ -1427,7 +1427,7 @@ Downs 25 Jun 1826 - 18 Nov Whampoa -10 Jan 1827 Second Bar -18 Mar St Helena - 1
 6 1827/8 Bengal
 L/MAR/B/43F Deck Log 12 Jun-18 Dec 1828
 Capt Robert Railston Brown
-Downs 5 Jul 1828 - 14 Nov Saugor - 24 Nov ‘Burah Bazaar 
+Downs 5 Jul 1828 - 14 Nov Saugor - 24 Nov 'Burah Bazaar 
 7 1831/2 China and Halifax
 L/MAR/B/43G Deck Log 30 May 1832-22 Jun 1833
 Capt James Cromartie
@@ -1606,7 +1606,7 @@ L/MAR/B/608F(1) Ledger
 L/MAR/B/608F(2) Pay Book
 Capt Robert Hanslapp
 Portsmouth 9 Apr 1746 - 30 Apr Madeira - 29 Sep Culpee - 6 Feb 1747 Kedgeree -1 Nov Lisbon - 30 Nov Downs
-* 10 Jul 1746 drawing of a ‘sea loyon 
+* 10 Jul 1746 drawing of a 'sea loyon 
 3 1748/9 Fort St David and China
 L/MAR/B/608C Journal 27 Oct 1748-25 Jun 1750
 L/MAR/B/608G(1) Ledger
@@ -1675,7 +1675,7 @@ MORRIS
 400 tons
 1 1625/6 Surat and Bantam
 Master Thomas Waller
-Downs 16 Apr 1626 - 30 Jul Johanna - sacked Bombay 15 Oct - 24 Oct Surat - 18 Jan 1627 Bandar Abbas - Mar Surat - 27 Apr Masulipatam - Oct Bantam 18 Feb 1828 - Oct Downs - driven from anchors in a storm and wrecked on ‘Fly Island , Holland
+Downs 16 Apr 1626 - 30 Jul Johanna - sacked Bombay 15 Oct - 24 Oct Surat - 18 Jan 1627 Bandar Abbas - Mar Surat - 27 Apr Masulipatam - Oct Bantam 18 Feb 1828 - Oct Downs - driven from anchors in a storm and wrecked on 'Fly Island , Holland
 MORSE
 Built by Wells launched 1769, 3 decks, 4in bottom, length 141ft S'/dn, keel 112ft 11m, breadth 38ft IVdn, hold 14ft llin, wing transom 23ft 6'Am, port cell 25ft VMn, between decks 6ft 7m, 875 tons Principal Managing Owner: Thomas Boddam
 1 1769/70 Madras and Bengal

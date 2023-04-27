@@ -584,7 +584,7 @@ L/MAR/B/585G(1) Journal 25 Oct 1756-24 Mar 1759
 L/MAR/B/585G(2) Journal 25 Oct 1756-9 Feb 1759, John Horsley, Capt s servant 
 L/MAR/B/585N(1) Ledger 
 L/MAR/B/585N(2) Pay Book Capt Nicholas Webb
-Torbay 16 Mar 1757 - 16 Apr Madeira - 9 Aug Johanna -12 Oct Calcutta - 7 Jan 1758 Ingeli - 21 Feb Madras - 22 Jun St Helena - 3 Aug Fernando Noronha - 27 Oct Cork - 9Feb 1759 Downs
+Torbay 16 Mar 1757 - 16 Apr Madeira - 9 Aug Johanna -12 Oct Calcutta - 7 Jan 1758 Ingeli - 21 Feb Madras - 22 Jun St Helena - 3 Aug Fernando Noronha - 27 Oct Cork - 9 Feb 1759 Downs
 4 1759/60 Madras and China
 L/MAR/B/585H Journal 5 Nov 1759-7 Jul 1762 
 L/MAR/B/585-0(l) Ledger 
@@ -634,7 +634,7 @@ L/MAR/B/39H Journal 5 Mar 1829-1 Oct 1830
 L/MAR/B/39Q(1) Ledger
 L/MAR/B/39 Q(2) Pay Book
 Capt David Rae Newall
-Downs 30 Apr 1829 - 31 Aug Macao - 4 Sep ‘Toonkoo Bay  7 Feb 1830-9 Feb Whampoa - Second Bar 28 Mar -1 Jul St Helena - 30 Aug Downs
+Downs 30 Apr 1829 - 31 Aug Macao - 4 Sep 'Toonkoo Bay  7 Feb 1830-9 Feb Whampoa - Second Bar 28 Mar -1 Jul St Helena - 30 Aug Downs
 8 1830/1 China
 L/MAR/B/39-I Journal 5 Mar 1831-31 Mar 1832
 L/MAM/B/39R(1) Ledger
@@ -839,7 +839,7 @@ L/MAR/B/57E Journal 19 Nov 1829-19 Apr 1831
 L/MAR/B/5 7K(1) Ledger
 L/MAR/B/57K(2) Pay Book
 Capt Thomas Blair
-Downs 5 Jan 1830 - 19 Apr Saugor - 7 Jul Penang -16 Jul Malacca - 22 Jul Singapore - 8 Aug ‘Chow-long  -14 Sep Whampoa - Second Bar 17 Nov - 31 Jan 1831 St Helena -19 Mar Downs
+Downs 5 Jan 1830 - 19 Apr Saugor - 7 Jul Penang -16 Jul Malacca - 22 Jul Singapore - 8 Aug 'Chow-long  -14 Sep Whampoa - Second Bar 17 Nov - 31 Jan 1831 St Helena -19 Mar Downs
 6 1831/2 Madras, Bengal and China
 L/MAR/B/57F Journal 27 Dec 1831-18 Jun 1833
 L/MAR/B/57L(1) Ledger
@@ -1020,7 +1020,7 @@ Downs 3 Mar 1743 - 5 Apr Sao Tiago - 2 Aug Culpee 29 Oct - 5 Nov Calcutta -15 Ja
 2 1746/7 Madras and Bengal
 L/MAR/B/4R Pay Book
 Capt Christopher Baron
-Downs 16 Feb 1747 - driven on shore nr Fort St David by ‘a violent storm of wind  14 Apr 1749
+Downs 16 Feb 1747 - driven on shore nr Fort St David by 'a violent storm of wind  14 Apr 1749
 WINCHELSEA (2)
 Rated at 499 tons, 99 crew, 26 guns Principal Managing Owner: Abraham Hume
 1 1752/3 Madras, Bengal and Bombay
@@ -1483,4 +1483,4 @@ Portsmouth 10 Jul 1804 - 24 Jul Madeira - 2 Nov Kedgeree -12 Feb 1805 Madras - 3
 L/MAR/B/278Q Journal 9 Dec 1806-14 Feb 1809, Capt & Charles Bell, Second Mate 
 L/MAR/B/278HH(1) Ledger 
 L/MAR/B/278HH(2) Pay Book Capt Searles Wood
-Portsmouth 4 Mar 1807 - 13 May St Helena - 20 Sep Madras -12 Nov Malacca - 5 Dec ‘Gressee  - 13 Feb 1808 Madras -11 Mar Point de Galle - 22 Apr Bombay 12 Jul -19 Sep Cape - 19 Oct St Helena -13 Dec Downs
+Portsmouth 4 Mar 1807 - 13 May St Helena - 20 Sep Madras -12 Nov Malacca - 5 Dec 'Gressee  - 13 Feb 1808 Madras -11 Mar Point de Galle - 22 Apr Bombay 12 Jul -19 Sep Cape - 19 Oct St Helena -13 Dec Downs

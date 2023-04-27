@@ -594,10 +594,49 @@ Downs 6 Apr 1749 - 8 Sep Fort St David -15 Sep Madras -31 Oct Ingeli - 2 Nov Cul
 SEVERN (2)
 Chartered ship, 586 tons
 Principal Managing Owner: George Mott Braithwaite
-I	1832/3	Bengal
+1	1832/3	Bengal
 L/MAR/B/139E	Deck Log 25 Jun 1833-28 Aug	1834
 Capt George Mott Braithwaite
 Portsmouth 27 Jul 1833 - 13 Oct Cape - 27 Dec Calcutta -12 Mar 1834 Saugor - 10 Jun St Helena - 11 Aug Downs
+SEYMOUR
+1 1692/3
+Capt Gifford
+Downs 23 May 1693 - did not return
+
+SHAFTESBURY (1)
+
+Rated at 499 tons, 99 crew, 32 guns 1735/6
+
+1 1735/7 Madras and Bengal
+
+L/MAR/B/610A Journal 4 Dec 1735-1 Oct 1737
+
+L/MAR/B/610H(1) Ledger
+
+L/MAR/B/610H(2) Pay Book
+
+Capt Matthew Bookey
+Downs 20 Feb 1736-20 Mar São Tiago-7 Aug Madras-11 Sep Ingeli-4 Oct Calcutta-27 Dec Ingeli-10 Jan 1737 Madras- 16 Jun St Helena- 12 Sep Downs
+
+2 1738/9 Madras and Bengal
+
+L/MAR/B/610B Journal 17 Oct 1738-12 Nov 1740
+
+L/MAR/B/610-1(1) Ledger
+
+L/MAR/B/610-1(2) Pay Book
+
+Capt Matthew Bookey
+
+Downs 12 Dec 1738-23 Feb 1739 Cape-28 May Madras-3 Aug Rogues River-12 Dec Cockelee- 27 Dec Madras- 10 Jan 1740 Fort St David-29 Apr St Helena - 16 Sep Downs
+
+3 1741/2 Madras and Bengal
+
+L/MAR/B/610C Journal 30 Sep 1741-17 Nov 1743
+
+L/MAR/B/610J(1) Ledger 
+
+L/MAR/B/610J(2) Pay Book
 Capt Matthew Bookey
 Portsmouth 24 Feb 1742 - Mar Madeira - 20 Sep Madras - 20 Nov Balasore -13 Dec Rogues River - 9 Feb 1743 Ingeli - 26 Jun St Helena - 5 Oct Downs
 4	1745/6 China
@@ -612,7 +651,7 @@ Downs 5 Apr 1750 - 12 Aug Johanna - 19 Sep Bombay - 3 Nov Scindy - 20 Nov Surat 
 Bombay -15 Dec Tellicheny - 27 Jan 1752 Cochin -	4	Feb Anjengo - 22 May	St Helena -13 Aug
 Downs
 2	1753/4	Bombay
-L/MAR/B/61 OF	Journal 22 Feb 1754-22 Dec 1755
+L/MAR/B/610F	Journal 22 Feb 1754-22 Dec 1755
 L/MAR/B/610M(1) Ledger L/MAR/B/610M(2) Pay Book Capt William Bookey
 Downs 22 Apr 1754 - 17 Aug Cape - 3 Dec Cochin -11 Dec Tellicherry - 27 Dec Goa - 9 Jan 1755 Bombay - 24 Mar Tellicheny - 2 Apr Anjengo - 24 Jul St Helena -18 Oct Plymouth
 3	1757/8	Bombay, Madras and Batavia
@@ -915,7 +954,7 @@ L/MAR/B/190C	Journal 15	Jul	1807-10 Feb	1809
 L/MAR/B/190-I(1)	Ledger
 L/MAR/B/190-1(2)	Pay Book
 Capt Henry Christopher
-Portsmouth 15 Sep 1807 - 16 Feb 1808 Madras - 17 Mar Tellicherty - 7 Apr Bombay - 30 Apr Surat - 3	May Bombay - 18 Sep Cape -19 Oct St Helena -11 Dec Downs
+Portsmouth 15 Sep 1807 - 16 Feb 1808 Madras - 17 Mar Tellicherry - 7 Apr Bombay - 30 Apr Surat - 3	May Bombay - 18 Sep Cape -19 Oct St Helena -11 Dec Downs
 4	1808/9	Bengal
 L/MAR/B/190D	Journal 1 May	1809-1 Sep	1810
 L/MAR/B/190J(1)	Ledger
@@ -1071,7 +1110,7 @@ New South Wales and Bengal
 
 Capt not named
 
-Dewas 24 May 1795-24 Jul Rio de Janeiro-5 Nov Port Jackson - 7 Mar 1796 Sulu - 1 Apr Penang- 3D May Calcutta-15 Jul Kedgeree-70ct Cape-3 Nov St Helena - 8 Jan 1797 Cork - 31 Jan Downs
+Dewas 24 May 1795-24 Jul Rio de Janeiro-5 Nov Port Jackson - 7 Mar 1796 Sulu - 1 Apr Penang- 30 May Calcutta-15 Jul Kedgeree- 7 Oct Cape-3 Nov St Helena - 8 Jan 1797 Cork - 31 Jan Downs
 
 
 SOVEREIGN (2)

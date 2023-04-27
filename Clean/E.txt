@@ -156,7 +156,7 @@ L/MAM/B/49 IB Journal 11 Jan 1790-4 Nov 1791
 L/MAM/B/491F(1) Ledger
 L/MAM/B/491F(2) Pay Book
 Capt James Dundas
-Portsmouth 14 Mar 1790 - 5 Apr Madeira - 13 Aug Diamond Harbour - 13 Dec Cox s Island -19 Jan 1791 Madras - 6 Feb ‘Broken Ground  Bengal - 9 Apr Madras - 9 Jul Cape - 3 Aug St Helena - 9 Oct Long Reach
+Portsmouth 14 Mar 1790 - 5 Apr Madeira - 13 Aug Diamond Harbour - 13 Dec Cox s Island -19 Jan 1791 Madras - 6 Feb 'Broken Ground  Bengal - 9 Apr Madras - 9 Jul Cape - 3 Aug St Helena - 9 Oct Long Reach
 3 1792/3 Bombay
 L/MAM/B/491C Journal 2 May 1793-17 Dec 1794
 L/MAM/B/491G(1) Ledger
@@ -605,7 +605,7 @@ L/MAR/B/490H(2) Pay Book
 L/MAR/B/490H(3) Absence Book
 Portsmouth 11 Mar 1783 - 2 Apr Sao Tiago -18 Jul Johanna - 29 Aug Madras - 22 Nov Batevia - M Feb 1784 Whampoa - 7 Apr Second Bar -18 Jul Malacca - 2 Nov St Helena - 4 Apr 1785 Downs
 EARL OF WYCOMBE
-Built at Liverpool, launched 1786, 3 decks, 4in bottom, length 128ft, keel 102ft 1‘^n  gy4in hold 12ft llin, wing transom 20ft 3in, port cell 23ft 2in, waist 5m, between decks 5ft 6m & 6ft, roundhouse 6ft lin, ports 10 middle & 8 upper, deck range 73ft 655 tons Principal Managing Owners; 1-3 Anthony Brough, 4-6 John Woolmore
+Built at Liverpool, launched 1786, 3 decks, 4in bottom, length 128ft, keel 102ft 1'^n  gy4in hold 12ft llin, wing transom 20ft 3in, port cell 23ft 2in, waist 5m, between decks 5ft 6m & 6ft, roundhouse 6ft lin, ports 10 middle & 8 upper, deck range 73ft 655 tons Principal Managing Owners; 1-3 Anthony Brough, 4-6 John Woolmore
 1 1786/7 China
 L/MAR/B/409A Journal 31 Jan 1787-26 May 1788
 L/MAR/B/409H(1) Ledger
@@ -628,7 +628,7 @@ L/MAM/B/409D Journal 10 Dec 1793-25 Nov 1795
 L/MAR/B/409K(1) Ledger
 L/MAM/B/409K(1) Pay Book
 Capt John William Wood
-Portsmouth 2 May 1794 - 13 Aug St Helena - 20 Nov Benkulen - 25 Feb 1795 ‘Pulo Massey  - 4 Mar Benkulen - 22 May St Helena -14 Sep Shannon -15 Oct Downs
+Portsmouth 2 May 1794 - 13 Aug St Helena - 20 Nov Benkulen - 25 Feb 1795 'Pulo Massey  - 4 Mar Benkulen - 22 May St Helena -14 Sep Shannon -15 Oct Downs
 5 1795/6 Madras
 L/MAR/B/409E Journal 4 Jun 1796-13 Mar 1797
 L/MAR/B/409L(1) Ledger
@@ -734,7 +734,7 @@ Extra ship
 1 From China 1814
 L/MAR/B/227H Journal 23 Oct 1814-20 Jun 1815, Richard Charlton, Chief Mate 
 Capt William Mitchell
-Whampoa 23 Oct 1814 -12 Nov Bocca Tigris - 26 Mar 1815 Cape - 24 Apr St Helena - 20 Jun ‘towards England 
+Whampoa 23 Oct 1814 -12 Nov Bocca Tigris - 26 Mar 1815 Cape - 24 Apr St Helena - 20 Jun 'towards England 
 EARL TALBOT (1)
 Built by Perry, launched 1778, 3 decks, 4in bottom 758 tons
 Principal Managing Owners; 1-4 Sir Charles Raymond, 5-6 Donald Cameron
@@ -776,7 +776,7 @@ L/MAR/B/410-O(l) Ledger
 L/MAR/B/410-O(2) Pay Book Capt Jeremiah Dawkins
 Downs 2 Jun 1792 - 7 Nov Diamond Point -18 Feb 1793 Saugor - 1 Jul St Helena - 3 Oct Long Reach
 EARL TALBOT (2)
-Built by Perry, launched 1796, 3 decks, 5in bottom, length 176ft 2in, keel 145fl 6‘Ain, breadth 43ft 3in, hold 17ft 6in, wing transom 26ft 9in, port cell 29th 9in, waist 3ft 10‘Am. between decks 6ft 7in, roundhouse 6ft 7in, ports 15 middle & upper, deck range 101ft lOin, 1428 tons Principal Managing Owner: William Moffat
+Built by Perry, launched 1796, 3 decks, 5in bottom, length 176ft 2in, keel 145fl 6'Ain, breadth 43ft 3in, hold 17ft 6in, wing transom 26ft 9in, port cell 29th 9in, waist 3ft 10'Am. between decks 6ft 7in, roundhouse 6ft 7in, ports 15 middle & upper, deck range 101ft lOin, 1428 tons Principal Managing Owner: William Moffat
 1 1796/7 Madras and China
 L/MAR/B/410G Journal 1 Jan-9 Jul 1797
 L/MAR/B/410H Journal 1 Jan 1797-21 Oct 1798, John Dale Chief Mate
@@ -794,7 +794,7 @@ Company s own ship, rated at 499 tons, 99 crew, 30 guns
 1 1759/60 Bombay and China
 L/MAR/B/789A(1) Imprest Book 
 L/MAR/B/789A(2) Receipt Book Capt William Foster
-Downs 2J Apr 1760 - Batavia 16 May 1763 - wrecked south of the Paracels Jun 1763, some survivors reached Canton 31 Aug 1766 See G/12/195 ff.30-39
+Downs 21 Apr 1760 - Batavia 16 May 1763 - wrecked south of the Paracels Jun 1763, some survivors reached Canton 31 Aug 1766 See G/12/195 ff.30-39
 EASTCOURT
 Rated at 499 tons, 99 crew, 28 guns 
 1 1746/7 Bengal
@@ -1479,7 +1479,7 @@ EUROPE (1)
 L/MAR/B/204A Journal 20 Dec 1704-15 Oct 1708. Humphrey Bryant. Second Male
 L/MAR/B/204J Ledger
 Capt John Pocock
-Downs 18 Jan 1705 - 7 May Cape - 25 Jun Johanna - 30 Jul Bandar Abbas -12 Oct Bombay - 4 Nov Surat - 20 Dec Bombay - 3 Jan 1706 Karwar - 17 Jan Mangalore - 26 Feb ‘Bajalar  - 4 Mar Karwar - 7 Mar Goa - 19 Mar Bombay - 15 Apr Surat - 4 May Bombay -11 Nov Bandar Abbas - 30 Jan 1707 Bombay -21 Feb Surat - 11 May Mauritius - 13 Oct Cape - 24 Dec St Helena - 5 Aug 1708 Galway - 20 Oct Deptford
+Downs 18 Jan 1705 - 7 May Cape - 25 Jun Johanna - 30 Jul Bandar Abbas -12 Oct Bombay - 4 Nov Surat - 20 Dec Bombay - 3 Jan 1706 Karwar - 17 Jan Mangalore - 26 Feb 'Bajalar  - 4 Mar Karwar - 7 Mar Goa - 19 Mar Bombay - 15 Apr Surat - 4 May Bombay -11 Nov Bandar Abbas - 30 Jan 1707 Bombay -21 Feb Surat - 11 May Mauritius - 13 Oct Cape - 24 Dec St Helena - 5 Aug 1708 Galway - 20 Oct Deptford
 2 1709/10 Madras and Bengal
 L/MAR/B/204B Journal 5 Oct 1709-22 Nov 1711
 L/MAM/B/204K(1) Ledger
@@ -1578,7 +1578,7 @@ DownsDec 1751 - 29 Mar 1752 St Helena -18 Jul Batavia - 29 Aug Benkulen - 19 Oct
 L/MAR/B/138D Journal 16 Oct 1754-7 Mar 1757
 L/MAR/B/138R(1) Ledger
 L/MAM/B/138R(2) Pay Book
-Downs Jan 1755 - 27 Mar St Helena -17 Jul Batavia - 29 Aug Benkulen - 24 Oct Moco Moco - 11 Nov Bantal -17 Dec Benkulen - 30 Jan 1756 ‘Tappanooly Bay  -11 Mar Benkulen - 7 Jul St Helena - 28 Oct Shannon -15 Jan 1757 Long Reach
+Downs Jan 1755 - 27 Mar St Helena -17 Jul Batavia - 29 Aug Benkulen - 24 Oct Moco Moco - 11 Nov Bantal -17 Dec Benkulen - 30 Jan 1756 'Tappanooly Bay  -11 Mar Benkulen - 7 Jul St Helena - 28 Oct Shannon -15 Jan 1757 Long Reach
 EXETER (2)
 Built by Wells, launched 1792, 3 decks, 4in bottom, length 165ft 7in, keel 133ft lO^in, breadth 42ft 2in, hold 17ft, wing transom 25ft 9in, port cell 29ft 2in, waist 3ft 7in, between decks 6ft 6in, roundhouse 6ft 6in, ports 14 middle & upper, deck range 98ft 6in, 1265 tons Principal Managing Owners: 1-6 Richard Lewin, 7-8 Andrew Timbrell
 1 1792/3 Bombay and China
@@ -1666,7 +1666,7 @@ BL: Add Ms 19276 Journal 22 Jan 1615-19 May 1617
 L/MAR/A/XXVHI Journal 30 Oct 1618-10 Jan 1619, John Rowe Capt Walter Peyton, Master Thomas Bonner
 Downs 23 Feb 1615 - 5 Jun Cape - 22 Jul Moheli - 24 Aug Socotra -18 Sep Surat 19 Feb 1616 - 1 May Bantam -10 Jun Priaman - Tiku - Bantam 13 Oct - Surat - 22 Nov 1618 Jask -10 Jan 1619 Surat - captured by Dutch at Tiku 1 Oct
 EXPEDITION (2)
-A Dutch ‘praw , bought 1625 for £655
+A Dutch 'praw , bought 1625 for £655
 1 1625/6 Batavia
 Master Randle Jesson
 Downs May 1626 - 2 Dec Batavia - 21 Jul 1627 - 21 Dec Portsmouth

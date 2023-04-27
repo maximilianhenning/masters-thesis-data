@@ -462,7 +462,7 @@ Capt John Goldsborough
 5 1686/7 Bombay
 L/MAR/A/LXXXm Journal 11 Sep 1686-10 May 1688 
 Capt William Perse
-Downs 17 Nov 1686 - 4 Jan 1687 Sao Tiago -18 Mar Cape -17 Apr Johanna -14 Aug Calicut - 7 Sep Bombay - 8 Dec Goa -12 Dec Karwar - 20 Dec Mangalore - 27 Jan 1688 Tellicheny - 31 Jan Calicut - 7 Feb Tellicheny 22 Feb Calicut - 29 Feb ‘Ruttera  - 28 Mar ‘Brinjoan  -13 Apr Madras - voyage ended 23 Jul 1689 Portsmouth
+Downs 17 Nov 1686 - 4 Jan 1687 Sao Tiago -18 Mar Cape -17 Apr Johanna -14 Aug Calicut - 7 Sep Bombay - 8 Dec Goa -12 Dec Karwar - 20 Dec Mangalore - 27 Jan 1688 Tellicheny - 31 Jan Calicut - 7 Feb Tellicheny 22 Feb Calicut - 29 Feb 'Ruttera  - 28 Mar 'Brinjoan  -13 Apr Madras - voyage ended 23 Jul 1689 Portsmouth
 BENGAL MERCHANT (2)
 1 1770/1 New Company voyage
 L/MAR/A/CLVni Imprest Book
@@ -513,7 +513,7 @@ L/MAR/B/122A Journal 5 Nov 1741-9 Aug 1743
 L/MAR/B/122E(1) Ledger
 L/MAR/B/122E(2) Pay Book
 Capt Benjamin Way
-Portsmouth 21 Feb 1742 -10 Jun Johanna - 26 Jul Bombay -12 Sep Madras - 30 Dec Cape - 9 Aug 1743 Deptford*
+Portsmouth 21 Feb 1742 -10 Jun Johanna - 26 Jul Bombay -12 Sep Madras - 30 Dec Cape - 9 Aug 1743 Deptford
 2 1743/4 Madras and Benkulen
 L/MAR/B/122B Journal 3 Mar 1744-19 Aug 1746, Chief Mate George Meard 
 L/MAR/B/122F(1) Ledger
@@ -1002,11 +1002,11 @@ L/MAR/A/CXLVII Journal 10 Jun 1700-30 Jun 1702
 L/MAR/A/CXLVn-A Ledger 
 L/MAR/A/CXLVII-B Imprest Book
 Capt Henry Barre
-Downs 4 Jul 1700 - 30 Jul Madeira -13 Aug Sao Tiago - 3 Feb 1701 Batavia - 20 Feb Benjarmassin - 25 Apr 1702 ‘Borneo  -1 Jun Batavia - voyage ended 25 Apr 1703
+Downs 4 Jul 1700 - 30 Jul Madeira -13 Aug Sao Tiago - 3 Feb 1701 Batavia - 20 Feb Benjarmassin - 25 Apr 1702 'Borneo  -1 Jun Batavia - voyage ended 25 Apr 1703
 2 1713/4 Banjarmassin and Benkulen
 L/MAR/B/674A Journal 2 Sep 1713-2 Jun 1716 
 Capt Thomas Lewis
-Downs 2 Oct 1713 - 30 Jan 1714 Cape - 7 May Batavia -1 Jul Banjarmassin - 26 Dec Benkulen - 23 Jan 1715 Bantal - 9 Feb Benkulen - 4 Mar Bantal - 29 Mar Benkulen -13 Jun Batavia - 24 Aug Benkulen - 21 Feb 17l6 Madras - 30 May Benkulen - voyage ended 1 Aug 1717
+Downs 2 Oct 1713 - 30 Jan 1714 Cape - 7 May Batavia -1 Jul Banjarmassin - 26 Dec Benkulen - 23 Jan 1715 Bantal - 9 Feb Benkulen - 4 Mar Bantal - 29 Mar Benkulen -13 Jun Batavia - 24 Aug Benkulen - 21 Feb 1716 Madras - 30 May Benkulen - voyage ended 1 Aug 1717
 3 1718/9 Banjarmassin
 L/MAR/B/674B Journal 18 May-15 Oct 1720, John Shepheard, Second Mate 
 Capt John Riccard
@@ -1062,7 +1062,7 @@ Extra ship, built by Hill, measured 1795, 3 decks, length 109ft Sin, keel 87ft, 
 1 1794/5 St Helena and Bengal
 L/MAR/B/446A Deck Log 13 May 1795-8 Jan 1797 
 Capt Robert Young
-Portsmouth 8 Jul 1795 - 5 Sep Rio de Janeiro -10 Nov St Helena - 24 Dec Cape - 31 Mar 1796 Calcutta - 22 Jun Kedgeree - 29 Sep Cape - 28 Oct St Helena - 8 Jan 1797 ‘towards England , engagement with a French ship
+Portsmouth 8 Jul 1795 - 5 Sep Rio de Janeiro -10 Nov St Helena - 24 Dec Cape - 31 Mar 1796 Calcutta - 22 Jun Kedgeree - 29 Sep Cape - 28 Oct St Helena - 8 Jan 1797 'towards England , engagement with a French ship
 BOYNE (1)
 Built at Calcutta 1807, 800 tons
 Principal Managing Owner: Benjamin Fergusson
@@ -1105,7 +1105,7 @@ L/MAR/B/42C Journal 31 Dec 1726-5 Aug 1728
 L/MAR/B/42BB(1) Ledger
 L/MAR/B/42BB(2) Pay Book
 Capt Edward Williamson
-Downs 8 Mar 1727 - 6 Apr Sao Tiago - 23 Jul Madras -19 Aug ‘Bengal river  - 26 Jan 1728 Balasore - 20 May St Helena - 5 Aug Woolwich
+Downs 8 Mar 1727 - 6 Apr Sao Tiago - 23 Jul Madras -19 Aug 'Bengal river  - 26 Jan 1728 Balasore - 20 May St Helena - 5 Aug Woolwich
 4 1729/30 Madras and Bengal
 L/MAR/B/42D Journal 12 Oct 1729-30 Aug 1731
 L/MAR/B/42CC(1) Ledger
@@ -1180,7 +1180,7 @@ BRIDGEWATER (4)
 1 1799/1800 Madras
 L/MAR/B/42P Journal 17 Nov 1800-8 Nov 1801, anon
 Capt George Lukin
-Downs 24 Jan 1801 - 21 May Madras 14 Aug -10 Oct ‘towards England 
+Downs 24 Jan 1801 - 21 May Madras 14 Aug -10 Oct 'towards England 
 BRIDGEWATER (5)
 Built by Brent, launched 1812, 3 decks, 4in bottom, length 166ft 5in, keel 135ft 85/sin, breadth 42ft I'Ain, hold 17ft V&in, wing transom 25ft 6in, port cell 29ft 3in, waist 1ft 4in, between decks 6ft 41/4in & 6ft 4in, roundhouse 6ft 5'Ain, ports 14 middle & upper, deck range 98ft 3in, 1276 tons Principal Managing Owner: James Sims
 1 1812/3 Madras and China
@@ -1404,7 +1404,7 @@ Portsmouth 26 Oct 1803 - 5 Mar 1804 St Helena - 5 Oct Madras - 31 Dec St Helena 
 L/MAR/B/285EEE Deck Log 15 Jun-31 Oct 1805
 L/MAR/B/285X Imprest Book
 Capt Jonathan Birch
-Portsmouth 27 Jul 1805 - 27 Aug Cork - 29 Sep Madeira - lost ‘off the Brazils  4 Dec
+Portsmouth 27 Jul 1805 - 27 Aug Cork - 29 Sep Madeira - lost 'off the Brazils  4 Dec
 BRITANNIA (5)
 Extra ship, measured 1786, 2 decks, 3in bottom, length 97fl lOin, keel 77fl 3in, breadth 27ft 3in, hold 12ft, wing transom 17ft, between decks 5ft llin, 305 tons
 1 From Bengal 1786
@@ -1504,7 +1504,7 @@ Downs 15 Apr 1827 - 10 Aug Whampoa -12 Oct Second Bar - 31 Dec St Helena - 28 Fe
 4 1831/2 China and Quebec
 L/MAR/B/82D Deck Log 31 May 1832-11 Jun 1833
 Capt Robert Brown Shettler
-Doens 21 Jun 1832 - 7 Nov Whampoa 28 Jan 1833 - 8 Apr St Helena - 29 May Quebec - 30 Aug Moorings
+Downs 21 Jun 1832 - 7 Nov Whampoa 28 Jan 1833 - 8 Apr St Helena - 29 May Quebec - 30 Aug Moorings
 BRUNSWICK (1)
 Built by Perry, launched 1792, 3 decks, 4in bottom, keel 130ft, breadth 42ft, 1244 tons Principal Managing Owner: Thomas Newte
 1 1792/3 Bombay and China
@@ -1622,7 +1622,7 @@ L/MAR/A/XXV ff. 12-14 Fragment of journal 24 Dec 1623-27 Jan 1624, Edmund Sayers
 merchant
 Downs Aug 1619-28 Nov Cape -17 Mar 1620 Batavia - Bantam 26 Apr - served in Anglo-Dutch Fleet of Defence based at Hirado 1620-23 - 27 Jan 1624 Batavia - at Lagundy in 1625 - laid up in 1626
 BULL (2)
-Country ship, ‘belonging to the King of Bantam 
+Country ship, 'belonging to the King of Bantam 
 1 1674-5 Manila
 L/MAR/A/LXXn Journal 3 Jul 1674-7 Feb 1675 Master John Hallewell
 Bantam 3 Jul 1674 - 2 Aug Manila 15 Jan 1675 - 7 Feb Bantam

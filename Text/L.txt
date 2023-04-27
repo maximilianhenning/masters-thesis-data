@@ -1828,7 +1828,7 @@ L/MAR/B/330L(1)	Ledger
 L/MAR/B/330L(2)	Pay Book
 Capt John Dale
 Portsmouth 23 Apr 1801 -11 Aug Madras - 4 Jan 1802 St Helena - 22 Mar Downs
-lord walsingham
+LORD WALSINGHAM
 Built by Hill launched 1786, 3 decks, 4m bottom, length 122ft 1m, keel 91JI11/2m; b^eadth 32* ikn, hold 13ft 10'Ain, wing transom 20ft 9in, port cell 25ft lin, waist 1ft 2y2m between decks 5ft 10m & 6ft 3in, roundhouse 6ft 2in, ports 9 middle & upper, deck range 71ft 6m, 561 tons Principal Managing Owners; 1-2 Anthony Brough, 3-6 Richard Holbert
     1 1786/7 China
 L/MAR/B/346A	Journal 17 Feb	1787-16 Dec	1788
@@ -1839,7 +1839,7 @@ Downs 1 April 1787 -	12 Nov Whampoa	- 20 Mar	1788	Second Bar -11 Aug St Helena -
 L/MAR/B/346B	Journal 30 Mar 1790-29 Sep 1791
 L/MAR/B/346H(1)	Ledger
 L/MAR/B/346H(2)	Pay Book
-DoSril^O - 3 Nov Whampoa - 8 Feb 1791 Second Bar - 7 Jul St Helena - 6 Sep Dotvns
+Downs 18 May 1790 - 3 Nov Whampoa - 8 Feb 1791 Second Bar - 7 Jul St Helena - 6 Sep Downs
     3 1792/3	China
 L/MAR/B/346C	Journal 1 Apr 1793-27 Nov 1794
 L/MAR/B/346-I(l)	Ledger

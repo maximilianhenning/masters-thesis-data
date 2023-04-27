@@ -540,7 +540,7 @@ Built by Greaves, launched 1763, 3 decks, 3in bottom, 657 tons Principal Managin
 L/MAR/B/141C	Journal 5 Dec	1763-29	Aug 1765
 L/MAR/B/141V(1)	Ledger
 L/MAR/B/141V(2)	Pay Book
-Downs 20 Feb l764 - 13 Mar Sao Tiago - 3 Jul Madras - 28 Aug Malacca - 1 Oct Whampoa - 21 Jan 1765 Second Bar - 1 May St Helena - 24 Jul Downs
+Downs 20 Feb 1764 - 13 Mar Sao Tiago - 3 Jul Madras - 28 Aug Malacca - 1 Oct Whampoa - 21 Jan 1765 Second Bar - 1 May St Helena - 24 Jul Downs
     2 1766/7 St Helena and China
 L/MAR/B/141D	Journal 6 Oct	1766-11	Jul	1768
 L/MAR/B/141W(1)	Ledger
@@ -780,7 +780,7 @@ Capt John Barfoot
 Portsmouth 12 Apr 1796 - 22 Jul Cape - 19 Dec Bombay - 19 Jan 1797 Tellicherry - 1 Feb Colombo - 14 Apr Bombay - 11 Aug Madras - 6 Sep Penang - 12 Oct Malacca - 23 Dec Whampoa - 2 Mar 1798 Second Bar - 5 Aug St Helena - 18 Oct Downs
     6 1800/1 Bombay and China L/MAR/B/287M Journal 21 Oct 1800-16 Aug 1802 L/MAR/B/287BB(1) Ledger L/MAR/B/287BB(2) Pay Book
 Capt John Barfoot
-Portsraouth 9 Jan 1801 - 26 May Bombay - 4 Sep Malacca - 7 Oct Whampoa - 20 Jan 1802 ‘Lankeet Flat -12 Apr St Helena - 26 Jun Northfleet
+Portsmouth 9 Jan 1801 - 26 May Bombay - 4 Sep Malacca - 7 Oct Whampoa - 20 Jan 1802 ‘Lankeet Flat -12 Apr St Helena - 26 Jun Northfleet
     7 1806/7	Bombay and China
 L/MAR/B/287CC(1) Ledger L/MAR/B/287CC(2) Pay Book Capt Walter Campbell
 Portsmouth 26 Feb 1807 - 1 Jul 1808 moorings

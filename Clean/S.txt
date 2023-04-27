@@ -63,7 +63,7 @@ St Helena 25 Aug - 17 Sep Benguela 5 Oct -14 Oct St Helena 17 Oct -13 Nov Cape 5
 2 1821/2 St Helena (to remain)
 L/MAR/B/327C(1) Ledger 
 L/MAR/B/327C(2) Imprest Book Capt James Fairfax
-Downs 20 May 1822 - captured by ‘the desperado Don Antonio Constanti  6 Apr 1830, saved by the carpenter and remaining five crew, reached Sierra Leone 2 May 1830
+Downs 20 May 1822 - captured by 'the desperado Don Antonio Constanti  6 Apr 1830, saved by the carpenter and remaining five crew, reached Sierra Leone 2 May 1830
 SALISBURY (1)
 Rated at 499 tons, 99 crew, 30 guns
 1 1741/2 Bombay and Madras
@@ -197,7 +197,7 @@ New Company
 L/MAK/A/CLXXI Journal 6 Dec 1701-26 Jun 1703, anon
 L/MAR/B/119B Ledger
 Capt Finch Reddall
-‘Caracf 6 Dec 1701 - 27 Dec Genoa -11 Jan 1702 Leghorn - 5 Feb Genoa - 25 Mar 1702 Dover - Plymouth 30 Sep - 26 Oct Sao Tiago - 2 Jan 1703 Cape - 10 Apr Benkulen - 28 Apr Batavia - 23 May Samarang - 2 Jun Batavia -
+'Caracf 6 Dec 1701 - 27 Dec Genoa -11 Jan 1702 Leghorn - 5 Feb Genoa - 25 Mar 1702 Dover - Plymouth 30 Sep - 26 Oct Sao Tiago - 2 Jan 1703 Cape - 10 Apr Benkulen - 28 Apr Batavia - 23 May Samarang - 2 Jun Batavia -
 SAMUEL AND HENRY
 2 decks, length 84ft, breadth 28ft, death lift, between decks 6ft, 70 crew, 30 guns, 350 tons
 1 1674/5 Madras and Bengal
@@ -391,7 +391,7 @@ L/MAM/B/34S Journal 5 Mar 1829-18 Oct 1830
 L/MAR/B/34GG(1) Ledger
 L/MAR/B/34GG(2) Pay Book
 Capt James B Burnett
-Downs 9 May 1829 - 11 Sep ‘Toonkoo  - 23 Nov Cap Sing Moon Bay -11 Feb 1830 Whampoa - Second Bar 2 Apr - 3 Jul St Helena - 29 Aug Downs
+Downs 9 May 1829 - 11 Sep 'Toonkoo  - 23 Nov Cap Sing Moon Bay -11 Feb 1830 Whampoa - Second Bar 2 Apr - 3 Jul St Helena - 29 Aug Downs
 16 1830/1 China
 L/MAM/B/34T Journal 19 Mar 1831-23 Jun 1832
 L/MAR/B/34HH(1) Ledger
@@ -441,7 +441,7 @@ L/MAWB/355-0(2) Pay Book
 Capt Philip D'Auvergne
 Downs 3 Feb 1751 -27 Feb Sao Tiago - 7 Jul Fort St David - 21 Jul Madras - 6 Aug Culpee - 23 Feb 1752 Barrabulla - 15 Jun Mauritius (repairs) 20 Oct - 2 Dec St Helena - 10 Feb 1753 Downs
 SCARBOROUGH (d>)
-Extra ship, measured 1786, 2 decks, 4in bottom, length 109ft 3 in, keel 87ft ‘/un, breadth 29ft lOin. hold 12ft 5‘Ain, wing transom 37ft 4in, 411 tons
+Extra ship, measured 1786, 2 decks, 4in bottom, length 109ft 3 in, keel 87ft '/un, breadth 29ft lOin. hold 12ft 5'Ain, wing transom 37ft 4in, 411 tons
 1 From China 1788
 L/MAR/B/355G Journal 22 Oct 1788-18 Jun 1789 
 Capt John Marshall
@@ -573,10 +573,32 @@ Downs 6 Apr 1749 - 8 Sep Fort St David -15 Sep Madras -31 Oct Ingeli - 2 Nov Cul
 SEVERN (2)
 Chartered ship, 586 tons
 Principal Managing Owner: George Mott Braithwaite
-I 1832/3 Bengal
+1 1832/3 Bengal
 L/MAR/B/139E Deck Log 25 Jun 1833-28 Aug 1834
 Capt George Mott Braithwaite
 Portsmouth 27 Jul 1833 - 13 Oct Cape - 27 Dec Calcutta -12 Mar 1834 Saugor - 10 Jun St Helena - 11 Aug Downs
+SEYMOUR
+1 1692/3
+Capt Gifford
+Downs 23 May 1693 - did not return
+SHAFTESBURY (1)
+Rated at 499 tons, 99 crew, 32 guns 1735/6
+1 1735/7 Madras and Bengal
+L/MAR/B/610A Journal 4 Dec 1735-1 Oct 1737
+L/MAR/B/610H(1) Ledger
+L/MAR/B/610H(2) Pay Book
+Capt Matthew Bookey
+Downs 20 Feb 1736-20 Mar São Tiago-7 Aug Madras-11 Sep Ingeli-4 Oct Calcutta-27 Dec Ingeli-10 Jan 1737 Madras- 16 Jun St Helena- 12 Sep Downs
+2 1738/9 Madras and Bengal
+L/MAR/B/610B Journal 17 Oct 1738-12 Nov 1740
+L/MAR/B/610-1(1) Ledger
+L/MAR/B/610-1(2) Pay Book
+Capt Matthew Bookey
+Downs 12 Dec 1738-23 Feb 1739 Cape-28 May Madras-3 Aug Rogues River-12 Dec Cockelee- 27 Dec Madras- 10 Jan 1740 Fort St David-29 Apr St Helena - 16 Sep Downs
+3 1741/2 Madras and Bengal
+L/MAR/B/610C Journal 30 Sep 1741-17 Nov 1743
+L/MAR/B/610J(1) Ledger
+L/MAR/B/610J(2) Pay Book
 Capt Matthew Bookey
 Portsmouth 24 Feb 1742 - Mar Madeira - 20 Sep Madras - 20 Nov Balasore -13 Dec Rogues River - 9 Feb 1743 Ingeli - 26 Jun St Helena - 5 Oct Downs
 4 1745/6 China
@@ -595,7 +617,7 @@ Downs 5 Apr 1750 - 12 Aug Johanna - 19 Sep Bombay - 3 Nov Scindy - 20 Nov Surat 
 Bombay -15 Dec Tellicheny - 27 Jan 1752 Cochin - 4 Feb Anjengo - 22 May St Helena -13 Aug
 Downs
 2 1753/4 Bombay
-L/MAR/B/61 OF Journal 22 Feb 1754-22 Dec 1755
+L/MAR/B/610F Journal 22 Feb 1754-22 Dec 1755
 L/MAR/B/610M(1) Ledger 
 L/MAR/B/610M(2) Pay Book Capt William Bookey
 Downs 22 Apr 1754 - 17 Aug Cape - 3 Dec Cochin -11 Dec Tellicherry - 27 Dec Goa - 9 Jan 1755 Bombay - 24 Mar Tellicheny - 2 Apr Anjengo - 24 Jul St Helena -18 Oct Plymouth
@@ -690,7 +712,7 @@ L/MAR/B/283A Deck Log 16 Dec 1806-5 Aug 1807
 L/MAR/B/283B Journal 16 Dec 1806-5 Aug 1807 Capt J H Jackson
 Whampoa 3 Jan 1807 - 25 Jan Penang -18 Apr St Helena - 3 Jul Downs
 SIR DAVID SCOTT
-Built by Bayley at Ipswich, measured 1821, 3 decks, 4in bottom, length 166ft 6in, keel 133ft 1 l3/gin, breadth 43ft 5in, hold 17ft 1 ‘Ain, wing transom 26ft, port cell 29ft 2in, waist 1ft 4in, between decks 6ft 72/3in & 6ft 5in, roundhouse 6ft 41/2in, ports 14 middle & 13 upper, deck range 97ft Sin, 1342 tons Principal Managing Owner; Joseph Hare
+Built by Bayley at Ipswich, measured 1821, 3 decks, 4in bottom, length 166ft 6in, keel 133ft 1 l3/gin, breadth 43ft 5in, hold 17ft 1 'Ain, wing transom 26ft, port cell 29ft 2in, waist 1ft 4in, between decks 6ft 72/3in & 6ft 5in, roundhouse 6ft 41/2in, ports 14 middle & 13 upper, deck range 97ft Sin, 1342 tons Principal Managing Owner; Joseph Hare
 1 1821/2 Bengal and China
 L/MAR/B/33A Journal 17 Oct 1821-13 Jul 1823
 L/MAJR/B/33G(1) Ledger
@@ -733,7 +755,7 @@ L/MAR/B/384A Journal 21 Nov 1800-28 Apr 1802
 Capt Andrew Robertson
 Portsmouth 9 Jan 1801 - 26 May Calcutta -1 Sep Diamond Harbour -15 Sep Kedgeree - 23 Dec Cape - 28 Jan 1802 St Helena - 30 Mar Portsmouth
 SIR EDWARD HUGHES
-Company s own ship, built at Bombay, launched 1788, 3 decks. Sin bottom, length 146ft Sin, keel 116ft 10‘Ain, breadth 39ft 3in, hold 14ft, wing transom 25ft, port cell 25ft Sin, waist 3ft 7in, between decks 5ft 7in & 7ft '/An, roundhouse 6ft 7in ports 13 middle & upper, deck range 85ft, 957 tons
+Company s own ship, built at Bombay, launched 1788, 3 decks. Sin bottom, length 146ft Sin, keel 116ft 10'Ain, breadth 39ft 3in, hold 14ft, wing transom 25ft, port cell 25ft Sin, waist 3ft 7in, between decks 5ft 7in & 7ft '/An, roundhouse 6ft 7in ports 13 middle & upper, deck range 85ft, 957 tons
 1 From China 1788
 L/MAR/B/511A Journal 22 Jul 1788-12 Jun 1789
 L/MAR/B/511B(1) Ledger
@@ -909,7 +931,7 @@ L/MAR/B/190C Journal 15 Jul 1807-10 Feb 1809
 L/MAR/B/190-I(1) Ledger
 L/MAR/B/190-1(2) Pay Book
 Capt Henry Christopher
-Portsmouth 15 Sep 1807 - 16 Feb 1808 Madras - 17 Mar Tellicherty - 7 Apr Bombay - 30 Apr Surat - 3 May Bombay - 18 Sep Cape -19 Oct St Helena -11 Dec Downs
+Portsmouth 15 Sep 1807 - 16 Feb 1808 Madras - 17 Mar Tellicherry - 7 Apr Bombay - 30 Apr Surat - 3 May Bombay - 18 Sep Cape -19 Oct St Helena -11 Dec Downs
 4 1808/9 Bengal
 L/MAR/B/190D Journal 1 May 1809-1 Sep 1810
 L/MAR/B/190J(1) Ledger
@@ -1051,7 +1073,7 @@ L/MAR/B/626H(2) Pay Book
 Capt Thomas Tolson
 Downs 2 May 1748 - Portsmouth 20 Jun - 10 Oct Cape - 2 Feb 1749 Ingeli - 16 Apr Fort St David - 13 Jul Malacca - 22 Aug Whampoa -13 Nov Second Bar - 8 Mar 1750 St Helena - 21 May Downs
 SOUTHAMPTON
-Built by Perry, launched 1777, 3 decks, 4in bottom, length 137ft 2in, keel 109ft 9   /4in, breadth 36ft ‘Ain, hold 15ft 'Ain, wing transom 22ft 11‘Ain, port cell 24ft 3in, between decks 6ft, 758 tons Principal Managing Owners: 1-2 Charles Foulis, 3 Robert Preston
+Built by Perry, launched 1777, 3 decks, 4in bottom, length 137ft 2in, keel 109ft 9   /4in, breadth 36ft 'Ain, hold 15ft 'Ain, wing transom 22ft 11'Ain, port cell 24ft 3in, between decks 6ft, 758 tons Principal Managing Owners: 1-2 Charles Foulis, 3 Robert Preston
 Journal 1 Dec 1777-21 Oct 1780, George Ballantyne, Second Mate Ledger Pay Book Imprest Book Absence Book
 Portsmouth 7 1778 - 3 Jun Cape - 16 Aug Madras - 6 Sep Pondicherry - 31 Oct Madras - 6 Feb 1779 Kedgeree - 3 May Ingeli - 4 Sep Madras - 23 Oct Trincomalee - 3 Feb 1780 Cape -10 Jun Fernando Noronha - 27 Aug Falmouth
 2 1780/1 Madras, Bengal and Bombay
@@ -1069,7 +1091,7 @@ SOVEREIGN (1)
 17945 LMARS 15A-B Journal 11 May 1795-24 Feb 1797
 New South Wales and Bengal
 Capt not named
-Dewas 24 May 1795-24 Jul Rio de Janeiro-5 Nov Port Jackson - 7 Mar 1796 Sulu - 1 Apr Penang- 3D May Calcutta-15 Jul Kedgeree-70ct Cape-3 Nov St Helena - 8 Jan 1797 Cork - 31 Jan Downs
+Dewas 24 May 1795-24 Jul Rio de Janeiro-5 Nov Port Jackson - 7 Mar 1796 Sulu - 1 Apr Penang- 30 May Calcutta-15 Jul Kedgeree- 7 Oct Cape-3 Nov St Helena - 8 Jan 1797 Cork - 31 Jan Downs
 SOVEREIGN (2)
 Built by Randall measured 1801, 3 decks, 4in bottom, length 132ft 6in, keel 107ft 9in, breadth 32ft Min hold 12ft Sin, wing transom 20ft 2in, port cell 22ft 11in, waist 8in, between decks 5ft 11in
 & 67 24n, roundhouse 6ft 2in, ports 11 middle &7 upper, 617 tons Principal Managing Owner: John Locke
@@ -1923,7 +1945,7 @@ L/MAR/B/673B(1) Ledger
 L/MAR/B/673B(2) Pay Book
 Capt George Pitt
 Downs 22 Jul 1723 - 15 Nov Cape - 7 Feb 1724 Benkulen - 3 May Moco Moco - 8 May Bantal - 18 May Ipoh - 1 Jun Benkulen - 23 Jul Batavia - 18 Aug Mew Island - 9 Nov St Helena - 3 Feb 1725 Scilly - 6 Mar Deptford
-* inc ‘some short memorandums coasting along the west coast of Sumatra 
+* inc 'some short memorandums coasting along the west coast of Sumatra 
 SWAN (1)
 569 tons
 1 1615/6 Bantam

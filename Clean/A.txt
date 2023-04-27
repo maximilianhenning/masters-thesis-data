@@ -58,7 +58,7 @@ L/MAR/B/713B Journal 20 Nov 1704-10 Mar 1705, Robert Pye, Chief Mate
 L/MAR/B/687A Journal 24 Feb 1703-14 May 1704, Hawes Newport
 L/MAR/B/687E Ledger
 Capt John Goodfellow
-Downs 11 Jun 1703 - 11 Oct ‘Sandy Bay  Guinea - 24 Nov Cape -18 Mar 1704 Anjengo - 31 Mar Calicut -10 Apr Tellicherry -16 Apr Karwar - 29 Apr Mangalore -14 May Bombay -11 Dec Surat - 4 Mar 1705 Bombay - voyage ended 31 May 1707
+Downs 11 Jun 1703 - 11 Oct 'Sandy Bay  Guinea - 24 Nov Cape -18 Mar 1704 Anjengo - 31 Mar Calicut -10 Apr Tellicherry -16 Apr Karwar - 29 Apr Mangalore -14 May Bombay -11 Dec Surat - 4 Mar 1705 Bombay - voyage ended 31 May 1707
 2 1707/8 Surat
 L/MAR/B/687C Journal 24 Jan 1708-6 Feb 1711 
 L/MAR/B/687B Boatswain s Book 19 Dec 1707-28 Apr 1710
@@ -223,7 +223,7 @@ L/MAR/B/624B Journal 3 Dec 1762-21 May 1763, anon
 L/MAR/B/624E(1) Ledger
 L/MAR/B/624E(2) Pay Book
 Capt Francis Fowler
-Downs 18 Mar 1760 - Bengal - ‘towards England  3 Dec 1762 -16 Feb 1763 St Helena - 7 May Limehouse
+Downs 18 Mar 1760 - Bengal - 'towards England  3 Dec 1762 -16 Feb 1763 St Helena - 7 May Limehouse
 3 1763/4 Benkulen, Madras and Bengal
 L/MAR/B/624C Journal 5 Nov 1763-30 Jan 1767, William Money, Second Mate
 L/MAR/B/624F(1) Ledger
@@ -251,7 +251,8 @@ Downs -12 Aug 1637 Masulipatam - 7 Jan 1639 Plymouth
 2 1639/40 Bantam, Persia and Coromandel
 Downs - Bantam Dec 1640 - Bandar Abbas - Masulipatam - 24 Sep 1641 Madras - 3 Dec Masulipatam - 21 Dec Madras - 9 Feb 1642 Bandar Abbas - voyages between Bantam and Coromandel 1642-1647 - returned home 1648/9 ?
 3 1649/50 Bantam
-Capt John Arnold Downs 23 Feb 1650 -
+Capt John Arnold Downs
+23 Feb 1650 -
 4 1657/8 Bantam
 Capt Robert May
 Downs May 1658 - Bantam - Mauritius - Jan 1660 Downs
@@ -557,7 +558,7 @@ Built by Barnard, launched 1772, 3 decks, 4in bottom, length 136ft Tin, keel 110
 L/MAR/B/140A Journal 11 Nov 1772-24 Mar 1775, Chief Mate William Gowland 
 L/MAR/B/140-O(l) Ledger 
 L/MAR/B/140-O(2) Pay Book Capt John Lauder
-Downs 29 Jan 1773 - 1 May St Helena -18 Aug Batavia - 30 Sep Benkulen 5 Apr 1774 -14 May ‘Allas  -16 Jun ‘Saloomah  - 2 Jul Benkulen - 8 Oct Cape -13 Nov St Helena -12 Feb 1775 Gravesend
+Downs 29 Jan 1773 - 1 May St Helena -18 Aug Batavia - 30 Sep Benkulen 5 Apr 1774 -14 May 'Allas  -16 Jun 'Saloomah  - 2 Jul Benkulen - 8 Oct Cape -13 Nov St Helena -12 Feb 1775 Gravesend
 2 1776/7 St Helena, Benkulen and China
 L/MAR/B/140B Journal 27 Sep 1776-1 Oct 1778
 L/MAR/B/140P(1) Ledger
@@ -742,7 +743,7 @@ Rated at 490 tons, 30 guns, 98 crew
 L/MAR/B/785A(1) Imprest Book
 L/MAR/B/785A(2) Receipt Book
 Capt William Studholm
-Downs 2 Feb 1738 - wrecked 23 Jul 1738 north of Goa, in ‘the Mallwan s country , survivors imprisoned
+Downs 2 Feb 1738 - wrecked 23 Jul 1738 north of Goa, in 'the Mallwan s country , survivors imprisoned
 ANN (1)
 Extra ship, built by Randall, measured 1801, 2 decks, 3in bottom, length 128ft 7in, keel 105ft lOV^in, breadth 30ft 21/2in, hold 15ft 41/2in, wing transom 18ft 9in, port cell 25ft 4in, waist 1ft VAin, roundhouse 6ft 3in, ports 10 upper, 508 tons
 Principal Managing Owners: 1 Matthew White, 2-6 William Masson, 7 Shakespeare Read, 8 James Masson
@@ -942,7 +943,7 @@ Capt Andrew Shilling
 Gravesend 4 Feb 1617 - 22 Jun Cape -12 Aug Moheli - 20 Sep Surat - Mokha 19 Aug 1618 - Surat 17 Feb 1619, carried Sir Thomas Roe home - Sep Downs
 2 1619/20
 Capt Richard Swanley
-Voyage lost, ship ‘cast away  between London and Gravesend 20 Mar 1620 - buoyed up and towed to Northfleet
+Voyage lost, ship 'cast away  between London and Gravesend 20 Mar 1620 - buoyed up and towed to Northfleet
 3 1620/1 East Indies
 L/MAR/A/XXXV f.15 Fragment of journal 22 Feb-11 Apr 1624, Edmund Sayers
 Masters: Walter Bennett/Bartholomew Goodall/Peter Elliot/Eustace Man
@@ -1211,7 +1212,7 @@ Ledger
 Pay Book
 Imprest Book
 Receipt Book
-Portsmouth 13 Mar 1781 -10 Apr Sao Tiago - 21 Jul Cape - 3 Sep Johanna - 5 Dec Qishm - 4 Mar 1782 Bombay - 5 Oct Whampoa - ‘towards England  6 Jan 1783 - 17 Jun St Helena - 28 Oct Downs
+Portsmouth 13 Mar 1781 -10 Apr Sao Tiago - 21 Jul Cape - 3 Sep Johanna - 5 Dec Qishm - 4 Mar 1782 Bombay - 5 Oct Whampoa - 'towards England  6 Jan 1783 - 17 Jun St Helena - 28 Oct Downs
 2 1784/5 Benkulen and China
 L/MAR/B/24F Journal 27 Nov 1784-18 Oct 1786
 L/MAR/B/24JJ(1) Ledger
@@ -1254,7 +1255,7 @@ L/MAR/B/24M Journal 27 Dec 1800-2 Aug 1803
 L/MAR/B/24PP(1) Ledger 
 L/MAR/B/24PP(2) Pay Book
 Capt Robert Wardlaw
-Portsmouth 31 Mar 1801 - 24 Jul Madras - 20 Aug Diamond Harbour - 29 Oct Saugor - 22 Nov Kedgeree - 3 Dec Saugor - 29 Dec Malacca - 4 Feb 1802 Amboina -18 Mar Lintin -10 Apr ‘Samkoke  Island -15 May Lintin - 22 Oct Diamond Harbour -15 Dec Saugor - 25 Feb 1803 Madras -15 Mar St Helena -15 Aug Deptford
+Portsmouth 31 Mar 1801 - 24 Jul Madras - 20 Aug Diamond Harbour - 29 Oct Saugor - 22 Nov Kedgeree - 3 Dec Saugor - 29 Dec Malacca - 4 Feb 1802 Amboina -18 Mar Lintin -10 Apr 'Samkoke  Island -15 May Lintin - 22 Oct Diamond Harbour -15 Dec Saugor - 25 Feb 1803 Madras -15 Mar St Helena -15 Aug Deptford
 3 1803/4 Madras and Bengal
 L/MAR/B/24-O Journal 27 Jan 1804-18 Oct 1805 
 L/MAR/B/24QQ(1) Ledger
@@ -1271,7 +1272,7 @@ Portsmouth 30 Mar 1806 - 27 Aug Madras - 28 Oct Diamond Harbour - 20 Dec Saugor 
 L/MAR/B/24SS Imprest Book
 L/MAR/B/24SS(A) Receipt Book
 Capt Henry Pendares Tremenheere
-Portsmouth 17 Sep 1808 - lost 1 Jun 1809 ‘in the Bengal river 
+Portsmouth 17 Sep 1808 - lost 1 Jun 1809 'in the Bengal river 
 ASIA (5)
 1 From Bombay 1799
 L/MAR/B/24K Journal 1 Dec 1799-3 Jun 1800

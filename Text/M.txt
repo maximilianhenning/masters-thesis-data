@@ -685,12 +685,8 @@ L/MAR/B/373G(2) Pay Book
 L/MAR/B/373G(3) Absence Book
 
 L/MAR/B/373G(4) Imprest Book
-
-
-
-
 Capt David Tolme
-Down5 12 Mar 1787 - 28 Aug Whampoa -10 Jan 1788 Second Bar - 22 Apr St Helena - 10 Jul Downs
+Downs 12 Mar 1787 - 28 Aug Whampoa -10 Jan 1788 Second Bar - 22 Apr St Helena - 10 Jul Downs
     2 1789/90 St Helena and China
 L/MAR/B/373B	Journal 1 Jan	1790-4	Aug	1791
 L/MAR/B/373H(1)	Ledger

@@ -450,7 +450,7 @@ CARDIGAN
 1 1712/3 Bengal
 L/MAR/B/668A Journal 5 Nov 1712-26 Apr 1716
 Capt Richard Grainger
-Downs 23 Feb 1713 - 15May Cape-29 JulBalasore-11 Aug Rogues River - 29 Oct Calcutta- 29 Jan 1714 Rogues River - 2 Mar Anjengo -1 May Bandar Abbas -18 Aug Madras - 28 Sep Balasore -10 Oct Rogues River - 6 Jan 1715 Cox s Island -19 Feb Madras - 26 Feb Fort St David - 5 Mar Madras - 22 Mar Fort St David - 31 Mar Madras - 29 Oct Cape -12 Dec St Helena - 24 Apr 1716 Woolwich
+Downs 23 Feb 1713 - 15 May Cape-29 JulBalasore-11 Aug Rogues River - 29 Oct Calcutta- 29 Jan 1714 Rogues River - 2 Mar Anjengo -1 May Bandar Abbas -18 Aug Madras - 28 Sep Balasore -10 Oct Rogues River - 6 Jan 1715 Cox s Island -19 Feb Madras - 26 Feb Fort St David - 5 Mar Madras - 22 Mar Fort St David - 31 Mar Madras - 29 Oct Cape -12 Dec St Helena - 24 Apr 1716 Woolwich
 2 1716/7 Bengal
 L/MAR/B/668B Journal 26 Nov 1716-10 Oct 1718
 L/MAR/B/668E(1) Ledger
@@ -919,7 +919,7 @@ L/MAR/B/215L Journal 22 Nov 1800-19 Mar 1802
 Capt Thomas Todd
 Falmouth 10 Jan 1801 -16 Jun Calcutta - 21 Aug Culpee -15 Sep Saugor - 31 Dec St Helena - 6 Mar 1802 Deptford
 CERES (4)
-Built by Perry, launched 1796, 3 decks, Sin bottom, length 176ft 7in, keel 143ft II‘Ain, breadth 43ft 23Ain, hold 17ft 5 Ain, wing transom 26ft 9in, port cell 29ft 9lAin, waist 3ft 10 Ain, between decks 6ft 7in, roundhouse 6ft 7in, ports 15 middle & upper, deck range 101ft 5 Ain, 1430 tons Principal Managing Owners: 1-5 Thomas Newte, 6-9 George Stevens
+Built by Perry, launched 1796, 3 decks, Sin bottom, length 176ft 7in, keel 143ft II'Ain, breadth 43ft 23Ain, hold 17ft 5 Ain, wing transom 26ft 9in, port cell 29ft 9lAin, waist 3ft 10 Ain, between decks 6ft 7in, roundhouse 6ft 7in, ports 15 middle & upper, deck range 101ft 5 Ain, 1430 tons Principal Managing Owners: 1-5 Thomas Newte, 6-9 George Stevens
 1 1796 Madras and China
 L/MAR/B/215J Journal 2 Feb 1797-15 Feb 1799
 L/MAR/B/215Z(1) Ledger
@@ -967,7 +967,7 @@ L/MAR/B/215GG(1) Ledger
 L/MAR/B/215GG(2) Pay Book 
 Capt Hugh Scott
 Portsmouth 24 Dec 1812 - St Helena - Benkulen - Penang - Malacca - Whampoa - St Helena -10 Aug 1814 Long Reach
-see also NMM: PHB/7 ‘A voyage to St Helena, Bencoolen and China in the HCS Ceres , anon, written in verse
+see also NMM: PHB/7 'A voyage to St Helena, Bencoolen and China in the HCS Ceres , anon, written in verse
 9 1814/5 St Helena and China
 L/MAR/B/215R(1) Journal 28 Dec 1814-21 May 1816
 L/MAR/B/215R(2) Journal 28 Dec 1814-26 May 1816, anon, inc journal of Grenada to West Indies 11 Nov 1816-2 Jul 1817 
@@ -1336,7 +1336,7 @@ L/MAR/B/179N(1) Ledger
 L/MAR/B/179N(2) Pay Book
 Capt Hemy Halkett
 Portsmouth 14 May 1806 - 7 Aug Cape - 21 Oct Penang -18 Jan 1807 Whampoa - 23 Feb Second Bar
-• 30 Jun Penang -19 Sep Cape -13 Oct St Helena -17 Dec Crookhaven -12 Jan 1808 Long Reach
+ 30 Jun Penang -19 Sep Cape -13 Oct St Helena -17 Dec Crookhaven -12 Jan 1808 Long Reach
 7 1809/10 St Helena, Penang and China
 L/MAR/B/179G Journal 1 Jan 1810-20 Nov 1811
 L/MAR/B/179-0(1) Ledger
@@ -1432,7 +1432,7 @@ L/MAR/B/533A Journal 11 Feb 1762-25 Jan 1764
 L/MAR/B/533E(1) Ledger
 L/MAR/B/533E(2) Pay Book
 Capt John Allen
-Portsmouth 6 May 1762 - 28 Aug Delagoa Bay -12 Nov Bombay - 8 Jan 1763 ‘Scindy Road  - 8 Feb Bombay - 20 Mar Surat - 3 Apr Bombay - 8 May Tellicherry -19 Aug St Helena - 29 Nov Downs
+Portsmouth 6 May 1762 - 28 Aug Delagoa Bay -12 Nov Bombay - 8 Jan 1763 'Scindy Road  - 8 Feb Bombay - 20 Mar Surat - 3 Apr Bombay - 8 May Tellicherry -19 Aug St Helena - 29 Nov Downs
 2 1764/5 Madras and Bombay
 L/MAR/B/533B Journal 8 Jan 1765-5 Dec 1766
 L/MAR/B/533F(1) Ledger
@@ -1500,7 +1500,7 @@ Capt Henry Risby
 Downs Mar 1663 - 10 Jul 1664
 4 1667/8 Bantam and Jambi
 Capt Thomas Hall
-Do\yns 10 Mar 1668 - 15 Jul 1669
+Downs 10 Mar 1668 - 15 Jul 1669
 5 1669/70 Madras and Bengal
 Capt Thomas Hall
 Downs 10 Nov 1669 - 14 Jul 1671 Downs
@@ -1544,8 +1544,8 @@ Downs 28 Mar 1740 - 19 Aug Madras - 28 Dec Cape - 5 Jul 1741 Long Reach
 2 1742/3 Borneo
 L/MAR/B/113B Journal 28 Feb 1743-18 Sep 1745, Colin Campbell, Chief Mate
 L/MAR/B/113E(1) Ledger
-L/MAR/B/113E(2) Ledger ‘for sundry men in Ireland 
-L/MAR/B/113E(3) Ledger ‘for men from Ireland and Plymouth 
+L/MAR/B/113E(2) Ledger 'for sundry men in Ireland 
+L/MAR/B/113E(3) Ledger 'for men from Ireland and Plymouth 
 L/MAR/B/113E(4) Pay Book
 Downs 9 Apr 1743 - 6 Sep Batavia -17 Oct Borneo 15 May 1744 - 23 May Batavia - 9 Jul Mew Bay - 23 Sep Cape - 9 Nov St Helena - 7 May 1745 Kinsale -10 Jul Plymouth - 26 Aug Erith
 3 1746/7 Madras and Bengal
@@ -1733,7 +1733,7 @@ L/MAR/B/319-I(2) Pay Book
 L/MAR/B/319-I(3) Imprest Book
 L/MAK/B/319-I(4) Absence Book
 Capt James Baldwin
-Torbay 3 Apr 1780 - 6 Jun Trinidade - 3 Sep Madras - 5 Oct ‘Tumala Punta  -14 Oct Madras - 27 Nov Tellicherry 2 Mar 1781 -16 Mar Goa - 7 Apr Bombay - 9 Aug Madras - 30 Sep Whampoa 31 Jan 1782 - 14 Jul St Helena - 24 Oct Downs
+Torbay 3 Apr 1780 - 6 Jun Trinidade - 3 Sep Madras - 5 Oct 'Tumala Punta  -14 Oct Madras - 27 Nov Tellicherry 2 Mar 1781 -16 Mar Goa - 7 Apr Bombay - 9 Aug Madras - 30 Sep Whampoa 31 Jan 1782 - 14 Jul St Helena - 24 Oct Downs
 2 1783/4 Madras and China
 L/MAR/B/319B Journal 12 Oct 1783-14 Oct 1785
 L/MAR/B/319J(1) Ledger
@@ -1808,7 +1808,7 @@ COROMANDEL (1)
 1 1801/2 New South Wales and China
 L/MAR/B/206A Journal 3 Nov 1801-4 Jul 1803 
 Capt Alexander Stirling
-Portsmouth 8 Feb 1802 - 13 Jun Sydney Cove -17 Sep Whampoa -12 Oct ‘Capshee Bay  - 21 Nov Whampoa - 5 Jan 1803 Lintin -17 Apr St Helena -14 Jun Long Reach
+Portsmouth 8 Feb 1802 - 13 Jun Sydney Cove -17 Sep Whampoa -12 Oct 'Capshee Bay  - 21 Nov Whampoa - 5 Jan 1803 Lintin -17 Apr St Helena -14 Jun Long Reach
 COROMANDEL (2)
 Chartered ship, 645 tons
 Principal Managing Owner: Joseph Hare
@@ -2107,7 +2107,7 @@ CURTANA
 140 tons, 29 crew, 20 guns
 1 1685/6 Madras
 Capt Anthony Weltden
-19 Apr 1686 - ‘free ship to trade in the country 
+19 Apr 1686 - 'free ship to trade in the country 
 CUVERA
 Built at Calcutta 1796, 935 tons 
 1 From Bengal 1799

@@ -572,7 +572,7 @@ Rated at 400/430 tons, 80/86 crew, 30 guns
 L/MAR/B/625A Journal 13 Nov 1708-5 Jul 1710
 Capt Joseph Tolson
 Downs 20 Mar 1709 - 4 May Sao Tiago - Madras 28 Oct - Bengal - Cape 22 Mar 1710 -16 Aug Downs
-* Jul 1709 description of ‘sea monster  (Southern Right Whale ?)
+* Jul 1709 description of 'sea monster  (Southern Right Whale ?)
 2 1710/1 Bombay
 L/MAR/B/625B Journal 29 Mar 1711-25 Sep 1713, Robert Wynn, Chief Mate 
 Capt Joseph Tolson
@@ -672,7 +672,7 @@ L/MAR/B/486A Journal 1 Feb 1750-14 May 1754
 L/MAR/B/486J(1) Ledger
 L/MAR/B/486J(2) Pay Book
 Capt Stevens Kirwan
-Downs 20 Mar 1751 - 6 Jul St Augustine s Bay - 28 Aug Bandar Abbas - 27 Sep Bombay - 24 Oct Surat - 30 Oct Bombay - 16 Dec ‘coast of Sindey  -18 Jan 1752 Bombay - 31 Jan Surat - 20 Apr Bombay -18 Sep Culpee -16 Nov Ingeli -12 Jan 1753 Anjengo - 4 Feb Tellicherry -11 Mar Bombay - 29 Apr Tellicherry -16 Jun Bourbon - 24 Dec St Helena - 28 Apr 1754 Downs
+Downs 20 Mar 1751 - 6 Jul St Augustine s Bay - 28 Aug Bandar Abbas - 27 Sep Bombay - 24 Oct Surat - 30 Oct Bombay - 16 Dec 'coast of Sindey  -18 Jan 1752 Bombay - 31 Jan Surat - 20 Apr Bombay -18 Sep Culpee -16 Nov Ingeli -12 Jan 1753 Anjengo - 4 Feb Tellicherry -11 Mar Bombay - 29 Apr Tellicherry -16 Jun Bourbon - 24 Dec St Helena - 28 Apr 1754 Downs
 2 1755/6 Bombay
 L/MAR/B/486B Journal 1 Jan 1756-8 Nov 1757
 L/MAR/B/486K(1) Ledger
@@ -732,7 +732,7 @@ L/MAR/B/170A Journal 18 Mar 1796-17 May 1798
 L/MAR/B/170H(1) Ledger
 L/MAM/B/170H(2) Pay Book
 Capt Richard Atherton Farington
-Portsmouth 27 Jun 1796 - 20 Sep Cape - 2 Feb 1797 Whampoa -14 Sep ‘Bally Town  - 2 Dec Cape - 17 Mar 1798 Downs
+Portsmouth 27 Jun 1796 - 20 Sep Cape - 2 Feb 1797 Whampoa -14 Sep 'Bally Town  - 2 Dec Cape - 17 Mar 1798 Downs
 2 1798/9 Bombay and China
 L/MAR/B/170-I Imprest Book
 Capt Thomas Wakefield
@@ -873,7 +873,7 @@ L/MAR/B/339B Journal 13 Mar 1802-24 May 1804, George Lott Philips, Second Mate
 L/MAR/B/339D(1) Ledger 
 L/MAR/B/339D(2) Pay Book
 Capt Samuel Butler
-Downs 4 May 1802 - 6 Sep Bombay -16 Dec Bassein - 31 Dec Bombay - 2 Apr 1803 Calcutta - 17 Jun Kedgeree - 28 Sep ‘Poolo Bay  -17 Jan 1804 St Helena - 29 Apr Downs
+Downs 4 May 1802 - 6 Sep Bombay -16 Dec Bassein - 31 Dec Bombay - 2 Apr 1803 Calcutta - 17 Jun Kedgeree - 28 Sep 'Poolo Bay  -17 Jan 1804 St Helena - 29 Apr Downs
 HERCULES (1)
 1 1800/1 New South Wales and China
 L/MAR/B/77A Journal 2 Jul 1801-5 Jul 1803
@@ -962,7 +962,7 @@ Capt John Lane
 Downs 29 Jun 1701 -1 Oct St Helena - 31 Dec Calicut - 7 Mar 1702 Bombay -14 Mar Surat - 8 Apr Bombay -13 May Calicut - 24 Aug St Helena - 28 Dec Barbados - 9 Apr 1703 Limehouse
 HERNE (2)
 Frigate, New Company
-Possibly same as 200 ton ‘private trader  Herne which made a voyage beginning 18 Oct 1699
+Possibly same as 200 ton 'private trader  Herne which made a voyage beginning 18 Oct 1699
 1 1701/2 Bengal
 L/MAR/B/112C Ledger 
 Capt William Morris Downs 25 Mar 1702 - Jul 1704 Limerick
@@ -1193,7 +1193,7 @@ HOPE (1)
 1 1613/4 Surat
 L/MAM/A/XIX Journal on New Year s Gift and Hope 25 Feb 1614-Nov 1615, Edward
 Dodsworth, merchant Master Matthew Molyneux
-Gravesend 28 Feb 1614 -15 Jun Cape - 6 Aug St Augustine s Bay - 23 Aug Moheli - 9 Sep Socotra - 15 Oct Surat 3 Mar 1615 -17 Jun Cape - Oct ‘Killybeg  Ireland - Nov Downs
+Gravesend 28 Feb 1614 -15 Jun Cape - 6 Aug St Augustine s Bay - 23 Aug Moheli - 9 Sep Socotra - 15 Oct Surat 3 Mar 1615 -17 Jun Cape - Oct 'Killybeg  Ireland - Nov Downs
 2 1616/7 Bantam
 Master Christopher Newport
 Downs - Apr 1617 Cape -15 Aug Bantam Jan 1618 - Sep Gravesend
@@ -1568,7 +1568,7 @@ Portsmouth 5 Mar 1808 - 31 May Simons Bay - 3 Aug Madras - 22 Aug Diamond Harbou
 L/MAM/B/23 IE Journal 15 Dec 1809-4 Apr 1812 L/MAM/B/231L(1) Ledger
 L/MAM/B/231L(2) Pay Book
 Capt John Wood
-Portsmouth 14 Mar 1810-9 Jul Madras - 28 Jul Diamond Harbour - 4 Sep Saugor - 29 Nov Mauritius -10 Feb 1811 Diamond Harbour - 4 May Malacca -12 Jul ‘Rendezvous Island  Borneo -10 Aug Batavia - 31 Oct Calcutta - 28 Dec Saugor - 4 Apr 1812 ‘towards England 
+Portsmouth 14 Mar 1810-9 Jul Madras - 28 Jul Diamond Harbour - 4 Sep Saugor - 29 Nov Mauritius -10 Feb 1811 Diamond Harbour - 4 May Malacca -12 Jul 'Rendezvous Island  Borneo -10 Aug Batavia - 31 Oct Calcutta - 28 Dec Saugor - 4 Apr 1812 'towards England 
 6 1812/3 Madras and Bengal
 L/MAM/B/23 IF Journal 18 Dec 1812-8 Nov 1814 L/MAM/B/231M(1) Ledger
 L/MAM/B/231M(2) Pay Book
@@ -1602,7 +1602,7 @@ Plymouth 1 Feb 1770 - 30 Apr Simons Bay - 21 Jul Madras - 20 Oct Whampoa - 30 Ja
 2 1772/3 Madras and Bengal
 L/MAM/B/546B Journal 26 Oct 1772-15 Apr 1774
 Capt Peter Pigou
-Portsmouth 30 Jan 1773 - 24 Apr Cape - 26 Jun Madras -17 Aug Kedgeree - 23 Oct Madras - 27 Nov Mauritius -15 Dec Bourbon - 21 Jan 1774 Mozambique -15 Apr ‘towards England  HURLEY
+Portsmouth 30 Jan 1773 - 24 Apr Cape - 26 Jun Madras -17 Aug Kedgeree - 23 Oct Madras - 27 Nov Mauritius -15 Dec Bourbon - 21 Jan 1774 Mozambique -15 Apr 'towards England  HURLEY
 Smack
 L/MAM/A/CXXXI Journal 11 Jul-3 Sep 1699 Master George Betteris
 Cruising in the Channel to meet the homeward bound fleet

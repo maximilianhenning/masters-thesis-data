@@ -7,8 +7,8 @@ path = path.dirname(__file__)
 df_combined = pd.read_csv(path + "/combined.csv", sep = ";")
 
 # Ships table
-# ship_id   tons    guns    crew    type    built_by    built_year  Owner   info
-# ship_id   string  string  string  string  string      string      string  string
+# ship_id   tons    guns    crew    type    built_by    built_year  built_at    owner       info
+# ship_id   string  string  string  string  employee_id int         string      employee_id string
 
 df_ships = df_combined[["ship_id", "name", "info"]]
 
@@ -16,6 +16,8 @@ def feature_getter(info, feature):
     feature_result = info.split(feature)[0].strip().split(" ")[-1].strip("[\'")
     if "/" in feature_result:
         feature_result = feature_result.split("/")
+    if type(feature_result) == list:
+        feature_result = ",".join(feature_result)
     return feature_result
 
 def ship_splitter(info):
@@ -27,6 +29,7 @@ def ship_splitter(info):
     ship_type = "nan"
     built_by = "nan"
     built_year = "nan"
+    built_at = "nan"
     # Tons, guns, crew and ship type work the same way
     if "tons" in info:
         tons = feature_getter(info, "tons")
@@ -41,6 +44,11 @@ def ship_splitter(info):
         built_by = info.split("uilt by")[1].strip().split(" ")[0].strip(",")
         if "/" in built_by:
             built_by = built_by.split("/")
+        if " at " in info:
+            built_at_guess = info.split(" at ")[1].split(" ")[0].strip(",")
+            # Don't take digits because tons can also be written like that
+            if not built_at_guess.isdigit():
+                built_at = built_at_guess
     # Built year can be written in two different ways
     for word in ["uilt", "aunched"]:
         if word in info:
@@ -51,9 +59,9 @@ def ship_splitter(info):
     # XXXX
     # Technical measurements
     # XXXX
-    return pd.Series([tons, guns, crew, ship_type, built_by, built_year])
+    return pd.Series([tons, guns, crew, ship_type, built_by, built_year, built_at])
 df_ships_expand = df_ships["info"].apply(ship_splitter)
-df_ships_expand.rename(columns = {0: "tons", 1: "guns", 2: "crew", 3: "type", 4: "built_by", 5: "built_year"}, inplace = True)
+df_ships_expand.rename(columns = {0: "tons", 1: "guns", 2: "crew", 3: "type", 4: "built_by", 5: "built_year", 6: "built_at"}, inplace = True)
 df_ships = pd.concat([df_ships, df_ships_expand], axis = 1)
 df_ships.to_csv(path + "/Output/ships.csv", index = False, sep = ";")
 
@@ -71,32 +79,33 @@ for row in df_voyages_list.iterrows():
         if type(row[1][voyage_id]) == str:
             voyages_list.append([row[1]["ship_id"], x, row[1][voyage_id]])
 df_voyages = pd.DataFrame(voyages_list)
-df_voyages.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "info"}, inplace = True)
-def id_creator(voyage_id):
-    return "v" + str(voyage_id)
-df_voyages["voyage_id"] = df_voyages["voyage_id"].apply(id_creator)
+df_voyages.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "raw"}, inplace = True)
+def voyage_id_creator(row):
+    voyage_id = row["ship_id"] + "v" + str(row["voyage_id"])
+    return voyage_id
+df_voyages["voyage_id"] = df_voyages.apply(voyage_id_creator, axis = 1)
 
-def voyage_splitter(info):
+def voyage_splitter(raw):
     start = "nan"
     end = "nan"
     destination = "nan"
     captain = "nan"
     reference_string = "nan"
-    if str(info) != "nan":
-        info = ast.literal_eval(info)
+    if str(raw) != "nan":
+        raw = ast.literal_eval(raw)
         # Start & End
-        if type(info["time"]) == list:
-            start = info["time"][0]
-            end = info["time"][1]
+        if type(raw["time"]) == list:
+            start = raw["time"][0]
+            end = raw["time"][1]
         else:
-            start = info["time"]
-            end = info["time"]
+            start = raw["time"]
+            end = raw["time"]
         # Destination
-        destination = info["destination"]
+        destination = raw["destination"]
         if not destination:
             destination = "nan"
         # Reference
-        references = info["reference"]
+        references = raw["reference"]
         if len(references) > 0:
             reference_string = ""
             for reference in references:
@@ -108,12 +117,12 @@ def voyage_splitter(info):
                 references = references[1:]
         # Fill in start & end if they don't exist yet but stops do
         # Captain
-        captain = info["captain"]
+        captain = raw["captain"]
         if type(captain) == list:
             captain = "nan"
     return pd.Series([start, end, destination, captain, reference_string])
     #return captain
-df_voyages_expand = df_voyages["info"].apply(voyage_splitter)
+df_voyages_expand = df_voyages["raw"].apply(voyage_splitter)
 df_voyages_expand.rename(columns = {0: "start", 1: "end", 2: "destination", 3: "captain", 4: "references"}, inplace = True)
 df_voyages = pd.concat([df_voyages, df_voyages_expand], axis = 1)
 df_voyages.to_csv(path + "/Output/voyages.csv", index = False, sep = ";")
@@ -129,12 +138,12 @@ for row in df_voyages.iterrows():
     ship_id = row[1]["ship_id"]
     voyage_id = row[1]["voyage_id"]
     # Read info dictionary
-    info = row[1]["info"]
-    if str(info) != "nan":
-        info = ast.literal_eval(info)
+    raw = row[1]["raw"]
+    if str(raw) != "nan":
+        raw = ast.literal_eval(raw)
         # If there is an itinerary, read it
-        if "itinerary" in info.keys():
-            itinerary = info["itinerary"]
+        if "itinerary" in raw.keys():
+            itinerary = raw["itinerary"]
             calls = itinerary.split("-")
             # Go through calls
             call_id = 0
@@ -163,7 +172,7 @@ for row in df_voyages.iterrows():
                         else:
                             location.append(part)
                 # If there is so much written, it must be special somehow
-                if len(location) > 3:
+                if len(location) > 2:
                     special = True
                 if location:
                     location = " ".join(location)
@@ -172,15 +181,21 @@ for row in df_voyages.iterrows():
                 call_list.append([ship_id, voyage_id, call_id, call, year, month, day, location, special])
 df_calls = pd.DataFrame(call_list)
 df_calls.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "call_id", 3: "raw", 4: "year", 5: "month", 6: "day", 7: "location", 8: "special"}, inplace = True)
+def call_id_creator(row):
+    call_id = row["voyage_id"] + "c" + str(row["call_id"])
+    return call_id
+df_calls["call_id"] = df_calls.apply(call_id_creator, axis = 1)
 df_calls.to_csv(path + "/Output/calls.csv", index = False, sep = ";")
-def id_creator(calls_id):
-    return "c" + str(calls_id)
-df_calls["call_id"] = df_calls["call_id"].apply(id_creator)
-print(df_calls.head())
 
 # Location table
 # location_id   longitude   latitude
 # location_id   float       float
+
+location_list = []
+location_list += df_calls.loc[df_calls["special"] == False]["location"].tolist()
+location_list += df_ships.loc[df_ships["built_at"].notna()]["built_at"].tolist()
+location_list = list(set(location_list))
+print(location_list)
 
 # Employee table
 # employee_id   owned   captained
