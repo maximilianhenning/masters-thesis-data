@@ -12,33 +12,41 @@ df_combined = pd.read_csv(path + "/combined.csv", sep = ";")
 
 df_ships = df_combined[["ship_id", "name", "info"]]
 
-def feature_getter(info, feature):
-    feature_result = info.split(feature)[0].strip().split(" ")[-1].strip("[\'")
-    if "/" in feature_result:
-        feature_result = feature_result.split("/")
-    if type(feature_result) == list:
-        feature_result = ",".join(feature_result)
-    return feature_result
+def feature_getter(info, feature, min, max):
+    result = info.split(feature)[0].strip().split(" ")[-1].strip("[\'")
+    if "/" in result:
+        result = result.split("/")
+    if type(result) == list:
+        min = result[0]
+        max = result[1]
+        result = int((int(min) + int(max)) / 2)
+    return result, min, max
 
 def ship_splitter(info):
     if type(info) == list:
         info = " ".join(info)
     tons = "nan"
+    tons_min = "nan"
+    tons_max = "nan"
     guns = "nan"
+    guns_min = "nan"
+    guns_max = "nan"
     crew = "nan"
+    crew_min = "nan"
+    crew_max = "nan"
     ship_type = "nan"
     built_by = "nan"
     built_year = "nan"
     built_at = "nan"
     # Tons, guns, crew and ship type work the same way
     if "tons" in info:
-        tons = feature_getter(info, "tons")
+        tons, tons_min, tons_max = feature_getter(info, "tons", tons_min, tons_max)
     if "guns" in info:
-        guns = feature_getter(info, "guns")
+        guns, guns_min, guns_max = feature_getter(info, "guns", guns_min, guns_max)
     if "crew" in info:
-        crew = feature_getter(info, "crew")
+        crew, crew_min, crew_max = feature_getter(info, "crew", crew_min, crew_max)
     if "ship" in info:
-        ship_type = feature_getter(info, "ship")
+        ship_type = info.split("ship")[0].strip().split(" ")[-1].strip("[\'").strip("\"")
     # Built by
     if "uilt by" in info:
         built_by = info.split("uilt by")[1].strip().split(" ")[0].strip(",")
@@ -59,9 +67,21 @@ def ship_splitter(info):
     # XXXX
     # Technical measurements
     # XXXX
-    return pd.Series([tons, guns, crew, ship_type, built_by, built_year, built_at])
+    return pd.Series([tons, tons_min, tons_max, guns, guns_min, guns_max, crew, crew_min, crew_max, ship_type, built_by, built_year, built_at])
 df_ships_expand = df_ships["info"].apply(ship_splitter)
-df_ships_expand.rename(columns = {0: "tons", 1: "guns", 2: "crew", 3: "type", 4: "built_by", 5: "built_year", 6: "built_at"}, inplace = True)
+df_ships_expand.rename(columns = {0: "tons", 
+                                  1: "tons_min", 
+                                  2: "tons_max", 
+                                  3: "guns", 
+                                  4: "guns_min", 
+                                  5: "guns_max", 
+                                  6: "crew", 
+                                  7: "crew_min", 
+                                  8: "crew_max", 
+                                  9: "type", 
+                                  10: "built_by", 
+                                  11: "built_year", 
+                                  12: "built_at"}, inplace = True)
 df_ships = pd.concat([df_ships, df_ships_expand], axis = 1)
 df_ships.to_csv(path + "/Output/ships.csv", index = False, sep = ";")
 
