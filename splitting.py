@@ -3,8 +3,8 @@ import ast
 import datetime
 from os import path
 
-path = path.dirname(__file__)
-df_combined = pd.read_csv(path + "/combined.csv", sep = ";")
+dir = path.dirname(__file__)
+df_combined = pd.read_csv(path.join(dir, "combined.csv"), sep = ";")
 
 # Ships table
 # ship_id   tons    guns    crew    type    built_by    built_year  built_at    owner       info
@@ -83,7 +83,7 @@ df_ships_expand.rename(columns = {0: "tons",
                                   11: "built_year", 
                                   12: "built_at"}, inplace = True)
 df_ships = pd.concat([df_ships, df_ships_expand], axis = 1)
-df_ships.to_csv(path + "/Output/ships.csv", index = False, sep = ";")
+df_ships.to_csv(path.join(dir, "output/ships.csv"), index = False, sep = ";")
 
 # Voyages table
 # voyage_id     ship    start   end     destination reference   captain
@@ -145,7 +145,7 @@ def voyage_splitter(raw):
 df_voyages_expand = df_voyages["raw"].apply(voyage_splitter)
 df_voyages_expand.rename(columns = {0: "start", 1: "end", 2: "destination", 3: "captain", 4: "references"}, inplace = True)
 df_voyages = pd.concat([df_voyages, df_voyages_expand], axis = 1)
-df_voyages.to_csv(path + "/Output/voyages.csv", index = False, sep = ";")
+df_voyages.to_csv(path.join(dir, "output/voyages.csv"), index = False, sep = ";")
 
 # Calls table
 # ship_id   voyage_id   call_id     raw     year    month   day    place        special
@@ -205,7 +205,7 @@ def call_id_creator(row):
     call_id = row["voyage_id"] + "c" + str(row["call_id"])
     return call_id
 df_calls["call_id"] = df_calls.apply(call_id_creator, axis = 1)
-df_calls.to_csv(path + "/Output/calls.csv", index = False, sep = ";")
+df_calls.to_csv(path.join(dir, "output/calls.csv"), index = False, sep = ";")
 
 # Location table
 # location_id   longitude   latitude
@@ -217,9 +217,25 @@ location_list += df_ships.loc[df_ships["built_at"].notna()]["built_at"].tolist()
 location_list = list(set(location_list))
 print(location_list)
 
-# Employee table
-# employee_id   owned   captained
-# employee_id   ship_id voyage_id
+# People table
+# person_id     last_name   first_name  birth_date  baptised_date   death_date
+# person_id     string      string      string      string          string
+
+# Staff table
+# person_id
+# person_id
+
+# Shipbuilders table
+# person_id     ship_id
+# person_id     ship_id
+
+# Shipowners table
+# person_id     voyage_id
+# person_id     voyage_id
+
+# Officers table
+# person_id     voyage_id   rank
+# person_id     voyage_id   string
 
 # Fill in IDs for relevant features in all tables
 # XXXX

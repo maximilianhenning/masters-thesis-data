@@ -71,16 +71,16 @@ for file in voyage_file_list:
     print(file_title + "\nOriginal lines:", str(line_counter) + "\nCleaned lines:", str(line_cleaned_counter))
     if not path.exists(path.join(dir, "voyages_clean")):
         makedirs(path.join(dir, "voyages_clean"))
-    with open(path.join(dir, "voyages_clean", file + ".txt"), "w") as output:
+    with open(path.join(dir, "voyages_clean", file_title + ".txt"), "w") as output:
         for line in lines_cleaned:
             output.write(line + "\n")
-with open(path.join(dir, "combined.txt", "w")) as output:
+with open(path.join(dir, "combined.txt"), "w") as output:
     for line in overall_list:
         output.write(line + "\n")
 
 # Officers
 officer_file_list = []
-officer_folder_list = glob(dir, "officers_png/*")
+officer_folder_list = glob(path.join(dir, "officers_png/*"))
 for folder in officer_folder_list: 
     folder_title = folder.split("\\")[-1].split(".")[0]
     print(folder_title)

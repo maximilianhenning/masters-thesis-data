@@ -2,8 +2,8 @@ import pandas as pd
 from glob import glob
 from os import path
 
-path = path.dirname(__file__)
-clean_file_list = glob(path + "/Clean/*")
+dir = path.dirname(__file__)
+clean_file_list = glob(path.join(dir, "voyages_clean/*"))
 
 # Classify lines
 def line_classify(lines):
@@ -93,7 +93,7 @@ def ship_creator(lines_classed):
 # Wrangle each file
 for file in clean_file_list:
     file = file.split("\\")[-1].split(".")[0]
-    with open(path + "/Clean/" + file + ".txt", "r") as input:
+    with open(path.join(dir, "voyages_clean", file + ".txt"), "r") as input:
         text = input.read()
     lines = text.split("\n")
     lines_classed = line_classify(lines)
@@ -105,14 +105,14 @@ for file in clean_file_list:
     # Convert ship name from index to column
     df_ships = df_ships.reset_index().rename(columns = {"index": "name"})
     # Save to CSV
-    df_ships.to_csv(path + "/Partial/" + file + ".csv", index = False, sep = ";")
+    df_ships.to_csv(path.join(dir, "voyages_partial", file + ".csv"), index = False, sep = ";")
 
 # Combine files
 df_list = []
-partial_file_list = glob(path + "/Partial/*")
+partial_file_list = glob(path.join(dir, "voyages_partial/*"))
 for file in partial_file_list:
     file = file.split("\\")[-1].split(".")[0]
-    df = pd.read_csv(path + "/Partial/" + file + ".csv", sep = ";")
+    df = pd.read_csv(path.join(dir, "voyages_partial", file + ".csv"), sep = ";")
     df_list.append(df)
 # Concatenate and drop old indexes
 df_combined = pd.concat(df_list)
@@ -122,4 +122,4 @@ df_combined = df_combined.reset_index().rename(columns = {"index": "ship_id"})
 def id_creator(ship_id):
     return "s" + str(ship_id + 1)
 df_combined["ship_id"] = df_combined["ship_id"].apply(id_creator)
-df_combined.to_csv(path + "/combined.csv", index = False, sep = ";", na_rep = "nan")
+df_combined.to_csv(path.join(dir, "combined.csv"), index = False, sep = ";", na_rep = "nan")
