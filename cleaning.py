@@ -1,9 +1,13 @@
 from glob import glob
-from os import path
+from os import path, makedirs
+from PIL import Image
+import pytesseract
 
-path = path.dirname(__file__)
-file_list = glob(path + "/Text/*")
+dir = path.dirname(__file__)
+# Tesseract path
+pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
+# Voyages
 def cleaner(lines):
     lines_cleaned = []
     for line in lines:
@@ -49,28 +53,44 @@ def cleaner(lines):
             lines_cleaned.append(line)
     return lines_cleaned
 
+voyage_file_list = glob(path.join(dir, "voyages_text/*"))
 overall_list = []
-for file in file_list:
-    file = file.split("\\")[-1].split(".")[0]
-    with open(path + "/Text/" + file + ".txt", "r") as input:
+for file in voyage_file_list:
+    file_title = file.split("\\")[-1].split(".")[0]
+    with open(file, "r") as input:
         text = input.read()
     lines = text.split("\n")
     lines_cleaned = cleaner(lines)
     overall_list += lines_cleaned
-
     line_counter = 0
     for line in lines:
         line_counter += 1
     line_cleaned_counter = 0
     for line in lines_cleaned:
         line_cleaned_counter += 1
-
-    print(file + "\nOriginal lines:", str(line_counter) + "\nCleaned lines:", str(line_cleaned_counter))
-
-    with open(path + "/Clean/" + file + ".txt", "w") as output:
+    print(file_title + "\nOriginal lines:", str(line_counter) + "\nCleaned lines:", str(line_cleaned_counter))
+    if not path.exists(path.join(dir, "voyages_clean")):
+        makedirs(path.join(dir, "voyages_clean"))
+    with open(path.join(dir, "voyages_clean", file + ".txt"), "w") as output:
         for line in lines_cleaned:
             output.write(line + "\n")
-
-with open(path + "/combined.txt", "w") as output:
+with open(path.join(dir, "combined.txt", "w")) as output:
     for line in overall_list:
         output.write(line + "\n")
+
+# Officers
+officer_file_list = []
+officer_folder_list = glob(dir, "officers_png/*")
+for folder in officer_folder_list: 
+    folder_title = folder.split("\\")[-1].split(".")[0]
+    print(folder_title)
+    files = glob(folder + "/*")
+    folder_ocr = ""
+    for file in files:
+        file_ocr = pytesseract.image_to_string(Image.open(file))
+        folder_ocr += file_ocr
+    if not path.exists(path.join(dir, "officers_clean")):
+        makedirs(path.join(dir, "officers_clean"))
+    with open(path.join(dir, "officers_clean", folder_title + ".txt"), "w") as output:
+        for char in folder_ocr:
+            output.write(char)
