@@ -52,6 +52,7 @@ WILLIAM HENRY; midshipman MARQUIS OF ELY 1801/2; Sth mate MARQUIS OF ELY
 Adams, Bartholomew
 surgeon DISCOVERY 1601/2
 
+
 Adams, Peter
 Sid sate ISIRIR GC MERCHANT 17] 5/6; 2nd mate CHANDOS (2) 1719/20
 
@@ -110,6 +111,7 @@ ottl boats PRINCESS STA () 180506
 Adamson, Lawrence
 Sth mate MANSHIP (1) 1787/8
 
+
 Addison, Thomas (1785-)
 b 18 Dec 1785 Saxthorpe, Norfolk, s of Rev Leonard & Sarah Gallant; midshipman MARQUIS
 WELLESLEY 1801/2; midshipman BRUNSWICK 1803/4, home from Cape in HMS Howe;
@@ -166,6 +168,7 @@ Agassiz, Lewis Stanislaus (1812-1833)
 ‘bin Englend 29 Jem 1912: antdshiomen TELAMTES (3) 1828/9; Stth auaite TETARIES ¢5) ISS: by
 a brig to St Petersburg 3m; 4th mate BOMBAY (3) 1832/3; d 7 Nov 1833
 
+
 Aitchison, Andrew (c1748-)
 
 b in England; seaman Hopewell in coal trade ly bin; qnemter master DIN TEORD C2) lassys:
@@ -221,6 +224,7 @@ MELVILLE 1828/9; surgeon LADY MELVILLE 1830/1
 
 Alcock, James
 Sth mate HAWKE (4) 1778/9
+
 Alexander, Edward
 6th mate HARCOURT (1) 1752/3
 
@@ -274,6 +278,7 @@ purser KENT (7) 1820/1 & 1822/3
 
 Allan, John
 surgeon HUGH INGLIS 1812/3
+
 
 Allen, James (c1756-)
 
@@ -333,6 +338,7 @@ purser EARL OF ASHBURNHAM 1773/4
 
 Allen, Thomas (-1777)
 surgeon RESOLUTION (3) 1776/7; d 17 Jul 1777
+
 Alleyn, Frederick Percival
 
 surgeon’s mate DOVER CASTLE 1810/1; surgeon GENERAL KYD 1814/5, 1816/7, 1818/9,
@@ -393,6 +399,7 @@ West Indies 1795; midshipman BRITANNIA (4) 1796/7; 6th mate BRITANNIA (4) 1798/9
 3rd mate BRITANNIA (9) 1806/7 & 1808/9; 2nd mate NEPTUNE 6) 1808/9; 1st mate
 CABALVA 1811/2 & 1813/4; 1st mate THOMAS GRENVILLE 1815/16; Capt THOMAS
 GRENVILLE 1816/7; Capt WATERLOO (1) 1818/9, 1820/1, 1822/3 & 1824/5
+
 Ambrose, Thomas (1783-)
 
 b 5 Dec 1783 Hendon, Middx; midshipman SKELTON CASTLE 1799/1800; 4th mate
@@ -459,6 +466,7 @@ Anderson, Dick Douglas (1770-)
 029 Nov 1790 Worth Leith, sof Pateick & Elizabeth Dick; 2nd mate MANSHIP (2) 1800/1;
 2nd mate MARCHIONESS OF EXETER 1803/4
 
+
 Anderson, Robert
 3rd mate DOVER (1) 1703/4
 
@@ -519,6 +527,7 @@ purser CHARLTON (SOS? ISO], LOANS. ena ls & 1806/7; petitioned Poplar Fund 1817
 Andrews, Jonathan
 Capt CAESAR 1678/9, 1680/1 & 1683/4; Capt CHARLES I 1685/6
 
+
 Angus, John
 1st mate DAVID SCOTT (1) 1802
 
@@ -573,6 +582,7 @@ DERBY (2) 1722/3, 1725/6 & 1729/30; Capt DERBY (2) 1734/5
 
 Ansley, Fenwick
 surgeon ADDISON 1720/1
+
 
 Applegath, Augustus Joseph (c1748-)
 > im England: seaman EMS Windsor 6m; seaman PRINCE OF WALES (4) 1765/6; seaman
@@ -632,6 +642,7 @@ Capt HARRIET (1) 1796/7
 Archer, Midlenore (-1722)
 6th mate KING GEORGE (1) 1720/1; d 16 Dec 1722
 
+
 Armstrong, James
 surgeon AIRLY CASTLE 1795/6, GEORGIANA (1) 1798/9
 
@@ -688,6 +699,7 @@ Arnot, James
 
 Arnot, Thomas
 surgeon OSTERLEY (1) 1757/8
+
 
 Ashington, Robert
 3rd mate CHILDE HAROLD 1826/7; run Nov 1827
@@ -748,6 +760,7 @@ Aspinwall, Jeremiah
 
 Asquith, David
 Capt SURPRISE 1783, 1783/4 & 1785/6
+
 
 Atkinson, Daniel
 purser EARL SPENCER (1) 1795/6
@@ -811,6 +824,7 @@ Atkinson, William
 4h mate LIS Gh) 17212; Sed mete AETIL. (2) 17245; 2nd mete GREEN WIC (1)
 1728/9; 2nd mate MARY (7) 1731/2
 
+
 Austin, Charles
 purser DEPTFORD (1) 1770/1
 
@@ -864,4 +878,5 @@ Ayscough, Gabriel (-1755)
 
 Ayton, Richard
 Capt SARAH CHRISTIANA 1798/9
+
 

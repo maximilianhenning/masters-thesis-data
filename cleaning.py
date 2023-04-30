@@ -2,12 +2,14 @@ from glob import glob
 from os import path, makedirs
 from PIL import Image
 import pytesseract
+import re
 
 dir = path.dirname(__file__)
 # Tesseract path
 pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
 # Voyages
+
 def cleaner(lines):
     lines_cleaned = []
     for line in lines:
@@ -74,23 +76,36 @@ for file in voyage_file_list:
     with open(path.join(dir, "voyages_clean", file_title + ".txt"), "w") as output:
         for line in lines_cleaned:
             output.write(line + "\n")
-with open(path.join(dir, "combined.txt"), "w") as output:
+with open(path.join(dir, "combined/voyages.txt"), "w") as output:
     for line in overall_list:
         output.write(line + "\n")
 
 # Officers
+
+def officer_clean(file_ocr):
+    lines = file_ocr.split("\n")
+    file_lines = []
+    for line in lines:
+        clean_line = re.sub(r"\|", "", line)
+        clean_line = clean_line.strip()
+        # Get empty lines or lines with content
+        if len(line) > 3:
+            file_lines.append(clean_line)
+    return file_lines
+
 officer_file_list = []
 officer_folder_list = glob(path.join(dir, "officers_png/*"))
 for folder in officer_folder_list: 
     folder_title = folder.split("\\")[-1].split(".")[0]
     print(folder_title)
     files = glob(folder + "/*")
-    folder_ocr = ""
+    folder_lines = []
     for file in files:
         file_ocr = pytesseract.image_to_string(Image.open(file))
-        folder_ocr += file_ocr
+        file_lines = officer_clean(file_ocr)
+        folder_lines += file_lines
     if not path.exists(path.join(dir, "officers_clean")):
         makedirs(path.join(dir, "officers_clean"))
     with open(path.join(dir, "officers_clean", folder_title + ".txt"), "w") as output:
-        for char in folder_ocr:
-            output.write(char)
+        for line in folder_lines:
+            output.write(line + "\n")

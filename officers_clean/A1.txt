@@ -2,11 +2,8 @@ erious
 
 elves
 
-BSE
 e and
 
-iy
-on,
 
 -aSONS
 
@@ -66,7 +63,7 @@ purser ATLAS 1782/3, ROCKINGHAM (1) 1785/6
 Abernethy, Alexander
 5th mate HASTINGS (1) 1780/1; run 30 Dec 1781
 
-21
+
 
 Adams, Edward Lambert (1797-)
 b 18 May 1797 Mezignac nr Bordeaux, s of Josiah & Anne Gledstanes; midshipman
@@ -125,7 +122,7 @@ WINDSOR (2) 1831/3
 Adam, Knightley
 5th mate HILLSBOROUGH (1) 1777/8; entered Royal Navy 27 Jul 1778
 
-Jan
+
 
 Adamson, William (1759-)
 b 23 May 1759 Dalgetty, Fifeshire, s of James & Agnes Stenhouse, of Broomieside; 2nd mate
@@ -177,14 +174,13 @@ Addison, Stephen
 Addison, Thomas
 master PALSGRAVE 1624/5
 
+
 lowe;
-/9;
 A (7);
 
 818/9;
 mate
 
-\
 
 Agen, Beng (1785-)
 b 20 Sep 1786 Bowbrickhill, Bucks; midshipman DORSETSHIRE 1802/3; 6th mate
@@ -242,10 +238,10 @@ Aisley, Thomas
 4th mate SUSANNA (2) 1709/10; 2nd mate SUCCESS (4) 1711/2; Ist mate AVERILLA
 1713/4; 1st mate DUKE OF YORK (1) 1716/7; 1st mate CASSANDRA 1719/20
 
+
 vain
 
 nate
-ES
 
 Alcock, John (c1754-)
 
@@ -306,6 +302,7 @@ Alexander, Christopher
 Alexander, Edward
 6th mate WAGER (2) 1740/1; 3rd mate EXETER (1) 1742/3
 
+
 Allan or Allen, William (1780-)
 b 31 Dec 1780 & bap 28 Jan 1781 St Leonard’s Shoreditch, London, s of James & Sarah;
 midshipman CIRENCESTER 1794/5; 6th mate CIRENCESTER 1796/7, 5th mate ASIA (4)
@@ -362,6 +359,7 @@ BRITON (2) 1764/5; 4th mate TRUE BRITON (2) 1767/8; 2nd mate TRUE BRITON (2)
 Allen, James
 3rd mate YORK (3) 1763/4; 2nd mate DUKE OF GRAFTON 1768/9
 
+
 Allen, Thomas (c1755-)
 bap 2 Aug 1755 Fareham, Hants, s of Thomas & Mary; seaman Friendship to Jamaica 10m;
 seaman Elizabeth in coal trade ly; midshipman NOTTINGHAM (2) 1768/9; mate Anglicana to
@@ -416,6 +414,7 @@ b in Yorkshire; seaman & midshipman in Royal Navy 2y; midshipman RAYMOND 1782/3,
 at St Helena, home as midshipman OSTERLEY (3); mate in coal trade ly; 4th mate ESSEX (4)
 1784/5 (approved 10 Nov 1784, aged 22)
 
+
 Alsop, Benjamin (-1729)
 qualified St Thomas’s, London; surgeon CAERNARVON 1725/6; apptd Surgeon at St Helena
 13 Feb 1728; d 31 Mar 1729 St Helena
@@ -469,6 +468,7 @@ Antigua 8m; 4th mate ROYAL CHARLOTTE (2) 1779/80 (approved 15 Oct 1779, aged 24)
 3rd mate FOULIS 1783/4; 2nd mate PITT (2) 1785/6, 2nd mate MIDDLESEX (2) 1788/9;
 
 d2 Apr 1836
+
 
 Anderson, George (1787-1809)
 b 3 Nov 1787 Greenock, s of Andrew, merchant, & Janet; midshipman BENGAL (2) 1803/4;
@@ -533,6 +533,7 @@ DIANA (2) 1811/2; 2nd mate CARMARTHEN 1814/5
 Anderson, Richard
 Ist mate JOHN (2) 1795/6
 
+
 Andrews, Joseph
 
 b in England; seaman in West Indies trade 10m; seaman PITT (2) 1793/4; midshipman PITT (2)
@@ -593,6 +594,7 @@ Angus, James (-1771)
 4th mate ALBION 1761/2; 1st mate ADMIRAL STEVENS 1765; Ist mate LORD
 MANSFIELD (1) 1766/7; Capt LORD MANSFIELD (1) 1769/70; d 11 Jul 1771
 
+
 Anson, Joseph I
 3rd mate ELPHINSTONE 1815/6
 
@@ -649,6 +651,7 @@ Sth mate ALFRED 1772/3; d 9 Sep 1774
 
 Appleby, William
 purser PELHAM (1) 1735/6
+
 
 Archer, Timothy
 purser DISCOVERY (4) 1658/9
@@ -707,6 +710,7 @@ surgeon WORCESTER (4) 1806/7, PRESTON 1809/10; d 23 Nov 1811
 Armstrong, Henry
 3rd mate HOLDERNESS 1794/5
 
+
 Arnott, James
 surgeon LADY CAMPBELL 1815/6, BRIDGEWATER (3) 1822/3
 
@@ -716,24 +720,22 @@ surgeon SURAT CASTLE (2) 1806/7 & 1809/10
 Arris, Edward
 surgeon PRIAMAN 1685/6
 
-Arrow, Charles |
+Arrow, Charles
 5th mate LADY MELVILLE 1815/6
 
-}
 Arrow, George i!
 Ist mate PRINCESS ROYAL (5) 1797
 
-|
 Arscott, James
 4th mate SOVEREIGN (2) 1800/1
 
 Arthington, Thomas
-purser DRAGON 1614/5 |
+purser DRAGON 1614/5
 
-I] |
+I]
 Arthur, David (c1735-)
 
-ODORS ie Unit ta, MEnheouy Tait eer LIONESS (2) 1765/6; 1st mate |
+ODORS ie Unit ta, MEnheouy Tait eer LIONESS (2) 1765/6; 1st mate
 SEA HORSE 1767/8; 1st mate PACIFIC 1770/1; Capt SEA HORSE 1773/4 (aged 38) &
 1776/7, Capt MAJOR 1781/2
 
@@ -742,28 +744,25 @@ Arthur, Robert ]
 purser GATTON 1779/80; purser DUKE OF ATHOL 1781/2; 5th mate PHOENIX (3) 1785/6;
 purser PHOENIX (3) 1787/8
 
-|
 Arthur, Robert i
 surgeon NERBUDDA 1783/4 ]
 
-Arthur, William (c1754-) |
+Arthur, William (c1754-)
 b in Scotland; apprentice Molly in coasting trade 4y; seaman America to Virginia 7m; seaman
 Mercury to Jamaica 5m; seaman in Philadelphia trade 3y; seaman in Straits trade ly 2m;
 midshipman DUKE OF PORTLAND 1776/7, 4th mate GANGES (1) 1778/9 (approved 11 Dec ,
-| 1778, aged 24), disch 15 Jan 1780, home from Bengal as 3rd mate EARL TALBOT qd) |
+1778, aged 24), disch 15 Jan 1780, home from Bengal as 3rd mate EARL TALBOT qd)
 
 Arthurton, J Arthur i
 6th mate SURREY (1) 1810/1
 
-|
 Arundel, Thomas E
 surgeon BUSBRIDGE 1795/6 (from Jul 1797)
 
-|
-Ashbridge, John |
-6th mate DEPTFORD (1) 1762/3; run 15 Jul 1763 |
+Ashbridge, John
+6th mate DEPTFORD (1) 1762/3; run 15 Jul 1763
 
-OS nen |
+OS nen
 Ist mate SOCIETY (2) 1681/2
 
 Ashford, Arthur i
@@ -772,12 +771,13 @@ Purser HENRY DUNDAS 1800/1, TAUNTON CASTLE 1803/4
 SOT To (-1812)
 purser ALBION (2) 1808/9, CABALVA 181 1/2; d 1 Apr 1812
 
+
 Astley, William Coke (1769-1789)
-b 13 Jan 1769 Melton Constable, Norfolk; midshipman in Royal Navy 7y; midshipman LORD |
+b 13 Jan 1769 Melton Constable, Norfolk; midshipman in Royal Navy 7y; midshipman LORD
 MACARTNEY 1784/5; 4th mate GENERAL GODDARD 1788/9; d 4 Nov 1789 Calcutta
 
 Astley, Wilkinson
-6th mate LADY JANE DUNDAS 1803/4 ||
+6th mate LADY JANE DUNDAS 1803/4
 
 Aston, John
 2nd mate PRINCE AUGUSTUS 1726/7; 1st mate GRANTHAM (2) 1728/9; 1st mate OKHAM
@@ -786,19 +786,18 @@ Aston, John
 
 Aston, William (-1791)
 5th mate FOULIS 1789/90; ship lost 1791
-|
 
 Asty, Nathaniel i
-purser STRINGER 1715/6 |
+purser STRINGER 1715/6
 
 Atchison, Arthur
-6th mate BELLMONT 1787/8 ||
+6th mate BELLMONT 1787/8
 
 Atherden, Joseph
 1st mate ISABELLA (2) 1825/6
 
 Athnoss, John i
-3rd mate MARQUIS OF WELLINGTON (2) 1814/5 |
+3rd mate MARQUIS OF WELLINGTON (2) 1814/5
 
 Atkins, Henry
 3rd mate ATLANTIC 1796/7
@@ -818,11 +817,11 @@ Atkins, Thomas \
 Atkins, Thomas
 Capt RESOLUTION (3) 1769/70
 
-Atkins, Thomas |
+Atkins, Thomas
 Ist mate ALLIGATOR 1797/8
 
 Atkins, Walter (c1763-) Hi
-b in Ireland; midshipman (2y), mate (4y) & master (8m) in Royal Navy; 3rd mate |
+b in Ireland; midshipman (2y), mate (4y) & master (8m) in Royal Navy; 3rd mate
 RAVENSWORTH 1785/6 (approved 22 Feb 1786, aged 22)
 
 Atkins, Walter
@@ -830,6 +829,7 @@ Capt LADY CARRINGTON 1809/10
 
 Atkinson, Anthony
 2nd mate FALCON (3) 1679/80; 1st mate FALCON (3) 1681/2
+
 
 Atkinson, William Denistoun (1807-)
 b 2 Dec 1807 Glasgow, s of Thomas, currier, & Agnes Denistoun; midshipman SIR DAVID
@@ -890,6 +890,7 @@ Capt JANE 1710/1
 Austen, Robert
 Sth mate CADOGAN 1723/4
 
+
 Babham, William (-1775)
 5th mate LORD NORTH 1774/5; d 13 Aug 1775
 
@@ -947,4 +948,5 @@ midshipman EARL OF ABERGAVENNY (1) 1792/3; 5th mate EARL OF OXFORD 1794/5;
 
 Baggot, George
 Sth mate CHARLTON 1798/9
+
 

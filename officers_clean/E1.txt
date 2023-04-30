@@ -62,6 +62,7 @@ ADMIRAL GARIISIR 180i) & 18689, Capt EARL HOWE 1808/9
 Eastgate, Stephen
 Capt AMERICAN 1662/3
 
+
 Eckford, John (1773-)
 
 +o Nae 1773 Duolionmline; cen Diligence snow to Amerion ly am, neiesijomnmm
@@ -122,6 +123,7 @@ GREYHOUND (3) 1781/2 (approved 11 Jan 1782, aged 28)
 
 Edington, John
 2nd mate LORD MELVILLE (2) 1826/7
+
 
 Edwards, Edgar
 6th mate CAMBRIDGE (1) 1815/6; 2nd mate NORTHAMPTON (@) 1817/8; 1st mate
@@ -188,6 +190,7 @@ LONDON 1804/5; 2nd mate SCALEBY CASTILE 1806/7; Ist nate BARING 1808/9; Capt
 
 LORD FORBES 1810/1 & 1812/3; petitioned Poplar Fund 1817
 
+
 Egan, Charles (c1763-)
 b in Ireland; midshipman ROYAL CHARLOTTE (2) 1779/80; midshipman LONDON (13)
 
@@ -251,6 +254,7 @@ Elford, James
 Elgen, John
 Sth mate WINDHAM (2) 1815/6; 4th mate LADY LUSHINGTON 1817/8
 
+
 Elliott, George
 purser GLATTON (2) 1782/3 & 1786/7, PRINCESS AMELIA (3) 1789/90
 
@@ -268,11 +272,11 @@ Ammerien Gm, home as lst mute Charming Poly Sum, ist mate Shrewsbury to America 
 1st mate SPY (2) 1781/2 (approved 28 Dec 1781, aged 20); Ist mate LOCO 1784/5
 
 Elliott, Henry (1775-)
-| b 16 Feb 1775 Wormley, Herts, seaman PRINCESS ROYAL (3) 1789/90; seaman to South Seas
+b 16 Feb 1775 Wormley, Herts, seaman PRINCESS ROYAL (3) 1789/90; seaman to South Seas
 
-| ‘Ly dung seamen PRINCESS ROYAL @) 1762/8; mate im Royall aawy 35 midshipman PITT (2)
-| 1795/6; 3rd mate CARNATIC (2) 1798/9; 2nd mate CARNATIC (2) 1800/1; 2nd mate CITY
-| OF LONDON 1802/3; 1st mate DEVONSHIRE (3) 1804/5; 1st mate WEXFORD 1806/7;
+‘Ly dung seamen PRINCESS ROYAL @) 1762/8; mate im Royall aawy 35 midshipman PITT (2)
+1795/6; 3rd mate CARNATIC (2) 1798/9; 2nd mate CARNATIC (2) 1800/1; 2nd mate CITY
+OF LONDON 1802/3; 1st mate DEVONSHIRE (3) 1804/5; 1st mate WEXFORD 1806/7;
 
 Ist mate WARREN HASTINGS (5) 1810/1, transf to HOPE (2) 6 Jan 1812
 
@@ -312,6 +316,7 @@ sungeom PRINCESS OWA (1) 7508
 
 Ellis, Anthony (-1781)
 purser LORD MULGRAVE 1780/1; d 10 Oct 1781
+
 
 Ellison, Francis (c1762-)
 b in England; apprentice in Straits trade 2y; apprentice to Archanwel Uy, Ind mate im Onllnamoe
@@ -372,6 +377,7 @@ of Fullerton-Elphinstone)
 Elsey, James
 5th mate TILBURY 1761/2
 
+
 England, John (c1759-1786)
 b in England; Capt’s servant NORTHUMBERLAND (2) 1773/4; 5th mate PRINCESS
 ROYAL (2) 1776/7; 4th mate FOX (2) 1778/9 (approved 17 Sep 1778, aged 19); 2nd mate
@@ -427,6 +433,7 @@ Erskine, John James (1771-)
 b3 Jul & bap 18 Jul 1771 Muthill, Perthshire, s of Rev William & Helen Drummond; at sea 5y;
 Sth mate MUIDIDILIESIEN @) 1791; 3nd matte BODE 1793/4; 2nd mate BODDAM 1795/6;
 flst anetie TLOIRD TELA TRIESIBUR? 1798/9 && 1800/2
+
 
 Evans, Arthur Henry (c1758-1783)
 b in England; Capt’s servant STAFFORD (2) 1773/4; 4th mate STAFFORD (2) 1777/8
@@ -484,6 +491,7 @@ surgeon HARCOURT (1) 1761/2, ANSON (3) 1763/4 & 1765/6
 Evans, Thomas
 surgeon ESSEX (4) 1780/1
 
+
 Ewart, Archibald (-1825)
 surgeon LORD KEITH ISIS; Matus Avst Surgeon 6 Aug 1818; d 28 Dec 1825 Bangalore
 
@@ -539,4 +547,5 @@ Eyre, Hemy
 
 pre, Relart
 purser OKHAM 1733/4
+
 

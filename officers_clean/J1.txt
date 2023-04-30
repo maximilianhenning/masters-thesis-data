@@ -8,7 +8,7 @@ Jackson, Abraham (-1701)
 purser DISCOVERY (5) 1700/1; lost overboard 28 Feb 1701
 
 Jackson, Abraham
-| Capt ARABIA FACTOR 1701/2 & 1704/5
+Capt ARABIA FACTOR 1701/2 & 1704/5
 
 Jackson, Alistair
 4th mate JOHANNA 1681/2
@@ -52,6 +52,7 @@ Purser LETHIEULLIER 1726/7 & 1729/30, BEDFORD (2) 1731/2; d 8 May 1734
 Teclesom, ys;
 Capt SINCLAIR 1807
 
+
 Jackson, Thomas
 purser ST GEORGE (2) 1706/7
 
@@ -70,7 +71,7 @@ Jacob, Edward Prince (1790-)
 
 bap 5 Oct 1790 Eglwysilon, Glamorgan, s of James & Catherine; apprentice in coasting service
 ly 6m; free mariner Metcalfe to India 1807, home as midshipman THOMAS GRENVILLE;
-5th mate ROYAL GEORGE (4) 1809/10; 4th mate ROYAL GEORGE (4) 1811/2 & 1813/4; |
+5th mate ROYAL GEORGE (4) 1809/10; 4th mate ROYAL GEORGE (4) 1811/2 & 1813/4;
 3rd mate ROYAL GEORGE (4) 1816/7; 2nd mate REPULSE 1820/1 & 1822/3, transf as Mah
 lst mate to ROYAL GEORGE (5) 2 Nov 1823; 2nd mate ROYAL GEORGE (5) 1824/5; Hy
 Ist mate RELIANCE 1827/8; 1st mate REPULSE 1830/1; 1st mate CASTLE HUNTLEY He)
@@ -110,8 +111,9 @@ James, Charles Henry (1813-
 wr May & bap 8 Jul 1813 Oundle, Northants, s of Rev John & Elizabeth; midshipman ATLAS
 828/9; 6th mate MARQUIS OF HUNTLY 1830/1
 
-James, Danie] |
+James, Danie]
 3rd mate COLDSTREAM 1824/5
+
 
 James, Thomas (1783-)
 b 8 Jul 1783 & bap 14 Sep 1789 Narberth, Pembrokeshire, s of William & Rebecca; Capt’s
@@ -139,7 +141,7 @@ James, William
 
 Jameson or Jamieson, Alexander
 3rd mate HARCOURT (1) 1758/9; 1st mate HORSENDEN 1761/2 & 1764/5; Capt i
-HORSENDEN 1767/8 & 1770/1 |
+HORSENDEN 1767/8 & 1770/1
 
 Jameson, Charles Henry (-1783)
 5th mate MONTAGU (4) 1781/2; d 9 Nov 1783
@@ -171,6 +173,7 @@ Purser BOMBAY (3) 1809/10
 Jameson, William
 Ist mate UNION (3) 1795/6 (from 5 May 1797)
 
+
 Jay, John
 master SWALLOW 1631/2
 
@@ -182,7 +185,7 @@ b 2 Oct & bap 24 Oct 1781 St Luke’s, Chelsea, Middx, s of Francis & Anne; midshi
 CARNATIC (2) 1798/9; midshipman HAWKE (5) 1800/1; 4th mate LADY BURGES 1801/2;
 3rd mate LADY JANE DUNDAS 1803/4 & 1805/6; 2nd mate LADY JANE DUNDAS 1807/8
 
-| Jeffery, Robert (1781-)
+Jeffery, Robert (1781-)
 b 19 Sep 1781 Maidstone; midshipman ESSEX (4) 1795/6; 6th mate CALCUTTA (4) 1797/8,
 transf to EARL OF WYCOMBE 17 Jun 1799; Sth mate HOPE (2) 1800/1; 4th mate HOPE (2)
 1802/3; 3rd mate HOPE (2) 1804/5
@@ -227,6 +230,7 @@ Jenkins, Edward Francis
 
 Feasting, Jeremiah
 Surgeon TRAVERS 1799/1800; pressed to Royal Navy 17 May 1801
+
 
 Jerman, John
 3rd mate BRITANNIA (1) 1741/2
@@ -285,15 +289,16 @@ Jodrell, Philip
 4th mate DEFENCE (4) 1741/2; 3rd mate DURRINGTON 1743/4; 2nd mate SANDWICH
 1745/6; Capt ORFORD 1747/8; Capt PRINCE GEORGE 1750/1 & 1754/5
 
+
 Johnson, James
 Capt CAMDEN 1819/20
 
-Johnson, John |
-mate GLOBE 1610/1; master EAGLE (1) 1623/4 |
+Johnson, John
+mate GLOBE 1610/1; master EAGLE (1) 1623/4
 
 Johnson, John
 4th mate HARDWICKE (2) 1761/2; 4th mate EARL OF HOLDERNESS 1763/4; 3rd mate Mh
-TRUE BRITON @) 1764/5 |
+TRUE BRITON @) 1764/5
 
 Johnson, John
 4th mate SPEKE 1764/5 wh
@@ -337,8 +342,9 @@ WELLINGTON (1) 1816/7; petitioned Poplar Fund 1819
 Johnson, Theophilus Hearsey
 purser TAVISTOCK (2) 1752/3
 
-Johnson, Thomas (-1748) |
-Surgeon COLCHESTER (2) 1746/7; d 7 May 1748 |
+Johnson, Thomas (-1748)
+Surgeon COLCHESTER (2) 1746/7; d 7 May 1748
+
 
 Johnston, James (-1837)
 surgeon VALENTINE (3) 1793/4; Bengal Asst Surgeon 3 Jul 1797; Surgeon 20 Jan 1809; retired
@@ -394,6 +400,7 @@ CASTELE HUNTLEY 1832/3
 Ishnstone, George
 4th mate DELWARE 1747/8
 
+
 Jones, David
 6th mate DUKE OF LORRAINE 1741/2; 4th mate NORFOLK (1) 1745/6 i
 
@@ -401,30 +408,27 @@ Jones, David .
 6th mate ESSEX (3) 1761/2; 2nd mate TALBOT 1767/8
 
 Jones, David
-3rd mate THOMAS GRENVILLE 1809 |
+3rd mate THOMAS GRENVILLE 1809
 
 Jones, Digory f
 1st mate LEGHORN 1701/2 At
 
 Jones, Edward
-surgeon FLEET 1704/5 |
+surgeon FLEET 1704/5
 
-Jones, Edward |
+Jones, Edward
 5th mate KENT (4) 1763/4; 3rd mate KENT (4) 1767/8; 2nd mate LONDON (12) 1770/1 pe
-|
-H
-|
 
-Jones, Edward a | }
-5th mate ANKERWYKE 1770/1 |
+Jones, Edward a  }
+5th mate ANKERWYKE 1770/1
 
 Temes, Edward i
-4th mate NORTHAMPTON (2) 1817/8 | |
+4th mate NORTHAMPTON (2) 1817/8
 
 Jones, Erasmus a
 surgeon ELIZABETH (2) 1691/2
 
-Jones, Evan |
+Jones, Evan
 3rd mate HARDWICKE (1) 1750/1; 1st mate DODDINGTON 1754/5; Capt SYREN (1) 1757;
 Ist mate WINCHELSEA (2) 1757/8
 
@@ -455,6 +459,7 @@ Jones, John
 Surgeon RICHMOND (1) 1734/5
 Jones, John
 Sth mate CEUTIAOEN Lay)
+
 
 Jones, Robert
 purser YORK (4) 1783/4, EUROPA (2) 1785/6 & 1788/9; run 4 Jan 1790
@@ -520,6 +525,7 @@ active service at capture of Mauritius Dec 1810
 
 mn TOTVENTIAM 18034: Madras Asst Surgeon 23 Jnl 1804: d 16 Dec 18a
 
+
 Josh, John
 6th mate EARL HOWE 1806/7
 
@@ -574,4 +580,5 @@ Justice, Samuel
 4th mate BRIDGEWATER (1) 1722/3
 Justice, William
 Sth mate OXFORD 1755/6; run 23 Jan 1757
+
 

@@ -54,6 +54,7 @@ b 7 Oct 1783 & bap 6 Jan 1785 St James’s, Montego Bay, Jamaica, s of Robert & An
 5th mate LORD DUNCAN 1800/1; 5th mate EARL HOWE 1802/3; 3rd mate UNITED
 KINGDOM 1803/4; 1st mate RETREAT 1806/7
 
+
 James, David
 6th mate HORSENDEN 1764/5; 5th mate HORSENDEN 1767/8; run 16 Aug 1768
 
@@ -108,6 +109,7 @@ James, Thomas
 
 James, Thomas
 purser NORFOLK (3) 1778/9 & 1781/2
+
 
 Jamieson, Henry (1767-)
 % 5 Jul (967 Montiese, Porn, seaman CONTRACTOR L734, midshipman YORK (4)
@@ -165,6 +167,7 @@ Jarrett, Thomas (-1748)
 Jarvis, John
 3rd mate TELLICHERRY 1795/6
 
+
 Jenkins, Robert
 2nd mate NIGHTINGALE 1721/2; 1st mate CAESAR (3) 1724/5
 
@@ -220,6 +223,7 @@ mate LONDON (1) and HART 1619/20
 
 Jephson, Anthony
 5th mate SPEKE 1770/1
+
 
 Jodrell, Thomas
 5th mate PELHAM (1) 1735/6
@@ -278,6 +282,7 @@ Capt JOHN & MARY 1794/5
 Johnson, James
 6th mate MARCHIONESS OF ELY 1821/2
 
+
 Johnson or Johnston, Thomas (c1738-)
 4g mate VIALPOLE @) 17S; let mate ETECTOR (2) 1764/5; 2nd mate HOUGHTON (4)
 1766/7; 2nd mate ROYAL CHARLOTTE (1) 1768/9; 1st mate ROYAL CHARLOTTE (2)
@@ -311,7 +316,7 @@ Anh mets RAIL OF CHESTISRITELID 1720/1 (@pproved IM) Wey 1781, aged 21); 2nd mat
 EARL OF CHESTERFIELD 1786/7 & 1788/9
 
 Johnson, William (-1795)
-Gengal Asst Sangean | Avr 1783, acted as sungent DUTTON (2) 1784/5; d Sep 1795 on passage
+Gengal Asst Sangean  Avr 1783, acted as sungent DUTTON (2) 1784/5; d Sep 1795 on passage
 home on LORD HAWKESBURY
 
 Johnson, William (-1797)
@@ -334,6 +339,7 @@ surgeon ALLIGATOR 1797/8, MANSHIP (2) 1800/1, MARCHIONESS OP QUST 10s
 
 Johnston, James
 2nd mate DRAKE (3) 1751/2
+
 
 Johnstone, John (c1758-1792)
 b in Scotland; seaman two voyages (2y) & 2nd mate one voyage (ly) in Jamaica trade;
@@ -392,6 +398,7 @@ b 27 Jul 1807 Newport, Mon, s of William, merchant, & Ann; midshipman KELLIE CAS
 1824/5; 6th mate ORWELL 1825/6; 4th mate ORWELL 1827/8; 3rd mate ORWELL 1829/30
 & 1831/2, transf to MARQUIS CAMDEN 15 Nov 1832
 
+
 Jones, John (1751-)
 b 20 Aug 1751 Swansea; apprentice in West Indies trade 3y; seaman QUEEN (3) 1770/1; mate in
 West Indies trade 3y 9m; mate, master & Lieutenant in Royal Navy 10y; Ist mate CARNATIC
@@ -449,6 +456,7 @@ midshipman SHIRNEWSBURY @) W770; seamen Genow galley in Straits trace “y eau, 2n
 London to West Indies 10m; midshipman SHREWSBURY (3) 1775/6, 4th mate
 SHREWSBURY (3) 1777/8
 
+
 Jones, William
 1st mate SUSAN (2) 1827/8
 
@@ -505,4 +513,5 @@ Joseph, Peter
 
 Joseph, William
 surgeon BENJAMIN (2) 1716/7
+
 

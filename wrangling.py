@@ -1,9 +1,11 @@
 import pandas as pd
 from glob import glob
-from os import path
+from os import path, makedirs
+import re
 
 dir = path.dirname(__file__)
-clean_file_list = glob(path.join(dir, "voyages_clean/*"))
+
+# Voyages
 
 # Classify lines
 def line_classify(lines):
@@ -86,11 +88,12 @@ def ship_creator(lines_classed):
         if line[1] == "itinerary":
             voyage_dict["itinerary"] = line[0]
         ships[ship] = ship_dict
-    # Convert to dictionary
+    # Convert to DataFrame
     df_ships = pd.DataFrame.from_dict(ships, orient = "index")
     return df_ships
 
 # Wrangle each file
+clean_file_list = glob(path.join(dir, "voyages_clean/*"))
 for file in clean_file_list:
     file = file.split("\\")[-1].split(".")[0]
     with open(path.join(dir, "voyages_clean", file + ".txt"), "r") as input:
@@ -99,12 +102,14 @@ for file in clean_file_list:
     lines_classed = line_classify(lines)
     df_line_classes = pd.DataFrame(lines_classed, columns = ["line", "class"])
     # Monitoring
-    print(file)
+    print("\n" + file)
     print(df_line_classes.loc[df_line_classes["class"] == "unclassed"])
+    # Create ships from lines
     df_ships = ship_creator(lines_classed)
-    # Convert ship name from index to column
     df_ships = df_ships.reset_index().rename(columns = {"index": "name"})
     # Save to CSV
+    if not path.exists(path.join(dir, "voyages_partial")):
+        makedirs(path.join(dir, "voyages_partial"))
     df_ships.to_csv(path.join(dir, "voyages_partial", file + ".csv"), index = False, sep = ";")
 
 # Combine files
@@ -122,4 +127,83 @@ df_combined = df_combined.reset_index().rename(columns = {"index": "ship_id"})
 def id_creator(ship_id):
     return "s" + str(ship_id + 1)
 df_combined["ship_id"] = df_combined["ship_id"].apply(id_creator)
-df_combined.to_csv(path.join(dir, "combined.csv"), index = False, sep = ";", na_rep = "nan")
+df_combined.to_csv(path.join(dir, "combined/voyages.csv"), index = False, sep = ";", na_rep = "nan")
+
+# Officers
+
+# Classify lines
+def officer_classify(lines):
+    lines_classed = []
+    for line in lines:
+        if re.search(r"\([^()]{4,}\)", line):
+            line_class = "person"
+        elif ";" in line:
+            line_class = "info"
+        elif ", " in line:
+            line_class = "person"
+            tokens = line.split(", ")
+            if len(tokens) != 2:
+                line_class = "info"
+            for token in tokens:
+                if len(token) > 20:
+                    line_class = "info"
+                if len(token.split(" ")) > 3:
+                    line_class = "info"
+        else:
+            line_class = "info"
+        lines_classed.append([line, line_class])
+    return lines_classed
+
+# Group lines into personal entries
+def people_creator(lines_classed):
+    people = {}
+    person_counter = 0
+    for line in lines_classed:
+        if line[1] == "person":
+            person_counter += 1
+            person_line = line[0]
+            people[person_counter] = [person_line]
+            # Collect info lines
+        elif line[1] == "info":
+            if person_counter in people.keys():
+                people[person_counter].append(line[0])
+    # Convert to DataFrame
+    people_df = pd.DataFrame.from_dict(people, orient = "index")
+    return people_df
+
+# Wrangle each file
+clean_file_list = glob(path.join(dir, "officers_clean/*"))
+for file in clean_file_list:
+    file = file.split("\\")[-1].split(".")[0]
+    with open(path.join(dir, "officers_clean", file + ".txt"), "r") as input:
+        text = input.read()
+    lines = text.split("\n")
+    lines_classed = officer_classify(lines)
+    df_line_classes = pd.DataFrame(lines_classed, columns = ["line", "class"])
+    # Monitoring
+    print("\n" + file)
+    print(df_line_classes.loc[df_line_classes["class"] == "person"])
+    # Create people from lines
+    people_df = people_creator(lines_classed)
+    print(people_df.head())
+    # Save to CSV
+    if not path.exists(path.join(dir, "officers_partial")):
+        makedirs(path.join(dir, "officers_partial"))
+    people_df.to_csv(path.join(dir, "officers_partial", file + ".csv"), index = False, sep = ";")
+
+# Combine files
+df_list = []
+partial_file_list = glob(path.join(dir, "officers_partial/*"))
+for file in partial_file_list:
+    file = file.split("\\")[-1].split(".")[0]
+    df = pd.read_csv(path.join(dir, "officers_partial", file + ".csv"), sep = ";")
+    df_list.append(df)
+# Concatenate and drop old indexes
+df_combined = pd.concat(df_list)
+df_combined = df_combined.reset_index().drop(columns = ["index"])
+# Convert ship ID from index to column
+df_combined = df_combined.reset_index().rename(columns = {"index": "person_id"})
+def id_creator(ship_id):
+    return "p" + str(ship_id + 1)
+df_combined["person_id"] = df_combined["person_id"].apply(id_creator)
+df_combined.to_csv(path.join(dir, "combined/people.csv"), index = False, sep = ";", na_rep = "nan")

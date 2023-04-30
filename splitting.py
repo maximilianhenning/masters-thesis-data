@@ -4,7 +4,7 @@ import datetime
 from os import path
 
 dir = path.dirname(__file__)
-df_combined = pd.read_csv(path.join(dir, "combined.csv"), sep = ";")
+df_combined = pd.read_csv(path.join(dir, "combined/voyages.csv"), sep = ";")
 
 # Ships table
 # ship_id   tons    guns    crew    type    built_by    built_year  built_at    owner       info
