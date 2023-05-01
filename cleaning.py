@@ -39,6 +39,7 @@ def cleaner(lines):
             line_split[1] = "1 1" + line_split[1]
             lines_cleaned.append(line_split[0])
             lines_cleaned.append(line_split[1])
+        # Different way to write voyages
         elif "1 From" in line[5:]:
             line_split = line.split("1 From")
             line_split[1] = "1 From" + line_split[1]
@@ -46,10 +47,9 @@ def cleaner(lines):
             lines_cleaned.append(line_split[1])
         # Remove XXXX see XXXX lines
         elif " see " in line:
-            if line.replace(" see ", "").isupper():
-                pass
-            else:
-                lines_cleaned.append(line)
+            # Check if everything but XXXX and XXXX are ship names
+            if not line.replace(" see ", "").isupper():
+                lines_cleaned.append(line)                
         # Finally add working lines with content
         elif line:
             lines_cleaned.append(line)
@@ -86,10 +86,16 @@ def officer_clean(file_ocr):
     lines = file_ocr.split("\n")
     file_lines = []
     for line in lines:
+        # Clean line
         clean_line = re.sub(r"\|", "", line)
-        clean_line = clean_line.strip()
-        # Get empty lines or lines with content
+        # Get lines with content
         if len(line) > 3:
+            clean_line = clean_line.replace(":", ";")
+            clean_line = clean_line.replace("Ist", "1st")
+            clean_line = clean_line.replace("Sth", "5th")
+            clean_line = clean_line.replace("Sad", "2nd")
+            clean_line = clean_line.replace("mete", "mate")
+            clean_line = clean_line.strip()
             file_lines.append(clean_line)
     return file_lines
 
