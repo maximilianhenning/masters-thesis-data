@@ -135,9 +135,7 @@ df_combined.to_csv(path.join(dir, "combined/voyages.csv"), index = False, sep = 
 def officer_classify(lines):
     lines_classed = []
     for line in lines:
-        if "approved" in line or "aged" in line:
-            line_class = "info"
-        elif ";" in line:
+        if "approved" in line or "aged" in line or ";" in line:
             line_class = "info"
         elif re.search(r"\([^()]{4,}\)", line):
             line_class = "person"
