@@ -91,6 +91,7 @@ def officer_clean(file_ocr):
         # Get lines with content
         if len(line) > 3:
             clean_line = clean_line.strip("â€˜")
+            clean_line = clean_line.replace("â€™", "\'")
             clean_line = clean_line.replace(":", ";")
             clean_line = clean_line.replace("Ist", "1st")
             clean_line = clean_line.replace("Sth", "5th")

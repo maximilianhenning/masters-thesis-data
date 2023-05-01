@@ -135,7 +135,7 @@ df_combined.to_csv(path.join(dir, "combined/voyages.csv"), index = False, sep = 
 def officer_classify(lines):
     lines_classed = []
     for line in lines:
-        if "approved" in line:
+        if "approved" in line or "aged" in line:
             line_class = "info"
         elif ";" in line:
             line_class = "info"
@@ -145,13 +145,17 @@ def officer_classify(lines):
             line_class = "person"
         elif ", " in line:
             line_class = "person"
-            tokens = line.split(", ")
-            if len(tokens) != 2:
+            comma_tokens = line.split(", ")
+            if len(comma_tokens) != 2:
                 line_class = "info"
-            for token in tokens:
+            for token in comma_tokens:
                 if len(token) > 20:
                     line_class = "info"
                 if len(token.split(" ")) > 3:
+                    line_class = "info"
+            space_tokens = line.split(" ")
+            for token in space_tokens:
+                if token.isupper():
                     line_class = "info"
         else:
             line_class = "info"
@@ -163,14 +167,16 @@ def people_creator(lines_classed):
     people = {}
     person_counter = 0
     for line in lines_classed:
+        # Get person lines
         if line[1] == "person":
             person_counter += 1
             person_line = line[0]
-            people[person_counter] = [person_line]
-            # Collect info lines
+            people[person_counter] = [person_line, ""]
+        # Get info lines
         elif line[1] == "info":
             if person_counter in people.keys():
-                people[person_counter].append(line[0])
+                # Append info string to second position in list
+                people[person_counter][1] += line[0] + " "
     # Convert to DataFrame
     people_df = pd.DataFrame.from_dict(people, orient = "index")
     return people_df
