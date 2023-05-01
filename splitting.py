@@ -218,24 +218,12 @@ location_list = list(set(location_list))
 print(location_list)
 
 # People table
-# person_id     last_name   first_name  birth_date  baptised_date   death_date
-# person_id     string      string      string      string          string
+# person_id     last_name   first_name  birth_date  baptised_date   baptised_location   mother_name father_name death_date
+# person_id     string      string      string      string          location_id          string      string      string
 
-# Staff table
-# person_id
-# person_id
-
-# Shipbuilders table
-# person_id     ship_id
-# person_id     ship_id
-
-# Shipowners table
-# person_id     voyage_id
-# person_id     voyage_id
-
-# Officers table
-# person_id     voyage_id   rank
-# person_id     voyage_id   string
+# Jobs table
+# person_id     job_id      job     ship_id     voyage_id
+# person_id     job_id      string  ship_id     voyage_id
 
 # Fill in IDs for relevant features in all tables
 # XXXX

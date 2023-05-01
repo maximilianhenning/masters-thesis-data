@@ -135,10 +135,14 @@ df_combined.to_csv(path.join(dir, "combined/voyages.csv"), index = False, sep = 
 def officer_classify(lines):
     lines_classed = []
     for line in lines:
-        if re.search(r"\([^()]{4,}\)", line):
-            line_class = "person"
+        if "approved" in line:
+            line_class = "info"
         elif ";" in line:
             line_class = "info"
+        elif re.search(r"\([^()]{4,}\)", line):
+            line_class = "person"
+        elif "-?-" in line:
+            line_class = "person"
         elif ", " in line:
             line_class = "person"
             tokens = line.split(", ")
@@ -200,10 +204,10 @@ for file in partial_file_list:
     df_list.append(df)
 # Concatenate and drop old indexes
 df_combined = pd.concat(df_list)
-df_combined = df_combined.reset_index().drop(columns = ["index"])
-# Convert ship ID from index to column
+df_combined = df_combined.reset_index().drop(columns = ["index"]) 
+# Convert person ID from index to column
 df_combined = df_combined.reset_index().rename(columns = {"index": "person_id"})
-def id_creator(ship_id):
-    return "p" + str(ship_id + 1)
+def id_creator(person_id):
+    return "p" + str(person_id + 1)
 df_combined["person_id"] = df_combined["person_id"].apply(id_creator)
 df_combined.to_csv(path.join(dir, "combined/people.csv"), index = False, sep = ";", na_rep = "nan")
