@@ -208,9 +208,7 @@ for file in partial_file_list:
     df_list.append(df)
 # Concatenate and drop old indexes
 df_combined = pd.concat(df_list)
-df_combined = df_combined.reset_index().drop(columns = ["index"]) 
-# Convert person ID from index to column
-df_combined = df_combined.reset_index().rename(columns = {"index": "person_id"})
+df_combined = df_combined.reset_index().rename(columns = {"index": "person_id", "0": "person", "1": "info"})
 def id_creator(person_id):
     return "p" + str(person_id + 1)
 df_combined["person_id"] = df_combined["person_id"].apply(id_creator)

@@ -2,15 +2,17 @@ import pandas as pd
 import ast
 import datetime
 from os import path
+import re
 
 dir = path.dirname(__file__)
-df_combined = pd.read_csv(path.join(dir, "combined/voyages.csv"), sep = ";")
+df_voyages_combined = pd.read_csv(path.join(dir, "combined/voyages.csv"), sep = ";")
+df_people_combined = pd.read_csv(path.join(dir, "combined/people.csv"), sep = ";")
 
 # Ships table
 # ship_id   tons    guns    crew    type    built_by    built_year  built_at    owner       info
 # ship_id   string  string  string  string  employee_id int         string      employee_id string
 
-df_ships = df_combined[["ship_id", "name", "info"]]
+df_ships = df_voyages_combined[["ship_id", "name", "info"]]
 
 def feature_getter(info, feature, min, max):
     result = info.split(feature)[0].strip().split(" ")[-1].strip("[\'")
@@ -89,7 +91,7 @@ df_ships.to_csv(path.join(dir, "output/ships.csv"), index = False, sep = ";")
 # voyage_id     ship    start   end     destination reference   captain
 # voyage_id     ship_id string  string  place_id    string      employee_id
 
-df_voyages_list = df_combined
+df_voyages_list = df_voyages_combined
 df_voyages_list.drop(["name", "info"], axis = 1, inplace = True)
 voyages_list = []
 for row in df_voyages_list.iterrows():
@@ -218,8 +220,50 @@ location_list = list(set(location_list))
 print(location_list)
 
 # People table
-# person_id     last_name   first_name  birth_date  baptised_date   baptised_location   mother_name father_name death_date
-# person_id     string      string      string      string          location_id          string      string      string
+# person_id     last_name   first_name  birth_date  death_date  baptised_location   mother_name father_name
+# person_id     string      string      string      string      location_id         string      string      
+
+def person_line_expander(person):
+    last_name = "nan"
+    first_name = "nan"
+    birth_date = "nan"
+    death_date = "nan"
+    person_split = person.split(",")
+    last_name = person_split[0].strip()
+    if len(person_split) > 1:
+        first_name = re.compile("[^a-zA-Z\s]").sub("", person_split[1]).strip()
+        if "-" in person:
+            dates = re.compile("[a-zA-Z,\(\)]").sub("", person_split[1]).strip()
+            if dates:
+                if dates[0] == "-":
+                    death_date = dates.strip("-")
+                elif dates[-1] == "-":
+                    birth_date = dates.strip("-")
+                elif len(dates) > 4:
+                    birth_date = dates.split("-")[0]
+                    death_date = dates.split("-")[1]
+    result_series = pd.Series([last_name, first_name, birth_date, death_date])
+    return result_series
+
+def person_info_expander(info):
+    baptised_location = "nan"
+    mother_name = "nan"
+    father_name = "nan"
+    # XXXX baptised_location
+    if " s of " in str(info):
+        parents = info.split(" s of ")[1].split(";")[0]
+        parents_split = parents.split("&")
+        if len(parents_split) > 1:
+            father_name = parents_split[0].strip()
+            mother_name = parents_split[1].strip()
+    
+    result_series = pd.Series([baptised_location, mother_name, father_name])
+    return result_series
+
+df_people = df_people_combined
+df_people[["last_name", "first_name", "birth_date", "death_date"]] = df_people["person"].apply(person_line_expander)
+df_people[["baptised_location", "mother_name", "father_name"]] = df_people["info"].apply(person_info_expander)
+print(df_people.head())
 
 # Jobs table
 # person_id     job_id      job     ship_id     voyage_id
