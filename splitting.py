@@ -85,7 +85,7 @@ df_ships_expand.rename(columns = {0: "tons",
                                   11: "built_year", 
                                   12: "built_at"}, inplace = True)
 df_ships = pd.concat([df_ships, df_ships_expand], axis = 1)
-df_ships.to_csv(path.join(dir, "output/ships.csv"), index = False, sep = ";")
+df_ships.to_csv(path.join(dir, "output/ships.csv"), index = False, sep = ";", encoding = "utf-8")
 
 # Voyages table
 # voyage_id     ship    start   end     destination reference   captain
@@ -147,7 +147,7 @@ def voyage_splitter(raw):
 df_voyages_expand = df_voyages["raw"].apply(voyage_splitter)
 df_voyages_expand.rename(columns = {0: "start", 1: "end", 2: "destination", 3: "captain", 4: "references"}, inplace = True)
 df_voyages = pd.concat([df_voyages, df_voyages_expand], axis = 1)
-df_voyages.to_csv(path.join(dir, "output/voyages.csv"), index = False, sep = ";")
+df_voyages.to_csv(path.join(dir, "output/voyages.csv"), index = False, sep = ";", encoding = "utf-8")
 
 # Calls table
 # ship_id   voyage_id   call_id     raw     year    month   day    place        special
@@ -207,7 +207,7 @@ def call_id_creator(row):
     call_id = row["voyage_id"] + "c" + str(row["call_id"])
     return call_id
 df_calls["call_id"] = df_calls.apply(call_id_creator, axis = 1)
-df_calls.to_csv(path.join(dir, "output/calls.csv"), index = False, sep = ";")
+df_calls.to_csv(path.join(dir, "output/calls.csv"), index = False, sep = ";", encoding = "utf-8")
 
 # Location table
 # location_id   longitude   latitude
@@ -266,8 +266,9 @@ def person_info_expander(info):
                 if not token == "in" and not token.isdigit() and not token in ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]:
                     birth_tokens.append(token)
             birth_location = " ".join(birth_tokens).strip()
+            if birth_location[-1] == ",":
+                birth_location = birth_location[:-1]
         if " s of " in token:
-            print(token)
             parents = token.split(" s of ")[1]
             parents_split = parents.split("&")
             if len(parents_split) > 1:
@@ -281,12 +282,14 @@ def person_info_expander(info):
                     if not token.isdigit() and not token in ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]:
                         baptised_tokens.append(token)
                 baptised_location = " ".join(baptised_tokens).strip()
+                if baptised_location[-1] == ",":
+                    baptised_location = baptised_location[:-1]
     return pd.Series([birth_location, baptised_location, mother_name, father_name])
 
 df_people = df_people_combined
 df_people[["last_name", "first_name", "birth_date", "death_date"]] = df_people["person"].apply(person_line_expander)
 df_people[["birth_location", "baptised_location", "mother_name", "father_name"]] = df_people["info"].apply(person_info_expander)
-df_people.to_csv(path.join(dir, "output/people.csv"), index = False, sep = ";")
+df_people.to_csv(path.join(dir, "output/people.csv"), index = False, sep = ";", encoding = "utf-8")
 
 # Jobs table
 # person_id     job_id      job     ship_id     voyage_id

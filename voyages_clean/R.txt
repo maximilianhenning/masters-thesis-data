@@ -12,7 +12,7 @@ Capt Richard Goodland
 4 1673/4 Surat
 Capt Richard Goodlad
 Torbay 27 Apr 1674 - 8 Jun 1676 Downs
-See Essex Record Office: D/DS. 104-1 Goodlad s journal Jan 1668-Aug 1671
+See Essex Record Office: D/DS. 104-1 Goodlad's journal Jan 1668-Aug 1671
 RAINBOW (2)
 Rated at 250 tons, 37/50 crew, 18/24 guns
 1 1682/3 Mokha
@@ -25,9 +25,9 @@ Capt Benjamin Poole
 NMM: JOD/4 Narrative by Edward Barlow, Dec 1687-Jan 1690 *
 Capt Benjamin Poole
 Downs 19 Dec 1687 - Sao Tiago - Jun 1688 Batavia - Jul Tonkin 13 Jan 1689 - 20 Feb Batavia - 29 Mar Benkulen - Jul Mauritius - St Helena -10 Jan 1690 Downs
-* inc a drawing of the ship; see Barlow s journal, ed Basil Lubbock (London, 1934), vol 2 pp 386-411
+* inc a drawing of the ship; see Barlow's journal, ed Basil Lubbock (London, 1934), vol 2 pp 386-411
 RANGER (1)
-Company s packet, 135 tons
+Company's packet, 135 tons
 1 From Bengal 1786
 L/MAR/B/421A(2) Journal 21 Aug 1786-23 Mar 1787
 L/MAR/B/421F(1) Ledger
@@ -236,7 +236,7 @@ L/MAR/B/51A Journal 6 Nov 1820-31 Jul 1822
 L/MAR/B/51G(1) Ledger
 L/MAR/B/51 G(2) Pay Book
 Capt John Paterson
-Portsmouth 23 Jan 1821-13 Mar St Helena - 12 Jun Benkulen - 6 Aug Penang - 30 Aug Singapore - 24 Sep Whampoa -15 Dec Second Bar - 2 Feb 1822 Lintin - 26 Apr St Helena - 26 Jun Downs
+Portsmouth 23 Jan 1821-13 Mar St Helena - 12 Jun Benkulen - 6'Aug Penang - 30 Aug Singapore - 24 Sep Whampoa -15 Dec Second Bar - 2 Feb 1822 Lintin - 26 Apr St Helena - 26 Jun Downs
 2 1822/3 St Helena, Benkulen and China
 L/MAR/B/51B Journal 14 Nov 1822-15 Jun 1824
 L/MAR/B/51H(1) Ledger
@@ -260,7 +260,7 @@ L/MAR/B/5 IE Journal 19 Jan 1829-5 Aug 1830
 L/MAR/B/51 K(l) Ledger
 L/MAR/B/51 K(2) Pay Book
 Capt Henry Cribble
-Downs 14 Mar 1829 - 17 Jun Madras - 7 Aug Penang - 25 Aug Malacca -31 Aug Singapore - 18 Sep Urmston s Bay - 8 Dec Hong Kong - 11 Feb 1830 Whampoa - 28 Feb Second Bar - 20 May St Helena - 4 Jul Downs
+Downs 14 Mar 1829 - 17 Jun Madras - 7 Aug Penang - 25 Aug Malacca -31 Aug Singapore - 18 Sep Urmston's Bay - 8 Dec Hong Kong - 11 Feb 1830 Whampoa - 28 Feb Second Bar - 20 May St Helena - 4 Jul Downs
 6 1830/1 Madras, Bengal and China
 L/MAR/B/5 IF Journal 4 Jan 1831-21 Apr 1832
 L/MAR/B/51L(1) Ledger
@@ -391,7 +391,7 @@ Downs 19 Dec 1754 - 26 Mar 1755 Cape - 9 Jun Madras - 21 Sep Whampoa - 8 Dec Boc
 4 1757/8 Bombay, Madras and China
 L/MAR/B/596E Journal 11 Oct 1757-23 Dec 1760, Arthur Morris, Chief Mate 
 L/MAR/B/596-I(l) Ledger L/MAM/B/596-I(2) Pay Book Capt John Macnamara
-Downs 30 Dec 1757 - Portsmouth 6 Mar 1758 - 27 Mar Madeira - 25 Apr Sao Tiago - 7 Aug St Augustine s Bay -1 Nov Goa -14 Nov Bombay - 3 May 1759 Madras - 21 Jul Malacca - 4 Sep Whampoa - 7 Feb 1760 Second Bar - 16 Jun St Helena - 22 Sep Downs
+Downs 30 Dec 1757 - Portsmouth 6 Mar 1758 - 27 Mar Madeira - 25 Apr Sao Tiago - 7 Aug St Augustine's Bay -1 Nov Goa -14 Nov Bombay - 3 May 1759 Madras - 21 Jul Malacca - 4 Sep Whampoa - 7 Feb 1760 Second Bar - 16 Jun St Helena - 22 Sep Downs
 RICHARD AND MARTHA
 400/450 tons, 90 crew
 1 1659/60 Surat
@@ -461,7 +461,7 @@ Length 85fl 6in, width 28ft WAin, depth 12ft 4in, between decks 6ft lin, 28 guns
 1 1706/7 St Helena and Benkulen
 L/MAR/B/137A Journal 27 Sep 1706-11 Feb 1709 
 Capt Francis Stanes
-Downs 23 Dec 1706 - 16 May 1707 St Helena - 27 Aug Batavia - 11 Sep Benkulen - 19 Nov Balasore - 30 Nov Rogues River 4 Feb 1708 - 16 May Cape -15 Jul Rio de Janeiro - 9 Sep 'Ferdinando  - 8 Sep 1709 Woolwich
+Downs 23 Dec 1706 - 16 May 1707 St Helena - 27 Aug Batavia - 11 Sep Benkulen - 19 Nov Balasore - 30 Nov Rogues River 4 Feb 1708 - 16 May Cape -15 Jul Rio de Janeiro - 9 Sep 'Ferdinando' - 8 Sep 1709 Woolwich
 2 1709/10 China
 L/MAR/B/137B Journal 20 Oct 1709-2 Oct 1712
 L/MAR/B/137C Journal 7 Feb 1710-24 Sep 1712, Joseph White, Purser
@@ -469,7 +469,7 @@ L/MAR/B/13 7D (1) Ledger
 L/MAR/B/137D(2) Pay Book
 Capt Francis Stanes
 Downs 8 Jan 1710-8 Jul Batavia - 22 Aug Amoy -18 Sep Chusan - 14 Jan 1711 Kitow - 18 Feb Batavia - 30 Sep Woolwich
-137B inc sketches of the ship, the season s convoy, fish, birds, Batavia Roads and Chusan
+137B inc sketches of the ship, the season's convoy, fish, birds, Batavia Roads and Chusan
 3 1713/4 St Helena and Benkulen
 L/MAR/B/137E(1) Ledger
 L/MAR/B/137E(2) Pay Book
@@ -552,7 +552,7 @@ L/MAR/B/124H Deck Log 10 May 1823-7 Jul 1824
 Capt Charles Beach
 Downs 17 Jun 1823 - 27 Oct Calcutta - 4 Jan 1824 Diamond Harbour -13 Jan Vizagapatam - 22 Jan Madras -11 Feb Point de Galle - 8 Apr Cape - 14 May St Helena - 4 Jul Downs Sank at her anchors at Garden Island, Western Australia, Apr 1831. Her emigrant passengers established the settlement Rockingham Town.
 RODNEY (1)
-Company s packet, 131 tons, 21 crew, 6 guns
+Company's packet, 131 tons, 21 crew, 6 guns
 1 1780/1 Madras and China
 L/MAR/B/442A-B Journal 7 Aug 1780-2 Jun 1783 
 L/MAR/B/442-I(l) Ledger 
@@ -568,13 +568,13 @@ L/MAR/B/442J(1) Ledger
 L/MAR/B/442J(2) Pay Book
 L/MAR/B/442J(3) Absence Book
 Capt Henry Wakeman
-Portsmouth 11 Sep 1782 - 27 Nov All Saints  Bay - 16 Apr 1783 Madras - 23 Apr Kedgeree - 2 Dec Saugor -12 Mar 1784 St Helena - 28 May Downs
+Portsmouth 11 Sep 1782 - 27 Nov All Saints' Bay - 16 Apr 1783 Madras - 23 Apr Kedgeree - 2 Dec Saugor -12 Mar 1784 St Helena - 28 May Downs
 2 1784/5 Madras and Bengal
 L/MAR/B/442D Journal 13 Dec 1784-26 Jun 1786
 L/MAR/B/442K(1) Ledger
 L/MAR/B/442K(2) Pay Book
 Capt Henry Wakeman
-Portsmouth 25 Mar 1785 - 27 Jul Madras -11 Aug Diamond Creek - 22 Nov Cox s Island - 17 Mar 1786 St Helena - 20 May Downs
+Portsmouth 25 Mar 1785 - 27 Jul Madras -11 Aug Diamond Creek - 22 Nov Cox's Island - 17 Mar 1786 St Helena - 20 May Downs
 3 1786/7 Bengal
 L/MAR/B/442E 
 L/MAR/B/442L(1)
@@ -623,7 +623,7 @@ New Company, frigate, 250 tons
 L/MAR/A/CXXXni Journal 5 Aug 1699-11 Apr 1702 
 L/MAR/A/CXXXBIA Ledger Capt George Simmons
 Downs 16 Aug 1699 - 1 Sep Madeira -12 Feb 1700 Quilon -19 Feb Cochin - 25 Feb Calicut - 2 Mar Mangalore - 7 Mar Karwar - 11 Mar Goa - 21 Mar Bombay - 24 Mar Surat - 21 Jun Malacca - 20 Jul Amoy - 22 Jan 1701 Malacca - 24 Feb Calicut - 6 Mar Karwar - 9 Mar Goa - 30 Mar Surat - 8 Jun Point de Galle - 2 Nov Cannanore -12 Dec Bandar Abbas - 30 Jan 1702 Surat - 24 Mar Point de Galle - voyage ended 6 Aug 1702
-inc sketches of the ship, birds, a whale and a Maidive boat, and at ff.48v-49v 'some descriptions of the kingdom of China 
+inc sketches of the ship, birds, a whale and a Maidive boat, and at ff.48v-49v 'some descriptions of the kingdom of China'
 ROSE (1)
 140 tons
 1 1615/6 Bantam, to remain
@@ -655,7 +655,7 @@ L/MAR/B/59D Journal 22 Jan 1794-4 Sep 1795
 L/MAR/B/59 V(l) Ledger
 L/MAR/B/59V(2) Pay Book
 Capt Alexander Gray
-Portsmouth 2 May 1794 - 3 Sep Madras - 23 Sep Diamond Harbour - 29 Nov Cox s Island -18 Mar 1795 St Helena - 22 Jul Downs
+Portsmouth 2 May 1794 - 3 Sep Madras - 23 Sep Diamond Harbour - 29 Nov Cox's Island -18 Mar 1795 St Helena - 22 Jul Downs
 5 1796/7 Madras and Bengal
 L/MAR/B/59E Journal 17 Dec 1797-17 Aug 1798
 L/MAR/B/59 W (1) Ledger
@@ -770,7 +770,7 @@ L/MAR/B/338K(2) Absence Book
 L/MAR/B/338L(1) Ledger
 L/MAR/B/338L(2) Pay Book
 Capt Joseph Huddart
-Portsmouth 3 Jun 1780 - 28 Aug Rio de Janeiro -16 Jan 1781 Anjengo - 29 Jan Goa - 14 Feb Bombay - 8 May Tellicherry - 26 May Cuddalore - 4 Jun Negapatam - 26 Jun Madras - 18 Jul ' Jaggemaickpuram  - 7 Aug Masulipatam - 28 Aug Madras - 12 Oct Negapatam - 9 Dec Anjengo - 15 Dec Tellicheny - 31 Dec Bombay - 30 Apr 1782 Tellicherry - 28 May Bombay - 31 Jan 1783 St Helena - 25 Aug Downs
+Portsmouth 3 Jun 1780 - 28 Aug Rio de Janeiro -16 Jan 1781 Anjengo - 29 Jan Goa - 14 Feb Bombay - 8 May Tellicherry - 26 May Cuddalore - 4 Jun Negapatam - 26 Jun Madras - 18 Jul ' Jaggemaickpuram' - 7 Aug Masulipatam - 28 Aug Madras - 12 Oct Negapatam - 9 Dec Anjengo - 15 Dec Tellicheny - 31 Dec Bombay - 30 Apr 1782 Tellicherry - 28 May Bombay - 31 Jan 1783 St Helena - 25 Aug Downs
 3 1783/4 St Helena, Bombay and China
 L/MAR/B/338C Journal 26 Dec 1783-3 Jun 1786 
 L/MAR/B/338M(1) Ledger 
@@ -994,7 +994,7 @@ L/MAR/B/6I4A Deck Log 14 Jul 1747-21 Jul 1750
 L/M AR/B/614 E( 1) Ledger
 L/MAR/B/614E(2) Pay Book
 Capt George Cumming
-Downs 23 Sep 1747 - Portsmouth 4 Nov - 14 Dec Madeira - 12 Jan 1748 Sao Tiago - 28 Jul Fort St David - enaged in siege of Pondicherry in Aug - 8 Oct Fort St David -12 Nov Point de Galle - 29 Nov Anjengo - 9 Dec Calicut -14 Dec Tellicherry - 4 Jan 1749 Bombay - 23 Jan Surat -10 Apr Bombay - 29 Apr Tellicherry - 1 May Cochin - 5 May Anjengo - 16 May Fort St David - 30 May 'Calderoon Bay  - 29 Jun Fort St David - 31 Jul Malacca - 2 Sep Whampoa - 23 Nov Second Bar - 17 Dec Batavia - 25 Mar 1750 St Helena - 5 Jun Downs
+Downs 23 Sep 1747 - Portsmouth 4 Nov - 14 Dec Madeira - 12 Jan 1748 Sao Tiago - 28 Jul Fort St David - enaged in siege of Pondicherry in Aug - 8 Oct Fort St David -12 Nov Point de Galle - 29 Nov Anjengo - 9 Dec Calicut -14 Dec Tellicherry - 4 Jan 1749 Bombay - 23 Jan Surat -10 Apr Bombay - 29 Apr Tellicherry - 1 May Cochin - 5 May Anjengo - 16 May Fort St David - 30 May 'Calderoon Bay' - 29 Jun Fort St David - 31 Jul Malacca - 2 Sep Whampoa - 23 Nov Second Bar - 17 Dec Batavia - 25 Mar 1750 St Helena - 5 Jun Downs
 2 1751/2 Bombay and China
 L/MAR/B/614B Journal 8 Jan 1752-17 Jul 1754
 L/MAR/B/614F(1) Ledger
@@ -1042,7 +1042,7 @@ L/MAR/B/17V(3) Absence Book
 Capt Thomas Field
 Portsmouth 4 Nov 1747 - 13 Dec Madeira - 12 Jan 1748 Sao Tiago - 28 Mar Cape - 28 Jul Fort St David - 12 Aug Pondicherry - 8 Oct Fort St David - 17 Oct Pondicherry - 9 Jan 1749 Vizagapatam - 24 Jan Rogues River - 19 Feb Ingeli - 16 Apr Fort St David - 24 Jul Batavia - 22 Sep Fort St David - 22 Jan 1750 St Helena -25 May Downs
 ROYAL GEORGE (2)
-Company s own ship, built by Stanton, launched 1758, 3 decks, 3in bottom, 400 tons
+Company's own ship, built by Stanton, launched 1758, 3 decks, 3in bottom, 400 tons
 1 1758/9 Madras and Bengal
 L/MAR/B/17E Journal 17 Oct 1758-7 Aug 1760
 L/MAR/B/17W (1) Ledger
@@ -1060,7 +1060,7 @@ Plymouth 15 Mar 1761 - 17 Jul North Island - 6 Sep Whampoa -18 Dec Second Bar - 
 L/MAR/B/17H Journal 11 Oct 1764-1 Jul 1767
 L/MAR/B/17 Y Ledger
 Capt Nicholas Skottowe
-Downs 19 Dec 1764 - 15 Feb 1765 Annabon - 26 Feb Cabinda Bay, Angola 29 Apr - 26 May St Helena - 7 Sep Benkulen - 5 Oct Moco Moco - 30 Oct Benkulen - 8 Nov 'Pulo Bay  -11 Dec Benkulen -10 Jan 1766 Pisang -16 Mar Banjarmassin - 22 May Balambangan -14 Jul Benkulen - 16 Oct Batavia -28 Dec North Island - 29 Mar 1767 Anjengo - 26 Apr Tellicheny - 29 May Bombay
+Downs 19 Dec 1764 - 15 Feb 1765 Annabon - 26 Feb Cabinda Bay, Angola 29 Apr - 26 May St Helena - 7 Sep Benkulen - 5 Oct Moco Moco - 30 Oct Benkulen - 8 Nov 'Pulo Bay' -11 Dec Benkulen -10 Jan 1766 Pisang -16 Mar Banjarmassin - 22 May Balambangan -14 Jul Benkulen - 16 Oct Batavia -28 Dec North Island - 29 Mar 1767 Anjengo - 26 Apr Tellicheny - 29 May Bombay
 ROYAL GEORGE (3)
 Built by Randall, launched 1777, 3 decks, 4in bottom, 758 tons Principal Managing Owner: Thomas Thomas
 1 1777/8 Madras and China
@@ -1188,7 +1188,7 @@ L/MAR/B/476C Journal 14 Dec 1777-5 Nov 1780
 L/MAR/B/476G(l) Ledger
 L/MAR/B/476G(2) Pay Book
 Capt Ralph Dundas
-Portsmouth 27 Apr 1778 - 25 May Madeira - 12 Sep Johanna - 19 Oct Bombay - 31 Jan 1779 Onore - 8 Feb Cochin - 5 Mar Madras - 23 Mar Kedgeree - 9 Aug Uockelee  - 17 Sep Straits of Malacca - 19 Oct Whampoa -15 Jan 1780 Second Bar - 8 Feb Malacca - 23 Jun St Augustine s Bay - 25 Aug Cape - 29 Oct St Helena - 8 Feb 1781 Downs * inc col sketches of islands in Straits of Malacca
+Portsmouth 27 Apr 1778 - 25 May Madeira - 12 Sep Johanna - 19 Oct Bombay - 31 Jan 1779 Onore - 8 Feb Cochin - 5 Mar Madras - 23 Mar Kedgeree - 9 Aug Uockelee' - 17 Sep Straits of Malacca - 19 Oct Whampoa -15 Jan 1780 Second Bar - 8 Feb Malacca - 23 Jun St Augustine's Bay - 25 Aug Cape - 29 Oct St Helena - 8 Feb 1781 Downs * inc col sketches of islands in Straits of Malacca
 4 1781/2 Bombay, Madras and China
 L/MAR/B/476D Journal 4 Aug 1781-31 May 1784
 L/MAR/B/476H(1) Ledger

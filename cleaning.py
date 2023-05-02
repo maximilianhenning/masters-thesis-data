@@ -109,6 +109,7 @@ for folder in officer_folder_list:
     files = glob(folder + "/*")
     folder_lines = []
     for file in files:
+        # Add one stage inbetween here for manual fixes & not having to rerun Tesseract all the time
         file_ocr = pytesseract.image_to_string(Image.open(file))
         file_lines = officer_clean(file_ocr)
         folder_lines += file_lines

@@ -184,25 +184,25 @@ L/MAR/B/363A Journal 2 Nov 1785-23 May 1787
 L/MAM/B/363H(1) Ledger
 L/MAR/B/363H(2) Pay Book
 Capt Charles Gregorie
-Downs 30 Dec 1785 - 29 Jan 1786 Madeira - 30 Jun Madras -10 Jul Calcutta - 2 Nov Cox s Island - 16 Dec Madras - 24 Feb 1787 St Helena - 28 Apr Downs
+Downs 30 Dec 1785 - 29 Jan 1786 Madeira - 30 Jun Madras -10 Jul Calcutta - 2 Nov Cox's Island - 16 Dec Madras - 24 Feb 1787 St Helena - 28 Apr Downs
 2 1787/8 Madras and Bengal
 L/MAR/B/363B Journal 22 Dec 1787-14 Jul 1789
 L/MAM/B/363-I(l) Ledger
 L/MAR/B/363-I(2) Pay Book
 Capt Charles Gregorie
-Downs 4 Apr 1788 - 14 Jul Madras - 23 Jul Diamond Harbour - 20 Nov Cox s Island - 26 Dec Saugor -1 Jan 1789 Madras - 23 Apr St Helena - 21 Jun Downs
+Downs 4 Apr 1788 - 14 Jul Madras - 23 Jul Diamond Harbour - 20 Nov Cox's Island - 26 Dec Saugor -1 Jan 1789 Madras - 23 Apr St Helena - 21 Jun Downs
 3 1790/1 Madras and Bengal
 L/MAR/B/363C Journal 21 Feb 1791-1 Dec 1792
 L/MAR/B/363J(1) Ledger
 L/MAM/B/363J(2) Pay Book
 Capt John Lloyd
-Downs 26 Apr 1791 - 14 Aug Madras - 3 Oct Bankshall - 2 Feb 1792 Cox s Island - 11 Mar Saugor - 24 Mar Madras - 26 Aug St Helena -31 Oct Downs
+Downs 26 Apr 1791 - 14 Aug Madras - 3 Oct Bankshall - 2 Feb 1792 Cox's Island - 11 Mar Saugor - 24 Mar Madras - 26 Aug St Helena -31 Oct Downs
 4 1793/4 Madras and Bengal
 L/MAR/B/363D Journal 18 Oct 1793-8 Dec 1796
 L/MAR/B/363K(1) Ledger
 L/MAR/B/363K(2) Pay Book
 Capt John Lloyd
-Portsmouth 2 May 1794 - 11 Sep Madras -15 Oct Diamond Harbour -13 Dec Cox s Island - 19 Feb 1796 Saugor - 3 Mar Madras - 24 May St Helena -13 Sep River Shannon - 15 Oct Downs
+Portsmouth 2 May 1794 - 11 Sep Madras -15 Oct Diamond Harbour -13 Dec Cox's Island - 19 Feb 1796 Saugor - 3 Mar Madras - 24 May St Helena -13 Sep River Shannon - 15 Oct Downs
 5 1795/6 Madras and Bengal
 L/MAR/B/363E Journal 25 Jan 1796-12 Mar 1798
 L/MAR/B/363L(1) Ledger
@@ -313,7 +313,7 @@ L/MAR/B/166F Journal 15 Feb 1813-11 Jan 1815
 L/MAR/B/ 166M(1) Ledger
 L/MAR/B/166M(2) Pay Book
 Capt William Baynes
-Portsmouth 2 Jun 1813 - 21 Jun Madeira -18 Oct Trincomalee - 29 Dec Saugor - 16 Jun 1814 Simon s Bay - 6 Sep St Helena - 16 Nov Downs
+Portsmouth 2 Jun 1813 - 21 Jun Madeira -18 Oct Trincomalee - 29 Dec Saugor - 16 Jun 1814 Simon's Bay - 6 Sep St Helena - 16 Nov Downs
 7 1815/6 China
 L/MAR/B/166G Journal 13 Feb 1816-23 Jun 1817
 L/MAR/B/166N(1) Ledger
@@ -420,7 +420,7 @@ L/MAM/B/602H Journal 26 Dec 1748-2 Apr 1751
 L/MAR/B/602Q(1) Ledger
 L/MAM/B/602Q(2) Pay Book
 Capt William Parks
-Plymouth 13 Mar 1749 - 9 Jun St Helena - 22 Sep Benkulen -14 Oct Moco Moco - 29 Oct Ipoh - 5 Dec Benkulen - 24 Feb 1750 Batavia - 27 Jun St Augustine s Bay -12 Oct St Helena - 20 Feb 1751 Downs
+Plymouth 13 Mar 1749 - 9 Jun St Helena - 22 Sep Benkulen -14 Oct Moco Moco - 29 Oct Ipoh - 5 Dec Benkulen - 24 Feb 1750 Batavia - 27 Jun St Augustine's Bay -12 Oct St Helena - 20 Feb 1751 Downs
 3 1752/3 Madras and China
 L/MAR/B/602-I Journal 9 Oct 1752-25 Jul 1754
 L/MAR/B/602R(1) Ledger
@@ -433,7 +433,7 @@ L/MAR/B/602S (1) Ledger
 L/MAR/B/602S(2) Pay Book
 Capt Alexander MacLeod
 Portsmouth 30 Jan 1756 - 2 Mar Madeira - 2 Jul Johanna -10 Aug Madras - 19 Jan 1757 Calcutta - 8 Apr Ingeli - 27 Apr Madras - 25 Jun Vizagapatam - 4 Nov Calcutta - 11 Apr 1758 St Helena - 26 Oct Kinsale - 9 Feb 1759 Downs
-* 4-9 Feb 1757 witness account of Clive s attack on the Nawab s forces
+* 4-9 Feb 1757 witness account of Clive's attack on the Nawab's forces
 MARQUIS CAMDEN
 Built by Pitcher, launched 1812, 3 decks, 4in bottom, length 165ft Sin, keel 133ft 11 in, breadth 42ft lin, hold 17ft lin, wing transom 26ft, port cell 29ft 2!4in, waist 1ft 4in, between decks 6ft 5in & 6ft 4in, roundhouse 6ft 41/4in, ports 14 middle & 13 upper, deck range 94ft, 1261 tons Principal Managing Owners: 1-3 John Pascal Larkins, 4-6 Henry Morse Samson, 7 Thomas Larkins, 8-9 William C Drysdale, 10 Thomas Larkins
 1 1812/3 Bombay and China
@@ -836,12 +836,12 @@ Capt Thomas Raines
 3 1699/1700 Bombay
 L/MAR/A/CXLVI Journal 20 Apr 1700-14 Apr 1702, Samuel Goodman 
 L/MAR/B/118A(1) Journal 7 May 1702-17 Apr 1703, Samuel Goodman Capt Thomas Raines
-Downs 15 May 1700 - 7 Jun Sao Tiago - 22 Jul All Saints  Bay - 2 Feb 1701 Cochin -15 Mar Karwar - 13 Apr Bombay -10 Jul Bandar Abbas - 31 Oct Bombay - 17 Nov Surat - Bombay 7 May 1702 - 19 Jun Mauritius - 8 Nov St Helena - 25 Nov Ascension - 29 Dec Barbados -14 Apr 1703 Erith
- 27 Oct 1700 description and sketch of a 'sea duck 
+Downs 15 May 1700 - 7 Jun Sao Tiago - 22 Jul All Saints' Bay - 2 Feb 1701 Cochin -15 Mar Karwar - 13 Apr Bombay -10 Jul Bandar Abbas - 31 Oct Bombay - 17 Nov Surat - Bombay 7 May 1702 - 19 Jun Mauritius - 8 Nov St Helena - 25 Nov Ascension - 29 Dec Barbados -14 Apr 1703 Erith
+ 27 Oct 1700 description and sketch of a 'sea duck'
 4 1703/4 Madras and Bengal
 L/MAR/B/118A(2)-B Journal 13 Jan 1704-15 Feb 1706 
 Capt Samuel Goodman
-Downs 13 Feb 1704 - 28 Jul Madras -19 Sep Balasore - 20 Feb 1705 Masulipatam - 2 Mar Madras - 22 May Mauritius -13 Oct Cape - 18 Nov St Helena -15 Feb 1706 'towards England 
+Downs 13 Feb 1704 - 28 Jul Madras -19 Sep Balasore - 20 Feb 1705 Masulipatam - 2 Mar Madras - 22 May Mauritius -13 Oct Cape - 18 Nov St Helena -15 Feb 1706 'towards England'
  sketch of unidentified fish
 MARTHA (2)
 Extra ship, built by Mestaer, measured 1796, 3 decks, 3in bottom, length 113ft, keel 91ft VAin, breadth 28ft IVAin, hold 12ft 31/2in, wing transom 18ft, port cell 25ft SViin, waist 6in, between decks 5ft & 5ft Sin, ports 6 middle & 5 upper, 406 tons Principal Managing Owner: Peter Everitt Mestaer
@@ -862,11 +862,11 @@ Capt John Hall
 Gravesend 24 Feb 1627 - 10 Jul Cape - Sep Moheli - 30 Nov Surat 11 Mar 1628 - 28 May Mauritius - Jun Surat 10 Nov - 25 Dec Bantam - 7 Aug 1629 Cape Verde Islands - Nov Downs
 2 1630/1 Surat and Coromandel
 Capt James Slade
-Downs 2 Feb 1631 - 30 May St Augustine s Bay - 1 Jul Johanna - 14 Oct Surat - 26 Feb 1632 Bandar Abbas - Surat 28 Apr - 30 May Masulipatam -15 Aug Jask - Bandar Abbas - 27 Nov Surat - 18 Feb 1633 Bandar Abbas - Apr Surat - Masulipatam - Sep Bandar Abbas - 5 Nov Surat 1 Feb 1624 - Sep Downs
+Downs 2 Feb 1631 - 30 May St Augustine's Bay - 1 Jul Johanna - 14 Oct Surat - 26 Feb 1632 Bandar Abbas - Surat 28 Apr - 30 May Masulipatam -15 Aug Jask - Bandar Abbas - 27 Nov Surat - 18 Feb 1633 Bandar Abbas - Apr Surat - Masulipatam - Sep Bandar Abbas - 5 Nov Surat 1 Feb 1624 - Sep Downs
 3 1635/6 Surat
 L/MAR/A/LXII Journal 18 Mar 1636-13 Jan 1640, William Bayley 
 Capt James Slade
-Downs 14 Apr 1636 - 12 Jul Cape - 6 Aug St Augustine s Bay - 26 Aug Johanna - 4 Oct Surat 29 Nov - 25 Dec Bandar Abbas - 28 Jan 1637 Surat - 21 Mar Bandar Abbas - 26 Apr Surat - 18 May Bombay 13 Sep - 30 Nov San Thome - 3 Jan 1638 Pulicat - 31 Jan Calicut -12 Feb Goa - 4 Mar Surat - 14 May Mokha - 23 Aug Aden - 24 Sep Surat 5 Jan 1639 - 5 May Cape - forced back to St Augustine s Bay - 29 Dec Downs
+Downs 14 Apr 1636 - 12 Jul Cape - 6 Aug St Augustine's Bay - 26 Aug Johanna - 4 Oct Surat 29 Nov - 25 Dec Bandar Abbas - 28 Jan 1637 Surat - 21 Mar Bandar Abbas - 26 Apr Surat - 18 May Bombay 13 Sep - 30 Nov San Thome - 3 Jan 1638 Pulicat - 31 Jan Calicut -12 Feb Goa - 4 Mar Surat - 14 May Mokha - 23 Aug Aden - 24 Sep Surat 5 Jan 1639 - 5 May Cape - forced back to St Augustine's Bay - 29 Dec Downs
 4 1642/3 Bantam
 L/MAR/A/LXV Journal 21 Dec 1643-7 Jun 1644, anon 
 Capt William Minors
@@ -913,7 +913,7 @@ Rated at 450 tons, 90 crew, 34 guns
 L/MAR/B/261 A(2) Journal 1 Nov 1711-18 Aug 1713
 L/MAR/B/261J Ledger
 Capt Richard Holden
-Downs 12 Jan 1712 - 18 May Cape - 29 Jul Madras - 19 Aug Rogues River - 11 Dec Cox s Island - 30 Dec Madras - 15 Mar 1713 Cape - 9 Aug Texel -17 Aug Deptford
+Downs 12 Jan 1712 - 18 May Cape - 29 Jul Madras - 19 Aug Rogues River - 11 Dec Cox's Island - 30 Dec Madras - 15 Mar 1713 Cape - 9 Aug Texel -17 Aug Deptford
 2 1714/5 Madras and Bengal
 L/MAR/B/261K(1) Ledger
 L/MAR/B/261 K(2) Pay Book
@@ -1044,7 +1044,7 @@ L/MAR/B/268C Journal 2 Jan 1792-6 Aug 1793
 L/MAR/B/268J(1) Ledger
 L/MAR/B/268J(2) Pay Book
 Capt Philip Dundas
-Downs 8 Mar 1792 - 17 Jun Johanna - 21 Jul Madras - 15 Aug Diamond Harbour -15 Sep 'Broken Ground  - 8 Oct Masulipatam -14 Dec Diamond Harbour -18 Jan 1793 Saugor - 14 Apr St Helena - 6 Jul Long Reach
+Downs 8 Mar 1792 - 17 Jun Johanna - 21 Jul Madras - 15 Aug Diamond Harbour -15 Sep 'Broken Ground' - 8 Oct Masulipatam -14 Dec Diamond Harbour -18 Jan 1793 Saugor - 14 Apr St Helena - 6 Jul Long Reach
 4 1793/4 Madras and Bengal
 L/MAR/B/268D Journal 19 Oct 1793-13 Jan 1796
 L/MAR/B/268K(1) Ledger
@@ -1070,7 +1070,7 @@ Portsmouth 28 Jun 1800 - 22 Sep St Helena - 4 Jan 1801 Kedgeree - 7 Mar Saugor -
 merchant adventure
 1 1658/9 Madras and Bantam
 - Aug 1661
-MERCHANT S DELIGHT
+MERCHANT'S DELIGHT
 250 tons, 50 crew. 24 guns
 1 1657/8 Madras and Bengal
 - 6 Aug 1660
@@ -1240,7 +1240,7 @@ L/MAR/B/14A Journal 5 Dec 1786-3 Jun 1789
 L/MAR/B/ 14 V (1) Ledger
 L/MAM/B/14V(2) Pay Book
 Capt Robert Fairfull
-Portsmouth 1 Apr 1787 - 6 Jul Johanna - 30 Jul Madras -13 Aug Diamond Harbour - 15 Dec Cox s Island - 27 Dec Madras - 26 Jan 1788 Ingeli - 4 Mar Madras - 12 Apr Bombay - 24 Jun Penang -
+Portsmouth 1 Apr 1787 - 6 Jul Johanna - 30 Jul Madras -13 Aug Diamond Harbour - 15 Dec Cox's Island - 27 Dec Madras - 26 Jan 1788 Ingeli - 4 Mar Madras - 12 Apr Bombay - 24 Jun Penang -
 1 Aug Whampoa - 26 Nov Second Bar - 4 Mar 1789 St Helena - 6 May Downs
 2 1789/90 Madras and China
 L/MAR/B/14B Journal 19 Oct 1789-3 Aug 1791
@@ -1259,7 +1259,7 @@ L/MAR/B/14D Journal 28 Feb 1795-13 Sep 1796
 L/MAR/B/14 Y(l) Ledger
 L/MAM/B/14Y(2) Pay Book
 Capt Kennard Smith
-Downs 24 May 1795 - 2 Sep Madras - 5 Oct Diamond Harbour - 4 Dec Cox s Island - 6 Jan 1796 Madras - 26 Apr Cape - 30 May St Helena - 3 Aug Downs
+Downs 24 May 1795 - 2 Sep Madras - 5 Oct Diamond Harbour - 4 Dec Cox's Island - 6 Jan 1796 Madras - 26 Apr Cape - 30 May St Helena - 3 Aug Downs
 5 1796/7 Madras and Bengal
 IOR: Photo Eur.189 Journal 16 Feb 1797-12 Oct 1798, Christopher Rawson, Fourth Mate
 L/MAR/B/14Z(1) Ledger
@@ -1427,7 +1427,7 @@ Downs 25 Jun 1826 - 18 Nov Whampoa -10 Jan 1827 Second Bar -18 Mar St Helena - 1
 6 1827/8 Bengal
 L/MAR/B/43F Deck Log 12 Jun-18 Dec 1828
 Capt Robert Railston Brown
-Downs 5 Jul 1828 - 14 Nov Saugor - 24 Nov 'Burah Bazaar 
+Downs 5 Jul 1828 - 14 Nov Saugor - 24 Nov 'Burah Bazaar'
 7 1831/2 China and Halifax
 L/MAR/B/43G Deck Log 30 May 1832-22 Jun 1833
 Capt James Cromartie
@@ -1525,7 +1525,7 @@ Downs 14 Apr 1708 - 29 Nov San Thome - 6 Dec Madras - 29 Jun 1709 Bahia - 31 Nov
 Bombay
 L/MAR/B/552C Journal 15 Feb 1711-4 Sep 1713
 L/MAR/B/552L(1) Ledger
-L/MAR/B/552L(2) Dead Men s Effects
+L/MAR/B/552L(2) Dead Men's Effects
 L/MAR/B/552L(3) Pay Book
 Capt James Stoakes
 Downs 14 Apr 1711 -16 Jul Rio de Janeiro -15 Sep Cape - 25 Dec Colombo - 15 Jan 1712 Anjengo - 8 Feb Calicut -1 Mar Goa - 5 Apr Bombay -15 Sep Surat - 21 Sep Bombay - 12 Oct Surat -17 Dec Bombay - 28 Apr 1713 Cape - 30 May St Helena - 4 Sep Woolwich
@@ -1606,7 +1606,7 @@ L/MAR/B/608F(1) Ledger
 L/MAR/B/608F(2) Pay Book
 Capt Robert Hanslapp
 Portsmouth 9 Apr 1746 - 30 Apr Madeira - 29 Sep Culpee - 6 Feb 1747 Kedgeree -1 Nov Lisbon - 30 Nov Downs
-* 10 Jul 1746 drawing of a 'sea loyon 
+* 10 Jul 1746 drawing of a 'sea loyon'
 3 1748/9 Fort St David and China
 L/MAR/B/608C Journal 27 Oct 1748-25 Jun 1750
 L/MAR/B/608G(1) Ledger
@@ -1675,7 +1675,7 @@ MORRIS
 400 tons
 1 1625/6 Surat and Bantam
 Master Thomas Waller
-Downs 16 Apr 1626 - 30 Jul Johanna - sacked Bombay 15 Oct - 24 Oct Surat - 18 Jan 1627 Bandar Abbas - Mar Surat - 27 Apr Masulipatam - Oct Bantam 18 Feb 1828 - Oct Downs - driven from anchors in a storm and wrecked on 'Fly Island , Holland
+Downs 16 Apr 1626 - 30 Jul Johanna - sacked Bombay 15 Oct - 24 Oct Surat - 18 Jan 1627 Bandar Abbas - Mar Surat - 27 Apr Masulipatam - Oct Bantam 18 Feb 1828 - Oct Downs - driven from anchors in a storm and wrecked on 'Fly Island', Holland
 MORSE
 Built by Wells launched 1769, 3 decks, 4in bottom, length 141ft S'/dn, keel 112ft 11m, breadth 38ft IVdn, hold 14ft llin, wing transom 23ft 6'Am, port cell 25ft VMn, between decks 6ft 7m, 875 tons Principal Managing Owner: Thomas Boddam
 1 1769/70 Madras and Bengal
@@ -1695,7 +1695,7 @@ L/MAR/B/480-I(2) Pay Book
 L/MAR/B/480-I(3) Imprest Book
 L/MAR/B/480-I(4) Absence Book
 Capt George Kent ^ „ n _ „ ,
-Portsmouth 27 Apr 1778 - 12 Aug Simons Bay - 24 Aug False Bay - 23 Dec Point de Galle - 7 Feb 1779 Bombay - 7 May Tellicherry - 4 Jun Madras - 1 Oct Whampoa - 20 Jan 1780 Second Bar - 8 Feb Malacca - 5 Jul St Augustine s Bay - 25 Aug Cape - 29 Oct St Helena - 9 Jan 1781 Crookhaven - 8 Feb Downs
+Portsmouth 27 Apr 1778 - 12 Aug Simons Bay - 24 Aug False Bay - 23 Dec Point de Galle - 7 Feb 1779 Bombay - 7 May Tellicherry - 4 Jun Madras - 1 Oct Whampoa - 20 Jan 1780 Second Bar - 8 Feb Malacca - 5 Jul St Augustine's Bay - 25 Aug Cape - 29 Oct St Helena - 9 Jan 1781 Crookhaven - 8 Feb Downs
 4 1781/2 Madras and China
 L/MAR/B/480E Journal 6 Aug 1781-7 Sep 1784
 L/MAR/B/480J(l) Ledger
@@ -1709,7 +1709,7 @@ L/MAR/B/555A Journal 1 Nov 1777-21 Mar 1780
 L/MAR/B/555B(1) Ledger
 L/MAR/B/555B(2) Pay Book
 Capt John Stewart
-Plymouth 9 Feb 1778 - 22 Feb Madeira - 5 Jun False Bay -16 Aug Madras - 27 Sep Kedgeree - 10 Jan 1779 Ingeli -10 Feb Madras - 25 Jul St Augustine s Bay - 8 Oct St Helena - 25 Dec Portsmouth - 13 Jan 1780 Downs
+Plymouth 9 Feb 1778 - 22 Feb Madeira - 5 Jun False Bay -16 Aug Madras - 27 Sep Kedgeree - 10 Jan 1779 Ingeli -10 Feb Madras - 25 Jul St Augustine's Bay - 8 Oct St Helena - 25 Dec Portsmouth - 13 Jan 1780 Downs
 2 1779/80 Madras and Bengal
 Capl John Haldane
 Downs 11 Jun 1780 - 27 Jul Portsmouth - captured 9 Aug 1780 with the Gatton, Godfrey, Hillsborough and Royal George by the combined Franco-Spanish fleet in 36°28'N 15°20'W

@@ -48,7 +48,7 @@ L/MAR/B/539B(4) Pay Book
 Capt Edward Fiott
 Plymouth 26 Jun 1781 -18 Sep Sao Thome -17 Nov St Helena - 31 Mar 1782 Madras 14 May - 19 May Ganjam - 26 Jul Calcutta - Culpee 26 Dec - 29 Mar 1783 St Helena 9 Jun - 7 Aug Downs
 TARTAR (2)
-Company s packet, 230 tons
+Company's packet, 230 tons
 1 1792/3 Bengal (to remain)
 Capt Timothy Goldsmith
 Portsmouth 1 Oct 1792 -
@@ -120,7 +120,7 @@ Downs 2 May 1700 - 3 Aug Cape - 27 Sep Point de Galle - 8 Oct Anjengo - 21 Oct C
 3 1702/3 Madras and Bengal
 L/MAR/B/593A Journal 10 Dec 1702-17 Jan 1706 
 Capt Matthew Martin
-Downs 16 Apr 1703 - 31 May Sao Tiago - 1 Nov Acheh -14 Dec Madras -16 Mar 1704 Balasore - 26 Mar Rogues River - 27 Nov 'Sajo Island  - 2 May 1705 St Helena - 23 Jul Ascension - 27 Sep Kinsale - 2 Jan 1706 Deptford
+Downs 16 Apr 1703 - 31 May Sao Tiago - 1 Nov Acheh -14 Dec Madras -16 Mar 1704 Balasore - 26 Mar Rogues River - 27 Nov 'Sajo Island' - 2 May 1705 St Helena - 23 Jul Ascension - 27 Sep Kinsale - 2 Jan 1706 Deptford
 4 1707/8 Surat
 L/MAR/B/593B Journal 16 Sep 1707-18 Nov 1710 
 Capt Matthew Martin
@@ -150,9 +150,9 @@ L/MAR/B/593F Journal 26 Oct 1756-21 Jun 1760
 L/MAR/B/593J(1) Ledger
 L/MAM/B/593J(2) Pay Book
 Capt Benjamin Jenkins
-Downs 30 Jan 1757 - 16 Jul St Augustine s Bay - 6 Sep Madras 22 Oct - 2 Dec Bombay 9 Mar 1758 - 15 Apr Madras 24 May -19 Jun Malacca -16 Jul Whampoa - Second Bar 3 Jan 1759 - 24 May Bahia -17 Oct Rio de Janeiro - 7 Jan 1760 St Helena - 4 Apr Kinsale -15 May Downs
+Downs 30 Jan 1757 - 16 Jul St Augustine's Bay - 6 Sep Madras 22 Oct - 2 Dec Bombay 9 Mar 1758 - 15 Apr Madras 24 May -19 Jun Malacca -16 Jul Whampoa - Second Bar 3 Jan 1759 - 24 May Bahia -17 Oct Rio de Janeiro - 7 Jan 1760 St Helena - 4 Apr Kinsale -15 May Downs
 TELEGRAPH
-Company s packet, 165 tons
+Company's packet, 165 tons
 1 St Helena, China and Bengal
 Capt Henry Morse Samson
 Downs 25 Oct 1801 - 18 Oct 1803 moorings
@@ -288,7 +288,7 @@ L/MAR/B/8S Journal 19 Jan 1829-30 Aug 1830
 L/MAM/B/8LL(1) Ledger
 L/MAM/B/8LL(2) Pay Book
 Capt James Keith Forbes
-Downs 10 Mar 1829 - 15 Jun Madras - 27 Aug Malacca - 2 Sep Singapore - 15 Sep Toun-koo  - 17 Nov Capsmgmoon Passage - 9 Feb 1830 Whampoa - Second Bar 17 Mar - 24 Jun St Helena - 2 Aug Downs
+Downs 10 Mar 1829 - 15 Jun Madras - 27 Aug Malacca - 2 Sep Singapore - 15 Sep Toun-koo' - 17 Nov Capsmgmoon Passage - 9 Feb 1830 Whampoa - Second Bar 17 Mar - 24 Jun St Helena - 2 Aug Downs
 6 1830/1 Madras, Bengal and China
 L/MAR/B/8T Journal 7 Dec 1830-13 Apr 1832
 L/MAR/B/8MM(1) Ledger
@@ -438,7 +438,7 @@ L/MAM/B/15P(2) Pay Book
 Capt Alexander Chrystie
 Downs 8 Feb 1832 - 3 Jun Bombay 28 Jul -13 Aug Penang - 6 Sep Whampoa - Second Bar 18 Nov - 28 Jan 1833 St Helena - 30 Mar Downs
 THOMAS GRENVILLE
-Company s own ship, built at Bombay, launched 1808, 3 decks, 5in bottom, length 145ft lOin, keel 117ft 5in, breadth 37ft Sin, hold 15ft 2in, wing transom 23ft 3 /2in, port cell 27ft 9in, waist 1ft 7in, between decks 6ft 31/2in & 6ft 5 in, roundhouse 6ft 53Ain, ports 13 middle & upper, deck range 82ft 6in, 886 tons
+Company's own ship, built at Bombay, launched 1808, 3 decks, 5in bottom, length 145ft lOin, keel 117ft 5in, breadth 37ft Sin, hold 15ft 2in, wing transom 23ft 3 /2in, port cell 27ft 9in, waist 1ft 7in, between decks 6ft 31/2in & 6ft 5 in, roundhouse 6ft 53Ain, ports 13 middle & upper, deck range 82ft 6in, 886 tons
 Sold to Ward & Somes 2 Jul 1834 for £6650
 1 From China 1809
 L/MAM/B/10A Journal 1 Aug 1808-30 Oct 1809
@@ -549,7 +549,7 @@ TIGER
 Interloper, 200 tons
 1 1604/5 Bantam
 Expedition commanded by Sir Edward Michclbornc
-Received Royal licence 25 Jun 1604 - left Cowes with Tiger s Whelp pinnace 5 Dec 1604 - 8 Apr 1605 Cape - 25 Jul Coast of Sumatra - 13 Aug Priaman - 28 Oct Bantam - left for Pattani 2 Nov, attacked by Japanese pirates, pilot John Davis killed, voyage abandoned - 9 Jul 1606 Portsmouth See Purchas vol. 1 bk.3 chap. 1 s.6 for a summary journal, and The voyages and works of John Davis the Navigator, ed Albert Hastings Markham, Hakluyt Soc 1st ser no.59 (London, 1880)
+Received Royal licence 25 Jun 1604 - left Cowes with Tiger's Whelp pinnace 5 Dec 1604 - 8 Apr 1605 Cape - 25 Jul Coast of Sumatra - 13 Aug Priaman - 28 Oct Bantam - left for Pattani 2 Nov, attacked by Japanese pirates, pilot John Davis killed, voyage abandoned - 9 Jul 1606 Portsmouth See Purchas vol. 1 bk.3 chap. 1 s.6 for a summary journal, and The voyages and works of John Davis the Navigator, ed Albert Hastings Markham, Hakluyt Soc 1st ser no.59 (London, 1880)
 TIGRIS (1)
 270 tons, 54 crew, 22 guns
 1 1740/1 Cape, Madras and Bengal
@@ -604,7 +604,7 @@ L/MAWB/551A Journal 16 Oct 1757-20 Dec 1760
 L/MAR/B/551E(1) Ledger
 L/MAR/B/551E(2) Pay Book
 Capt Roger Mainwaring
-Downs 15 Jan 1758 - 21 Mar Madeira - 28 Apr Sao Tiago - 7 Aug St Augustine s Bay -1 Nov Goa 15 Nov Bombay -16 Feb 1759 Madras - 3 Apr Pulicat -17 Apr Madras - 23 Jul Penang -1 Sep Whampoa - Second Bar 8 Jan 1760 - 13 Jun St Helena - 22 Sep Downs
+Downs 15 Jan 1758 - 21 Mar Madeira - 28 Apr Sao Tiago - 7 Aug St Augustine's Bay -1 Nov Goa 15 Nov Bombay -16 Feb 1759 Madras - 3 Apr Pulicat -17 Apr Madras - 23 Jul Penang -1 Sep Whampoa - Second Bar 8 Jan 1760 - 13 Jun St Helena - 22 Sep Downs
 2 1761/2 Madras and Bengal
 L/MAR/B/551B Journal 8 Oct 1761-8 Aug 1763
 L/MAR/B/551F(1) Ledger
@@ -873,7 +873,7 @@ Madras 10 Oct 1800 - 12 Dec St Helena - 22 Feb 1801 Spithead -1 Mar Downs
 2 From Bengal 1802
 L/MAWB/366N Journal 17 Mar-19 Oct 1802, John Nicholls, Chief Mate * 
 L/MAR/B/366-0 Journal 1 Feb-19 Oct 1802 Capt Nicholas Anstis
-Calcutta 26 Feb 1802 - Kedgeree 17 Apr - 9 Jul St Helena -13 Sep Downs * inc note 'state of the sails 
+Calcutta 26 Feb 1802 - Kedgeree 17 Apr - 9 Jul St Helena -13 Sep Downs * inc note 'state of the sails'
 TROJAN
 Chartered ship
 1 1795/6 Cape
@@ -893,7 +893,7 @@ L/MAR/B/297R(1) Ledger
 L/MAR/B/297R(2) Pay Book
 Capt Hemy Broadley
 Downs 5 Apr 1750 - 20 Sep Whampoa - 27 Dec Calicut - 29 Dec Tellicheny - 28 Jan 1751 Bombay -
-3 Mar 'Dunderogipore  - 9 Mar Bombay - 25 Mar Surat - 5 Apr Bombay - 20 Apr Karwar - 26 Apr Tellicheny - 4 Jul Whampoa -12 Dec Straits of Banca - 13 Mar 1752 St Helena - 21 May Downs
+3 Mar 'Dunderogipore' - 9 Mar Bombay - 25 Mar Surat - 5 Apr Bombay - 20 Apr Karwar - 26 Apr Tellicheny - 4 Jul Whampoa -12 Dec Straits of Banca - 13 Mar 1752 St Helena - 21 May Downs
 3 1753/4 Madras and China
 L/MAR/B/297B Journal 26 Oct 1753-2 Oct 1755
 L/MAR/B/297S(1) Ledger
@@ -913,7 +913,7 @@ L/MAR/B/297D Journal 24 Feb 1761-7 Sep 1763
 L/MAR/B/297U(1) Ledger
 L/MAR/B/297U(2) Pay Book
 Capt Thomas Crichton
-Portsmouth 26 May 1761 - 15 Aug Rio dc Janeiro - 12 Dec Anjengo - 15 Doc Cochin - 20 Doc Tellicherry - 11 Jan 1762 Bombay - 9 Mar Surat - 18 Mar Bombay - 1 Apr Surat - 26 Apr Bombay - 13 May Tellicheny - 30 May Madras - 19 Jul Malacca -19 Aug Whampoa - 21 Jan 1763 'Pulo Auroe  - 14 Apr St Helena -15 Jul Downs
+Portsmouth 26 May 1761 - 15 Aug Rio dc Janeiro - 12 Dec Anjengo - 15 Doc Cochin - 20 Doc Tellicherry - 11 Jan 1762 Bombay - 9 Mar Surat - 18 Mar Bombay - 1 Apr Surat - 26 Apr Bombay - 13 May Tellicheny - 30 May Madras - 19 Jul Malacca -19 Aug Whampoa - 21 Jan 1763 'Pulo Auroe' - 14 Apr St Helena -15 Jul Downs
 2 1764/5 Madras and Bombay
 L/MAR/B/297E Journal 6 Jan 1765-27 Oct 1766
 L/MAR/B/297V(1) Ledger

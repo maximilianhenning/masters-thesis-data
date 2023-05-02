@@ -60,7 +60,7 @@ s4;s4v1;s4v1c6;voyages to Sumatra 1624, Lagundy 1625, Coromandel 1626;1626;nan;n
 s4;s4v1;s4v1c7;27, Sumatra 1628 & 1629;1629;nan;nan;27, Sumatra &;True
 s4;s4v1;s4v1c8;laid up 1631, rotten;1629;nan;nan;laid up 1631, rotten;True
 s5;s5v1;s5v1c1;Downs 11 Jun 1703;1703;6;11;Downs;False
-s5;s5v1;s5v1c2;11 Oct 'Sandy Bay  Guinea;1703;10;11;'Sandy Bay  Guinea;True
+s5;s5v1;s5v1c2;11 Oct 'Sandy Bay' Guinea;1703;10;11;'Sandy Bay' Guinea;True
 s5;s5v1;s5v1c3;24 Nov Cape;1703;11;24;Cape;False
 s5;s5v1;s5v1c4;18 Mar 1704 Anjengo;1704;3;18;Anjengo;False
 s5;s5v1;s5v1c5;31 Mar Calicut;1704;3;31;Calicut;False
@@ -264,7 +264,7 @@ s16;s16v1;s16v1c4;30 Jul St Helena;1759;7;30;St Helena;False
 s16;s16v1;s16v1c5;22 Oct Deptford;1759;10;22;Deptford;False
 s16;s16v2;s16v2c1;Downs 18 Mar 1760;1760;3;18;Downs;False
 s16;s16v2;s16v2c2;Bengal;1760;nan;nan;Bengal;False
-s16;s16v2;s16v2c3;'towards England  3 Dec 1762;1762;12;3;'towards England ;True
+s16;s16v2;s16v2c3;'towards England' 3 Dec 1762;1762;12;3;'towards England';False
 s16;s16v2;s16v2c4;16 Feb 1763 St Helena;1763;2;16;St Helena;False
 s16;s16v2;s16v2c5;7 May Limehouse;1763;5;7;Limehouse;False
 s16;s16v3;s16v3c1;Portsmouth 20 Feb 1764;1764;2;20;Portsmouth;False
@@ -390,7 +390,7 @@ s24;s24v4;s24v4c9;28 May Barbados;1733;5;28;Barbados;False
 s24;s24v4;s24v4c10;27 Jul Downs;1733;7;27;Downs;False
 s25;s25v1;s25v1c1;Downs 30 Mar 1759;1759;3;30;Downs;False
 s25;s25v1;s25v1c2;1 May Madeira;1759;5;1;Madeira;False
-s25;s25v1;s25v1c3;10 Aug St Augustine s Bay;1759;8;10;St Augustine s Bay;True
+s25;s25v1;s25v1c3;10 Aug St Augustine's Bay;1759;8;10;St Augustine's Bay;True
 s25;s25v1;s25v1c4;28 Oct Madras;1759;10;28;Madras;False
 s25;s25v1;s25v1c5;25 Dec Balasore;1759;12;25;Balasore;False
 s25;s25v1;s25v1c6;1 Jan 1760 Culpee;1760;1;1;Culpee;False
@@ -509,7 +509,7 @@ s29;s29v2;s29v2c5;11 Jan 1826 Madras;1826;1;11;Madras;False
 s29;s29v2;s29v2c6;5 Apr St Helena;1826;4;5;St Helena;False
 s29;s29v2;s29v2c7;23 Jun East India Dock;1826;6;23;East India Dock;True
 s30;s30v1;s30v1c1;Downs 6 Apr 1642;1642;4;6;Downs;False
-s30;s30v1;s30v1c2;2 Aug St Augustine s Bay;1642;8;2;St Augustine s Bay;True
+s30;s30v1;s30v1c2;2 Aug St Augustine's Bay;1642;8;2;St Augustine's Bay;True
 s30;s30v1;s30v1c3;16 Aug Johanna;1642;8;16;Johanna;False
 s30;s30v1;s30v1c4;21 Sep Surat 13 Oct;1642;10;13;Surat;False
 s30;s30v1;s30v1c5;23 Oct Goa;1642;10;23;Goa;False
@@ -604,8 +604,8 @@ s35;s35v1;s35v1c1;Downs 29 Jan 1773;1773;1;29;Downs;False
 s35;s35v1;s35v1c2;1 May St Helena;1773;5;1;St Helena;False
 s35;s35v1;s35v1c3;18 Aug Batavia;1773;8;18;Batavia;False
 s35;s35v1;s35v1c4;30 Sep Benkulen 5 Apr 1774;1774;4;5;Benkulen;False
-s35;s35v1;s35v1c5;14 May 'Allas;1774;5;14;'Allas;False
-s35;s35v1;s35v1c6;16 Jun 'Saloomah;1774;6;16;'Saloomah;False
+s35;s35v1;s35v1c5;14 May 'Allas';1774;5;14;'Allas';False
+s35;s35v1;s35v1c6;16 Jun 'Saloomah';1774;6;16;'Saloomah';False
 s35;s35v1;s35v1c7;2 Jul Benkulen;1774;7;2;Benkulen;False
 s35;s35v1;s35v1c8;8 Oct Cape;1774;10;8;Cape;False
 s35;s35v1;s35v1c9;13 Nov St Helena;1774;11;13;St Helena;False
@@ -820,7 +820,7 @@ s46;s46v2;s46v2c5;23 Dec Cape;1697;12;23;Cape;False
 s46;s46v2;s46v2c6;26 Feb 1698 St Helena;1698;2;26;St Helena;False
 s46;s46v2;s46v2c7;Jun Downs;1698;6;nan;Downs;False
 s47;s47v1;s47v1c1;Downs 2 Feb 1738;1738;2;2;Downs;False
-s47;s47v1;s47v1c2;wrecked 23 Jul 1738 north of Goa, in 'the Mallwan s country , survivors imprisoned;1738;7;23;wrecked north of Goa, in 'the Mallwan s country , survivors imprisoned;True
+s47;s47v1;s47v1c2;wrecked 23 Jul 1738 north of Goa, in 'the Mallwan's country', survivors imprisoned;1738;7;23;wrecked north of Goa, in 'the Mallwan's country', survivors imprisoned;True
 s48;s48v1;s48v1c1;Portsmouth 9 Sep 1801;1801;9;9;Portsmouth;False
 s48;s48v1;s48v1c2;4 Feb 1802 Madras;1802;2;4;Madras;False
 s48;s48v1;s48v1c3;5 Mar Calcutta;1802;3;5;Calcutta;False
@@ -985,7 +985,7 @@ s59;s59v1;s59v1c4;crew reached Johanna in sloop and longboat 31 May;1689;5;31;cr
 s59;s59v1;s59v1c5;9 Jun met pirates and 8 men deserted to them;1689;6;8;met pirates and men deserted to them;True
 s59;s59v1;s59v1c6;left Johanna in sloop 2 Aug;1689;8;2;left Johanna in sloop;True
 s59;s59v1;s59v1c7;14 Sep reached Indian coast nr Vingula;1689;9;14;reached Indian coast nr Vingula;True
-s59;s59v1;s59v1c8;15 Sep captured and plundered by Shivaji s forces;1689;9;15;captured and plundered by Shivaji s forces;True
+s59;s59v1;s59v1c8;15 Sep captured and plundered by Shivaji's forces;1689;9;15;captured and plundered by Shivaji's forces;True
 s60;s60v1;s60v1c1;Gravesend 4 Feb 1617;1617;2;4;Gravesend;False
 s60;s60v1;s60v1c2;22 Jun Cape;1617;6;22;Cape;False
 s60;s60v1;s60v1c3;12 Aug Moheli;1617;8;12;Moheli;False
@@ -993,7 +993,7 @@ s60;s60v1;s60v1c4;20 Sep Surat;1617;9;20;Surat;False
 s60;s60v1;s60v1c5;Mokha 19 Aug 1618;1618;8;19;Mokha;False
 s60;s60v1;s60v1c6;Surat 17 Feb 1619, carried Sir Thomas Roe home;1618;2;17;Surat 1619, carried Sir Thomas Roe home;True
 s60;s60v1;s60v1c7;Sep Downs;1618;9;nan;Downs;False
-s60;s60v2;s60v2c1;Voyage lost, ship 'cast away  between London and Gravesend 20 Mar 1620;1620;3;20;Voyage lost, ship 'cast away  between London and Gravesend;True
+s60;s60v2;s60v2c1;Voyage lost, ship 'cast away' between London and Gravesend 20 Mar 1620;1620;3;20;Voyage lost, ship 'cast away' between London and Gravesend;True
 s60;s60v2;s60v2c2;buoyed up and towed to Northfleet;1620;nan;nan;buoyed up and towed to Northfleet;True
 s60;s60v3;s60v3c1;Downs;1620;nan;nan;Downs;False
 s60;s60v3;s60v3c2;Sep 1621 Batavia;1621;9;nan;Batavia;False
@@ -1014,7 +1014,7 @@ s60;s60v3;s60v3c16;Surat;1625;nan;nan;Surat;False
 s60;s60v3;s60v3c17;3 Jun 1626 Batavia;1626;6;3;Batavia;False
 s60;s60v3;s60v3c18;broken up, rotten;1626;nan;nan;broken up, rotten;True
 s61;s61v1;s61v1c1;Downs 23 Jan 1747;1747;1;23;Downs;False
-s61;s61v1;s61v1c2;24 May St Augustine s Bay;1747;5;24;St Augustine s Bay;True
+s61;s61v1;s61v1c2;24 May St Augustine's Bay;1747;5;24;St Augustine's Bay;True
 s61;s61v1;s61v1c3;captured by French 2 Sep off Bombay;1747;9;2;captured by French off Bombay;True
 s62;s62v1;s62v1c1;Downs 3 Jan 1751;1751;1;3;Downs;False
 s62;s62v1;s62v1c2;9 Jun Batavia;1751;6;9;Batavia;False
@@ -1024,7 +1024,7 @@ s62;s62v1;s62v1c5;10 Apr St Helena;1752;4;10;St Helena;False
 s62;s62v1;s62v1c6;21 Jun Deptford;1752;6;21;Deptford;False
 s62;s62v2;s62v2c1;Downs 6 Mar 1754;1754;3;6;Downs;False
 s62;s62v2;s62v2c2;30 Mar Sao Tiago;1754;3;30;Sao Tiago;False
-s62;s62v2;s62v2c3;24 Jun St Augustine s Bay;1754;6;24;St Augustine s Bay;True
+s62;s62v2;s62v2c3;24 Jun St Augustine's Bay;1754;6;24;St Augustine's Bay;True
 s62;s62v2;s62v2c4;29 Aug Madras;1754;8;29;Madras;False
 s62;s62v2;s62v2c5;22 Sep Vizagapatam;1754;9;22;Vizagapatam;False
 s62;s62v2;s62v2c6;8 Oct Balasore;1754;10;8;Balasore;False
@@ -1082,7 +1082,7 @@ s63;s63v5;s63v5c7;9 Oct St Helena;1775;10;9;St Helena;False
 s63;s63v5;s63v5c8;24 Dec Kinsale;1775;12;24;Kinsale;False
 s63;s63v5;s63v5c9;17 Apr 1776 Blackwall;1776;4;17;Blackwall;False
 s64;s64v1;s64v1c1;Downs Apr 1646;1646;4;nan;Downs;False
-s64;s64v1;s64v1c2;6 Sep St Augustine s Bay;1646;9;6;St Augustine s Bay;True
+s64;s64v1;s64v1c2;6 Sep St Augustine's Bay;1646;9;6;St Augustine's Bay;True
 s64;s64v1;s64v1c3;24 Jan 1647 Surat;1647;1;24;Surat;False
 s64;s64v1;s64v1c4;4 Apr Bandar Abbas;1647;4;4;Bandar Abbas;False
 s64;s64v1;s64v1c5;7 Jun Madras;1647;6;7;Madras;False
@@ -1103,7 +1103,7 @@ s66;s66v2;s66v2c5;13 Oct Rogues River;1699;10;13;Rogues River;False
 s66;s66v2;s66v2c6;28 Nov Hugh;1699;11;28;Hugh;False
 s66;s66v2;s66v2c7;1 May 1700 Bedthar;1700;5;1;Bedthar;False
 s66;s66v2;s66v2c8;12 Jul Hugli;1700;7;12;Hugli;False
-s66;s66v2;s66v2c9;1 Nov Cox s Island;1700;11;1;Cox s Island;True
+s66;s66v2;s66v2c9;1 Nov Cox's Island;1700;11;1;Cox's Island;False
 s66;s66v2;s66v2c10;7 Feb 1701 St Helena;1701;2;7;St Helena;False
 s66;s66v2;s66v2c11;May Downs;1701;5;nan;Downs;False
 s67;s67v1;s67v1c1;Downs 6 Feb 1782;1782;2;6;Downs;False
@@ -1320,7 +1320,7 @@ s80;s80v4;s80v4c4;3 Sep Johanna;1781;9;3;Johanna;False
 s80;s80v4;s80v4c5;5 Dec Qishm;1781;12;5;Qishm;False
 s80;s80v4;s80v4c6;4 Mar 1782 Bombay;1782;3;4;Bombay;False
 s80;s80v4;s80v4c7;5 Oct Whampoa;1782;10;5;Whampoa;False
-s80;s80v4;s80v4c8;'towards England  6 Jan 1783;1783;1;6;'towards England ;True
+s80;s80v4;s80v4c8;'towards England' 6 Jan 1783;1783;1;6;'towards England';False
 s80;s80v4;s80v4c9;17 Jun St Helena;1783;6;17;St Helena;False
 s80;s80v4;s80v4c10;28 Oct Downs;1783;10;28;Downs;False
 s81;s81v2;s81v2c1;Portsmouth 10 Mar 1785;1785;3;10;Portsmouth;False
@@ -1384,7 +1384,7 @@ s82;s82v2;s82v2c6;3 Dec Saugor;1801;12;3;Saugor;False
 s82;s82v2;s82v2c7;29 Dec Malacca;1801;12;29;Malacca;False
 s82;s82v2;s82v2c8;4 Feb 1802 Amboina;1802;2;4;Amboina;False
 s82;s82v2;s82v2c9;18 Mar Lintin;1802;3;18;Lintin;False
-s82;s82v2;s82v2c10;10 Apr 'Samkoke  Island;1802;4;10;'Samkoke  Island;True
+s82;s82v2;s82v2c10;10 Apr 'Samkoke' Island;1802;4;10;'Samkoke' Island;False
 s82;s82v2;s82v2c11;15 May Lintin;1802;5;15;Lintin;False
 s82;s82v2;s82v2c12;22 Oct Diamond Harbour;1802;10;22;Diamond Harbour;False
 s82;s82v2;s82v2c13;15 Dec Saugor;1802;12;15;Saugor;False
@@ -1411,7 +1411,7 @@ s82;s82v4;s82v4c7;18 Mar Colombo;1807;3;18;Colombo;False
 s82;s82v4;s82v4c8;13 Jun St Helena;1807;6;13;St Helena;False
 s82;s82v4;s82v4c9;19 Sep Blackwall;1807;9;19;Blackwall;False
 s82;s82v5;s82v5c1;Portsmouth 17 Sep 1808;1808;9;17;Portsmouth;False
-s82;s82v5;s82v5c2;lost 1 Jun 1809 'in the Bengal river;1809;6;1;lost 'in the Bengal river;True
+s82;s82v5;s82v5c2;lost 1 Jun 1809 'in the Bengal river';1809;6;1;lost 'in the Bengal river';True
 s83;s83v1;s83v1c1;Bombay 1 Dec 1799;1799;12;1;Bombay;False
 s83;s83v1;s83v1c2;27 Dec Cochin;1799;12;27;Cochin;False
 s83;s83v1;s83v1c3;25 Feb 1800 Cape;1800;2;25;Cape;False
@@ -1726,12 +1726,12 @@ s97;s97v3;s97v3c4;10 Jul Madras;1711;7;10;Madras;False
 s97;s97v3;s97v3c5;11 Aug Fort St David;1711;8;11;Fort St David;True
 s97;s97v3;s97v3c6;15 Aug Madras;1711;8;15;Madras;False
 s97;s97v3;s97v3c7;25 Sep Rogues River;1711;9;25;Rogues River;False
-s97;s97v3;s97v3c8;5 Feb 1712 Cox s Island;1712;2;5;Cox s Island;True
+s97;s97v3;s97v3c8;5 Feb 1712 Cox's Island;1712;2;5;Cox's Island;False
 s97;s97v3;s97v3c9;3 Jun Cape;1712;6;3;Cape;False
 s97;s97v3;s97v3c10;3 Jul St Helena;1712;7;3;St Helena;False
 s97;s97v3;s97v3c11;2 Oct Woolwich;1712;10;2;Woolwich;False
 s98;s98v1;s98v1c1;Kedgeree 5 Apr 1801;1801;4;5;Kedgeree;False
-s98;s98v1;s98v1c2;22 Jul St Augustine s Bay;1801;7;22;St Augustine s Bay;True
+s98;s98v1;s98v1c2;22 Jul St Augustine's Bay;1801;7;22;St Augustine's Bay;True
 s98;s98v1;s98v1c3;19 Sep St Helena;1801;9;19;St Helena;False
 s98;s98v1;s98v1c4;24 Dec Deptford;1801;12;24;Deptford;False
 s98;s98v2;s98v2c1;Whampoa 21 Feb 1817;1817;2;21;Whampoa;False
@@ -2059,8 +2059,8 @@ s117;s117v4;s117v4c12;19 Dec Downs;1745;12;19;Downs;False
 s117;s117v4;s117v4c13;15 Jan 1745 Blackwall;1745;1;15;Blackwall;False
 s118;s118v1;s118v1c1;Portsmouth 29 May 1764;1764;5;29;Portsmouth;False
 s118;s118v1;s118v1c2;12 Aug Rio de Janeiro;1764;8;12;Rio de Janeiro;True
-s118;s118v1;s118v1c3;3 Nov St Augustine s Bay;1764;11;3;St Augustine s Bay;True
-s118;s118v1;s118v1c4;4 Apr 1765 Prince s Island;1765;4;4;Prince s Island;True
+s118;s118v1;s118v1c3;3 Nov St Augustine's Bay;1764;11;3;St Augustine's Bay;True
+s118;s118v1;s118v1c4;4 Apr 1765 Prince's Island;1765;4;4;Prince's Island;False
 s118;s118v1;s118v1c5;10 Apr Bantam;1765;4;10;Bantam;False
 s118;s118v1;s118v1c6;17 Apr Batavia;1765;4;17;Batavia;False
 s118;s118v1;s118v1c7;9 Jun Benkulen;1765;6;9;Benkulen;False
@@ -2320,8 +2320,8 @@ s130;s130v5;s130v5c9;20 Dec Mangalore;1687;12;20;Mangalore;False
 s130;s130v5;s130v5c10;27 Jan 1688 Tellicheny;1688;1;27;Tellicheny;False
 s130;s130v5;s130v5c11;31 Jan Calicut;1688;1;31;Calicut;False
 s130;s130v5;s130v5c12;7 Feb Tellicheny 22 Feb Calicut;1688;2;22;Tellicheny Calicut;False
-s130;s130v5;s130v5c13;29 Feb 'Ruttera;1688;2;29;'Ruttera;False
-s130;s130v5;s130v5c14;28 Mar 'Brinjoan;1688;3;28;'Brinjoan;False
+s130;s130v5;s130v5c13;29 Feb 'Ruttera';1688;2;29;'Ruttera';False
+s130;s130v5;s130v5c14;28 Mar 'Brinjoan';1688;3;28;'Brinjoan';False
 s130;s130v5;s130v5c15;13 Apr Madras;1688;4;13;Madras;False
 s130;s130v5;s130v5c16;voyage ended 23 Jul 1689 Portsmouth;1689;7;23;voyage ended Portsmouth;True
 s131;s131v1;s131v1c1;5 Dec 1700;1700;12;5;nan;False
@@ -2490,7 +2490,7 @@ s138;s138v3;s138v3c7;25 Jul Long Reach;1790;7;25;Long Reach;False
 s138;s138v4;s138v4c1;Portsmouth 5 Apr 1793;1793;4;5;Portsmouth;False
 s138;s138v4;s138v4c2;15 Aug Madras;1793;8;15;Madras;False
 s138;s138v4;s138v4c3;6 Diamond Harbour;1793;nan;6;Diamond Harbour;False
-s138;s138v4;s138v4c4;7 Nov Cox s Island;1793;11;7;Cox s Island;True
+s138;s138v4;s138v4c4;7 Nov Cox's Island;1793;11;7;Cox's Island;False
 s138;s138v4;s138v4c5;11 Feb 1794 St Helena;1794;2;11;St Helena;False
 s138;s138v4;s138v4c6;2 May Long Reach;1794;5;2;Long Reach;False
 s138;s138v5;s138v5c1;Portsmouth 9 Jul 1795;1795;7;9;Portsmouth;False
@@ -2657,7 +2657,7 @@ s149;s149v2;s149v2c7;Surat 27 Dec;1628;12;27;Surat;False
 s149;s149v2;s149v2c8;Bantam;1628;nan;nan;Bantam;False
 s149;s149v2;s149v2c9;Downs;1628;nan;nan;Downs;False
 s149;s149v3;s149v3c1;Downs 16 Mar 1630;1630;3;16;Downs;False
-s149;s149v3;s149v3c2;14 Jul St Augustine s Bay;1630;7;14;St Augustine s Bay;True
+s149;s149v3;s149v3c2;14 Jul St Augustine's Bay;1630;7;14;St Augustine's Bay;True
 s149;s149v3;s149v3c3;7 Aug Johanna;1630;8;7;Johanna;False
 s149;s149v3;s149v3c4;14 Oct Surat;1630;10;14;Surat;False
 s149;s149v3;s149v3c5;7 Feb 1631 Bandar Abbas;1631;2;7;Bandar Abbas;False
@@ -2944,7 +2944,7 @@ s161;s161v1;s161v1c4;Madras Jan 1649;1649;1;nan;Madras;False
 s161;s161v1;s161v1c5;Downs;1649;nan;nan;Downs;False
 s161;s161v2;s161v2c1;Blackwall 4 Feb 1650;1650;2;4;Blackwall;False
 s161;s161v2;s161v2c2;18 Mar Maio;1650;3;18;Maio;False
-s161;s161v2;s161v2c3;11 Jun St Augustine s Bay;1650;6;11;St Augustine s Bay;True
+s161;s161v2;s161v2c3;11 Jun St Augustine's Bay;1650;6;11;St Augustine's Bay;True
 s161;s161v2;s161v2c4;28 Jun Assada;1650;6;28;Assada;False
 s161;s161v2;s161v2c5;21 Jul Johanna;1650;7;21;Johanna;False
 s161;s161v2;s161v2c6;26 Aug Madras;1650;8;26;Madras;False
@@ -2962,7 +2962,7 @@ s162;s162v1;s162v1c2;30 Jul Madeira;1700;7;30;Madeira;False
 s162;s162v1;s162v1c3;13 Aug Sao Tiago;1700;8;13;Sao Tiago;False
 s162;s162v1;s162v1c4;3 Feb 1701 Batavia;1701;2;3;Batavia;False
 s162;s162v1;s162v1c5;20 Feb Benjarmassin;1701;2;20;Benjarmassin;False
-s162;s162v1;s162v1c6;25 Apr 1702 'Borneo;1702;4;25;'Borneo;False
+s162;s162v1;s162v1c6;25 Apr 1702 'Borneo';1702;4;25;'Borneo';False
 s162;s162v1;s162v1c7;1 Jun Batavia;1702;6;1;Batavia;False
 s162;s162v1;s162v1c8;voyage ended 25 Apr 1703;1703;4;25;voyage ended;False
 s162;s162v2;s162v2c1;Downs 2 Oct 1713;1713;10;2;Downs;False
@@ -3055,7 +3055,7 @@ s164;s164v2;s164v2c3;22 Jul Madras;1714;7;22;Madras;False
 s164;s164v2;s164v2c4;25 Aug Vizagapatam;1714;8;25;Vizagapatam;False
 s164;s164v2;s164v2c5;9 Sep Balasore;1714;9;9;Balasore;False
 s164;s164v2;s164v2c6;10 Oct Calcutta;1714;10;10;Calcutta;False
-s164;s164v2;s164v2c7;22 Dec Cox s Island;1714;12;22;Cox s Island;True
+s164;s164v2;s164v2c7;22 Dec Cox's Island;1714;12;22;Cox's Island;False
 s164;s164v2;s164v2c8;27 Jan 1715 Anjengo;1715;1;27;Anjengo;False
 s164;s164v2;s164v2c9;31 Jan Cochin;1715;1;31;Cochin;False
 s164;s164v2;s164v2c10;6 Feb Calicut;1715;2;6;Calicut;False
@@ -3076,7 +3076,7 @@ s164;s164v3;s164v3c2;Bandar Abbas 29 Jun 1719;1719;6;29;Bandar Abbas;False
 s164;s164v3;s164v3c3;16 Aug Madras;1719;8;16;Madras;False
 s164;s164v3;s164v3c4;25 Sep Balasore;1719;9;25;Balasore;False
 s164;s164v3;s164v3c5;14 Oct Calcutta;1719;10;14;Calcutta;False
-s164;s164v3;s164v3c6;24 Dec Cox s Island;1719;12;24;Cox s Island;True
+s164;s164v3;s164v3c6;24 Dec Cox's Island;1719;12;24;Cox's Island;False
 s164;s164v3;s164v3c7;11 May 1720 St Helena;1720;5;11;St Helena;False
 s164;s164v3;s164v3c8;voyage ended 24 Aug;1720;8;24;voyage ended;False
 s164;s164v4;s164v4c1;Downs 2 Jan 1722;1722;1;2;Downs;False
@@ -3097,7 +3097,7 @@ s165;s165v1;s165v1c5;31 Mar 1796 Calcutta;1796;3;31;Calcutta;False
 s165;s165v1;s165v1c6;22 Jun Kedgeree;1796;6;22;Kedgeree;False
 s165;s165v1;s165v1c7;29 Sep Cape;1796;9;29;Cape;False
 s165;s165v1;s165v1c8;28 Oct St Helena;1796;10;28;St Helena;False
-s165;s165v1;s165v1c9;8 Jan 1797 'towards England , engagement with a French ship;1797;1;8;'towards England , engagement with a French ship;True
+s165;s165v1;s165v1c9;8 Jan 1797 'towards England', engagement with a French ship;1797;1;8;'towards England', engagement with a French ship;True
 s166;s166v1;s166v1c1;Downs 12 Jun 1824;1824;6;12;Downs;False
 s166;s166v1;s166v1c2;7 Nov Calcutta;1824;11;7;Calcutta;False
 s166;s166v1;s166v1c3;10 Jan 1825 Kedgeree;1825;1;10;Kedgeree;False
@@ -3130,7 +3130,7 @@ s169;s169v1;s169v1c9;29 Aug Erith;1721;8;29;Erith;False
 s169;s169v3;s169v3c1;Downs 8 Mar 1727;1727;3;8;Downs;False
 s169;s169v3;s169v3c2;6 Apr Sao Tiago;1727;4;6;Sao Tiago;False
 s169;s169v3;s169v3c3;23 Jul Madras;1727;7;23;Madras;False
-s169;s169v3;s169v3c4;19 Aug 'Bengal river;1727;8;19;'Bengal river;False
+s169;s169v3;s169v3c4;19 Aug 'Bengal river';1727;8;19;'Bengal river';False
 s169;s169v3;s169v3c5;26 Jan 1728 Balasore;1728;1;26;Balasore;False
 s169;s169v3;s169v3c6;20 May St Helena;1728;5;20;St Helena;False
 s169;s169v3;s169v3c7;5 Aug Woolwich;1728;8;5;Woolwich;False
@@ -3230,7 +3230,7 @@ s171;s171v6;s171v6c6;17 May St Helena;1799;5;17;St Helena;False
 s171;s171v6;s171v6c7;31 Jul Long Reach;1799;7;31;Long Reach;False
 s172;s172v1;s172v1c1;Downs 24 Jan 1801;1801;1;24;Downs;False
 s172;s172v1;s172v1c2;21 May Madras 14 Aug;1801;8;14;Madras;False
-s172;s172v1;s172v1c3;10 Oct 'towards England;1801;10;10;'towards England;False
+s172;s172v1;s172v1c3;10 Oct 'towards England';1801;10;10;'towards England';False
 s173;s173v1;s173v1c1;Portsmouth 14 Mar 1817;1817;3;14;Portsmouth;False
 s173;s173v1;s173v1c2;26 Jim Madras;1817;nan;26;Jim Madras;False
 s173;s173v1;s173v1c3;6 Aug Penang;1817;8;6;Penang;False
@@ -3342,7 +3342,7 @@ s176;s176v1;s176v1c1;Downs 26 Apr 1746;1746;4;26;Downs;False
 s176;s176v1;s176v1c2;5 Nov Madras, forced out by a French ship;1746;11;5;Madras, forced out by a French ship;True
 s176;s176v1;s176v1c3;17 Nov Point de Galle;1746;11;17;Point de Galle;True
 s176;s176v1;s176v1c4;22 Feb 1747 Fort St David;1747;2;22;Fort St David;True
-s176;s176v1;s176v1c5;3 Aug St Augustine s Bay;1747;8;3;St Augustine s Bay;True
+s176;s176v1;s176v1c5;3 Aug St Augustine's Bay;1747;8;3;St Augustine's Bay;True
 s176;s176v1;s176v1c6;28 Feb 1748 Lisbon;1748;2;28;Lisbon;False
 s176;s176v1;s176v1c7;4 Apr Downs;1748;4;4;Downs;False
 s176;s176v2;s176v2c1;Downs 11 Feb 1749;1749;2;11;Downs;False
@@ -3438,7 +3438,7 @@ s177;s177v4;s177v4c2;26 Jul 1773 Downs;1773;7;26;Downs;False
 s178;s178v1;s178v1c1;Portsmouth 27 Jul 1805;1805;7;27;Portsmouth;False
 s178;s178v1;s178v1c2;27 Aug Cork;1805;8;27;Cork;False
 s178;s178v1;s178v1c3;29 Sep Madeira;1805;9;29;Madeira;False
-s178;s178v1;s178v1c4;lost 'off the Brazils  4 Dec;1805;12;4;lost 'off the Brazils ;True
+s178;s178v1;s178v1c4;lost 'off the Brazils' 4 Dec;1805;12;4;lost 'off the Brazils';True
 s178;s178v2;s178v2c1;Portsmouth 5 May 1782;1782;5;5;Portsmouth;False
 s178;s178v2;s178v2c2;24 Jul St Helena;1782;7;24;St Helena;False
 s178;s178v2;s178v2c3;27 Nov Benkulen;1782;11;27;Benkulen;False
@@ -3459,7 +3459,7 @@ s178;s178v4;s178v4c1;Downs 6 Jan 1787;1787;1;6;Downs;False
 s178;s178v4;s178v4c2;18 Jan Madeira;1787;1;18;Madeira;False
 s178;s178v4;s178v4c3;3 Apr Cape;1787;4;3;Cape;False
 s178;s178v4;s178v4c4;11 Jun Diamond Point;1787;6;11;Diamond Point;False
-s178;s178v4;s178v4c5;14 Jan 1788 Cox s Island;1788;1;14;Cox s Island;True
+s178;s178v4;s178v4c5;14 Jan 1788 Cox's Island;1788;1;14;Cox's Island;False
 s178;s178v4;s178v4c6;25 Apr St Helena;1788;4;25;St Helena;False
 s178;s178v4;s178v4c7;7 Jul Downs;1788;7;7;Downs;False
 s178;s178v5;s178v5c1;Portsmouth 11 Feb 1789;1789;2;11;Portsmouth;False
@@ -3774,14 +3774,14 @@ s194;s194v2;s194v2c5;10 Jul Long Reach;1786;7;10;Long Reach;False
 s194;s194v3;s194v3c1;Downs 19 Feb 1787;1787;2;19;Downs;False
 s194;s194v3;s194v3c2;6 Jun Madras;1787;6;6;Madras;False
 s194;s194v3;s194v3c3;27 Jun Diamond Harbour;1787;6;27;Diamond Harbour;False
-s194;s194v3;s194v3c4;16 Nov Cox s Island;1787;11;16;Cox s Island;True
+s194;s194v3;s194v3c4;16 Nov Cox's Island;1787;11;16;Cox's Island;False
 s194;s194v3;s194v3c5;6 Jan 1788 Madras;1788;1;6;Madras;False
 s194;s194v3;s194v3c6;2 Mar St Helena;1788;3;2;St Helena;False
 s194;s194v3;s194v3c7;29 Apr Long Reach;1788;4;29;Long Reach;False
 s194;s194v4;s194v4c1;Downs 7 Mar 1789;1789;3;7;Downs;False
 s194;s194v4;s194v4c2;24 Jun Madras;1789;6;24;Madras;False
 s194;s194v4;s194v4c3;3 Jul Diamond Harbour;1789;7;3;Diamond Harbour;False
-s194;s194v4;s194v4c4;23 Nov Cox s Island;1789;11;23;Cox s Island;True
+s194;s194v4;s194v4c4;23 Nov Cox's Island;1789;11;23;Cox's Island;False
 s194;s194v4;s194v4c5;14 Dec Saugor;1789;12;14;Saugor;False
 s194;s194v4;s194v4c6;2 Mar 1790 St Helena;1790;3;2;St Helena;False
 s194;s194v4;s194v4c7;1 May Long Reach;1790;5;1;Long Reach;False
@@ -3875,13 +3875,13 @@ s197;s197v3;s197v3c7;2 Mar 1817 St Helena;1817;3;2;St Helena;False
 s197;s197v3;s197v3c8;6 May Gravesend;1817;5;6;Gravesend;False
 s197;s197v4;s197v4c1;Downs 16 Apr 1818;1818;4;16;Downs;False
 s197;s197v4;s197v4c2;wrecked off Cadargos, Carajos Reefs nr Mauritius, 7 Jul 1818;1818;7;7;wrecked off Cadargos, Carajos Reefs nr Mauritius,;True
-s197;s197v4;s197v4c3;captain, surgeon s mate and 15 crew drowned;1818;nan;15;captain, surgeon s mate and crew drowned;True
+s197;s197v4;s197v4c3;captain, surgeon's mate and 15 crew drowned;1818;nan;15;captain, surgeon's mate and crew drowned;True
 s198;s198v1;s198v1c1;Downs 18 Jan 1719;1719;1;18;Downs;False
 s198;s198v1;s198v1c2;1 May Cape;1719;5;1;Cape;False
 s198;s198v1;s198v1c3;1 Jul Fort St David;1719;7;1;Fort St David;True
 s198;s198v1;s198v1c4;20 Jul Balasore;1719;7;20;Balasore;False
 s198;s198v1;s198v1c5;2 Aug Rogues River;1719;8;2;Rogues River;False
-s198;s198v1;s198v1c6;9 Jan 1720 Cox s Island;1720;1;9;Cox s Island;True
+s198;s198v1;s198v1c6;9 Jan 1720 Cox's Island;1720;1;9;Cox's Island;False
 s198;s198v1;s198v1c7;29 Apr Cape;1720;4;29;Cape;False
 s198;s198v1;s198v1c8;31 May St Helena;1720;5;31;St Helena;False
 s198;s198v1;s198v1c9;Aug Downs;1720;8;nan;Downs;False
@@ -4031,7 +4031,7 @@ s204;s204v2;s204v2c12;16 Sep Galway;1744;9;16;Galway;False
 s204;s204v2;s204v2c13;22 Dec Long Reach;1744;12;22;Long Reach;False
 s204;s204v3;s204v3c1;Downs 13 Jan 1747;1747;1;13;Downs;False
 s204;s204v3;s204v3c2;14 Mar Madeira;1747;3;14;Madeira;False
-s204;s204v3;s204v3c3;19 Jun St Augustine s Bay;1747;6;19;St Augustine s Bay;True
+s204;s204v3;s204v3c3;19 Jun St Augustine's Bay;1747;6;19;St Augustine's Bay;True
 s204;s204v3;s204v3c4;21 Sep Batavia;1747;9;21;Batavia;False
 s204;s204v3;s204v3c5;1 Nov Malacca;1747;11;1;Malacca;False
 s204;s204v3;s204v3c6;23 Dec Balasore;1747;12;23;Balasore;False
@@ -4126,7 +4126,7 @@ s207;s207v3;s207v3c6;20 May Malacca;1779;5;20;Malacca;False
 s207;s207v3;s207v3c7;10 Jul Whampoa;1779;7;10;Whampoa;False
 s207;s207v3;s207v3c8;21 Jan 1780 Second Bar;1780;1;21;Second Bar;False
 s207;s207v3;s207v3c9;8 Feb Malacca;1780;2;8;Malacca;False
-s207;s207v3;s207v3c10;23 Jun St Augustine s Bay;1780;6;23;St Augustine s Bay;True
+s207;s207v3;s207v3c10;23 Jun St Augustine's Bay;1780;6;23;St Augustine's Bay;True
 s207;s207v3;s207v3c11;25 Aug Cape;1780;8;25;Cape;False
 s207;s207v3;s207v3c12;29 Oct St Helena;1780;10;29;St Helena;False
 s207;s207v3;s207v3c13;9 Jan 1781 Crookhaven;1781;1;9;Crookhaven;False
@@ -4402,7 +4402,7 @@ s220;s220v1;s220v1c8;1 May Bandar Abbas;1714;5;1;Bandar Abbas;False
 s220;s220v1;s220v1c9;18 Aug Madras;1714;8;18;Madras;False
 s220;s220v1;s220v1c10;28 Sep Balasore;1714;9;28;Balasore;False
 s220;s220v1;s220v1c11;10 Oct Rogues River;1714;10;10;Rogues River;False
-s220;s220v1;s220v1c12;6 Jan 1715 Cox s Island;1715;1;6;Cox s Island;True
+s220;s220v1;s220v1c12;6 Jan 1715 Cox's Island;1715;1;6;Cox's Island;False
 s220;s220v1;s220v1c13;19 Feb Madras;1715;2;19;Madras;False
 s220;s220v1;s220v1c14;26 Feb Fort St David;1715;2;26;Fort St David;True
 s220;s220v1;s220v1c15;5 Mar Madras;1715;3;5;Madras;False
@@ -4415,7 +4415,7 @@ s220;s220v2;s220v2c1;Downs 24 Jan 1717;1717;1;24;Downs;False
 s220;s220v2;s220v2c2;7 Jun Madras;1717;6;7;Madras;False
 s220;s220v2;s220v2c3;23 Jun Balasore;1717;6;23;Balasore;False
 s220;s220v2;s220v2c4;1 Jul Rogues River;1717;7;1;Rogues River;False
-s220;s220v2;s220v2c5;29 Jan 1718 Cox s Island;1718;1;29;Cox s Island;True
+s220;s220v2;s220v2c5;29 Jan 1718 Cox's Island;1718;1;29;Cox's Island;False
 s220;s220v2;s220v2c6;26 Jun St Helena;1718;6;26;St Helena;False
 s220;s220v2;s220v2c7;10 Oct Woolwich;1718;10;10;Woolwich;False
 s220;s220v3;s220v3c1;3 Apr 1721 St Helena;1721;4;3;St Helena;False
@@ -4842,7 +4842,7 @@ s241;s241v2;s241v2c4;10 Apr St Helena;1834;4;10;St Helena;False
 s241;s241v2;s241v2c5;6 Jun Blackwall;1834;6;6;Blackwall;False
 s242;s242v1;s242v1c1;Calcutta 18 Feb 1796;1796;2;18;Calcutta;False
 s242;s242v1;s242v1c2;5 Mar Saugor;1796;3;5;Saugor;False
-s242;s242v1;s242v1c3;20 Jun St Augustine s Bay;1796;6;20;St Augustine s Bay;True
+s242;s242v1;s242v1c3;20 Jun St Augustine's Bay;1796;6;20;St Augustine's Bay;True
 s242;s242v1;s242v1c4;31 Aug Cape;1796;8;31;Cape;False
 s242;s242v1;s242v1c5;17 Sep St Helena;1796;9;17;St Helena;False
 s242;s242v1;s242v1c6;26 Nov Crookhaven;1796;11;26;Crookhaven;False
@@ -5129,7 +5129,7 @@ s252;s252v4;s252v4c7;23 Oct Cape;1630;10;23;Cape;False
 s252;s252v4;s252v4c8;4 Dec St Helena 20 Jan 1631;1631;1;20;St Helena;False
 s252;s252v4;s252v4c9;7 Apr Downs;1631;4;7;Downs;False
 s252;s252v5;s252v5c1;Portland 5 Apr 1632;1632;4;5;Portland;False
-s252;s252v5;s252v5c2;17 Jul St Augustine s Bay;1632;7;17;St Augustine s Bay;True
+s252;s252v5;s252v5c2;17 Jul St Augustine's Bay;1632;7;17;St Augustine's Bay;True
 s252;s252v5;s252v5c3;3 Oct Bandar Abbas;1632;10;3;Bandar Abbas;False
 s252;s252v5;s252v5c4;27 Nov Surat, accidentally destroyed by fire Jan 1633;1633;1;27;Surat, accidentally destroyed by fire;True
 s254;s254v1;s254v1c1;Downs 25 Oct 1682;1682;10;25;Downs;False
@@ -5151,9 +5151,9 @@ s254;s254v2;s254v2c1;Downs 19 Mar 1685;1685;3;19;Downs;False
 s254;s254v2;s254v2c2;not heard of again;1685;nan;nan;not heard of again;True
 s255;s255v1;s255v1c1;Downs 8 Sep 1683;1683;9;8;Downs;False
 s255;s255v1;s255v1c2;4 Jan 1684 St Helena;1684;1;4;St Helena;False
-s255;s255v1;s255v1c3;May occupied Hippin s Island in Straits of Sunda;1684;5;nan;occupied Hippin s Island in Straits of Sunda;True
+s255;s255v1;s255v1c3;May occupied Hippin's Island in Straits of Sunda;1684;5;nan;occupied Hippin's Island in Straits of Sunda;True
 s255;s255v1;s255v1c4;23 May Batavia;1684;5;23;Batavia;False
-s255;s255v1;s255v1c5;9 Jun withdrew Hippin s Island settlement;1684;6;9;withdrew Hippin s Island settlement;True
+s255;s255v1;s255v1c5;9 Jun withdrew Hippin's Island settlement;1684;6;9;withdrew Hippin's Island settlement;True
 s255;s255v1;s255v1c6;22 Aug Muscat;1684;8;22;Muscat;False
 s255;s255v1;s255v1c7;30 Aug Bandar Abbas;1684;8;30;Bandar Abbas;False
 s255;s255v1;s255v1c8;18 Sep Muscat;1684;9;18;Muscat;False
@@ -5317,7 +5317,7 @@ s258;s258v5;s258v5c9;12 Jun St Helena;1808;6;12;St Helena;False
 s258;s258v5;s258v5c10;17 Aug Long Reach;1808;8;17;Long Reach;False
 s258;s258v6;s258v6c1;Portsmouth 7 Jul 1809;1809;7;7;Portsmouth;False
 s258;s258v6;s258v6c2;captured by the French 18 Nov in 6Â° 30'N, 90Â° 30'E;1809;11;18;captured by the French in 6Â° 30'N, 90Â° 30'E;True
-s259;s259v1;s259v1c1;Augustine s Bay;1809;nan;nan;Augustine s Bay;True
+s259;s259v1;s259v1c1;Augustine's Bay;1809;nan;nan;Augustine's Bay;False
 s259;s259v1;s259v1c2;9 Sep Fort St David;1809;9;9;Fort St David;True
 s259;s259v1;s259v1c3;31 Dec Cape;1809;12;31;Cape;False
 s259;s259v1;s259v1c4;4 Mar 1750 St Helena;1750;3;4;St Helena;False
@@ -5333,7 +5333,7 @@ s259;s259v2;s259v2c8;18 Jul St Helena;1753;7;18;St Helena;False
 s259;s259v2;s259v2c9;6 Nov Gravesend;1753;11;6;Gravesend;False
 s259;s259v3;s259v3c1;Downs 24 Feb 1756;1756;2;24;Downs;False
 s259;s259v3;s259v3c2;28 Mar Madeira;1756;3;28;Madeira;False
-s259;s259v3;s259v3c3;24 Jul St Augustine s Bay;1756;7;24;St Augustine s Bay;True
+s259;s259v3;s259v3c3;24 Jul St Augustine's Bay;1756;7;24;St Augustine's Bay;True
 s259;s259v3;s259v3c4;18 Sep Madras 24 Nov;1756;11;24;Madras;False
 s259;s259v3;s259v3c5;26 Feb 1757 St Helena;1757;2;26;St Helena;False
 s259;s259v3;s259v3c6;29 May River Shannon;1757;5;29;River Shannon;False
@@ -5515,7 +5515,7 @@ s269;s269v1;s269v1c7;9 Mar 1754 St Helena;1754;3;9;St Helena;False
 s269;s269v1;s269v1c8;20 May Plymouth;1754;5;20;Plymouth;False
 s269;s269v1;s269v1c9;2 Jun Long Reach;1754;6;2;Long Reach;False
 s269;s269v2;s269v2c1;Downs 15 Apr 1756;1756;4;15;Downs;False
-s269;s269v2;s269v2c2;3 Aug St Augustine s Bay;1756;8;3;St Augustine s Bay;True
+s269;s269v2;s269v2c2;3 Aug St Augustine's Bay;1756;8;3;St Augustine's Bay;True
 s269;s269v2;s269v2c3;6 Sep Bombay 22 Jan 1757;1757;1;22;Bombay;False
 s269;s269v2;s269v2c4;31 Jan Tellicherry;1757;1;31;Tellicherry;False
 s269;s269v2;s269v2c5;7 Feb Cochin;1757;2;7;Cochin;False
@@ -5543,7 +5543,7 @@ s269;s269v4;s269v4c9;16 Dec Downs;1763;12;16;Downs;False
 s270;s270v1;s270v1c1;Portsmouth 6 May 1762;1762;5;6;Portsmouth;False
 s270;s270v1;s270v1c2;28 Aug Delagoa Bay;1762;8;28;Delagoa Bay;False
 s270;s270v1;s270v1c3;12 Nov Bombay;1762;11;12;Bombay;False
-s270;s270v1;s270v1c4;8 Jan 1763 'Scindy Road;1763;1;8;'Scindy Road;False
+s270;s270v1;s270v1c4;8 Jan 1763 'Scindy Road';1763;1;8;'Scindy Road';False
 s270;s270v1;s270v1c5;8 Feb Bombay;1763;2;8;Bombay;False
 s270;s270v1;s270v1c6;20 Mar Surat;1763;3;20;Surat;False
 s270;s270v1;s270v1c7;3 Apr Bombay;1763;4;3;Bombay;False
@@ -5918,7 +5918,7 @@ s291;s291v7;s291v7c2;12 Jun 1671 Downs;1671;6;12;Downs;False
 s292;s292v1;s292v1c1;Torbay 3 Apr 1780;1780;4;3;Torbay;False
 s292;s292v1;s292v1c2;6 Jun Trinidade;1780;6;6;Trinidade;False
 s292;s292v1;s292v1c3;3 Sep Madras;1780;9;3;Madras;False
-s292;s292v1;s292v1c4;5 Oct 'Tumala Punta;1780;10;5;'Tumala Punta;False
+s292;s292v1;s292v1c4;5 Oct 'Tumala Punta';1780;10;5;'Tumala Punta';False
 s292;s292v1;s292v1c5;14 Oct Madras;1780;10;14;Madras;False
 s292;s292v1;s292v1c6;27 Nov Tellicherry 2 Mar 1781;1781;3;2;Tellicherry;False
 s292;s292v1;s292v1c7;16 Mar Goa;1781;3;16;Goa;False
@@ -5948,7 +5948,7 @@ s292;s292v4;s292v4c7;19 Dec Long Reach;1789;12;19;Long Reach;False
 s292;s292v5;s292v5c1;Downs 6 Apr 1792;1792;4;6;Downs;False
 s292;s292v5;s292v5c2;5 Aug Madras;1792;8;5;Madras;False
 s292;s292v5;s292v5c3;31 Aug Diamond Harbour;1792;8;31;Diamond Harbour;False
-s292;s292v5;s292v5c4;20 Dec Cox s Island;1792;12;20;Cox s Island;True
+s292;s292v5;s292v5c4;20 Dec Cox's Island;1792;12;20;Cox's Island;False
 s292;s292v5;s292v5c5;15 Jan 1793 Madras;1793;1;15;Madras;False
 s292;s292v5;s292v5c6;13 Apr St Helena;1793;4;13;St Helena;False
 s292;s292v5;s292v5c7;6 Jul Long Reach;1793;7;6;Long Reach;False
@@ -5995,7 +5995,7 @@ s295;s295v2;s295v2c5;17 Jan 1818 Spithead;1818;1;17;Spithead;False
 s296;s296v1;s296v1c1;Portsmouth 8 Feb 1802;1802;2;8;Portsmouth;False
 s296;s296v1;s296v1c2;13 Jun Sydney Cove;1802;6;13;Sydney Cove;False
 s296;s296v1;s296v1c3;17 Sep Whampoa;1802;9;17;Whampoa;False
-s296;s296v1;s296v1c4;12 Oct 'Capshee Bay;1802;10;12;'Capshee Bay;False
+s296;s296v1;s296v1c4;12 Oct 'Capshee Bay';1802;10;12;'Capshee Bay';False
 s296;s296v1;s296v1c5;21 Nov Whampoa;1802;11;21;Whampoa;False
 s296;s296v1;s296v1c6;5 Jan 1803 Lintin;1803;1;5;Lintin;False
 s296;s296v1;s296v1c7;17 Apr St Helena;1803;4;17;St Helena;False
@@ -6135,7 +6135,7 @@ s304;s304v4;s304v4c6;11 Apr St Helena;1730;4;11;St Helena;False
 s304;s304v4;s304v4c7;14 Jul Downs;1730;7;14;Downs;False
 s305;s305v1;s305v1c1;Downs;1730;nan;nan;Downs;False
 s305;s305v1;s305v1c2;4 Nov 1635 Cape;1635;11;4;Cape;False
-s305;s305v1;s305v1c3;2 Jan 1636 St Augustine s Bay;1636;1;2;St Augustine s Bay;True
+s305;s305v1;s305v1c3;2 Jan 1636 St Augustine's Bay;1636;1;2;St Augustine's Bay;True
 s305;s305v1;s305v1c4;20 Feb Johanna;1636;2;20;Johanna;False
 s305;s305v1;s305v1c5;30 May Masulipatam;1636;5;30;Masulipatam;False
 s305;s305v1;s305v1c6;22 Jan 1637 Bantam 4 Dec;1637;12;4;Bantam;False
@@ -6324,7 +6324,7 @@ s313;s313v1;s313v1c2;9 Jan 1827 Madras;1827;1;9;Madras;False
 s313;s313v1;s313v1c3;4 Feb Calcutta;1827;2;4;Calcutta;False
 s313;s313v1;s313v1c4;voyage ended 11 May 1828;1828;5;11;voyage ended;False
 s314;s314v1;s314v1c1;19 Apr 1686;1686;4;19;nan;False
-s314;s314v1;s314v1c2;'free ship to trade in the country;1686;nan;nan;'free ship to trade in the country;True
+s314;s314v1;s314v1c2;'free ship to trade in the country';1686;nan;nan;'free ship to trade in the country';True
 s315;s315v1;s315v1c1;Calcutta 19 Nov 1798;1798;11;19;Calcutta;False
 s315;s315v1;s315v1c2;28 Jan 1799 Saugor;1799;1;28;Saugor;False
 s315;s315v1;s315v1c3;left Bengal 10 Feb;1799;2;10;left Bengal;False
@@ -6511,7 +6511,7 @@ s323;s323v7;s323v7c9;16 May Gravesend;1616;5;16;Gravesend;False
 s324;s324v1;s324v1c1;Downs 18 Jan 1719;1719;1;18;Downs;False
 s324;s324v1;s324v1c2;2 May Cape;1719;5;2;Cape;False
 s324;s324v1;s324v1c3;1 Aug Rogues River;1719;8;1;Rogues River;False
-s324;s324v1;s324v1c4;Cox s Island 5 Jan 1720;1720;1;5;Cox s Island;True
+s324;s324v1;s324v1c4;Cox's Island 5 Jan 1720;1720;1;5;Cox's Island;False
 s324;s324v1;s324v1c5;22 Jan Madras;1720;1;22;Madras;False
 s324;s324v1;s324v1c6;10 Feb Fort St David;1720;2;10;Fort St David;True
 s324;s324v1;s324v1c7;29 May St Helena;1720;5;29;St Helena;False
@@ -6613,7 +6613,7 @@ s331;s331v1;s331v1c13;21 Feb 1750 Cape;1750;2;21;Cape;False
 s331;s331v1;s331v1c14;17 Mar St Helena;1750;3;17;St Helena;False
 s331;s331v1;s331v1c15;30 May Blackwall;1750;5;30;Blackwall;False
 s331;s331v2;s331v2c1;Downs 26 Nov 1751;1751;11;26;Downs;False
-s331;s331v2;s331v2c2;13 Apr 1752 St Augustine s Bay;1752;4;13;St Augustine s Bay;True
+s331;s331v2;s331v2c2;13 Apr 1752 St Augustine's Bay;1752;4;13;St Augustine's Bay;True
 s331;s331v2;s331v2c3;1 Sep Madras;1752;9;1;Madras;False
 s331;s331v2;s331v2c4;25 Sep Fort St David;1752;9;25;Fort St David;True
 s331;s331v2;s331v2c5;8 Oct Madras;1752;10;8;Madras;False
@@ -6655,7 +6655,7 @@ s333;s333v1;s333v1c3;5 Jul Madras;1754;7;5;Madras;False
 s333;s333v1;s333v1c4;5 Sep Culpee;1754;9;5;Culpee;False
 s333;s333v1;s333v1c5;3 Feb 1756 Calcutta;1756;2;3;Calcutta;False
 s333;s333v1;s333v1c6;6 Mar Kedgeree;1756;3;6;Kedgeree;False
-s333;s333v1;s333v1c7;23 Jul St Augustine s Bay;1756;7;23;St Augustine s Bay;True
+s333;s333v1;s333v1c7;23 Jul St Augustine's Bay;1756;7;23;St Augustine's Bay;True
 s333;s333v1;s333v1c8;24 Oct St Helena;1756;10;24;St Helena;False
 s333;s333v1;s333v1c9;13 Jan 1757 Kinsale;1757;1;13;Kinsale;False
 s333;s333v1;s333v1c10;27 Feb Cork;1757;2;27;Cork;False
@@ -6734,7 +6734,7 @@ s335;s335v5;s335v5c5;20 Jul Galway Bay;1794;7;20;Galway Bay;False
 s335;s335v5;s335v5c6;1 Sep Long Reach;1794;9;1;Long Reach;False
 s335;s335v6;s335v6c1;Portsmouth 24 May 1795;1795;5;24;Portsmouth;False
 s335;s335v6;s335v6c2;7 Jul San Salvador;1795;7;7;San Salvador;False
-s335;s335v6;s335v6c3;3 Sep Simon s Bay;1795;9;3;Simon s Bay;True
+s335;s335v6;s335v6c3;3 Sep Simon's Bay;1795;9;3;Simon's Bay;False
 s335;s335v6;s335v6c4;2 Oct Cape;1795;10;2;Cape;False
 s335;s335v6;s335v6c5;6 Mar 1796 Whampoa;1796;3;6;Whampoa;False
 s335;s335v6;s335v6c6;21 Jun Second Bar;1796;6;21;Second Bar;False
@@ -6745,7 +6745,7 @@ s336;s336v1;s336v1c2;18 Apr 1711 Torbay;1711;4;18;Torbay;False
 s336;s336v1;s336v1c3;8 Aug Cape;1711;8;8;Cape;False
 s336;s336v1;s336v1c4;18 Nov Balasore;1711;11;18;Balasore;False
 s336;s336v1;s336v1c5;1 Dec Rogues River;1711;12;1;Rogues River;False
-s336;s336v1;s336v1c6;7 Mar 1712 Cox s Island;1712;3;7;Cox s Island;True
+s336;s336v1;s336v1c6;7 Mar 1712 Cox's Island;1712;3;7;Cox's Island;False
 s336;s336v1;s336v1c7;11 Apr Madras;1712;4;11;Madras;False
 s336;s336v1;s336v1c8;10 Jul Vizagapatam;1712;7;10;Vizagapatam;False
 s336;s336v1;s336v1c9;21 Jul Ganjam;1712;7;21;Ganjam;False
@@ -6908,7 +6908,7 @@ s339;s339v5;s339v5c1;Downs 27 Feb 1737;1737;2;27;Downs;False
 s339;s339v5;s339v5c2;remained in India;1737;nan;nan;remained in India;True
 s340;s340v1;s340v1c1;Downs 20 Feb 1764;1764;2;20;Downs;False
 s340;s340v1;s340v1c2;7 Mar Madeira;1764;3;7;Madeira;False
-s340;s340v1;s340v1c3;21 Jun St Augustine s Bay;1764;6;21;St Augustine s Bay;True
+s340;s340v1;s340v1c3;21 Jun St Augustine's Bay;1764;6;21;St Augustine's Bay;True
 s340;s340v1;s340v1c4;4 Aug Madras;1764;8;4;Madras;False
 s340;s340v1;s340v1c5;29 Aug Vizagapatam;1764;8;29;Vizagapatam;False
 s340;s340v1;s340v1c6;14 Sep Culpee;1764;9;14;Culpee;False
@@ -7062,7 +7062,7 @@ s347;s347v2;s347v2c10;10 Jul Milford Haven;1760;7;10;Milford Haven;False
 s347;s347v2;s347v2c11;30 Jul Deptford;1760;7;30;Deptford;False
 s347;s347v3;s347v3c1;Downs 12 Feb 1761;1761;2;12;Downs;False
 s347;s347v3;s347v3c2;12 Mar Plymouth;1761;3;12;Plymouth;False
-s347;s347v3;s347v3c3;1 Jul St Augustine s Bay;1761;7;1;St Augustine s Bay;True
+s347;s347v3;s347v3c3;1 Jul St Augustine's Bay;1761;7;1;St Augustine's Bay;True
 s347;s347v3;s347v3c4;12 Jul Morardava;1761;7;12;Morardava;False
 s347;s347v3;s347v3c5;17 Aug Massaleige;1761;8;17;Massaleige;False
 s347;s347v3;s347v3c6;24 Aug Prawdar;1761;8;24;Prawdar;False
@@ -7075,8 +7075,8 @@ s347;s347v3;s347v3c12;20 Feb 1762 Benkulen;1762;2;20;Benkulen;False
 s348;s348v1;s348v1c1;Ratcliffe 2 May 1602;1602;5;2;Ratcliffe;False
 s348;s348v1;s348v1c2;4 Jun Orkneys;1602;6;4;Orkneys;False
 s348;s348v1;s348v1c3;18 Jun off Greenland;1602;6;18;off Greenland;False
-s348;s348v1;s348v1c4;28 Jun Warwick s Foreland;1602;6;28;Warwick s Foreland;True
-s348;s348v1;s348v1c5;penetrated Hudson s Strait, driven out and south;1602;nan;nan;penetrated Hudson s Strait, driven out and south;True
+s348;s348v1;s348v1c4;28 Jun Warwick's Foreland;1602;6;28;Warwick's Foreland;False
+s348;s348v1;s348v1c5;penetrated Hudson's Strait, driven out and south;1602;nan;nan;penetrated Hudson's Strait, driven out and south;True
 s348;s348v1;s348v1c6;voyage abandoned;1602;nan;nan;voyage abandoned;False
 s348;s348v1;s348v1c7;4 Aug off Scilly;1602;8;4;off Scilly;False
 s348;s348v1;s348v1c8;11 Aug Dartmouth ';1602;8;11;Dartmouth ';False
@@ -7112,7 +7112,7 @@ s349;s349v3;s349v3c12;13 Nov Downs;1631;11;13;Downs;False
 s349;s349v4;s349v4c1;26 Sep St Helena;1631;9;26;St Helena;False
 s349;s349v4;s349v4c2;21 Jan 1637 Downs;1637;1;21;Downs;False
 s349;s349v5;s349v5c1;Downs Mar 1638;1638;3;nan;Downs;False
-s349;s349v5;s349v5c2;23 Jul St Augustine s Bay;1638;7;23;St Augustine s Bay;True
+s349;s349v5;s349v5c2;23 Jul St Augustine's Bay;1638;7;23;St Augustine's Bay;True
 s349;s349v5;s349v5c3;23 Sep Surat 22 Dec;1638;12;22;Surat;False
 s349;s349v5;s349v5c4;14 Jan 1639 Bandar Abbas;1639;1;14;Bandar Abbas;False
 s349;s349v5;s349v5c5;18 Feb Surat;1639;2;18;Surat;False
@@ -7160,13 +7160,13 @@ s353;s353v1;s353v1c11;3 Mar 1750 St Helena;1750;3;3;St Helena;False
 s353;s353v1;s353v1c12;21 May Long Reach;1750;5;21;Long Reach;False
 s353;s353v2;s353v2c1;Downs 20 Mar 1752;1752;3;20;Downs;False
 s353;s353v2;s353v2c2;10 Apr Lisbon;1752;4;10;Lisbon;False
-s353;s353v2;s353v2c3;3 Aug St Augustine s Bay;1752;8;3;St Augustine s Bay;True
+s353;s353v2;s353v2c3;3 Aug St Augustine's Bay;1752;8;3;St Augustine's Bay;True
 s353;s353v2;s353v2c4;9 Oct Bombay;1752;10;9;Bombay;False
 s353;s353v2;s353v2c5;cruising 22 Oct;1752;10;22;cruising;False
 s353;s353v2;s353v2c6;13 Nov;1752;11;13;nan;False
 s353;s353v2;s353v2c7;14 Nov Bombay;1752;11;14;Bombay;False
 s353;s353v2;s353v2c8;26 Dec Surat;1752;12;26;Surat;False
-s353;s353v2;s353v2c9;9 Jan 1753 'Scindy Road;1753;1;9;'Scindy Road;False
+s353;s353v2;s353v2c9;9 Jan 1753 'Scindy Road';1753;1;9;'Scindy Road';False
 s353;s353v2;s353v2c10;19 Feb Surat;1753;2;19;Surat;False
 s353;s353v2;s353v2c11;26 Feb Bombay;1753;2;26;Bombay;False
 s353;s353v2;s353v2c12;11 Mar Mangalore;1753;3;11;Mangalore;False
@@ -7176,8 +7176,8 @@ s353;s353v2;s353v2c15;16 Sep Bombay;1753;9;16;Bombay;False
 s353;s353v2;s353v2c16;14 Feb 1754 Cape;1754;2;14;Cape;False
 s353;s353v2;s353v2c17;17 Mar St Helena;1754;3;17;St Helena;False
 s353;s353v2;s353v2c18;31 May Gravesend;1754;5;31;Gravesend;False
-s353;s353v3;s353v3c1;The wreck was located and 'salvaged  in 1977/8;1754;nan;nan;The wreck was located and 'salvaged  in 1977/8;True
-s353;s353v3;s353v3c2;Clive s lost treasure, Geoffrey & David Allen (London, 1978);1754;nan;nan;Clive s lost treasure, Geoffrey & David Allen (London, 1978);True
+s353;s353v3;s353v3c1;The wreck was located and 'salvaged' in 1977/8;1754;nan;nan;The wreck was located and 'salvaged' in 1977/8;True
+s353;s353v3;s353v3c2;Clive's lost treasure, Geoffrey & David Allen (London, 1978);1754;nan;nan;Clive's lost treasure, Geoffrey & David Allen (London, 1978);True
 s354;s354v1;s354v1c1;Downs;1754;nan;nan;Downs;False
 s354;s354v1;s354v1c2;Surat 6 Dec 1622;1622;12;6;Surat;False
 s354;s354v1;s354v1c3;Bandar Abbas 9 Jan 1623;1623;1;9;Bandar Abbas;False
@@ -7193,7 +7193,7 @@ s354;s354v2;s354v2c6;4 Jun 1627 Batavia;1627;6;4;Batavia;False
 s354;s354v2;s354v2c7;Surat;1627;nan;nan;Surat;False
 s354;s354v2;s354v2c8;Oct 1628 Downs;1628;10;nan;Downs;False
 s354;s354v3;s354v3c1;Downs;1628;nan;nan;Downs;False
-s354;s354v3;s354v3c2;17 Jul 1632 St Augustine s Bay;1632;7;17;St Augustine s Bay;True
+s354;s354v3;s354v3c2;17 Jul 1632 St Augustine's Bay;1632;7;17;St Augustine's Bay;True
 s354;s354v3;s354v3c3;3 Oct Bandar Abbas;1632;10;3;Bandar Abbas;False
 s354;s354v3;s354v3c4;27 Nov Surat;1632;11;27;Surat;False
 s354;s354v3;s354v3c5;18 Feb 1633 Bandar Abbas;1633;2;18;Bandar Abbas;False
@@ -7346,7 +7346,7 @@ s366;s366v2;s366v2c5;26 Dec Penang;1801;12;26;Penang;False
 s366;s366v2;s366v2c6;5 Feb 1802 Amboina;1802;2;5;Amboina;False
 s366;s366v2;s366v2c7;18 Mar Lintin;1802;3;18;Lintin;False
 s366;s366v2;s366v2c8;24 Mar permission to garrison Macao refuseed;1802;3;24;permission to garrison Macao refuseed;True
-s366;s366v2;s366v2c9;23 Apr 'Sambroke;1802;4;23;'Sambroke;False
+s366;s366v2;s366v2c9;23 Apr 'Sambroke';1802;4;23;'Sambroke';False
 s366;s366v2;s366v2c10;14 May Lintin;1802;5;14;Lintin;False
 s366;s366v2;s366v2c11;22 Oct Diamond Harbour;1802;10;22;Diamond Harbour;False
 s366;s366v2;s366v2c12;19 Dec Saugor;1802;12;19;Saugor;False
@@ -7471,7 +7471,7 @@ s370;s370v3;s370v3c8;23 Dec St Helena;1751;12;23;St Helena;False
 s370;s370v3;s370v3c9;12 Mar 1752 Downs;1752;3;12;Downs;False
 s370;s370v4;s370v4c1;Downs 16 Nov 1752;1752;11;16;Downs;False
 s370;s370v4;s370v4c2;4 Feb 1753 Cape;1753;2;4;Cape;False
-s370;s370v4;s370v4c3;24 Mar St Augustine s Bay;1753;3;24;St Augustine s Bay;True
+s370;s370v4;s370v4c3;24 Mar St Augustine's Bay;1753;3;24;St Augustine's Bay;True
 s370;s370v4;s370v4c4;24 Apr Morandava;1753;4;24;Morandava;False
 s370;s370v4;s370v4c5;19 Jul Morungary river;1753;7;19;Morungary river;False
 s370;s370v4;s370v4c6;28 Aug Madras;1753;8;28;Madras;False
@@ -7479,7 +7479,7 @@ s370;s370v4;s370v4c7;30 Sep Culpee;1753;9;30;Culpee;False
 s370;s370v4;s370v4c8;18 Oct Calcutta;1753;10;18;Calcutta;False
 s370;s370v4;s370v4c9;21 Jan 1754 Madras;1754;1;21;Madras;False
 s370;s370v4;s370v4c10;19 Mar Benkulen;1754;3;19;Benkulen;False
-s370;s370v4;s370v4c11;4 Jun St Augustine s Bay;1754;6;4;St Augustine s Bay;True
+s370;s370v4;s370v4c11;4 Jun St Augustine's Bay;1754;6;4;St Augustine's Bay;True
 s370;s370v4;s370v4c12;14 Nov St Helena;1754;11;14;St Helena;False
 s370;s370v4;s370v4c13;7 Mar 1755 Long Reach;1755;3;7;Long Reach;False
 s370;s370v5;s370v5c1;Downs 9 May 1755;1755;5;9;Downs;False
@@ -7587,7 +7587,7 @@ s374;s374v1;s374v1c7;14 Jun False Bay;1786;6;14;False Bay;False
 s374;s374v1;s374v1c8;18 Jul St Helena;1786;7;18;St Helena;False
 s374;s374v1;s374v1c9;28 Sep Downs * insert A short formula for longitude, having the linear tables etc Samuel Dunn (London, 1783);1786;9;28;Downs * insert A short formula for longitude, having the linear tables etc Samuel Dunn (London, 1783);True
 s374;s374v2;s374v2c1;Downs 4 Apr 1788;1788;4;4;Downs;False
-s374;s374v2;s374v2c2;13 Jun Simon s Bay;1788;6;13;Simon s Bay;True
+s374;s374v2;s374v2c2;13 Jun Simon's Bay;1788;6;13;Simon's Bay;False
 s374;s374v2;s374v2c3;3 Aug Bombay;1788;8;3;Bombay;False
 s374;s374v2;s374v2c4;4 Oct Madras;1788;10;4;Madras;False
 s374;s374v2;s374v2c5;9 Nov Diamond Harbour;1788;11;9;Diamond Harbour;False
@@ -7628,7 +7628,7 @@ s374;s374v5;s374v5c4;17 Dec Saugor;1796;12;17;Saugor;False
 s374;s374v5;s374v5c5;29 Jan 1797 Point de Galle;1797;1;29;Point de Galle;True
 s374;s374v5;s374v5c6;10 Feb Colombo;1797;2;10;Colombo;False
 s374;s374v5;s374v5c7;4 Mar Point de Gale;1797;3;4;Point de Gale;True
-s374;s374v5;s374v5c8;12 Jul Simon s Bay;1797;7;12;Simon s Bay;True
+s374;s374v5;s374v5c8;12 Jul Simon's Bay;1797;7;12;Simon's Bay;False
 s374;s374v5;s374v5c9;11 Sep St Helena;1797;9;11;St Helena;False
 s374;s374v5;s374v5c10;21 Dec Long Reach;1797;12;21;Long Reach;False
 s374;s374v6;s374v6c1;Portsmouth 29 Apr 1798;1798;4;29;Portsmouth;False
@@ -7734,7 +7734,7 @@ s378;s378v1;s378v1c14;24 Jun Cork;1798;6;24;Cork;False
 s378;s378v1;s378v1c15;10 Jul Long Reach;1798;7;10;Long Reach;False
 s379;s379v1;s379v1c1;Downs 4 Mar 1764;1764;3;4;Downs;False
 s379;s379v1;s379v1c2;18 Mar Madeira;1764;3;18;Madeira;False
-s379;s379v1;s379v1c3;3 Jul St Augustine s Bay;1764;7;3;St Augustine s Bay;True
+s379;s379v1;s379v1c3;3 Jul St Augustine's Bay;1764;7;3;St Augustine's Bay;True
 s379;s379v1;s379v1c4;23 Aug Madras;1764;8;23;Madras;False
 s379;s379v1;s379v1c5;5 Jan 1765 St Helena;1765;1;5;St Helena;False
 s379;s379v1;s379v1c6;23 Mar Downs;1765;3;23;Downs;False
@@ -7830,7 +7830,7 @@ s384;s384v3;s384v3c8;14 Jul moorings;1721;7;14;moorings;False
 s384;s384v4;s384v4c1;Downs 28 Dec 1722;1722;12;28;Downs;False
 s384;s384v4;s384v4c2;26 Jan 1723 Sao Tiago;1723;1;26;Sao Tiago;False
 s384;s384v4;s384v4c3;27 Mar Cape;1723;3;27;Cape;False
-s384;s384v4;s384v4c4;17 Jul 'Canton river;1723;7;17;'Canton river;False
+s384;s384v4;s384v4c4;17 Jul 'Canton river';1723;7;17;'Canton river';False
 s384;s384v4;s384v4c5;10 Dec Malacca;1723;12;10;Malacca;False
 s384;s384v4;s384v4c6;22 Jan 1724 Tellicherry;1724;1;22;Tellicherry;False
 s384;s384v4;s384v4c7;17 Feb Bombay;1724;2;17;Bombay;False
@@ -8011,7 +8011,7 @@ s392;s392v1;s392v1c6;2 Feb 1770 Ingeli;1770;2;2;Ingeli;False
 s392;s392v1;s392v1c7;22 May St Helena;1770;5;22;St Helena;False
 s392;s392v1;s392v1c8;30 Jul Downs;1770;7;30;Downs;False
 s392;s392v2;s392v2c1;Portsmouth 1 Apr 1772;1772;4;1;Portsmouth;False
-s392;s392v2;s392v2c2;18 Jul St Augustine s Bay;1772;7;18;St Augustine s Bay;True
+s392;s392v2;s392v2c2;18 Jul St Augustine's Bay;1772;7;18;St Augustine's Bay;True
 s392;s392v2;s392v2c3;9 Aug Johanna;1772;8;9;Johanna;False
 s392;s392v2;s392v2c4;13 Sep Madras;1772;9;13;Madras;False
 s392;s392v2;s392v2c5;12 Oct Culpee;1772;10;12;Culpee;False
@@ -8042,7 +8042,7 @@ s392;s392v4;s392v4c10;28 Sep Kedgeree;1780;9;28;Kedgeree;False
 s392;s392v4;s392v4c11;12 Mar 1781 St Helena;1781;3;12;St Helena;False
 s392;s392v4;s392v4c12;20 Oct Downs;1781;10;20;Downs;False
 s393;s393v1;s393v1c1;Downs 19 Jan 1766;1766;1;19;Downs;False
-s393;s393v1;s393v1c2;6 May St Augustine s Bay;1766;5;6;St Augustine s Bay;True
+s393;s393v1;s393v1c2;6 May St Augustine's Bay;1766;5;6;St Augustine's Bay;True
 s393;s393v1;s393v1c3;19 Jun Madras;1766;6;19;Madras;False
 s393;s393v1;s393v1c4;25 Sep Whampoa;1766;9;25;Whampoa;False
 s393;s393v1;s393v1c5;30 Jan 1767 Second Bar;1767;1;30;Second Bar;False
@@ -8121,7 +8121,7 @@ s395;s395v3;s395v3c9;16 Sep Downs;1740;9;16;Downs;False
 s395;s395v4;s395v4c1;Downs 9 Feb 1742;1742;2;9;Downs;False
 s395;s395v4;s395v4c2;17 May St Helena;1742;5;17;St Helena;False
 s395;s395v4;s395v4c3;28 Aug Benkulen;1742;8;28;Benkulen;False
-s395;s395v4;s395v4c4;8 Sep 'Pulo Bay;1742;9;8;'Pulo Bay;False
+s395;s395v4;s395v4c4;8 Sep 'Pulo Bay';1742;9;8;'Pulo Bay';False
 s395;s395v4;s395v4c5;11 Oct Benkulen;1742;10;11;Benkulen;False
 s395;s395v4;s395v4c6;29 Nov Moco Moco;1742;11;29;Moco Moco;False
 s395;s395v4;s395v4c7;23 Dec Ipoh;1742;12;23;Ipoh;False
@@ -8305,7 +8305,7 @@ s401;s401v1;s401v1c6;19 Apr St Helena;1828;4;19;St Helena;False
 s401;s401v1;s401v1c7;9 Jun Blackwall;1828;6;9;Blackwall;False
 s401;s401v2;s401v2c1;Downs 1 Mar 1829;1829;3;1;Downs;False
 s401;s401v2;s401v2c2;2 Jun Bombay;1829;6;2;Bombay;False
-s401;s401v2;s401v2c3;26 Aug Urmston s Bay;1829;8;26;Urmston s Bay;True
+s401;s401v2;s401v2c3;26 Aug Urmston's Bay;1829;8;26;Urmston's Bay;False
 s401;s401v2;s401v2c4;22 Jan 1830 Lintin;1830;1;22;Lintin;False
 s401;s401v2;s401v2c5;10 Feb Whampoa;1830;2;10;Whampoa;False
 s401;s401v2;s401v2c6;28 Feb Second Bar;1830;2;28;Second Bar;False
@@ -8524,7 +8524,7 @@ s405;s405v3;s405v3c1;Downs 26 Apr 1747;1747;4;26;Downs;False
 s405;s405v3;s405v3c2;14 Dec Madeira;1747;12;14;Madeira;False
 s405;s405v3;s405v3c3;15 Jan 1748 Sao Tiago;1748;1;15;Sao Tiago;False
 s405;s405v3;s405v3c4;15 Apr Cape;1748;4;15;Cape;False
-s405;s405v3;s405v3c5;4 Jul St Augustine s Bay;1748;7;4;St Augustine s Bay;True
+s405;s405v3;s405v3c5;4 Jul St Augustine's Bay;1748;7;4;St Augustine's Bay;True
 s405;s405v3;s405v3c6;28 Oct Bombay;1748;10;28;Bombay;False
 s405;s405v3;s405v3c7;2 Dec Surat;1748;12;2;Surat;False
 s405;s405v3;s405v3c8;24 Dec Bombay;1748;12;24;Bombay;False
@@ -8605,7 +8605,7 @@ s407;s407v1;s407v1c13;29 May Long Reach;1784;5;29;Long Reach;False
 s407;s407v2;s407v2c1;Portsmouth 17 Apr 1785;1785;4;17;Portsmouth;False
 s407;s407v2;s407v2c2;1 Aug Johanna;1785;8;1;Johanna;False
 s407;s407v2;s407v2c3;7 Sep Madras;1785;9;7;Madras;False
-s407;s407v2;s407v2c4;25 Dec Cox s Island;1785;12;25;Cox s Island;True
+s407;s407v2;s407v2c4;25 Dec Cox's Island;1785;12;25;Cox's Island;False
 s407;s407v2;s407v2c5;23 May 1786 St Helena;1786;5;23;St Helena;False
 s407;s407v2;s407v2c6;8 Aug Downs;1786;8;8;Downs;False
 s407;s407v3;s407v3c1;Downs 7 Jan 1788;1788;1;7;Downs;False
@@ -8647,7 +8647,7 @@ s408;s408v2;s408v2c11;Surat;1625;nan;nan;Surat;False
 s408;s408v2;s408v2c12;voyages between Surat and Java in 1627, 1628 and 1629;1629;nan;nan;voyages between Surat and Java in 1627, and;True
 s408;s408v2;s408v2c13;laid up at Bantam Oct 1629;1629;10;nan;laid up at Bantam;True
 s409;s409v1;s409v1c1;Downs 3 Apr 1645;1645;4;3;Downs;False
-s409;s409v1;s409v1c2;21 Jul St Augustine s Bay;1645;7;21;St Augustine s Bay;True
+s409;s409v1;s409v1c2;21 Jul St Augustine's Bay;1645;7;21;St Augustine's Bay;True
 s409;s409v1;s409v1c3;12 Aug Johanna;1645;8;12;Johanna;False
 s409;s409v1;s409v1c4;25 Sep Surat 4 Jan 1646;1646;1;4;Surat;False
 s409;s409v1;s409v1c5;24 Feb Cape;1646;2;24;Cape;False
@@ -8756,7 +8756,7 @@ s415;s415v5;s415v5c5;1 May St Helena;1794;5;1;St Helena;False
 s415;s415v5;s415v5c6;20 Jul Galway Bay;1794;7;20;Galway Bay;False
 s415;s415v5;s415v5c7;27 Aug Downs;1794;8;27;Downs;False
 s415;s415v6;s415v6c1;Portsmouth 24 May 1795;1795;5;24;Portsmouth;False
-s415;s415v6;s415v6c2;3 Sep Simon s Bay;1795;9;3;Simon s Bay;True
+s415;s415v6;s415v6c2;3 Sep Simon's Bay;1795;9;3;Simon's Bay;False
 s415;s415v6;s415v6c3;1 Oct False Bay;1795;10;1;False Bay;False
 s415;s415v6;s415v6c4;7 Mar 1796 Whampoa;1796;3;7;Whampoa;False
 s415;s415v6;s415v6c5;21 Jun Second Bar;1796;6;21;Second Bar;False
@@ -8773,9 +8773,9 @@ s415;s415v7;s415v7c9;30 May Downs;1800;5;30;Downs;False
 s416;s416v1;s416v1c1;Portsmouth 14 Mar 1790;1790;3;14;Portsmouth;False
 s416;s416v1;s416v1c2;5 Apr Madeira;1790;4;5;Madeira;False
 s416;s416v1;s416v1c3;13 Aug Diamond Harbour;1790;8;13;Diamond Harbour;False
-s416;s416v1;s416v1c4;13 Dec Cox s Island;1790;12;13;Cox s Island;True
+s416;s416v1;s416v1c4;13 Dec Cox's Island;1790;12;13;Cox's Island;False
 s416;s416v1;s416v1c5;19 Jan 1791 Madras;1791;1;19;Madras;False
-s416;s416v1;s416v1c6;6 Feb 'Broken Ground  Bengal;1791;2;6;'Broken Ground  Bengal;True
+s416;s416v1;s416v1c6;6 Feb 'Broken Ground' Bengal;1791;2;6;'Broken Ground' Bengal;True
 s416;s416v1;s416v1c7;9 Apr Madras;1791;4;9;Madras;False
 s416;s416v1;s416v1c8;9 Jul Cape;1791;7;9;Cape;False
 s416;s416v1;s416v1c9;3 Aug St Helena;1791;8;3;St Helena;False
@@ -8812,7 +8812,7 @@ s417;s417v1;s417v1c10;3 Apr Cape;1797;4;3;Cape;False
 s417;s417v1;s417v1c11;28 Apr St Helena;1797;4;28;St Helena;False
 s417;s417v1;s417v1c12;24 Jul Downs;1797;7;24;Downs;False
 s417;s417v2;s417v2c1;Saugor;1797;nan;nan;Saugor;False
-s417;s417v2;s417v2c2;26 Aug 1800 Simon s Bay;1800;8;26;Simon s Bay;True
+s417;s417v2;s417v2c2;26 Aug 1800 Simon's Bay;1800;8;26;Simon's Bay;False
 s417;s417v2;s417v2c3;8 Jun St Helena;1800;6;8;St Helena;False
 s417;s417v2;s417v2c4;9 Sep Downs;1800;9;9;Downs;False
 s417;s417v3;s417v3c1;Portsmouth 23 Apr 1801;1801;4;23;Portsmouth;False
@@ -9156,14 +9156,14 @@ s429;s429v4;s429v4c5;2 Aug St Helena;1787;8;2;St Helena;False
 s429;s429v4;s429v4c6;13 Oct Downs;1787;10;13;Downs;False
 s429;s429v5;s429v5c1;Downs 7 Apr 1763;1763;4;7;Downs;False
 s429;s429v5;s429v5c2;;1763;nan;nan;;False
-s429;s429v5;s429v5c3;21 Jul St Augustine s Bay;1763;7;21;St Augustine s Bay;True
+s429;s429v5;s429v5c3;21 Jul St Augustine's Bay;1763;7;21;St Augustine's Bay;True
 s429;s429v5;s429v5c4;27 Aug Bombay;1763;8;27;Bombay;False
 s429;s429v5;s429v5c5;22 Oct Tellicherry;1763;10;22;Tellicherry;False
 s429;s429v5;s429v5c6;31 Dec Ingeli;1763;12;31;Ingeli;False
 s429;s429v5;s429v5c7;24 May 1764 Mauritius;1764;5;24;Mauritius;False
 s429;s429v5;s429v5c8;7 Jul Bourbon;1764;7;7;Bourbon;False
 s429;s429v5;s429v5c9;30 Aug Batavia;1764;8;30;Batavia;False
-s429;s429v5;s429v5c10;10 Nov Prince s Island;1764;11;10;Prince s Island;True
+s429;s429v5;s429v5c10;10 Nov Prince's Island;1764;11;10;Prince's Island;False
 s429;s429v5;s429v5c11;27 Dec Batavia;1764;12;27;Batavia;False
 s429;s429v5;s429v5c12;13 Feb 1765 Onroot;1765;2;13;Onroot;False
 s429;s429v5;s429v5c13;26 Mar Batavia;1765;3;26;Batavia;False
@@ -9180,7 +9180,7 @@ s430;s430v2;s430v2c3;9 Jan 1768 Pulau Pisang 22 Mar Cape;1768;3;22;Pulau Pisang 
 s430;s430v2;s430v2c4;16 Apr St Helena;1768;4;16;St Helena;False
 s430;s430v2;s430v2c5;3 Jul Downs;1768;7;3;Downs;False
 s430;s430v3;s430v3c1;Torbay 5 Mar 1769;1769;3;5;Torbay;False
-s430;s430v3;s430v3c2;13 May All Saints  Bay;1769;5;13;All Saints  Bay;True
+s430;s430v3;s430v3c2;13 May All Saints' Bay;1769;5;13;All Saints' Bay;True
 s430;s430v3;s430v3c3;19 Aug Benkulen;1769;8;19;Benkulen;False
 s430;s430v3;s430v3c4;14 Oct Manna;1769;10;14;Manna;False
 s430;s430v3;s430v3c5;10 Jan 1770 Anjengo;1770;1;10;Anjengo;False
@@ -9300,7 +9300,7 @@ s434;s434v3;s434v3c8;1 Jul Downs;1793;7;1;Downs;False
 s434;s434v4;s434v4c1;Portsmouth 2 May 1794;1794;5;2;Portsmouth;False
 s434;s434v4;s434v4c2;13 Aug St Helena;1794;8;13;St Helena;False
 s434;s434v4;s434v4c3;20 Nov Benkulen;1794;11;20;Benkulen;False
-s434;s434v4;s434v4c4;25 Feb 1795 'Pulo Massey;1795;2;25;'Pulo Massey;False
+s434;s434v4;s434v4c4;25 Feb 1795 'Pulo Massey';1795;2;25;'Pulo Massey';False
 s434;s434v4;s434v4c5;4 Mar Benkulen;1795;3;4;Benkulen;False
 s434;s434v4;s434v4c6;22 May St Helena;1795;5;22;St Helena;False
 s434;s434v4;s434v4c7;14 Sep Shannon;1795;9;14;Shannon;False
@@ -9660,7 +9660,7 @@ s451;s451v2;s451v2c6;23 Apr 1753 St Helena;1753;4;23;St Helena;False
 s451;s451v2;s451v2c7;14 Jul Downs;1753;7;14;Downs;False
 s451;s451v3;s451v3c1;Downs 27 Mar 1755;1755;3;27;Downs;False
 s451;s451v3;s451v3c2;25 May Sao Tiago;1755;5;25;Sao Tiago;False
-s451;s451v3;s451v3c3;17 Aug St Augustine s Bay;1755;8;17;St Augustine s Bay;True
+s451;s451v3;s451v3c3;17 Aug St Augustine's Bay;1755;8;17;St Augustine's Bay;True
 s451;s451v3;s451v3c4;30 Dec Bombay;1755;12;30;Bombay;False
 s451;s451v3;s451v3c5;7 Feb 1756 Surat;1756;2;7;Surat;False
 s451;s451v3;s451v3c6;5 May Mokha;1756;5;5;Mokha;False
@@ -9714,7 +9714,7 @@ s453;s453v1;s453v1c13;2 Dec St Helena;1704;12;2;St Helena;False
 s453;s453v1;s453v1c14;13 Apr Deptford;1704;4;13;Deptford;False
 s454;s454v1;s454v1c1;Downs 26 Jan 1753;1753;1;26;Downs;False
 s454;s454v1;s454v1c2;2 Feb St Helena;1753;2;2;St Helena;False
-s454;s454v1;s454v1c3;30 May St Augustine s Bay;1753;5;30;St Augustine s Bay;True
+s454;s454v1;s454v1c3;30 May St Augustine's Bay;1753;5;30;St Augustine's Bay;True
 s454;s454v1;s454v1c4;25 Jul Madras;1753;7;25;Madras;False
 s454;s454v1;s454v1c5;10 Sep Culpee;1753;9;10;Culpee;False
 s454;s454v1;s454v1c6;18 Feb 1754 Inseli;1754;2;18;Inseli;False
@@ -9734,7 +9734,7 @@ s454;s454v2;s454v2c8;17 Sep Kinsale;1759;9;17;Kinsale;False
 s454;s454v2;s454v2c9;19 Oct Downs;1759;10;19;Downs;False
 s454;s454v3;s454v3c1;Portsmouth 13 May 1760;1760;5;13;Portsmouth;False
 s454;s454v3;s454v3c2;29 Jul Pernambuco;1760;7;29;Pernambuco;False
-s454;s454v3;s454v3c3;13 Aug All Saints  Bay;1760;8;13;All Saints  Bay;True
+s454;s454v3;s454v3c3;13 Aug All Saints' Bay;1760;8;13;All Saints' Bay;True
 s454;s454v3;s454v3c4;29 Dec Anjengo;1760;12;29;Anjengo;False
 s454;s454v3;s454v3c5;4 Jan 1761 Tellicherry;1761;1;4;Tellicherry;False
 s454;s454v3;s454v3c6;17 Jan Bombay;1761;1;17;Bombay;False
@@ -9769,7 +9769,7 @@ s455;s455v2;s455v2c9;2 Mar Madras;1771;3;2;Madras;False
 s455;s455v2;s455v2c10;30 Jul St Helena;1771;7;30;St Helena;False
 s455;s455v2;s455v2c11;11 Sep Downs;1771;9;11;Downs;False
 s455;s455v3;s455v3c1;Portsmouth 22 Apr 1773;1773;4;22;Portsmouth;False
-s455;s455v3;s455v3c2;27 Jul St Augustine s Bay;1773;7;27;St Augustine s Bay;True
+s455;s455v3;s455v3c2;27 Jul St Augustine's Bay;1773;7;27;St Augustine's Bay;True
 s455;s455v3;s455v3c3;19 Oct Kedgeree;1773;10;19;Kedgeree;False
 s455;s455v3;s455v3c4;16 Apr 1774 Cape;1774;4;16;Cape;False
 s455;s455v3;s455v3c5;13 May St Helena;1774;5;13;St Helena;False
@@ -9969,7 +9969,7 @@ s468;s468v1;s468v1c1;Downs 30 Jun 1686;1686;6;30;Downs;False
 s468;s468v1;s468v1c2;remained in India;1686;nan;nan;remained in India;True
 s469;s469v1;s469v1c1;Downs 10 Jan 1644;1644;1;10;Downs;False
 s469;s469v1;s469v1c2;25 Mar Cape;1644;3;25;Cape;False
-s469;s469v1;s469v1c3;7 May St Augustine s Bay;1644;5;7;St Augustine s Bay;True
+s469;s469v1;s469v1c3;7 May St Augustine's Bay;1644;5;7;St Augustine's Bay;True
 s469;s469v1;s469v1c4;24 May Johanna;1644;5;24;Johanna;False
 s469;s469v1;s469v1c5;2 Jul Madras;1644;7;2;Madras;False
 s469;s469v1;s469v1c6;remained in India, voyages to Bandar Abbas 1645;1645;nan;nan;remained in India, voyages to Bandar Abbas;True
@@ -10114,7 +10114,7 @@ s476;s476v1;s476v1c9;19 Dec Second Bar;1782;12;19;Second Bar;False
 s476;s476v1;s476v1c10;18 Jun 1783 St Helena;1783;6;18;St Helena;False
 s476;s476v1;s476v1c11;5 Oct Downs;1783;10;5;Downs;False
 s476;s476v2;s476v2c1;Downs 7 Jan 1785;1785;1;7;Downs;False
-s476;s476v2;s476v2c2;22 May St Augustine s Bay;1785;5;22;St Augustine s Bay;True
+s476;s476v2;s476v2c2;22 May St Augustine's Bay;1785;5;22;St Augustine's Bay;True
 s476;s476v2;s476v2c3;3 Jul Madras;1785;7;3;Madras;False
 s476;s476v2;s476v2c4;10 Oct Whampoa;1785;10;10;Whampoa;False
 s476;s476v2;s476v2c5;3 Feb 1786 Second Bar;1786;2;3;Second Bar;False
@@ -10320,7 +10320,7 @@ s481;s481v1;s481v1c6;4 Nov Surat;1705;11;4;Surat;False
 s481;s481v1;s481v1c7;20 Dec Bombay;1705;12;20;Bombay;False
 s481;s481v1;s481v1c8;3 Jan 1706 Karwar;1706;1;3;Karwar;False
 s481;s481v1;s481v1c9;17 Jan Mangalore;1706;1;17;Mangalore;False
-s481;s481v1;s481v1c10;26 Feb 'Bajalar;1706;2;26;'Bajalar;False
+s481;s481v1;s481v1c10;26 Feb 'Bajalar';1706;2;26;'Bajalar';False
 s481;s481v1;s481v1c11;4 Mar Karwar;1706;3;4;Karwar;False
 s481;s481v1;s481v1c12;7 Mar Goa;1706;3;7;Goa;False
 s481;s481v1;s481v1c13;19 Mar Bombay;1706;3;19;Bombay;False
@@ -10421,7 +10421,7 @@ s485;s485v2;s485v2c4;May 1628 Mokha;1628;5;nan;Mokha;False
 s485;s485v2;s485v2c5;4 Oct Surat 27 Dec;1628;12;27;Surat;False
 s485;s485v2;s485v2c6;1629 Downs;1629;nan;nan;Downs;False
 s485;s485v3;s485v3c1;Downs 2 Feb 1631;1631;2;2;Downs;False
-s485;s485v3;s485v3c2;30 May St Augustine s Bay;1631;5;30;St Augustine s Bay;True
+s485;s485v3;s485v3c2;30 May St Augustine's Bay;1631;5;30;St Augustine's Bay;True
 s485;s485v3;s485v3c3;1 Jul Johanna;1631;7;1;Johanna;False
 s485;s485v3;s485v3c4;14 Oct Surat;1631;10;14;Surat;False
 s485;s485v3;s485v3c5;Masulipatam;1631;nan;nan;Masulipatam;False
@@ -10472,7 +10472,7 @@ s486;s486v4;s486v4c4;29 Aug Benkulen;1755;8;29;Benkulen;False
 s486;s486v4;s486v4c5;24 Oct Moco Moco;1755;10;24;Moco Moco;False
 s486;s486v4;s486v4c6;11 Nov Bantal;1755;11;11;Bantal;False
 s486;s486v4;s486v4c7;17 Dec Benkulen;1755;12;17;Benkulen;False
-s486;s486v4;s486v4c8;30 Jan 1756 'Tappanooly Bay;1756;1;30;'Tappanooly Bay;False
+s486;s486v4;s486v4c8;30 Jan 1756 'Tappanooly Bay';1756;1;30;'Tappanooly Bay';False
 s486;s486v4;s486v4c9;11 Mar Benkulen;1756;3;11;Benkulen;False
 s486;s486v4;s486v4c10;7 Jul St Helena;1756;7;7;St Helena;False
 s486;s486v4;s486v4c11;28 Oct Shannon;1756;10;28;Shannon;False
@@ -10535,7 +10535,7 @@ s487;s487v8;s487v8c4;25 Feb 1811 Point de Galle;1811;2;25;Point de Galle;True
 s487;s487v8;s487v8c5;28 May St Helena;1811;5;28;St Helena;False
 s487;s487v8;s487v8c6;9 Aug Downs;1811;8;9;Downs;False
 s488;s488v1;s488v1c1;Calcutta 2^13^96^24 Feb Saugor;1811;2;nan;Calcutta 2^13^96^24 Saugor;True
-s488;s488v1;s488v1c2;30 Jul St Augustine s Bay;1811;7;30;St Augustine s Bay;True
+s488;s488v1;s488v1c2;30 Jul St Augustine's Bay;1811;7;30;St Augustine's Bay;True
 s488;s488v1;s488v1c3;20 Sep Bombay;1811;9;20;Bombay;False
 s488;s488v1;s488v1c4;27 Mar 1797 Trincomalee;1797;3;27;Trincomalee;False
 s488;s488v1;s488v1c5;19 Oct Cape;1797;10;19;Cape;False
@@ -10590,7 +10590,7 @@ s491;s491v1;s491v1c2;2 Dec Batavia;1626;12;2;Batavia;False
 s491;s491v1;s491v1c3;21 Jul 1627;1627;7;21;nan;False
 s491;s491v1;s491v1c4;21 Dec Portsmouth;1627;12;21;Portsmouth;False
 s491;s491v2;s491v2c1;Downs 27 Mar 1628;1628;3;27;Downs;False
-s491;s491v2;s491v2c2;28 Jul St Augustine s Bay;1628;7;28;St Augustine s Bay;True
+s491;s491v2;s491v2c2;28 Jul St Augustine's Bay;1628;7;28;St Augustine's Bay;True
 s491;s491v2;s491v2c3;12 Aug Moheli;1628;8;12;Moheli;False
 s491;s491v2;s491v2c4;1 Oct Surat 25 Dec;1628;12;25;Surat;False
 s491;s491v2;s491v2c5;27 Jan 1629 Bandar Abbas;1629;1;27;Bandar Abbas;False
@@ -10842,7 +10842,7 @@ s508;s508v1;s508v1c6;10 Jul Blackwall;1820;7;10;Blackwall;False
 s508;s508v2;s508v2c1;Downs 27 May 1823;1823;5;27;Downs;False
 s508;s508v2;s508v2c2;burnt at Benkulen 2 Feb 1824;1824;2;2;burnt at Benkulen;True
 s509;s509v1;s509v1c1;Downs 17 Jan 1647;1647;1;17;Downs;False
-s509;s509v1;s509v1c2;7 May St Augustine s Bay;1647;5;7;St Augustine s Bay;True
+s509;s509v1;s509v1c2;7 May St Augustine's Bay;1647;5;7;St Augustine's Bay;True
 s509;s509v1;s509v1c3;24 May Johanna;1647;5;24;Johanna;False
 s509;s509v1;s509v1c4;3 Jul Madras;1647;7;3;Madras;False
 s509;s509v1;s509v1c5;Bengal;1647;nan;nan;Bengal;False
@@ -10938,7 +10938,7 @@ s512;s512v4;s512v4c1;Downs 5 Jan 1705;1705;1;5;Downs;False
 s512;s512v4;s512v4c2;28 Jun Madras;1705;6;28;Madras;False
 s512;s512v4;s512v4c3;29 Jul Balasore;1705;7;29;Balasore;False
 s512;s512v4;s512v4c4;7 Aug Rogues River;1705;8;7;Rogues River;False
-s512;s512v4;s512v4c5;22 Aug 'Ganges;1705;8;22;'Ganges;False
+s512;s512v4;s512v4c5;22 Aug 'Ganges';1705;8;22;'Ganges';False
 s512;s512v4;s512v4c6;19 Jan 1706 Madras;1706;1;19;Madras;False
 s512;s512v4;s512v4c7;26 May Cape;1706;5;26;Cape;False
 s512;s512v4;s512v4c8;5 Aug St Helena;1706;8;5;St Helena;False
@@ -10963,7 +10963,7 @@ s514;s514v1;s514v1c5;11 Feb St Helena;1762;2;11;St Helena;False
 s514;s514v1;s514v1c6;16 Feb 1764 Ascension;1764;2;16;Ascension;False
 s514;s514v1;s514v1c7;30 Mar St Helena;1764;3;30;St Helena;False
 s514;s514v1;s514v1c8;11 Jul Cape;1764;7;11;Cape;False
-s514;s514v1;s514v1c9;20 Aug St Augustine s Bay;1764;8;20;St Augustine s Bay;True
+s514;s514v1;s514v1c9;20 Aug St Augustine's Bay;1764;8;20;St Augustine's Bay;True
 s514;s514v1;s514v1c10;27 Dec Cape;1764;12;27;Cape;False
 s514;s514v1;s514v1c11;23 Jan 1765 St Helena;1765;1;23;St Helena;False
 s514;s514v1;s514v1c12;;1765;nan;nan;;False
@@ -11003,7 +11003,7 @@ s518;s518v1;s518v1c4;28 Sep Kedgeree;1781;9;28;Kedgeree;False
 s518;s518v1;s518v1c5;10 Nov Saugor;1781;11;10;Saugor;False
 s518;s518v1;s518v1c6;10 Dec Madras;1781;12;10;Madras;False
 s518;s518v1;s518v1c7;16 Feb 1782 Kedgeree;1782;2;16;Kedgeree;False
-s518;s518v1;s518v1c8;8 May 'Cockelee;1782;5;8;'Cockelee;False
+s518;s518v1;s518v1c8;8 May 'Cockelee';1782;5;8;'Cockelee';False
 s518;s518v1;s518v1c9;23 Jun captured by French frigate La Fine;1782;6;23;captured by French frigate La Fine;True
 s520;s520v1;s520v1c1;Capt Thomas Smith Downs 2 Apr 1722;1722;4;2;Capt Thomas Smith Downs;True
 s520;s520v1;s520v1c2;remained in India;1722;nan;nan;remained in India;True
@@ -11052,7 +11052,7 @@ s523;s523v1;s523v1c7;6 Feb 1787 Second Bar;1787;2;6;Second Bar;False
 s523;s523v1;s523v1c8;14 Jun St Helena;1787;6;14;St Helena;False
 s523;s523v1;s523v1c9;21 Aug Long Reach;1787;8;21;Long Reach;False
 s523;s523v2;s523v2c1;Downs 13 Dec 1788;1788;12;13;Downs;False
-s523;s523v2;s523v2c2;3 Apr 1789 St Augustine s Bay;1789;4;3;St Augustine s Bay;True
+s523;s523v2;s523v2c2;3 Apr 1789 St Augustine's Bay;1789;4;3;St Augustine's Bay;True
 s523;s523v2;s523v2c3;3 Jun Bombay;1789;6;3;Bombay;False
 s523;s523v2;s523v2c4;7 Sep Malacca;1789;9;7;Malacca;False
 s523;s523v2;s523v2c5;11 Oct Whampoa;1789;10;11;Whampoa;False
@@ -11096,7 +11096,7 @@ s523;s523v6;s523v6c7;3 Jan 1802 Anjengo;1802;1;3;Anjengo;False
 s523;s523v6;s523v6c8;5 Jan Quilon;1802;1;5;Quilon;False
 s523;s523v6;s523v6c9;5 Apr St Helena;1802;4;5;St Helena;False
 s523;s523v6;s523v6c10;11 Jun Long Reach;1802;6;11;Long Reach;False
-s524;s524v1;s524v1c1;'East Indies  12 Oct 1809;1809;10;12;'East Indies ;True
+s524;s524v1;s524v1c1;'East Indies' 12 Oct 1809;1809;10;12;'East Indies';False
 s524;s524v1;s524v1c2;25 Dec Cape;1809;12;25;Cape;False
 s524;s524v1;s524v1c3;13 Jan 1810 St Helena;1810;1;13;St Helena;False
 s524;s524v1;s524v1c4;24 Mar Greenhithe;1810;3;24;Greenhithe;False
@@ -11129,7 +11129,7 @@ s525;s525v2;s525v2c1;Downs 20 Feb 1786;1786;2;20;Downs;False
 s525;s525v2;s525v2c2;16 Jun False Bay;1786;6;16;False Bay;False
 s525;s525v2;s525v2c3;26 Aug Madras;1786;8;26;Madras;False
 s525;s525v2;s525v2c4;11 Sep Masulipatam;1786;9;11;Masulipatam;False
-s525;s525v2;s525v2c5;4 Oct 'Bengal;1786;10;4;'Bengal;False
+s525;s525v2;s525v2c5;4 Oct 'Bengal';1786;10;4;'Bengal';False
 s525;s525v2;s525v2c6;13 Dec Kedgeree;1786;12;13;Kedgeree;False
 s525;s525v2;s525v2c7;11 Feb 1787 Madras;1787;2;11;Madras;False
 s525;s525v2;s525v2c8;20 Mar Calicut;1787;3;20;Calicut;False
@@ -11297,7 +11297,7 @@ s531;s531v5;s531v5c6;27 Apr Long Reach;1794;4;27;Long Reach;False
 s531;s531v6;s531v6c1;Portsmouth 24 May 1795;1795;5;24;Portsmouth;False
 s531;s531v6;s531v6c2;2 Sep Madras;1795;9;2;Madras;False
 s531;s531v6;s531v6c3;24 Sep Diamond Harbour;1795;9;24;Diamond Harbour;False
-s531;s531v6;s531v6c4;4 Dec Cox s Island;1795;12;4;Cox s Island;True
+s531;s531v6;s531v6c4;4 Dec Cox's Island;1795;12;4;Cox's Island;False
 s531;s531v6;s531v6c5;6 Feb 1796 Madras;1796;2;6;Madras;False
 s531;s531v6;s531v6c6;7 May St Helena;1796;5;7;St Helena;False
 s531;s531v6;s531v6c7;3 Aug Downs;1796;8;3;Downs;False
@@ -11322,7 +11322,7 @@ s533;s533v1;s533v1c1;Portsmouth 23 Feb 1796;1796;2;23;Portsmouth;False
 s533;s533v1;s533v1c2;5 Apr Sao Tiago;1796;4;5;Sao Tiago;False
 s533;s533v1;s533v1c3;28 May Simons Bay;1796;5;28;Simons Bay;False
 s533;s533v1;s533v1c4;13 Jun Cape;1796;6;13;Cape;False
-s533;s533v1;s533v1c5;27 Oct captured by French privateer L  Aventure, crew placed on American ship Henry;1796;10;27;captured by French privateer L  Aventure, crew placed on American ship Henry;True
+s533;s533v1;s533v1c5;27 Oct captured by French privateer L 'Aventure, crew placed on American ship Henry;1796;10;27;captured by French privateer L 'Aventure, crew placed on American ship Henry;True
 s534;s534v1;s534v1c1;Falmouth 11 May 1797;1797;5;11;Falmouth;False
 s534;s534v1;s534v1c2;28 Oct Calcutta;1797;10;28;Calcutta;False
 s534;s534v1;s534v1c3;21 Jan 1798 Saugor;1798;1;21;Saugor;False
@@ -11337,7 +11337,7 @@ s535;s535v1;s535v1c4;26 Nov Crookhaven;1796;11;26;Crookhaven;False
 s535;s535v1;s535v1c5;11 Dec Downs;1796;12;11;Downs;False
 s535;s535v2;s535v2c1;Bengal 9 Feb 1799;1799;2;9;Bengal;False
 s535;s535v2;s535v2c2;10 May St Helena;1799;5;10;St Helena;False
-s535;s535v2;s535v2c3;17 Jul 'towards England;1799;7;17;'towards England;False
+s535;s535v2;s535v2c3;17 Jul 'towards England';1799;7;17;'towards England';False
 s536;s536v1;s536v1c1;Portsmouth 7 May 1779;1779;5;7;Portsmouth;False
 s536;s536v1;s536v1c2;5 Apr Madeira;1779;4;5;Madeira;False
 s536;s536v1;s536v1c3;10 May Goree;1779;5;10;Goree;False
@@ -11345,7 +11345,7 @@ s536;s536v1;s536v1c4;18 Sep Madras;1779;9;18;Madras;False
 s536;s536v1;s536v1c5;11 Nov Kedgeree;1779;11;11;Kedgeree;False
 s536;s536v1;s536v1c6;10 Jan 1780 Barrabulla;1780;1;10;Barrabulla;False
 s536;s536v1;s536v1c7;24 Feb Madras;1780;2;24;Madras;False
-s536;s536v1;s536v1c8;14 Jun St Augustine s Bay;1780;6;14;St Augustine s Bay;True
+s536;s536v1;s536v1c8;14 Jun St Augustine's Bay;1780;6;14;St Augustine's Bay;True
 s536;s536v1;s536v1c9;25 Aug Cape;1780;8;25;Cape;False
 s536;s536v1;s536v1c10;29 Oct St Helena;1780;10;29;St Helena;False
 s536;s536v1;s536v1c11;9 Jan 1781 Crookhaven;1781;1;9;Crookhaven;False
@@ -11369,7 +11369,7 @@ s536;s536v3;s536v3c1;Portsmouth 1 Feb 1786;1786;2;1;Portsmouth;False
 s536;s536v3;s536v3c2;15 May Johanna;1786;5;15;Johanna;False
 s536;s536v3;s536v3c3;17 Jun Madras;1786;6;17;Madras;False
 s536;s536v3;s536v3c4;30 Jun Diamond Harbour;1786;6;30;Diamond Harbour;False
-s536;s536v3;s536v3c5;29 Nov Cox s Island;1786;11;29;Cox s Island;True
+s536;s536v3;s536v3c5;29 Nov Cox's Island;1786;11;29;Cox's Island;False
 s536;s536v3;s536v3c6;24 May 1787 St Helena;1787;5;24;St Helena;False
 s536;s536v3;s536v3c7;28 Jul Long Reach;1787;7;28;Long Reach;False
 s536;s536v4;s536v4c1;Downs 29 Mar 1789;1789;3;29;Downs;False
@@ -11514,7 +11514,7 @@ s542;s542v5;s542v5c1;Portsmouth 7 Jul 1793;1793;7;7;Portsmouth;False
 s542;s542v5;s542v5c2;18 Sep Cape;1793;9;18;Cape;False
 s542;s542v5;s542v5c3;2 Nov Madras;1793;11;2;Madras;False
 s542;s542v5;s542v5c4;29 Jan 1794 Diamond Harbour;1794;1;29;Diamond Harbour;False
-s542;s542v5;s542v5c5;25 Feb Cox s Island;1794;2;25;Cox s Island;True
+s542;s542v5;s542v5c5;25 Feb Cox's Island;1794;2;25;Cox's Island;False
 s542;s542v5;s542v5c6;18 Jun St Helena;1794;6;18;St Helena;False
 s542;s542v5;s542v5c7;7 Sep Downs;1794;9;7;Downs;False
 s542;s542v6;s542v6c1;Portsmouth 13 May 1795;1795;5;13;Portsmouth;False
@@ -11594,7 +11594,7 @@ s544;s544v3;s544v3c6;13 Jun Downs;1790;6;13;Downs;False
 s544;s544v4;s544v4c1;Portsmouth 16 Feb 1792;1792;2;16;Portsmouth;False
 s544;s544v4;s544v4c2;14 May Simons Bay;1792;5;14;Simons Bay;False
 s544;s544v4;s544v4c3;6 Jul Diamond Harbour;1792;7;6;Diamond Harbour;False
-s544;s544v4;s544v4c4;3 Dec Cox s Island;1792;12;3;Cox s Island;True
+s544;s544v4;s544v4c4;3 Dec Cox's Island;1792;12;3;Cox's Island;False
 s544;s544v4;s544v4c5;28 Feb 1793 St Helena;1793;2;28;St Helena;False
 s544;s544v4;s544v4c6;2 May Downs;1793;5;2;Downs;False
 s544;s544v5;s544v5c1;Portsmouth 2 May 1794;1794;5;2;Portsmouth;False
@@ -11973,7 +11973,7 @@ s559;s559v5;s559v5c5;22 Feb 1809 St Helena;1809;2;22;St Helena;False
 s559;s559v5;s559v5c6;6 May Blackwall;1809;5;6;Blackwall;False
 s559;s559v6;s559v6c1;Portsmouth 4 Oct 1809;1809;10;4;Portsmouth;False
 s559;s559v6;s559v6c2;16 Feb 1810 Madras;1810;2;16;Madras;False
-s559;s559v6;s559v6c3;16 May Calcutta;1810;5;16;Calcutta;False
+s559;s559v6;s559v6c3;16 May Calcutta';1810;5;16;Calcutta';False
 s559;s559v6;s559v6c4;11 Sep Saugor;1810;9;11;Saugor;False
 s559;s559v6;s559v6c5;9 Oct Madras;1810;10;9;Madras;False
 s559;s559v6;s559v6c6;Nov Calcutta;1810;11;nan;Calcutta;False
@@ -12196,12 +12196,12 @@ s571;s571v1;s571v1c12;3 Apr 1721 Limehouse;1721;4;3;Limehouse;False
 s571;s571v2;s571v2c1;2 Jan 1722;1722;1;2;nan;False
 s571;s571v2;s571v2c2;8 Jun 1723;1723;6;8;nan;False
 s572;s572v1;s572v1c1;Portsmouth 29 Apr 1771;1771;4;29;Portsmouth;False
-s572;s572v1;s572v1c2;12 Sep St Augustine s Bay;1771;9;12;St Augustine s Bay;True
+s572;s572v1;s572v1c2;12 Sep St Augustine's Bay;1771;9;12;St Augustine's Bay;True
 s572;s572v1;s572v1c3;2 Jan 1772 Colombo;1772;1;2;Colombo;False
 s572;s572v1;s572v1c4;28 Jan Tellicherry;1772;1;28;Tellicherry;False
 s572;s572v1;s572v1c5;26 Feb Bombay;1772;2;26;Bombay;False
 s572;s572v1;s572v1c6;11 May Tellicherry;1772;5;11;Tellicherry;False
-s572;s572v1;s572v1c7;17 Jul St Augustine s Bay;1772;7;17;St Augustine s Bay;True
+s572;s572v1;s572v1c7;17 Jul St Augustine's Bay;1772;7;17;St Augustine's Bay;True
 s572;s572v1;s572v1c8;20 Sep St Helena;1772;9;20;St Helena;False
 s572;s572v1;s572v1c9;12 Dec Downs;1772;12;12;Downs;False
 s572;s572v2;s572v2c1;Portsmouth 23 Mar 1775;1775;3;23;Portsmouth;False
@@ -12213,11 +12213,11 @@ s572;s572v2;s572v2c6;17 May St Helena;1776;5;17;St Helena;False
 s572;s572v2;s572v2c7;17 Aug Downs;1776;8;17;Downs;False
 s572;s572v3;s572v3c1;Plymouth 9 Feb 1778;1778;2;9;Plymouth;False
 s572;s572v3;s572v3c2;21 Feb Madeira;1778;2;21;Madeira;False
-s572;s572v3;s572v3c3;7 Jul St Augustine s Bay;1778;7;7;St Augustine s Bay;True
+s572;s572v3;s572v3c3;7 Jul St Augustine's Bay;1778;7;7;St Augustine's Bay;True
 s572;s572v3;s572v3c4;27 Aug Madras;1778;8;27;Madras;False
 s572;s572v3;s572v3c5;27 Sep Kedgeree;1778;9;27;Kedgeree;False
 s572;s572v3;s572v3c6;16 Mar 1779 Madras;1779;3;16;Madras;False
-s572;s572v3;s572v3c7;25 Jul St Augustine s Bay;1779;7;25;St Augustine s Bay;True
+s572;s572v3;s572v3c7;25 Jul St Augustine's Bay;1779;7;25;St Augustine's Bay;True
 s572;s572v3;s572v3c8;8 Oct St Helena;1779;10;8;St Helena;False
 s572;s572v3;s572v3c9;12 Jan 1780 Downs;1780;1;12;Downs;False
 s572;s572v4;s572v4c1;Portsmouth 27 Jul 1780;1780;7;27;Portsmouth;False
@@ -12276,7 +12276,7 @@ s575;s575v2;s575v2c1;Cape;1749;nan;nan;Cape;False
 s575;s575v2;s575v2c2;23 Dec St Helena;1749;12;23;St Helena;False
 s575;s575v2;s575v2c3;16 Apr 1754 Downs;1754;4;16;Downs;False
 s575;s575v3;s575v3c1;Downs 27 Jan 1756;1756;1;27;Downs;False
-s575;s575v3;s575v3c2;22 May St Augustine s Bay;1756;5;22;St Augustine s Bay;True
+s575;s575v3;s575v3c2;22 May St Augustine's Bay;1756;5;22;St Augustine's Bay;True
 s575;s575v3;s575v3c3;5 Jul Madras;1756;7;5;Madras;False
 s575;s575v3;s575v3c4;19 Aug Malacca;1756;8;19;Malacca;False
 s575;s575v3;s575v3c5;25 Sep Whampoa;1756;9;25;Whampoa;False
@@ -12289,9 +12289,9 @@ s575;s575v4;s575v4c2;2 Jul Downs;1763;7;2;Downs;False
 s576;s576v1;s576v1c1;Ratcliffe 2 May 1602;1602;5;2;Ratcliffe;False
 s576;s576v1;s576v1c2;4 Jun Orkneys;1602;6;4;Orkneys;False
 s576;s576v1;s576v1c3;18 Jun off Greenland;1602;6;18;off Greenland;False
-s576;s576v1;s576v1c4;28 Jun Warwick s Foreland;1602;6;28;Warwick s Foreland;True
+s576;s576v1;s576v1c4;28 Jun Warwick's Foreland;1602;6;28;Warwick's Foreland;False
 s576;s576v1;s576v1c5;attempted mutiny 19 Jul;1602;7;19;attempted mutiny;False
-s576;s576v1;s576v1c6;penetrated Hudson s Strait but driven out and south;1602;nan;nan;penetrated Hudson s Strait but driven out and south;True
+s576;s576v1;s576v1c6;penetrated Hudson's Strait but driven out and south;1602;nan;nan;penetrated Hudson's Strait but driven out and south;True
 s576;s576v1;s576v1c7;4 Aug off Scilly;1602;8;4;off Scilly;False
 s576;s576v1;s576v1c8;11 Aug Dartmouth;1602;8;11;Dartmouth;False
 s577;s577v1;s577v1c1;Madras 20 Apr 1819;1819;4;20;Madras;False
@@ -12389,7 +12389,7 @@ s587;s587v4;s587v4c7;2 Sep Whampoa;1780;9;2;Whampoa;False
 s587;s587v4;s587v4c8;11 Dec Second Bar;1780;12;11;Second Bar;False
 s587;s587v4;s587v4c9;19 May 1781 St Helena;1781;5;19;St Helena;False
 s587;s587v4;s587v4c10;20 Oct Downs;1781;10;20;Downs;False
-s588;s588v1;s588v1c1;'English coast  16 Dec 1800;1800;12;16;'English coast ;True
+s588;s588v1;s588v1c1;'English coast' 16 Dec 1800;1800;12;16;'English coast';False
 s588;s588v1;s588v1c2;30 Apr 1801 Calcutta;1801;4;30;Calcutta;False
 s588;s588v1;s588v1c3;left Bengal 25 Jul;1801;7;25;left Bengal;False
 s588;s588v1;s588v1c4;18 Jan 1802 off Dungeness;1802;1;18;off Dungeness;False
@@ -12420,7 +12420,7 @@ s589;s589v2;s589v2c1;Downs 23 Feb 1716;1716;2;23;Downs;False
 s589;s589v2;s589v2c2;28 May Cape;1716;5;28;Cape;False
 s589;s589v2;s589v2c3;3 Aug Madras;1716;8;3;Madras;False
 s589;s589v2;s589v2c4;27 Aug Rogues River;1716;8;27;Rogues River;False
-s589;s589v2;s589v2c5;11 Jan 1717 Cox s Island;1717;1;11;Cox s Island;True
+s589;s589v2;s589v2c5;11 Jan 1717 Cox's Island;1717;1;11;Cox's Island;False
 s589;s589v2;s589v2c6;29 Apr St Helena;1717;4;29;St Helena;False
 s589;s589v2;s589v2c7;2 Aug Erith;1717;8;2;Erith;False
 s589;s589v3;s589v3c1;15 Jan 1718;1718;1;15;nan;False
@@ -12481,7 +12481,7 @@ s590;s590v6;s590v6c1;Portsmouth 21 Feb 1742;1742;2;21;Portsmouth;False
 s590;s590v6;s590v6c2;7 Jul Madras;1742;7;7;Madras;False
 s590;s590v6;s590v6c3;24 Jul Balasore;1742;7;24;Balasore;False
 s590;s590v6;s590v6c4;27 Dec Benkulen;1742;12;27;Benkulen;False
-s590;s590v6;s590v6c5;20 Jul 1743 St Augustine s Bay;1743;7;20;St Augustine s Bay;True
+s590;s590v6;s590v6c5;20 Jul 1743 St Augustine's Bay;1743;7;20;St Augustine's Bay;True
 s590;s590v6;s590v6c6;1 Dec St Helena;1743;12;1;St Helena;False
 s590;s590v6;s590v6c7;lost off Folkestone 28 Feb 1744;1744;2;28;lost off Folkestone;True
 s591;s591v1;s591v1c1;Portsmouth 20 Feb 1747;1747;2;20;Portsmouth;False
@@ -12682,7 +12682,7 @@ s598;s598v4;s598v4c8;29 Mar Bombay;1760;3;29;Bombay;False
 s598;s598v4;s598v4c9;16 Apr Tellicheny;1760;4;16;Tellicheny;False
 s598;s598v4;s598v4c10;15 Jul Whampoa;1760;7;15;Whampoa;False
 s598;s598v4;s598v4c11;9 Dec Second Bar;1760;12;9;Second Bar;False
-s598;s598v4;s598v4c12;ship lost Jan 1761 at the 'island of Zelo;1761;1;nan;ship lost at the 'island of Zelo;True
+s598;s598v4;s598v4c12;ship lost Jan 1761 at the 'island of Zelo';1761;1;nan;ship lost at the 'island of Zelo';True
 s599;s599v1;s599v1c1;Portsmouth 5 Mar 1762;1762;3;5;Portsmouth;False
 s599;s599v1;s599v1c2;28 Mar Madeira;1762;3;28;Madeira;False
 s599;s599v1;s599v1c3;8 Aug Madras;1762;8;8;Madras;False
@@ -12770,7 +12770,7 @@ s603;s603v2;s603v2c8;21 Dec Bombay;1739;12;21;Bombay;False
 s603;s603v2;s603v2c9;1 Feb 1740 Tellicherry;1740;2;1;Tellicherry;False
 s603;s603v2;s603v2c10;12 Feb Cochin;1740;2;12;Cochin;False
 s603;s603v2;s603v2c11;13 Jul Morandava;1740;7;13;Morandava;False
-s603;s603v2;s603v2c12;29 Sep St Augustine s Bay;1740;9;29;St Augustine s Bay;True
+s603;s603v2;s603v2c12;29 Sep St Augustine's Bay;1740;9;29;St Augustine's Bay;True
 s603;s603v2;s603v2c13;19 Nov Cape;1740;11;19;Cape;False
 s603;s603v2;s603v2c14;2 Jan 1741 St Helena;1741;1;2;St Helena;False
 s603;s603v2;s603v2c15;4 Aug Leith;1741;8;4;Leith;False
@@ -12787,7 +12787,7 @@ s604;s604v3;s604v3c3;16 Sep Negapatam;1709;9;16;Negapatam;False
 s604;s604v3;s604v3c4;13 Oct Fort St David;1709;10;13;Fort St David;True
 s604;s604v3;s604v3c5;18 Oct Madras;1709;10;18;Madras;False
 s604;s604v3;s604v3c6;7 Feb 1710 Rogues River;1710;2;7;Rogues River;False
-s604;s604v3;s604v3c7;11 Mar Cox s Island;1710;3;11;Cox s Island;True
+s604;s604v3;s604v3c7;11 Mar Cox's Island;1710;3;11;Cox's Island;False
 s604;s604v3;s604v3c8;1 May Madras;1710;5;1;Madras;False
 s604;s604v3;s604v3c9;24 Jun Malacca;1710;6;24;Malacca;False
 s604;s604v3;s604v3c10;27 Jul Whampoa;1710;7;27;Whampoa;False
@@ -12849,7 +12849,7 @@ s606;s606v2;s606v2c6;31 Jan 1784 Saugor;1784;1;31;Saugor;False
 s606;s606v2;s606v2c7;7 Jun St Helena;1784;6;7;St Helena;False
 s606;s606v2;s606v2c8;28 Aug Downs;1784;8;28;Downs;False
 s606;s606v3;s606v3c1;Downs 1 Jan 1786;1786;1;1;Downs;False
-s606;s606v3;s606v3c2;lost between Peverill Point and St Alban s Head, Isle of Purbeck 6 Jan See A circumstantial narrative of the loss of the Halsewell... (London, 1786);1786;1;6;lost between Peverill Point and St Alban s Head, Isle of Purbeck See A circumstantial narrative of the loss of the Halsewell... (London, 1786);True
+s606;s606v3;s606v3c2;lost between Peverill Point and St Alban's Head, Isle of Purbeck 6 Jan See A circumstantial narrative of the loss of the Halsewell... (London, 1786);1786;1;6;lost between Peverill Point and St Alban's Head, Isle of Purbeck See A circumstantial narrative of the loss of the Halsewell... (London, 1786);True
 s607;s607v1;s607v1c1;Downs 28 Mar 1699;1699;3;28;Downs;False
 s607;s607v1;s607v1c2;12 Apr Cadiz;1699;4;12;Cadiz;False
 s607;s607v1;s607v1c3;18 Sep Bombay;1699;9;18;Bombay;False
@@ -13071,7 +13071,7 @@ s615;s615v3;s615v3c8;7 Mar 1749 Cape;1749;3;7;Cape;False
 s615;s615v3;s615v3c9;2 Apr St Helena;1749;4;2;St Helena;False
 s615;s615v3;s615v3c10;18 Jun Downs;1749;6;18;Downs;False
 s615;s615v4;s615v4c1;Downs 2 Feb 1751;1751;2;2;Downs;False
-s615;s615v4;s615v4c2;4 May St Augustine s Bay;1751;5;4;St Augustine s Bay;True
+s615;s615v4;s615v4c2;4 May St Augustine's Bay;1751;5;4;St Augustine's Bay;True
 s615;s615v4;s615v4c3;12 Jim Fort St David;1751;nan;12;Jim Fort St David;True
 s615;s615v4;s615v4c4;8 Jul Vizagapatam;1751;7;8;Vizagapatam;False
 s615;s615v4;s615v4c5;17 Jul Culpee;1751;7;17;Culpee;False
@@ -13276,7 +13276,7 @@ s626;s626v3;s626v3c2;7 Sep Cape;1626;9;7;Cape;False
 s626;s626v3;s626v3c3;8 Oct St Helena;1626;10;8;St Helena;False
 s626;s626v3;s626v3c4;10 Jan 1630 Downs * journal includes sketches;1630;1;10;Downs * journal includes sketches;True
 s626;s626v4;s626v4c1;Downs;1630;nan;nan;Downs;False
-s626;s626v4;s626v4c2;17 Jul 1632 St Augustine s Bay;1632;7;17;St Augustine s Bay;True
+s626;s626v4;s626v4c2;17 Jul 1632 St Augustine's Bay;1632;7;17;St Augustine's Bay;True
 s626;s626v4;s626v4c3;Johanna;1632;nan;nan;Johanna;False
 s626;s626v4;s626v4c4;3 Oct Bandar Abbas;1632;10;3;Bandar Abbas;False
 s626;s626v4;s626v4c5;27 Nov Surat;1632;11;27;Surat;False
@@ -13358,7 +13358,7 @@ s632;s632v1;s632v1c7;6 May Tellicherry;1758;5;6;Tellicherry;False
 s632;s632v1;s632v1c8;17 Jun Malacca;1758;6;17;Malacca;False
 s632;s632v1;s632v1c9;14 Jul Whampoa;1758;7;14;Whampoa;False
 s632;s632v1;s632v1c10;29 Dec Second Bar;1758;12;29;Second Bar;False
-s632;s632v1;s632v1c11;24 May 1759 All Saints  Bay;1759;5;24;All Saints  Bay;True
+s632;s632v1;s632v1c11;24 May 1759 All Saints' Bay;1759;5;24;All Saints' Bay;True
 s632;s632v1;s632v1c12;27 Dec Cork;1759;12;27;Cork;False
 s632;s632v1;s632v1c13;2 Feb 1760 Torbay;1760;2;2;Torbay;False
 s632;s632v1;s632v1c14;23 Mar Erith;1760;3;23;Erith;False
@@ -13372,7 +13372,7 @@ s632;s632v2;s632v2c7;1 Mar 1762 St Helena;1762;3;1;St Helena;False
 s632;s632v2;s632v2c8;4 Jun Leith;1762;6;4;Leith;False
 s632;s632v2;s632v2c9;28 Jun Gravesend;1762;6;28;Gravesend;False
 s632;s632v3;s632v3c1;Portsmouth 2 Jan 1763;1763;1;2;Portsmouth;False
-s632;s632v3;s632v3c2;6 May St Augustine s Bay;1763;5;6;St Augustine s Bay;True
+s632;s632v3;s632v3c2;6 May St Augustine's Bay;1763;5;6;St Augustine's Bay;True
 s632;s632v3;s632v3c3;17 Jun Madras;1763;6;17;Madras;False
 s632;s632v3;s632v3c4;20 Sep Manila;1763;9;20;Manila;False
 s632;s632v3;s632v3c5;6 Nov Whampoa;1763;11;6;Whampoa;False
@@ -13495,7 +13495,7 @@ s636;s636v3;s636v3c2;14 May Cape;1715;5;14;Cape;False
 s636;s636v3;s636v3c3;24 Jul Madras;1715;7;24;Madras;False
 s636;s636v3;s636v3c4;16 Sep Balasore;1715;9;16;Balasore;False
 s636;s636v3;s636v3c5;23 Oct Calcutta;1715;10;23;Calcutta;False
-s636;s636v3;s636v3c6;23 Jan 1716 Cox s Island;1716;1;23;Cox s Island;True
+s636;s636v3;s636v3c6;23 Jan 1716 Cox's Island;1716;1;23;Cox's Island;False
 s636;s636v3;s636v3c7;27 May St Helena;1716;5;27;St Helena;False
 s636;s636v3;s636v3c8;20 Aug Woolwich;1716;8;20;Woolwich;False
 s636;s636v4;s636v4c1;Downs 13 Nov 1717;1717;11;13;Downs;False
@@ -13503,7 +13503,7 @@ s636;s636v4;s636v4c2;15 Dec Sao Tiago;1717;12;15;Sao Tiago;False
 s636;s636v4;s636v4c3;12 Feb 1718 Cape;1718;2;12;Cape;False
 s636;s636v4;s636v4c4;8 May Madras;1718;5;8;Madras;False
 s636;s636v4;s636v4c5;21 Jun Calcutta;1718;6;21;Calcutta;False
-s636;s636v4;s636v4c6;7 Dec Cox s Island;1718;12;7;Cox s Island;True
+s636;s636v4;s636v4c6;7 Dec Cox's Island;1718;12;7;Cox's Island;False
 s636;s636v4;s636v4c7;8 Mar 1719 Cape;1719;3;8;Cape;False
 s636;s636v4;s636v4c8;11 Apr St Helena;1719;4;11;St Helena;False
 s636;s636v4;s636v4c9;8 Jul Downs;1719;7;8;Downs;False
@@ -13606,7 +13606,7 @@ s641;s641v4;s641v4c6;23 Oct Bantam 11 Dec;1612;12;11;Bantam;False
 s641;s641v4;s641v4c7;voyage ended 1613;1613;nan;nan;voyage ended;False
 s641;s641v5;s641v5c1;Gravesend 28 Feb 1614;1614;2;28;Gravesend;False
 s641;s641v5;s641v5c2;15 Jun Cape;1614;6;15;Cape;False
-s641;s641v5;s641v5c3;6 Aug St Augustine s Bay;1614;8;6;St Augustine s Bay;True
+s641;s641v5;s641v5c3;6 Aug St Augustine's Bay;1614;8;6;St Augustine's Bay;True
 s641;s641v5;s641v5c4;23 Aug Moheli;1614;8;23;Moheli;False
 s641;s641v5;s641v5c5;9 Sep Socotra;1614;9;9;Socotra;False
 s641;s641v5;s641v5c6;15 Oct Surat 3 Mar 1615;1615;3;3;Surat;False
@@ -13614,12 +13614,12 @@ s641;s641v5;s641v5c7;15 Apr Acheh;1615;4;15;Acheh;False
 s641;s641v5;s641v5c8;Tiku 24 Apr 1616;1616;4;24;Tiku;False
 s641;s641v5;s641v5c9;15 May Bantam, abandoned, rotten;1616;5;15;Bantam, abandoned, rotten;True
 s642;s642v1;s642v1c1;Downs 20 Mar 1751;1751;3;20;Downs;False
-s642;s642v1;s642v1c2;6 Jul St Augustine s Bay;1751;7;6;St Augustine s Bay;True
+s642;s642v1;s642v1c2;6 Jul St Augustine's Bay;1751;7;6;St Augustine's Bay;True
 s642;s642v1;s642v1c3;28 Aug Bandar Abbas;1751;8;28;Bandar Abbas;False
 s642;s642v1;s642v1c4;27 Sep Bombay;1751;9;27;Bombay;False
 s642;s642v1;s642v1c5;24 Oct Surat;1751;10;24;Surat;False
 s642;s642v1;s642v1c6;30 Oct Bombay;1751;10;30;Bombay;False
-s642;s642v1;s642v1c7;16 Dec 'coast of Sindey;1751;12;16;'coast of Sindey;True
+s642;s642v1;s642v1c7;16 Dec 'coast of Sindey';1751;12;16;'coast of Sindey';True
 s642;s642v1;s642v1c8;18 Jan 1752 Bombay;1752;1;18;Bombay;False
 s642;s642v1;s642v1c9;31 Jan Surat;1752;1;31;Surat;False
 s642;s642v1;s642v1c10;20 Apr Bombay;1752;4;20;Bombay;False
@@ -13634,7 +13634,7 @@ s642;s642v1;s642v1c18;24 Dec St Helena;1753;12;24;St Helena;False
 s642;s642v1;s642v1c19;28 Apr 1754 Downs;1754;4;28;Downs;False
 s642;s642v2;s642v2c1;Downs 12 Mar 1756;1756;3;12;Downs;False
 s642;s642v2;s642v2c2;28 Mar Madeira;1756;3;28;Madeira;False
-s642;s642v2;s642v2c3;23 Jul St Augustine s Bay;1756;7;23;St Augustine s Bay;True
+s642;s642v2;s642v2c3;23 Jul St Augustine's Bay;1756;7;23;St Augustine's Bay;True
 s642;s642v2;s642v2c4;14 Sep Bandar Abbas;1756;9;14;Bandar Abbas;False
 s642;s642v2;s642v2c5;18 Oct Bombay;1756;10;18;Bombay;False
 s642;s642v2;s642v2c6;18 Oct Bombay;1756;10;18;Bombay;False
@@ -13691,7 +13691,7 @@ s643;s643v4;s643v4c12;27 Feb 1778 Downs;1778;2;27;Downs;False
 s645;s645v1;s645v1c1;Portsmouth 27 Jun 1796;1796;6;27;Portsmouth;False
 s645;s645v1;s645v1c2;20 Sep Cape;1796;9;20;Cape;False
 s645;s645v1;s645v1c3;2 Feb 1797 Whampoa;1797;2;2;Whampoa;False
-s645;s645v1;s645v1c4;14 Sep 'Bally Town;1797;9;14;'Bally Town;False
+s645;s645v1;s645v1c4;14 Sep 'Bally Town';1797;9;14;'Bally Town';False
 s645;s645v1;s645v1c5;2 Dec Cape;1797;12;2;Cape;False
 s645;s645v1;s645v1c6;17 Mar 1798 Downs;1798;3;17;Downs;False
 s645;s645v2;s645v2c1;Downs 4 Dec 1798;1798;12;4;Downs;False
@@ -13787,7 +13787,7 @@ s648;s648v5;s648v5c10;9 Feb St Helena;1799;2;9;St Helena;False
 s648;s648v5;s648v5c11;13 Jul Downs;1799;7;13;Downs;False
 s648;s648v6;s648v6c1;Portsmouth 23 Apr 1801;1801;4;23;Portsmouth;False
 s648;s648v6;s648v6c2;9 May Madeira;1801;5;9;Madeira;False
-s648;s648v6;s648v6c3;5 Aug St Augustine s Bay;1801;8;5;St Augustine s Bay;True
+s648;s648v6;s648v6c3;5 Aug St Augustine's Bay;1801;8;5;St Augustine's Bay;True
 s648;s648v6;s648v6c4;10 Sep Colombo;1801;9;10;Colombo;False
 s648;s648v6;s648v6c5;22 Oct Kedgeree;1801;10;22;Kedgeree;False
 s648;s648v6;s648v6c6;15 Feb 1802 Saugor;1802;2;15;Saugor;False
@@ -13841,7 +13841,7 @@ s652;s652v2;s652v2c3;16 Dec Bassein;1802;12;16;Bassein;False
 s652;s652v2;s652v2c4;31 Dec Bombay;1802;12;31;Bombay;False
 s652;s652v2;s652v2c5;2 Apr 1803 Calcutta;1803;4;2;Calcutta;False
 s652;s652v2;s652v2c6;17 Jun Kedgeree;1803;6;17;Kedgeree;False
-s652;s652v2;s652v2c7;28 Sep 'Poolo Bay;1803;9;28;'Poolo Bay;False
+s652;s652v2;s652v2c7;28 Sep 'Poolo Bay';1803;9;28;'Poolo Bay';False
 s652;s652v2;s652v2c8;17 Jan 1804 St Helena;1804;1;17;St Helena;False
 s652;s652v2;s652v2c9;29 Apr Downs;1804;4;29;Downs;False
 s653;s653v1;s653v1c1;Portsmouth 11 Sep 1801;1801;9;11;Portsmouth;False
@@ -13892,7 +13892,7 @@ s655;s655v5;s655v5c4;2 Feb 1822 St Helena;1822;2;2;St Helena;False
 s655;s655v5;s655v5c5;4 Apr Downs;1822;4;4;Downs;False
 s655;s655v6;s655v6c1;Downs 7 Jan 1823;1823;1;7;Downs;False
 s655;s655v6;s655v6c2;27 May Bombay;1823;5;27;Bombay;False
-s655;s655v6;s655v6c3;1 Sep Urmston s Bay;1823;9;1;Urmston s Bay;True
+s655;s655v6;s655v6c3;1 Sep Urmston's Bay;1823;9;1;Urmston's Bay;False
 s655;s655v6;s655v6c4;2 Oct Whampoa;1823;10;2;Whampoa;False
 s655;s655v6;s655v6c5;18 Nov Second Bar;1823;11;18;Second Bar;False
 s655;s655v6;s655v6c6;27 Feb 1824 St Helena;1824;2;27;St Helena;False
@@ -14113,7 +14113,7 @@ s670;s670v1;s670v1c7;9 Apr Cape;1791;4;9;Cape;False
 s670;s670v1;s670v1c8;28 Apr St Helena;1791;4;28;St Helena;False
 s670;s670v1;s670v1c9;27 Jun Downs;1791;6;27;Downs;False
 s670;s670v2;s670v2c1;3 Dec Tristan de Cunha;1791;12;3;Tristan de Cunha;True
-s670;s670v2;s670v2c2;1 Feb 1793 St Paul s Island;1793;2;1;St Paul s Island;True
+s670;s670v2;s670v2c2;1 Feb 1793 St Paul's Island;1793;2;1;St Paul's Island;True
 s670;s670v2;s670v2c3;5 Mar Batavia;1793;3;5;Batavia;False
 s670;s670v2;s670v2c4;16 May Condore;1793;5;16;Condore;False
 s670;s670v2;s670v2c5;26 May Cochin China;1793;5;26;Cochin China;False
@@ -14166,12 +14166,12 @@ s674;s674v2;s674v2c2;8 Apr St Helena;1832;4;8;St Helena;False
 s674;s674v2;s674v2c3;31 May Downs;1832;5;31;Downs;False
 s675;s675v1;s675v1c1;Gravesend 28 Feb 1614;1614;2;28;Gravesend;False
 s675;s675v1;s675v1c2;15 Jun Cape;1614;6;15;Cape;False
-s675;s675v1;s675v1c3;6 Aug St Augustine s Bay;1614;8;6;St Augustine s Bay;True
+s675;s675v1;s675v1c3;6 Aug St Augustine's Bay;1614;8;6;St Augustine's Bay;True
 s675;s675v1;s675v1c4;23 Aug Moheli;1614;8;23;Moheli;False
 s675;s675v1;s675v1c5;9 Sep Socotra;1614;9;9;Socotra;False
 s675;s675v1;s675v1c6;15 Oct Surat 3 Mar 1615;1615;3;3;Surat;False
 s675;s675v1;s675v1c7;17 Jun Cape;1615;6;17;Cape;False
-s675;s675v1;s675v1c8;Oct 'Killybeg  Ireland;1615;10;nan;'Killybeg  Ireland;True
+s675;s675v1;s675v1c8;Oct 'Killybeg' Ireland;1615;10;nan;'Killybeg' Ireland;False
 s675;s675v1;s675v1c9;Nov Downs;1615;11;nan;Downs;False
 s675;s675v2;s675v2c1;Downs;1615;nan;nan;Downs;False
 s675;s675v2;s675v2c2;Apr 1617 Cape;1617;4;nan;Cape;False
@@ -14254,7 +14254,7 @@ s679;s679v1;s679v1c3;2 Jan 1806, anon Left Bengal 22 Aug 1805;1805;8;22;1806, an
 s679;s679v1;s679v1c4;12 Nov St Helena;1805;11;12;St Helena;False
 s679;s679v1;s679v1c5;2 Jan 1806 Downs;1806;1;2;Downs;False
 s680;s680v1;s680v1c1;Gravesend 18 Apr 1606;1606;4;18;Gravesend;False
-s680;s680v1;s680v1c2;26 Apr St Margaret s Orkney 12 May;1606;5;12;St Margaret s Orkney;True
+s680;s680v1;s680v1c2;26 Apr St Margaret's Orkney 12 May;1606;5;12;St Margaret's Orkney;True
 s680;s680v1;s680v1c3;Jun Labrador;1606;6;nan;Labrador;False
 s680;s680v1;s680v1c4;23 Jul Newfoundland 22 Aug;1606;8;22;Newfoundland;False
 s680;s680v1;s680v1c5;24 Sep Dartmouth;1606;9;24;Dartmouth;False
@@ -14269,7 +14269,7 @@ s681;s681v1;s681v1c8;Surat 15 Apr 1629;1629;4;15;Surat;False
 s681;s681v1;s681v1c9;Oct St Helena;1629;10;nan;St Helena;False
 s681;s681v1;s681v1c10;18 Dec Plymouth;1629;12;18;Plymouth;False
 s681;s681v2;s681v2c1;Downs;1629;nan;nan;Downs;False
-s681;s681v2;s681v2c2;1 Apr 1631 St Augustine s Bay;1631;4;1;St Augustine s Bay;True
+s681;s681v2;s681v2c2;1 Apr 1631 St Augustine's Bay;1631;4;1;St Augustine's Bay;True
 s681;s681v2;s681v2c3;26 Apr Johanna;1631;4;26;Johanna;False
 s681;s681v2;s681v2c4;3 Jul Masulipatam;1631;7;3;Masulipatam;False
 s681;s681v2;s681v2c5;Bengal;1631;nan;nan;Bengal;False
@@ -14285,7 +14285,7 @@ s681;s681v4;s681v4c2;Oct 1640 Masulipatam;1640;10;nan;Masulipatam;False
 s681;s681v4;s681v4c3;Bantam Jan 1641;1641;1;nan;Bantam;False
 s681;s681v4;s681v4c4;26 Jul Downs;1641;7;26;Downs;False
 s681;s681v5;s681v5c1;Downs 31 Dec 1641;1641;12;31;Downs;False
-s681;s681v5;s681v5c2;16 May 1642 St Augustine s Bay;1642;5;16;St Augustine s Bay;True
+s681;s681v5;s681v5c2;16 May 1642 St Augustine's Bay;1642;5;16;St Augustine's Bay;True
 s681;s681v5;s681v5c3;30 May Johanna;1642;5;30;Johanna;False
 s681;s681v5;s681v5c4;5 Jul Madras;1642;7;5;Madras;False
 s681;s681v5;s681v5c5;24 Jul Masulipatam;1642;7;24;Masulipatam;False
@@ -14357,7 +14357,7 @@ s684;s684v4;s684v4c6;20 May 1736 St Helena;1736;5;20;St Helena;False
 s684;s684v4;s684v4c7;10 Aug The Hope;1736;8;10;The Hope;False
 s685;s685v1;s685v1c1;Downs 4 Mar 1739;1739;3;4;Downs;False
 s685;s685v1;s685v1c2;27 Jul Whampoa;1739;7;27;Whampoa;False
-s685;s685v1;s685v1c3;29 Jan 1740 Princes  Island;1740;1;29;Princes  Island;True
+s685;s685v1;s685v1c3;29 Jan 1740 Princes' Island;1740;1;29;Princes' Island;False
 s685;s685v1;s685v1c4;20 Apr St Helena;1740;4;20;St Helena;False
 s685;s685v1;s685v1c5;16 Sep Downs;1740;9;16;Downs;False
 s685;s685v2;s685v2c1;Portsmouth 21 Feb 1742;1742;2;21;Portsmouth;False
@@ -14374,7 +14374,7 @@ s685;s685v3;s685v3c5;5 Apr Calcutta;1747;4;5;Calcutta;False
 s685;s685v3;s685v3c6;11 Oct Culpee;1747;10;11;Culpee;False
 s685;s685v3;s685v3c7;27 Dec Vizagapatam;1747;12;27;Vizagapatam;False
 s685;s685v3;s685v3c8;3 Feb 1748 Culpee;1748;2;3;Culpee;False
-s685;s685v3;s685v3c9;21 Jun St Augustine s Bay;1748;6;21;St Augustine s Bay;True
+s685;s685v3;s685v3c9;21 Jun St Augustine's Bay;1748;6;21;St Augustine's Bay;True
 s685;s685v3;s685v3c10;3 Nov Cape;1748;11;3;Cape;False
 s685;s685v3;s685v3c11;2 Dec St Helena;1748;12;2;St Helena;False
 s685;s685v3;s685v3c12;27 Dec Ascension;1748;12;27;Ascension;False
@@ -14387,7 +14387,7 @@ s686;s686v1;s686v1c5;1 Mar 1753 St Helena;1753;3;1;St Helena;False
 s686;s686v1;s686v1c6;20 May Downs;1753;5;20;Downs;False
 s686;s686v2;s686v2c1;Downs 23 Apr 1755;1755;4;23;Downs;False
 s686;s686v2;s686v2c2;22 May Sao Tiago;1755;5;22;Sao Tiago;False
-s686;s686v2;s686v2c3;18 Aug St Augustine s Bay;1755;8;18;St Augustine s Bay;True
+s686;s686v2;s686v2c3;18 Aug St Augustine's Bay;1755;8;18;St Augustine's Bay;True
 s686;s686v2;s686v2c4;1 Dec Bombay;1755;12;1;Bombay;False
 s686;s686v2;s686v2c5;5 Feb 1756 Bandar Abbas;1756;2;5;Bandar Abbas;False
 s686;s686v2;s686v2c6;10 Mar Bombay;1756;3;10;Bombay;False
@@ -14402,7 +14402,7 @@ s686;s686v2;s686v2c14;27 Jun Leith;1757;6;27;Leith;False
 s686;s686v2;s686v2c15;9 Aug Downs;1757;8;9;Downs;False
 s686;s686v3;s686v3c1;Portsmouth 14 Apr 1759;1759;4;14;Portsmouth;False
 s686;s686v3;s686v3c2;1 May Madeira;1759;5;1;Madeira;False
-s686;s686v3;s686v3c3;10 Aug St Augustine s Bay;1759;8;10;St Augustine s Bay;True
+s686;s686v3;s686v3c3;10 Aug St Augustine's Bay;1759;8;10;St Augustine's Bay;True
 s686;s686v3;s686v3c4;28 Oct Madras;1759;10;28;Madras;False
 s686;s686v3;s686v3c5;31 Dec Culpee;1759;12;31;Culpee;False
 s686;s686v3;s686v3c6;24 Feb 1760 Ingeli;1760;2;24;Ingeli;False
@@ -14628,11 +14628,11 @@ s692;s692v5;s692v5c4;4 Sep Saugor;1810;9;4;Saugor;False
 s692;s692v5;s692v5c5;29 Nov Mauritius;1810;11;29;Mauritius;False
 s692;s692v5;s692v5c6;10 Feb 1811 Diamond Harbour;1811;2;10;Diamond Harbour;False
 s692;s692v5;s692v5c7;4 May Malacca;1811;5;4;Malacca;False
-s692;s692v5;s692v5c8;12 Jul 'Rendezvous Island  Borneo;1811;7;12;'Rendezvous Island  Borneo;True
+s692;s692v5;s692v5c8;12 Jul 'Rendezvous Island' Borneo;1811;7;12;'Rendezvous Island' Borneo;True
 s692;s692v5;s692v5c9;10 Aug Batavia;1811;8;10;Batavia;False
 s692;s692v5;s692v5c10;31 Oct Calcutta;1811;10;31;Calcutta;False
 s692;s692v5;s692v5c11;28 Dec Saugor;1811;12;28;Saugor;False
-s692;s692v5;s692v5c12;4 Apr 1812 'towards England;1812;4;4;'towards England;False
+s692;s692v5;s692v5c12;4 Apr 1812 'towards England';1812;4;4;'towards England';False
 s692;s692v6;s692v6c1;Torbay 24 Mar 1813;1813;3;24;Torbay;False
 s692;s692v6;s692v6c2;11 Apr Tenerife;1813;4;11;Tenerife;False
 s692;s692v6;s692v6c3;13 Jul Johanna;1813;7;13;Johanna;False
@@ -14672,7 +14672,7 @@ s694;s694v2;s694v2c5;23 Oct Madras;1773;10;23;Madras;False
 s694;s694v2;s694v2c6;27 Nov Mauritius;1773;11;27;Mauritius;False
 s694;s694v2;s694v2c7;15 Dec Bourbon;1773;12;15;Bourbon;False
 s694;s694v2;s694v2c8;21 Jan 1774 Mozambique;1774;1;21;Mozambique;False
-s694;s694v2;s694v2c9;15 Apr 'towards England  HURLEY;1774;4;15;'towards England  HURLEY;True
+s694;s694v2;s694v2c9;15 Apr 'towards England' HURLEY;1774;4;15;'towards England' HURLEY;True
 s695;s695v1;s695v1c1;Downs 26 Jun 1820;1820;6;26;Downs;False
 s695;s695v1;s695v1c2;29 Sep Cape;1820;9;29;Cape;False
 s695;s695v1;s695v1c3;31 Dec Bombay;1820;12;31;Bombay;False
@@ -15026,7 +15026,7 @@ s717;s717v1;s717v1c12;Hirado 17 Dec 1620;1620;12;17;Hirado;False
 s717;s717v1;s717v1c13;19 Sep 1621 Downs;1621;9;19;Downs;False
 s717;s717v2;s717v2c1;Downs 27 Mar 1624;1624;3;27;Downs;False
 s717;s717v2;s717v2c2;17 Jul Cape;1624;7;17;Cape;False
-s717;s717v2;s717v2c3;21 Aug St Augustine s Bay;1624;8;21;St Augustine s Bay;True
+s717;s717v2;s717v2c3;21 Aug St Augustine's Bay;1624;8;21;St Augustine's Bay;True
 s717;s717v2;s717v2c4;1 Sep Moheli;1624;9;1;Moheli;False
 s717;s717v2;s717v2c5;18 Sep Surat 1 Dec;1624;12;1;Surat;False
 s717;s717v2;s717v2c6;28 Dec Bandar Abbas;1624;12;28;Bandar Abbas;False
@@ -15038,7 +15038,7 @@ s717;s717v2;s717v2c11;6 Aug St Helena;1626;8;6;St Helena;False
 s717;s717v2;s717v2c12;Oct Portsmouth;1626;10;nan;Portsmouth;False
 s717;s717v3;s717v3c1;Downs 19 Mar 1630;1630;3;19;Downs;False
 s717;s717v3;s717v3c2;Trimdade;1630;nan;nan;Trimdade;False
-s717;s717v3;s717v3c3;14 Jul St Augustine s Bay;1630;7;14;St Augustine s Bay;True
+s717;s717v3;s717v3c3;14 Jul St Augustine's Bay;1630;7;14;St Augustine's Bay;True
 s717;s717v3;s717v3c4;22 Sep Surat;1630;9;22;Surat;False
 s717;s717v3;s717v3c5;7 Feb 1631 Bandar Abbas;1631;2;7;Bandar Abbas;False
 s717;s717v3;s717v3c6;Surat 27 Apr;1631;4;27;Surat;False
@@ -15091,7 +15091,7 @@ s718;s718v7;s718v7c1;Downs 24 Jun 1826;1826;6;24;Downs;False
 s718;s718v7;s718v7c2;26 Nov Madras;1826;11;26;Madras;False
 s718;s718v7;s718v7c3;25 Jan 1827 Penang;1827;1;25;Penang;False
 s718;s718v7;s718v7c4;12 Feb Malacca;1827;2;12;Malacca;False
-s718;s718v7;s718v7c5;1 Apr Colvin s Ghat;1827;4;1;Colvin s Ghat;True
+s718;s718v7;s718v7c5;1 Apr Colvin's Ghat;1827;4;1;Colvin's Ghat;False
 s718;s718v7;s718v7c6;;1827;nan;nan;;False
 s718;s718v8;s718v8c1;Downs 7 Jul 1828;1828;7;7;Downs;False
 s718;s718v8;s718v8c2;10 Nov Colombo;1828;11;10;Colombo;False
@@ -15166,7 +15166,7 @@ s733;s733v1;s733v1c5;24 Sep Downs;1811;9;24;Downs;False
 s734;s734v1;s734v1c1;Tilbury 19 Mar 1621;1621;3;19;Tilbury;False
 s734;s734v1;s734v1c2;30 May Trimdade;1621;5;30;Trimdade;False
 s734;s734v1;s734v1c3;30 Jun Cape;1621;6;30;Cape;False
-s734;s734v1;s734v1c4;23 Jul St Augustine s Bay;1621;7;23;St Augustine s Bay;True
+s734;s734v1;s734v1c4;23 Jul St Augustine's Bay;1621;7;23;St Augustine's Bay;True
 s734;s734v1;s734v1c5;26 Sep Surat 25 Oct;1621;10;25;Surat;False
 s734;s734v1;s734v1c6;14 Nov Jask;1621;11;14;Jask;False
 s734;s734v1;s734v1c7;23 Jan 1622 Bandar Abbas;1622;1;23;Bandar Abbas;False
@@ -15194,7 +15194,7 @@ s734;s734v3;s734v3c9;21 Oct Cape;1630;10;21;Cape;False
 s734;s734v3;s734v3c10;4 Dec St Helena;1630;12;4;St Helena;False
 s734;s734v3;s734v3c11;Apr 1631 Downs;1631;4;nan;Downs;False
 s734;s734v4;s734v4c1;Downs 29 Mar 1632;1632;3;29;Downs;False
-s734;s734v4;s734v4c2;18 Jul St Augustine s Bay;1632;7;18;St Augustine s Bay;True
+s734;s734v4;s734v4c2;18 Jul St Augustine's Bay;1632;7;18;St Augustine's Bay;True
 s734;s734v4;s734v4c3;16 Aug Moheli;1632;8;16;Moheli;False
 s734;s734v4;s734v4c4;25 Sep Jask;1632;9;25;Jask;False
 s734;s734v4;s734v4c5;2 Oct Bandar Abbas ' 28 Nov Surat;1632;11;28;Bandar Abbas ' Surat;True
@@ -15204,7 +15204,7 @@ s734;s734v4;s734v4c8;Masulipatam;1633;nan;nan;Masulipatam;False
 s734;s734v4;s734v4c9;Sep Bandar Abbas;1633;9;nan;Bandar Abbas;False
 s734;s734v4;s734v4c10;5 Nov Surat Jun 1634;1634;6;5;Surat;False
 s734;s734v4;s734v4c11;Bandar Abbas;1634;nan;nan;Bandar Abbas;False
-s734;s734v4;s734v4c12;Jul St Augustine s Bay;1634;7;nan;St Augustine s Bay;True
+s734;s734v4;s734v4c12;Jul St Augustine's Bay;1634;7;nan;St Augustine's Bay;True
 s734;s734v4;s734v4c13;3 Oct Bandar Abbas;1634;10;3;Bandar Abbas;False
 s734;s734v4;s734v4c14;Surat;1634;nan;nan;Surat;False
 s734;s734v4;s734v4c15;Jan 1635 Goa;1635;1;nan;Goa;False
@@ -15964,7 +15964,7 @@ s770;s770v8;s770v8c1;Downs 11 Jan 1829;1829;1;11;Downs;False
 s770;s770v8;s770v8c2;1 May Saugor;1829;5;1;Saugor;False
 s770;s770v8;s770v8c3;13 Jul Penang;1829;7;13;Penang;False
 s770;s770v8;s770v8c4;28 Jul Singapore;1829;7;28;Singapore;False
-s770;s770v8;s770v8c5;14 Aug Urmston s Bay;1829;8;14;Urmston s Bay;True
+s770;s770v8;s770v8c5;14 Aug Urmston's Bay;1829;8;14;Urmston's Bay;False
 s770;s770v8;s770v8c6;6 Nov Cap Sing Moon;1829;11;6;Cap Sing Moon;True
 s770;s770v8;s770v8c7;9 Feb 1830 Whampoa;1830;2;9;Whampoa;False
 s770;s770v8;s770v8c8;24 Feb Second Bar;1830;2;24;Second Bar;False
@@ -16517,7 +16517,7 @@ s801;s801v5;s801v5c13;27 Mar Cape;1637;3;27;Cape;False
 s801;s801v5;s801v5c14;20 Apr St Helena;1637;4;20;St Helena;False
 s801;s801v5;s801v5c15;18 Jul Downs;1637;7;18;Downs;False
 s801;s801v6;s801v6c1;Downs 25 Mar 1639;1639;3;25;Downs;False
-s801;s801v6;s801v6c2;8 Jul St Augustine s Bay;1639;7;8;St Augustine s Bay;True
+s801;s801v6;s801v6c2;8 Jul St Augustine's Bay;1639;7;8;St Augustine's Bay;True
 s801;s801v6;s801v6c3;30 Jul Johanna;1639;7;30;Johanna;False
 s801;s801v6;s801v6c4;16 Sep Surat;1639;9;16;Surat;False
 s801;s801v6;s801v6c5;11 Nov Bandar Abbas;1639;11;11;Bandar Abbas;False
@@ -16541,7 +16541,7 @@ s802;s802v2;s802v2c5;11 Mar Pulau Run;1662;3;11;Pulau Run;False
 s802;s802v2;s802v2c6;3 May Makassar;1662;5;3;Makassar;False
 s802;s802v2;s802v2c7;25 Jun Bantam 1 Oct;1662;10;1;Bantam;False
 s802;s802v2;s802v2c8;22 Jan 1663 St Helena;1663;1;22;St Helena;False
-s802;s802v2;s802v2c9;29 Apr Downs * includes 'Directions from Bantam to Makassar  by John Edwards;1663;4;29;Downs * includes 'Directions from Bantam to Makassar  by John Edwards;True
+s802;s802v2;s802v2c9;29 Apr Downs * includes 'Directions from Bantam to Makassar' by John Edwards;1663;4;29;Downs * includes 'Directions from Bantam to Makassar' by John Edwards;True
 s802;s802v3;s802v3c1;16 Apr 1664;1664;4;16;nan;False
 s802;s802v3;s802v3c2;Dec 1665;1665;12;nan;nan;False
 s802;s802v4;s802v4c1;Gravesend 11 Dec 1672;1672;12;11;Gravesend;False
@@ -16689,7 +16689,7 @@ s809;s809v2;s809v2c16;10 Mar 1756 St Helena;1756;3;10;St Helena;False
 s809;s809v2;s809v2c17;6 Sep Kmsale;1756;9;6;Kmsale;False
 s809;s809v2;s809v2c18;4 Nov Downs;1756;11;4;Downs;False
 s809;s809v3;s809v3c1;Portsmouth 20 Apr 1758;1758;4;20;Portsmouth;False
-s809;s809v3;s809v3c2;1 Aug St Augustine s Bay;1758;8;1;St Augustine s Bay;True
+s809;s809v3;s809v3c2;1 Aug St Augustine's Bay;1758;8;1;St Augustine's Bay;True
 s809;s809v3;s809v3c3;12 Oct Madras;1758;10;12;Madras;False
 s809;s809v3;s809v3c4;17 Nov Culpee;1758;11;17;Culpee;False
 s809;s809v3;s809v3c5;8 Jan 1759 Ingeli;1759;1;8;Ingeli;False
@@ -16698,7 +16698,7 @@ s809;s809v3;s809v3c7;21 Jun St Helena;1759;6;21;St Helena;False
 s809;s809v3;s809v3c8;17 Sep Kinsale;1759;9;17;Kinsale;False
 s809;s809v3;s809v3c9;19 Oct Downs;1759;10;19;Downs;False
 s809;s809v4;s809v4c1;Plymouth 3 Jun 1760;1760;6;3;Plymouth;False
-s809;s809v4;s809v4c2;30 Jul St Augustine s Bay;1760;7;30;St Augustine s Bay;True
+s809;s809v4;s809v4c2;30 Jul St Augustine's Bay;1760;7;30;St Augustine's Bay;True
 s809;s809v4;s809v4c3;12 Dec Colombo;1760;12;12;Colombo;False
 s809;s809v4;s809v4c4;21 Dec Anjengo;1760;12;21;Anjengo;False
 s809;s809v4;s809v4c5;30 Dec Tellicheny;1760;12;30;Tellicheny;False
@@ -16730,7 +16730,7 @@ s811;s811v1;s811v1c9;8 May Tellicheny;1765;5;8;Tellicheny;False
 s811;s811v1;s811v1c10;4 Aug St Helena;1765;8;4;St Helena;False
 s811;s811v1;s811v1c11;26 Oct Downs;1765;10;26;Downs;False
 s811;s811v2;s811v2c1;Downs 4 Mar 1767;1767;3;4;Downs;False
-s811;s811v2;s811v2c2;20 Jun St Augustine s Bay;1767;6;20;St Augustine s Bay;True
+s811;s811v2;s811v2c2;20 Jun St Augustine's Bay;1767;6;20;St Augustine's Bay;True
 s811;s811v2;s811v2c3;10 Aug Madras;1767;8;10;Madras;False
 s811;s811v2;s811v2c4;11 Nov Malacca;1767;11;11;Malacca;False
 s811;s811v2;s811v2c5;15 Jul 1768 Whampoa;1768;7;15;Whampoa;False
@@ -16924,7 +16924,7 @@ s817;s817v1;s817v1c3;7 Jul Madras;1766;7;7;Madras;False
 s817;s817v1;s817v1c4;2 Aug Kedgeree;1766;8;2;Kedgeree;False
 s817;s817v1;s817v1c5;3 Sep Ingeli;1766;9;3;Ingeli;False
 s817;s817v1;s817v1c6;6 Oct Madras;1766;10;6;Madras;False
-s817;s817v1;s817v1c7;21 Nov St George s Channel;1766;11;21;St George s Channel;True
+s817;s817v1;s817v1c7;21 Nov St George's Channel;1766;11;21;St George's Channel;True
 s817;s817v1;s817v1c8;23 Dec Madras;1766;12;23;Madras;False
 s817;s817v1;s817v1c9;22 Apr 1767 St Helena;1767;4;22;St Helena;False
 s817;s817v1;s817v1c10;16 Jul Downs;1767;7;16;Downs;False
@@ -16982,7 +16982,7 @@ s818;s818v3;s818v3c4;15 Aug Madras;1791;8;15;Madras;False
 s818;s818v3;s818v3c5;25 Aug Diamond Harbour;1791;8;25;Diamond Harbour;False
 s818;s818v3;s818v3c6;8 Oct Madras;1791;10;8;Madras;False
 s818;s818v3;s818v3c7;17 Nov Diamond Harbour;1791;11;17;Diamond Harbour;False
-s818;s818v3;s818v3c8;30 Jan 1792 Cox s Island;1792;1;30;Cox s Island;True
+s818;s818v3;s818v3c8;30 Jan 1792 Cox's Island;1792;1;30;Cox's Island;False
 s818;s818v3;s818v3c9;20 Mar Madras;1792;3;20;Madras;False
 s818;s818v3;s818v3c10;1 Jun St Helena;1792;6;1;St Helena;False
 s818;s818v3;s818v3c11;25 Jul Downs;1792;7;25;Downs;False
@@ -17892,7 +17892,7 @@ s847;s847v3;s847v3c1;Downs 9 Mar 1709;1709;3;9;Downs;False
 s847;s847v3;s847v3c2;5 May Sao Tiago;1709;5;5;Sao Tiago;False
 s847;s847v3;s847v3c3;8 Oct Karwar;1709;10;8;Karwar;False
 s847;s847v3;s847v3c4;4 Jan 1710 Balasore;1710;1;4;Balasore;False
-s847;s847v3;s847v3c5;22 Jan Rogue s River;1710;1;22;Rogue s River;True
+s847;s847v3;s847v3c5;22 Jan Rogue's River;1710;1;22;Rogue's River;False
 s847;s847v3;s847v3c6;11 Jan 1711 Cape;1711;1;11;Cape;False
 s847;s847v3;s847v3c7;23 Jul Texel;1711;7;23;Texel;False
 s847;s847v3;s847v3c8;9 Aug Deptford;1711;8;9;Deptford;False
@@ -17975,7 +17975,7 @@ s853;s853v6;s853v6c1;7 Dec 1678;1678;12;7;nan;False
 s853;s853v6;s853v6c2;10 Apr 1680;1680;4;10;nan;False
 s854;s854v1;s854v1c1;Calcutta 7 Feb 1801;1801;2;7;Calcutta;False
 s854;s854v1;s854v1c2;21 Mar Saugor;1801;3;21;Saugor;False
-s854;s854v1;s854v1c3;13 Jul Simon s Bay;1801;7;13;Simon s Bay;True
+s854;s854v1;s854v1c3;13 Jul Simon's Bay;1801;7;13;Simon's Bay;False
 s854;s854v1;s854v1c4;19 Aug St Helena;1801;8;19;St Helena;False
 s854;s854v1;s854v1c5;31 Oct Downs;1801;10;31;Downs;False
 s855;s855v1;s855v1c1;Downs 2 Jan 1722;1722;1;2;Downs;False
@@ -18057,7 +18057,7 @@ s857;s857v4;s857v4c9;29 Jun Woolwich;1737;6;29;Woolwich;False
 s858;s858v1;s858v1c1;Portsmouth 11 Mar 1739;1739;3;11;Portsmouth;False
 s858;s858v1;s858v1c2;28 Mar Madeira;1739;3;28;Madeira;False
 s858;s858v1;s858v1c3;17 Aug Madras;1739;8;17;Madras;False
-s858;s858v1;s858v1c4;18 Sep 'Miapore;1739;9;18;'Miapore;False
+s858;s858v1;s858v1c4;18 Sep 'Miapore';1739;9;18;'Miapore';False
 s858;s858v1;s858v1c5;28 Nov Ingeli;1739;11;28;Ingeli;False
 s858;s858v1;s858v1c6;21 Mar 1740 St Helena;1740;3;21;St Helena;False
 s858;s858v1;s858v1c7;17 Sep Downs;1740;9;17;Downs;False
@@ -18238,14 +18238,14 @@ s868;s868v1;s868v1c1;Downs 30 Dec 1785;1785;12;30;Downs;False
 s868;s868v1;s868v1c2;29 Jan 1786 Madeira;1786;1;29;Madeira;False
 s868;s868v1;s868v1c3;30 Jun Madras;1786;6;30;Madras;False
 s868;s868v1;s868v1c4;10 Jul Calcutta;1786;7;10;Calcutta;False
-s868;s868v1;s868v1c5;2 Nov Cox s Island;1786;11;2;Cox s Island;True
+s868;s868v1;s868v1c5;2 Nov Cox's Island;1786;11;2;Cox's Island;False
 s868;s868v1;s868v1c6;16 Dec Madras;1786;12;16;Madras;False
 s868;s868v1;s868v1c7;24 Feb 1787 St Helena;1787;2;24;St Helena;False
 s868;s868v1;s868v1c8;28 Apr Downs;1787;4;28;Downs;False
 s868;s868v2;s868v2c1;Downs 4 Apr 1788;1788;4;4;Downs;False
 s868;s868v2;s868v2c2;14 Jul Madras;1788;7;14;Madras;False
 s868;s868v2;s868v2c3;23 Jul Diamond Harbour;1788;7;23;Diamond Harbour;False
-s868;s868v2;s868v2c4;20 Nov Cox s Island;1788;11;20;Cox s Island;True
+s868;s868v2;s868v2c4;20 Nov Cox's Island;1788;11;20;Cox's Island;False
 s868;s868v2;s868v2c5;26 Dec Saugor;1788;12;26;Saugor;False
 s868;s868v2;s868v2c6;1 Jan 1789 Madras;1789;1;1;Madras;False
 s868;s868v2;s868v2c7;23 Apr St Helena;1789;4;23;St Helena;False
@@ -18253,7 +18253,7 @@ s868;s868v2;s868v2c8;21 Jun Downs;1789;6;21;Downs;False
 s868;s868v3;s868v3c1;Downs 26 Apr 1791;1791;4;26;Downs;False
 s868;s868v3;s868v3c2;14 Aug Madras;1791;8;14;Madras;False
 s868;s868v3;s868v3c3;3 Oct Bankshall;1791;10;3;Bankshall;False
-s868;s868v3;s868v3c4;2 Feb 1792 Cox s Island;1792;2;2;Cox s Island;True
+s868;s868v3;s868v3c4;2 Feb 1792 Cox's Island;1792;2;2;Cox's Island;False
 s868;s868v3;s868v3c5;11 Mar Saugor;1792;3;11;Saugor;False
 s868;s868v3;s868v3c6;24 Mar Madras;1792;3;24;Madras;False
 s868;s868v3;s868v3c7;26 Aug St Helena;1792;8;26;St Helena;False
@@ -18261,7 +18261,7 @@ s868;s868v3;s868v3c8;31 Oct Downs;1792;10;31;Downs;False
 s868;s868v4;s868v4c1;Portsmouth 2 May 1794;1794;5;2;Portsmouth;False
 s868;s868v4;s868v4c2;11 Sep Madras;1794;9;11;Madras;False
 s868;s868v4;s868v4c3;15 Oct Diamond Harbour;1794;10;15;Diamond Harbour;False
-s868;s868v4;s868v4c4;13 Dec Cox s Island;1794;12;13;Cox s Island;True
+s868;s868v4;s868v4c4;13 Dec Cox's Island;1794;12;13;Cox's Island;False
 s868;s868v4;s868v4c5;19 Feb 1796 Saugor;1796;2;19;Saugor;False
 s868;s868v4;s868v4c6;3 Mar Madras;1796;3;3;Madras;False
 s868;s868v4;s868v4c7;24 May St Helena;1796;5;24;St Helena;False
@@ -18397,7 +18397,7 @@ s871;s871v6;s871v6c1;Portsmouth 2 Jun 1813;1813;6;2;Portsmouth;False
 s871;s871v6;s871v6c2;21 Jun Madeira;1813;6;21;Madeira;False
 s871;s871v6;s871v6c3;18 Oct Trincomalee;1813;10;18;Trincomalee;False
 s871;s871v6;s871v6c4;29 Dec Saugor;1813;12;29;Saugor;False
-s871;s871v6;s871v6c5;16 Jun 1814 Simon s Bay;1814;6;16;Simon s Bay;True
+s871;s871v6;s871v6c5;16 Jun 1814 Simon's Bay;1814;6;16;Simon's Bay;False
 s871;s871v6;s871v6c6;6 Sep St Helena;1814;9;6;St Helena;False
 s871;s871v6;s871v6c7;16 Nov Downs;1814;11;16;Downs;False
 s871;s871v7;s871v7c1;Downs 21 Apr 1816;1816;4;21;Downs;False
@@ -18512,7 +18512,7 @@ s880;s880v2;s880v2c4;14 Oct Moco Moco;1749;10;14;Moco Moco;False
 s880;s880v2;s880v2c5;29 Oct Ipoh;1749;10;29;Ipoh;False
 s880;s880v2;s880v2c6;5 Dec Benkulen;1749;12;5;Benkulen;False
 s880;s880v2;s880v2c7;24 Feb 1750 Batavia;1750;2;24;Batavia;False
-s880;s880v2;s880v2c8;27 Jun St Augustine s Bay;1750;6;27;St Augustine s Bay;True
+s880;s880v2;s880v2c8;27 Jun St Augustine's Bay;1750;6;27;St Augustine's Bay;True
 s880;s880v2;s880v2c9;12 Oct St Helena;1750;10;12;St Helena;False
 s880;s880v2;s880v2c10;20 Feb 1751 Downs;1751;2;20;Downs;False
 s880;s880v3;s880v3c1;Downs 27 Dec 1752;1752;12;27;Downs;False
@@ -18957,7 +18957,7 @@ s894;s894v2;s894v2c1;10 Feb 1698;1698;2;10;nan;False
 s894;s894v2;s894v2c2;29 Aug 1699;1699;8;29;nan;False
 s894;s894v3;s894v3c1;Downs 15 May 1700;1700;5;15;Downs;False
 s894;s894v3;s894v3c2;7 Jun Sao Tiago;1700;6;7;Sao Tiago;False
-s894;s894v3;s894v3c3;22 Jul All Saints  Bay;1700;7;22;All Saints  Bay;True
+s894;s894v3;s894v3c3;22 Jul All Saints' Bay;1700;7;22;All Saints' Bay;True
 s894;s894v3;s894v3c4;2 Feb 1701 Cochin;1701;2;2;Cochin;False
 s894;s894v3;s894v3c5;15 Mar Karwar;1701;3;15;Karwar;False
 s894;s894v3;s894v3c6;13 Apr Bombay;1701;4;13;Bombay;False
@@ -18978,7 +18978,7 @@ s894;s894v4;s894v4c5;2 Mar Madras;1705;3;2;Madras;False
 s894;s894v4;s894v4c6;22 May Mauritius;1705;5;22;Mauritius;False
 s894;s894v4;s894v4c7;13 Oct Cape;1705;10;13;Cape;False
 s894;s894v4;s894v4c8;18 Nov St Helena;1705;11;18;St Helena;False
-s894;s894v4;s894v4c9;15 Feb 1706 'towards England;1706;2;15;'towards England;False
+s894;s894v4;s894v4c9;15 Feb 1706 'towards England';1706;2;15;'towards England';False
 s895;s895v1;s895v1c1;Portsmouth 25 Oct 1796;1796;10;25;Portsmouth;False
 s895;s895v1;s895v1c2;wrecked in the Hugh 10 Aug 1797;1797;8;10;wrecked in the Hugh;True
 s896;s896v1;s896v1c1;Gravesend 24 Feb 1627;1627;2;24;Gravesend;False
@@ -18991,7 +18991,7 @@ s896;s896v1;s896v1c7;25 Dec Bantam;1628;12;25;Bantam;False
 s896;s896v1;s896v1c8;7 Aug 1629 Cape Verde Islands;1629;8;7;Cape Verde Islands;True
 s896;s896v1;s896v1c9;Nov Downs;1629;11;nan;Downs;False
 s896;s896v2;s896v2c1;Downs 2 Feb 1631;1631;2;2;Downs;False
-s896;s896v2;s896v2c2;30 May St Augustine s Bay;1631;5;30;St Augustine s Bay;True
+s896;s896v2;s896v2c2;30 May St Augustine's Bay;1631;5;30;St Augustine's Bay;True
 s896;s896v2;s896v2c3;1 Jul Johanna;1631;7;1;Johanna;False
 s896;s896v2;s896v2c4;14 Oct Surat;1631;10;14;Surat;False
 s896;s896v2;s896v2c5;26 Feb 1632 Bandar Abbas;1632;2;26;Bandar Abbas;False
@@ -19008,7 +19008,7 @@ s896;s896v2;s896v2c15;5 Nov Surat 1 Feb 1624;1624;2;1;Surat;False
 s896;s896v2;s896v2c16;Sep Downs;1624;9;nan;Downs;False
 s896;s896v3;s896v3c1;Downs 14 Apr 1636;1636;4;14;Downs;False
 s896;s896v3;s896v3c2;12 Jul Cape;1636;7;12;Cape;False
-s896;s896v3;s896v3c3;6 Aug St Augustine s Bay;1636;8;6;St Augustine s Bay;True
+s896;s896v3;s896v3c3;6 Aug St Augustine's Bay;1636;8;6;St Augustine's Bay;True
 s896;s896v3;s896v3c4;26 Aug Johanna;1636;8;26;Johanna;False
 s896;s896v3;s896v3c5;4 Oct Surat 29 Nov;1636;11;29;Surat;False
 s896;s896v3;s896v3c6;25 Dec Bandar Abbas;1636;12;25;Bandar Abbas;False
@@ -19025,7 +19025,7 @@ s896;s896v3;s896v3c16;14 May Mokha;1638;5;14;Mokha;False
 s896;s896v3;s896v3c17;23 Aug Aden;1638;8;23;Aden;False
 s896;s896v3;s896v3c18;24 Sep Surat 5 Jan 1639;1639;1;5;Surat;False
 s896;s896v3;s896v3c19;5 May Cape;1639;5;5;Cape;False
-s896;s896v3;s896v3c20;forced back to St Augustine s Bay;1639;nan;nan;forced back to St Augustine s Bay;True
+s896;s896v3;s896v3c20;forced back to St Augustine's Bay;1639;nan;nan;forced back to St Augustine's Bay;True
 s896;s896v3;s896v3c21;29 Dec Downs;1639;12;29;Downs;False
 s896;s896v4;s896v4c1;Downs 8 Mar 1643;1643;3;8;Downs;False
 s896;s896v4;s896v4c2;Bantam 21 Dec;1643;12;21;Bantam;False
@@ -19181,7 +19181,7 @@ s913;s913v3;s913v3c1;Downs 8 Mar 1792;1792;3;8;Downs;False
 s913;s913v3;s913v3c2;17 Jun Johanna;1792;6;17;Johanna;False
 s913;s913v3;s913v3c3;21 Jul Madras;1792;7;21;Madras;False
 s913;s913v3;s913v3c4;15 Aug Diamond Harbour;1792;8;15;Diamond Harbour;False
-s913;s913v3;s913v3c5;15 Sep 'Broken Ground;1792;9;15;'Broken Ground;False
+s913;s913v3;s913v3c5;15 Sep 'Broken Ground';1792;9;15;'Broken Ground';False
 s913;s913v3;s913v3c6;8 Oct Masulipatam;1792;10;8;Masulipatam;False
 s913;s913v3;s913v3c7;14 Dec Diamond Harbour;1792;12;14;Diamond Harbour;False
 s913;s913v3;s913v3c8;18 Jan 1793 Saugor;1793;1;18;Saugor;False
@@ -19432,7 +19432,7 @@ s924;s924v3;s924v3c6;26 Aug Downs;1794;8;26;Downs;False
 s924;s924v4;s924v4c1;Downs 24 May 1795;1795;5;24;Downs;False
 s924;s924v4;s924v4c2;2 Sep Madras;1795;9;2;Madras;False
 s924;s924v4;s924v4c3;5 Oct Diamond Harbour;1795;10;5;Diamond Harbour;False
-s924;s924v4;s924v4c4;4 Dec Cox s Island;1795;12;4;Cox s Island;True
+s924;s924v4;s924v4c4;4 Dec Cox's Island;1795;12;4;Cox's Island;False
 s924;s924v4;s924v4c5;6 Jan 1796 Madras;1796;1;6;Madras;False
 s924;s924v4;s924v4c6;26 Apr Cape;1796;4;26;Cape;False
 s924;s924v4;s924v4c7;30 May St Helena;1796;5;30;St Helena;False
@@ -19604,7 +19604,7 @@ s935;s935v5;s935v5c4;18 Mar St Helena;1827;3;18;St Helena;False
 s935;s935v5;s935v5c5;16 May Blackwall;1827;5;16;Blackwall;False
 s935;s935v6;s935v6c1;Downs 5 Jul 1828;1828;7;5;Downs;False
 s935;s935v6;s935v6c2;14 Nov Saugor;1828;11;14;Saugor;False
-s935;s935v6;s935v6c3;24 Nov 'Burah Bazaar;1828;11;24;'Burah Bazaar;False
+s935;s935v6;s935v6c3;24 Nov 'Burah Bazaar';1828;11;24;'Burah Bazaar';False
 s935;s935v7;s935v7c1;Downs 25 Jun 1832;1832;6;25;Downs;False
 s935;s935v7;s935v7c2;6 Nov Singapore;1832;11;6;Singapore;False
 s935;s935v7;s935v7c3;3 Feb 1833 Whampoa;1833;2;3;Whampoa;False
@@ -19949,7 +19949,7 @@ s949;s949v1;s949v1c6;Mar Surat;1627;3;nan;Surat;False
 s949;s949v1;s949v1c7;27 Apr Masulipatam;1627;4;27;Masulipatam;False
 s949;s949v1;s949v1c8;Oct Bantam 18 Feb 1828;1828;2;18;Bantam;False
 s949;s949v1;s949v1c9;Oct Downs;1828;10;nan;Downs;False
-s949;s949v1;s949v1c10;driven from anchors in a storm and wrecked on 'Fly Island , Holland;1828;nan;nan;driven from anchors in a storm and wrecked on 'Fly Island , Holland;True
+s949;s949v1;s949v1c10;driven from anchors in a storm and wrecked on 'Fly Island', Holland;1828;nan;nan;driven from anchors in a storm and wrecked on 'Fly Island', Holland;True
 s950;s950v1;s950v1c1;Portsmouth 9 Apr 1770;1770;4;9;Portsmouth;False
 s950;s950v1;s950v1c2;20 Apr Madeira;1770;4;20;Madeira;False
 s950;s950v1;s950v1c3;1 Aug Rio de Janeiro;1770;8;1;Rio de Janeiro;True
@@ -19982,7 +19982,7 @@ s950;s950v3;s950v3c7;4 Jun Madras;1779;6;4;Madras;False
 s950;s950v3;s950v3c8;1 Oct Whampoa;1779;10;1;Whampoa;False
 s950;s950v3;s950v3c9;20 Jan 1780 Second Bar;1780;1;20;Second Bar;False
 s950;s950v3;s950v3c10;8 Feb Malacca;1780;2;8;Malacca;False
-s950;s950v3;s950v3c11;5 Jul St Augustine s Bay;1780;7;5;St Augustine s Bay;True
+s950;s950v3;s950v3c11;5 Jul St Augustine's Bay;1780;7;5;St Augustine's Bay;True
 s950;s950v3;s950v3c12;25 Aug Cape;1780;8;25;Cape;False
 s950;s950v3;s950v3c13;29 Oct St Helena;1780;10;29;St Helena;False
 s950;s950v3;s950v3c14;9 Jan 1781 Crookhaven;1781;1;9;Crookhaven;False
@@ -20002,7 +20002,7 @@ s951;s951v1;s951v1c4;16 Aug Madras;1778;8;16;Madras;False
 s951;s951v1;s951v1c5;27 Sep Kedgeree;1778;9;27;Kedgeree;False
 s951;s951v1;s951v1c6;10 Jan 1779 Ingeli;1779;1;10;Ingeli;False
 s951;s951v1;s951v1c7;10 Feb Madras;1779;2;10;Madras;False
-s951;s951v1;s951v1c8;25 Jul St Augustine s Bay;1779;7;25;St Augustine s Bay;True
+s951;s951v1;s951v1c8;25 Jul St Augustine's Bay;1779;7;25;St Augustine's Bay;True
 s951;s951v1;s951v1c9;8 Oct St Helena;1779;10;8;St Helena;False
 s951;s951v1;s951v1c10;25 Dec Portsmouth;1779;12;25;Portsmouth;False
 s951;s951v1;s951v1c11;13 Jan 1780 Downs;1780;1;13;Downs;False
@@ -20184,7 +20184,7 @@ s959;s959v2;s959v2c5;2 Jun Cape;1702;6;2;Cape;False
 s959;s959v2;s959v2c6;28 Jun St Helena;1702;6;28;St Helena;False
 s959;s959v2;s959v2c7;16 Sep in the Channel;1702;9;16;in the Channel;True
 s959;s959v3;s959v3c1;Downs 12 Feb 1704;1704;2;12;Downs;False
-s959;s959v3;s959v3c2;lost at 'Manacaree;1704;nan;nan;lost at 'Manacaree;True
+s959;s959v3;s959v3c2;lost at 'Manacaree';1704;nan;nan;lost at 'Manacaree';True
 s960;s960v1;s960v1c1;Portsmouth 3 Aug 1741;1741;8;3;Portsmouth;False
 s960;s960v1;s960v1c2;17 Dec Cape;1741;12;17;Cape;False
 s960;s960v1;s960v1c3;21 Apr 1742 Benkulen;1742;4;21;Benkulen;False
@@ -20292,7 +20292,7 @@ s963;s963v4;s963v4c2;17 Aug Rio de Janeiro;1804;8;17;Rio de Janeiro;True
 s963;s963v4;s963v4c3;13 Jan 1805 Whampoa;1805;1;13;Whampoa;False
 s963;s963v4;s963v4c4;21 Mar Malacca;1805;3;21;Malacca;False
 s963;s963v4;s963v4c5;30 Jun St Helena;1805;6;30;St Helena;False
-s963;s963v4;s963v4c6;10 Sep Downs * 12 Jul 1805 diagram of fleet s sailing order;1805;7;12;Downs * diagram of fleet s sailing order;True
+s963;s963v4;s963v4c6;10 Sep Downs * 12 Jul 1805 diagram of fleet's sailing order;1805;7;12;Downs * diagram of fleet's sailing order;True
 s963;s963v5;s963v5c1;Portsmouth 14 May 1806;1806;5;14;Portsmouth;False
 s963;s963v5;s963v5c2;7 Aug Cape;1806;8;7;Cape;False
 s963;s963v5;s963v5c3;14 Oct Penang;1806;10;14;Penang;False
@@ -20358,7 +20358,7 @@ s968;s968v4;s968v4c1;16 Jan 1681;1681;1;16;nan;False
 s968;s968v4;s968v4c2;26 Apr 1682;1682;4;26;nan;False
 s969;s969v1;s969v1c1;Downs 7 Mar 1614;1614;3;7;Downs;False
 s969;s969v1;s969v1c2;15 Jun Cape;1614;6;15;Cape;False
-s969;s969v1;s969v1c3;6 Aug St Augustine s Bay;1614;8;6;St Augustine s Bay;True
+s969;s969v1;s969v1c3;6 Aug St Augustine's Bay;1614;8;6;St Augustine's Bay;True
 s969;s969v1;s969v1c4;9 Sep Socotra;1614;9;9;Socotra;False
 s969;s969v1;s969v1c5;15 Oct Surat 3 Mar 1615;1615;3;3;Surat;False
 s969;s969v1;s969v1c6;Jun Bantam 22 Dec;1615;12;22;Bantam;False
@@ -20375,7 +20375,7 @@ s969;s969v2;s969v2c9;Apr 1621 Batavia;1621;4;nan;Batavia;False
 s969;s969v2;s969v2c10;laid up, rotten;1621;nan;nan;laid up, rotten;True
 s970;s970v1;s970v1c1;Capt William Mackett Downs 26 Feb 1722;1722;2;26;Capt William Mackett Downs;True
 s970;s970v1;s970v1c2;wrecked at the Cape;1722;nan;nan;wrecked at the Cape;True
-s971;s971v1;s971v1c1;list of men transfer to the Nonsuch after the wreck of the Vansittart 'Sangee Booloo  Bay 16 Sep 1789;1789;9;16;list of men transfer to the Nonsuch after the wreck of the Vansittart 'Sangee Booloo  Bay;True
+s971;s971v1;s971v1c1;list of men transfer to the Nonsuch after the wreck of the Vansittart 'Sangee Booloo' Bay 16 Sep 1789;1789;9;16;list of men transfer to the Nonsuch after the wreck of the Vansittart 'Sangee Booloo' Bay;True
 s971;s971v1;s971v1c2;13 Oct Whampoa;1789;10;13;Whampoa;False
 s972;s972v1;s972v1c1;Diamond Harbour 21 Dec 1795;1795;12;21;Diamond Harbour;False
 s972;s972v1;s972v1c2;17 Feb 1796 St Helena;1796;2;17;St Helena;False
@@ -20464,7 +20464,7 @@ s975;s975v3;s975v3c2;6 Apr Madeira;1779;4;6;Madeira;False
 s975;s975v3;s975v3c3;9 May Goree;1779;5;9;Goree;False
 s975;s975v3;s975v3c4;1 Aug Cape;1779;8;1;Cape;False
 s975;s975v3;s975v3c5;19 Jun 1780 Madras;1780;6;19;Madras;False
-s975;s975v3;s975v3c6;16 Jun St Augustine s Bay;1780;6;16;St Augustine s Bay;True
+s975;s975v3;s975v3c6;16 Jun St Augustine's Bay;1780;6;16;St Augustine's Bay;True
 s975;s975v3;s975v3c7;25 Aug Cape;1780;8;25;Cape;False
 s975;s975v3;s975v3c8;29 Oct St Helena;1780;10;29;St Helena;False
 s975;s975v3;s975v3c9;9 Jan 1781 Crookhaven;1781;1;9;Crookhaven;False
@@ -20562,7 +20562,7 @@ s979;s979v8;s979v8c3;3 Oct Calcutta;1818;10;3;Calcutta;False
 s979;s979v8;s979v8c4;22 Jan 1819 Saugor;1819;1;22;Saugor;False
 s979;s979v8;s979v8c5;26 Mar St Helena;1819;3;26;St Helena;False
 s979;s979v8;s979v8c6;27 Jun Downs;1819;6;27;Downs;False
-s980;s980v1;s980v1c1;'At China  14 Jan 1816;1816;1;14;'At China ;True
+s980;s980v1;s980v1c1;'At China' 14 Jan 1816;1816;1;14;'At China';False
 s980;s980v1;s980v1c2;17 Jan Whampoa;1816;1;17;Whampoa;False
 s980;s980v1;s980v1c3;2 Mar First Bar;1816;3;2;First Bar;False
 s980;s980v1;s980v1c4;25 Jun St Helena;1816;6;25;St Helena;False
@@ -20599,7 +20599,7 @@ s981;s981v3;s981v3c9;12 May St Helena;1774;5;12;St Helena;False
 s981;s981v3;s981v3c10;23 May Ascension;1774;5;23;Ascension;False
 s981;s981v3;s981v3c11;14 Jul Downs;1774;7;14;Downs;False
 s981;s981v4;s981v4c1;Portsmouth 1 Mar 1777;1777;3;1;Portsmouth;False
-s981;s981v4;s981v4c2;7 Jul St Augustine s Bay;1777;7;7;St Augustine s Bay;True
+s981;s981v4;s981v4c2;7 Jul St Augustine's Bay;1777;7;7;St Augustine's Bay;True
 s981;s981v4;s981v4c3;14 Aug Bombay;1777;8;14;Bombay;False
 s981;s981v4;s981v4c4;1 Oct Surat;1777;10;1;Surat;False
 s981;s981v4;s981v4c5;23 Oct Bombay;1777;10;23;Bombay;False
@@ -20696,7 +20696,7 @@ s984;s984v3;s984v3c2;7 Jul Johanna;1788;7;7;Johanna;False
 s984;s984v3;s984v3c3;26 Jul Bombay;1788;7;26;Bombay;False
 s984;s984v3;s984v3c4;2 Oct Madras;1788;10;2;Madras;False
 s984;s984v3;s984v3c5;26 Oct Kedgeree;1788;10;26;Kedgeree;False
-s984;s984v3;s984v3c6;19 Feb 1789 Cox s Island;1789;2;19;Cox s Island;True
+s984;s984v3;s984v3c6;19 Feb 1789 Cox's Island;1789;2;19;Cox's Island;False
 s984;s984v3;s984v3c7;2 Jun St Helena;1789;6;2;St Helena;False
 s984;s984v3;s984v3c8;2 Aug Downs;1789;8;2;Downs;False
 s984;s984v4;s984v4c1;Downs 16 Apr 1791;1791;4;16;Downs;False
@@ -20951,7 +20951,7 @@ s996;s996v3;s996v3c3;14 Jul Madras;1805;7;14;Madras;False
 s996;s996v3;s996v3c4;27 Aug Penang;1805;8;27;Penang;False
 s996;s996v3;s996v3c5;14 Sep Malacca;1805;9;14;Malacca;False
 s996;s996v3;s996v3c6;22 Dec Whampoa;1805;12;22;Whampoa;False
-s996;s996v3;s996v3c7;26 Feb 1806 'off Chumpee;1806;2;26;'off Chumpee;False
+s996;s996v3;s996v3c7;26 Feb 1806 'off Chumpee';1806;2;26;'off Chumpee';False
 s996;s996v3;s996v3c8;2 Jul St Helena;1806;7;2;St Helena;False
 s996;s996v3;s996v3c9;3 Sep Downs;1806;9;3;Downs;False
 s996;s996v4;s996v4c1;Portsmouth 5 Mar 1808;1808;3;5;Portsmouth;False
@@ -20966,7 +20966,7 @@ s996;s996v4;s996v4c9;8 Sep Downs;1809;9;8;Downs;False
 s997;s997v1;s997v1c1;Portsmouth 25 Apr 1803;1803;4;25;Portsmouth;False
 s997;s997v1;s997v1c2;30 Jun Rio de Janeiro;1803;6;30;Rio de Janeiro;True
 s997;s997v1;s997v1c3;7 Oct Port Philip;1803;10;7;Port Philip;False
-s997;s997v1;s997v1c4;26 Aug 1804 'at Port Jackson;1804;8;26;'at Port Jackson;True
+s997;s997v1;s997v1c4;26 Aug 1804 'at Port Jackson';1804;8;26;'at Port Jackson';True
 s997;s997v1;s997v1c5;20 Dec Whampoa;1804;12;20;Whampoa;False
 s997;s997v1;s997v1c6;24 Jan 1805 Macao;1805;1;24;Macao;False
 s997;s997v1;s997v1c7;25 Feb Malacca;1805;2;25;Malacca;False
@@ -21051,7 +21051,7 @@ s1001;s1001v2;s1001v2c7;22 Mar 1739 St Helena;1739;3;22;St Helena;False
 s1001;s1001v2;s1001v2c8;18 Jun Downs;1739;6;18;Downs;False
 s1001;s1001v3;s1001v3c1;Downs 27 Jan 1741;1741;1;27;Downs;False
 s1001;s1001v3;s1001v3c2;Portsmouth 20 Feb;1741;2;20;Portsmouth;False
-s1001;s1001v3;s1001v3c3;1 Jun St Augustine s Bay;1741;6;1;St Augustine s Bay;True
+s1001;s1001v3;s1001v3c3;1 Jun St Augustine's Bay;1741;6;1;St Augustine's Bay;True
 s1001;s1001v3;s1001v3c4;8 Sep Bomay;1741;9;8;Bomay;False
 s1001;s1001v3;s1001v3c5;3 Nov Goa;1741;11;3;Goa;False
 s1001;s1001v3;s1001v3c6;21 Dec Mangalore;1741;12;21;Mangalore;False
@@ -21345,14 +21345,14 @@ s1012;s1012v7;s1012v7c11;26 Jan 1800 St Helena;1800;1;26;St Helena;False
 s1012;s1012v7;s1012v7c12;30 May Downs;1800;5;30;Downs;False
 s1013;s1013v2;s1013v2c1;Downs 7 Dec 1751;1751;12;7;Downs;False
 s1013;s1013v2;s1013v2c2;29 Dec Madeira;1751;12;29;Madeira;False
-s1013;s1013v2;s1013v2c3;22 May 1752 St Augustine s Bay;1752;5;22;St Augustine s Bay;True
+s1013;s1013v2;s1013v2c3;22 May 1752 St Augustine's Bay;1752;5;22;St Augustine's Bay;True
 s1013;s1013v2;s1013v2c4;23 Jul Fort St David;1752;7;23;Fort St David;True
 s1013;s1013v2;s1013v2c5;28 Jul Madras;1752;7;28;Madras;False
 s1013;s1013v2;s1013v2c6;20 Aug Vizagapatam;1752;8;20;Vizagapatam;False
 s1013;s1013v2;s1013v2c7;16 Sep Culpee;1752;9;16;Culpee;False
 s1013;s1013v2;s1013v2c8;11 Feb 1753 Kedgeree;1753;2;11;Kedgeree;False
 s1013;s1013v2;s1013v2c9;10 May Mauritius;1753;5;10;Mauritius;False
-s1013;s1013v2;s1013v2c10;6 Aug St Augustine s Bay;1753;8;6;St Augustine s Bay;True
+s1013;s1013v2;s1013v2c10;6 Aug St Augustine's Bay;1753;8;6;St Augustine's Bay;True
 s1013;s1013v2;s1013v2c11;11 Nov St Helena;1753;11;11;St Helena;False
 s1013;s1013v2;s1013v2c12;21 Feb 1754 Downs;1754;2;21;Downs;False
 s1013;s1013v3;s1013v3c1;Downs 27 Jan 1756;1756;1;27;Downs;False
@@ -21432,7 +21432,7 @@ s1015;s1015v1;s1015v1c13;Batavia 11 Feb 1623;1623;2;11;Batavia;False
 s1015;s1015v1;s1015v1c14;St Helena 5 Jun;1623;6;5;St Helena;False
 s1015;s1015v1;s1015v1c15;Downs;1623;nan;nan;Downs;False
 s1015;s1015v2;s1015v2c1;Downs Mar 1625;1625;3;nan;Downs;False
-s1015;s1015v2;s1015v2c2;2 Aug St Augustine s Bay;1625;8;2;St Augustine s Bay;True
+s1015;s1015v2;s1015v2c2;2 Aug St Augustine's Bay;1625;8;2;St Augustine's Bay;True
 s1015;s1015v2;s1015v2c3;16 Aug Johanna;1625;8;16;Johanna;False
 s1015;s1015v2;s1015v2c4;19 Nov Surat;1625;11;19;Surat;False
 s1015;s1015v2;s1015v2c5;4 Jun 1627 Batavia;1627;6;4;Batavia;False
@@ -21445,7 +21445,7 @@ s1015;s1015v3;s1015v3c3;4 Mar 1632 Cape;1632;3;4;Cape;False
 s1015;s1015v3;s1015v3c4;1 Apr St Helena;1632;4;1;St Helena;False
 s1015;s1015v3;s1015v3c5;30 Jun Downs;1632;6;30;Downs;False
 s1015;s1015v4;s1015v4c1;Downs 10 Apr 1633;1633;4;10;Downs;False
-s1015;s1015v4;s1015v4c2;22 Jul St Augustine s Bay;1633;7;22;St Augustine s Bay;True
+s1015;s1015v4;s1015v4c2;22 Jul St Augustine's Bay;1633;7;22;St Augustine's Bay;True
 s1015;s1015v4;s1015v4c3;12 Aug Johanna;1633;8;12;Johanna;False
 s1015;s1015v4;s1015v4c4;10 Sep Jask;1633;9;10;Jask;False
 s1015;s1015v4;s1015v4c5;21 Sep Bandar Abbas;1633;9;21;Bandar Abbas;False
@@ -21485,7 +21485,7 @@ s1018;s1018v1;s1018v1c6;left for England 3 Feb 1613, arrived in the autumn;1612;
 s1019;s1019v1;s1019v1c1;Downs 21 Dec 1631;1631;12;21;Downs;False
 s1019;s1019v1;s1019v1c2;13 May St Helena;1631;5;13;St Helena;False
 s1019;s1019v1;s1019v1c3;17 May Cape;1631;5;17;Cape;False
-s1019;s1019v1;s1019v1c4;21 Jun St Augustine s Bay;1631;6;21;St Augustine s Bay;True
+s1019;s1019v1;s1019v1c4;21 Jun St Augustine's Bay;1631;6;21;St Augustine's Bay;True
 s1019;s1019v1;s1019v1c5;10 Jul Johanna;1631;7;10;Johanna;False
 s1019;s1019v1;s1019v1c6;20 Aug Armagon;1631;8;20;Armagon;False
 s1019;s1019v1;s1019v1c7;Bantam;1631;nan;nan;Bantam;False
@@ -21501,7 +21501,7 @@ s1022;s1022v1;s1022v1c4;23 Mar 1746 Bombay;1746;3;23;Bombay;False
 s1022;s1022v1;s1022v1c5;27 Sep Tellicherry;1746;9;27;Tellicherry;False
 s1022;s1022v1;s1022v1c6;29 Dec Cape;1746;12;29;Cape;False
 s1022;s1022v1;s1022v1c7;22 Apr 1747 St Helena;1747;4;22;St Helena;False
-s1022;s1022v1;s1022v1c8;20 Aug 'towards Lisbon;1747;8;20;'towards Lisbon;False
+s1022;s1022v1;s1022v1c8;20 Aug 'towards Lisbon';1747;8;20;'towards Lisbon';False
 s1022;s1022v2;s1022v2c1;2 Sep Whampoa;1747;9;2;Whampoa;False
 s1022;s1022v2;s1022v2c2;22 Nov Lintin;1747;11;22;Lintin;False
 s1022;s1022v2;s1022v2c3;8 Mar 1750 St Helena;1750;3;8;St Helena;False
@@ -21629,7 +21629,7 @@ s1029;s1029v2;s1029v2c2;18 Jun Bantam 19 Aug;1681;8;19;Bantam;False
 s1029;s1029v2;s1029v2c3;12 Nov St Helena;1681;11;12;St Helena;False
 s1029;s1029v2;s1029v2c4;11 Jan 1682 Downs;1682;1;11;Downs;False
 s1029;s1029v3;s1029v3c1;Downs 23 Apr 1682;1682;4;23;Downs;False
-s1029;s1029v3;s1029v3c2;St Augustine s Bay 1 Dec;1682;12;1;St Augustine s Bay;True
+s1029;s1029v3;s1029v3c2;St Augustine's Bay 1 Dec;1682;12;1;St Augustine's Bay;True
 s1029;s1029v3;s1029v3c3;2 Feb 1683 Tellicherry;1683;2;2;Tellicherry;False
 s1029;s1029v3;s1029v3c4;Swally 15 Apr;1683;4;15;Swally;False
 s1029;s1029v3;s1029v3c5;3 May Calicut;1683;5;3;Calicut;False
@@ -21653,7 +21653,7 @@ s1031;s1031v1;s1031v1c2;14 Feb Sao Tiago;1701;2;14;Sao Tiago;False
 s1031;s1031v1;s1031v1c3;21 Jun Madras;1701;6;21;Madras;False
 s1031;s1031v1;s1031v1c4;1 Aug Balasore;1701;8;1;Balasore;False
 s1031;s1031v1;s1031v1c5;21 Oct Calcutta;1701;10;21;Calcutta;False
-s1031;s1031v1;s1031v1c6;7 Feb 1702 Cox s Island;1702;2;7;Cox s Island;True
+s1031;s1031v1;s1031v1c6;7 Feb 1702 Cox's Island;1702;2;7;Cox's Island;False
 s1031;s1031v1;s1031v1c7;25 Apr Bandar Abbas;1702;4;25;Bandar Abbas;False
 s1031;s1031v1;s1031v1c8;1 Jul Madras;1702;7;1;Madras;False
 s1031;s1031v1;s1031v1c9;9 Sep Balasore;1702;9;9;Balasore;False
@@ -21891,7 +21891,7 @@ s1037;s1037v5;s1037v5c6;12 Jan 1794 Benkulen;1794;1;12;Benkulen;False
 s1037;s1037v5;s1037v5c7;11 Mar captured by French and taken into Mauritius, prisoners freed at Bombay Aug 1794;1794;8;11;captured by French and taken into Mauritius, prisoners freed at Bombay;True
 s1038;s1038v1;s1038v1c1;Portsmouth 6 Mar 1758;1758;3;6;Portsmouth;False
 s1038;s1038v1;s1038v1c2;3 May Fernando Noronha;1758;5;3;Fernando Noronha;False
-s1038;s1038v1;s1038v1c3;21 Jul St Augustine s Bay;1758;7;21;St Augustine s Bay;True
+s1038;s1038v1;s1038v1c3;21 Jul St Augustine's Bay;1758;7;21;St Augustine's Bay;True
 s1038;s1038v1;s1038v1c4;14 Sep Madras;1758;9;14;Madras;False
 s1038;s1038v1;s1038v1c5;20 Oct Kedah;1758;10;20;Kedah;False
 s1038;s1038v1;s1038v1c6;10 Nov Malacca;1758;11;10;Malacca;False
@@ -21904,7 +21904,7 @@ s1038;s1038v1;s1038v1c12;2 Sep Benkulen;1759;9;2;Benkulen;False
 s1038;s1038v1;s1038v1c13;9 Dec St Helena;1759;12;9;St Helena;False
 s1038;s1038v1;s1038v1c14;23 Feb 1760 Kinsale;1760;2;23;Kinsale;False
 s1038;s1038v1;s1038v1c15;8 Apr Downs * see 'The voyage of the Pitt;1760;4;8;Downs * see 'The voyage of the Pitt;True
-s1038;s1038v1;s1038v1c16;a turning point in the East India navigation , R P Crowhurst, Mariner s Mirror 55 (1969) pp.43;1760;nan;55;a turning point in the East India navigation , R P Crowhurst, Mariner s Mirror (1969) pp.43;True
+s1038;s1038v1;s1038v1c16;a turning point in the East India navigation', R P Crowhurst, Mariner's Mirror 55 (1969) pp.43;1760;nan;55;a turning point in the East India navigation', R P Crowhurst, Mariner's Mirror (1969) pp.43;True
 s1038;s1038v1;s1038v1c17;56;1760;nan;56;nan;False
 s1038;s1038v2;s1038v2c1;Plymouth 15 Mar 1761;1761;3;15;Plymouth;False
 s1038;s1038v2;s1038v2c2;23 Jul Madras;1761;7;23;Madras;False
@@ -22224,7 +22224,7 @@ s1052;s1052v5;s1052v5c2;Mauritius;1682;nan;nan;Mauritius;False
 s1052;s1052v5;s1052v5c3;Dec Karwar;1682;12;nan;Karwar;False
 s1052;s1052v5;s1052v5c4;Mar 1683 Surat;1683;3;nan;Surat;False
 s1052;s1052v5;s1052v5c5;Mauritius;1683;nan;nan;Mauritius;False
-s1052;s1052v5;s1052v5c6;wrecked 9/11 Feb 1684 Helston Rocks, Mount s Bay, Cornwall;1684;2;nan;wrecked 9/11 Helston Rocks, Mount s Bay, Cornwall;True
+s1052;s1052v5;s1052v5c6;wrecked 9/11 Feb 1684 Helston Rocks, Mount's Bay, Cornwall;1684;2;nan;wrecked 9/11 Helston Rocks, Mount's Bay, Cornwall;True
 s1053;s1053v1;s1053v1c1;Portsmouth 2 Apr 1799;1799;4;2;Portsmouth;False
 s1053;s1053v1;s1053v1c2;3 Aug Madras;1799;8;3;Madras;False
 s1053;s1053v1;s1053v1c3;23 Aug Diamond Harbour;1799;8;23;Diamond Harbour;False
@@ -22236,7 +22236,7 @@ s1053;s1053v1;s1053v1c8;27 Apr St Helena;1800;4;27;St Helena;False
 s1053;s1053v1;s1053v1c9;6 Jul Downs;1800;7;6;Downs;False
 s1053;s1053v2;s1053v2c1;Portsmouth 23 Apr 1801;1801;4;23;Portsmouth;False
 s1053;s1053v2;s1053v2c2;9 May Madeira;1801;5;9;Madeira;False
-s1053;s1053v2;s1053v2c3;3 Aug St Augustine s Bay;1801;8;3;St Augustine s Bay;True
+s1053;s1053v2;s1053v2c3;3 Aug St Augustine's Bay;1801;8;3;St Augustine's Bay;True
 s1053;s1053v2;s1053v2c4;16 Sep Madras;1801;9;16;Madras;False
 s1053;s1053v2;s1053v2c5;13 Oct Diamond Harbour;1801;10;13;Diamond Harbour;False
 s1053;s1053v2;s1053v2c6;15 Dec Saugor;1801;12;15;Saugor;False
@@ -22385,7 +22385,7 @@ s1058;s1058v2;s1058v2c7;3 Jan 1751 Second Bar;1751;1;3;Second Bar;False
 s1058;s1058v2;s1058v2c8;29 Apr St Helena;1751;4;29;St Helena;False
 s1058;s1058v2;s1058v2c9;8 Jul Downs;1751;7;8;Downs;False
 s1058;s1058v3;s1058v3c1;Downs 15 Apr 1753;1753;4;15;Downs;False
-s1058;s1058v3;s1058v3c2;5 Aug St Augustine s Bay;1753;8;5;St Augustine s Bay;True
+s1058;s1058v3;s1058v3c2;5 Aug St Augustine's Bay;1753;8;5;St Augustine's Bay;True
 s1058;s1058v3;s1058v3c3;30 Sep Bombay;1753;9;30;Bombay;False
 s1058;s1058v3;s1058v3c4;2 Dec Surat;1753;12;2;Surat;False
 s1058;s1058v3;s1058v3c5;30 Dec Bombay;1753;12;30;Bombay;False
@@ -22421,7 +22421,7 @@ s1059;s1059v1;s1059v1c2;30 Jul Madras;1716;7;30;Madras;False
 s1059;s1059v1;s1059v1c3;21 Sep Balasore;1716;9;21;Balasore;False
 s1059;s1059v1;s1059v1c4;19 Oct Calcutta;1716;10;19;Calcutta;False
 s1059;s1059v1;s1059v1c5;6 Dec;1716;12;6;nan;False
-s1059;s1059v1;s1059v1c6;15 Dec Cox s Island;1716;12;15;Cox s Island;True
+s1059;s1059v1;s1059v1c6;15 Dec Cox's Island;1716;12;15;Cox's Island;False
 s1059;s1059v1;s1059v1c7;28 Jan 1717 Madras;1717;1;28;Madras;False
 s1059;s1059v1;s1059v1c8;7 Mar Fort St David;1717;3;7;Fort St David;True
 s1059;s1059v1;s1059v1c9;13 Mar Madras;1717;3;13;Madras;False
@@ -22432,7 +22432,7 @@ s1059;s1059v2;s1059v2c1;Downs 8 Nov 1718;1718;11;8;Downs;False
 s1059;s1059v2;s1059v2c2;3 May 1719 Cape;1719;5;3;Cape;False
 s1059;s1059v2;s1059v2c3;6 Jul Balasore;1719;7;6;Balasore;False
 s1059;s1059v2;s1059v2c4;25 Jul Calcutta 23 Oct;1719;10;23;Calcutta;False
-s1059;s1059v2;s1059v2c5;12 Nov Cox s Island;1719;11;12;Cox s Island;True
+s1059;s1059v2;s1059v2c5;12 Nov Cox's Island;1719;11;12;Cox's Island;False
 s1059;s1059v2;s1059v2c6;20 Feb 1720 Cape;1720;2;20;Cape;False
 s1059;s1059v2;s1059v2c7;23 Apr St Helena;1720;4;23;St Helena;False
 s1059;s1059v2;s1059v2c8;1 Sep Woolwich;1720;9;1;Woolwich;False
@@ -22507,7 +22507,7 @@ s1061;s1061v3;s1061v3c3;19 Jul Batavia;1758;7;19;Batavia;False
 s1061;s1061v3;s1061v3c4;20 Aug Whampoa;1758;8;20;Whampoa;False
 s1061;s1061v3;s1061v3c5;2 Jan 1759 Second Bar;1759;1;2;Second Bar;False
 s1061;s1061v3;s1061v3c6;5 Feb Balambangan;1759;2;5;Balambangan;False
-s1061;s1061v3;s1061v3c7;24 May All Saints  Bay, Brazil;1759;5;24;All Saints  Bay, Brazil;True
+s1061;s1061v3;s1061v3c7;24 May All Saints' Bay, Brazil;1759;5;24;All Saints' Bay, Brazil;True
 s1061;s1061v3;s1061v3c8;28 Dec Cork;1759;12;28;Cork;False
 s1061;s1061v3;s1061v3c9;13 Jan 1760 Kinsale;1760;1;13;Kinsale;False
 s1061;s1061v3;s1061v3c10;12 Feb Downs;1760;2;12;Downs;False
@@ -22534,7 +22534,7 @@ s1062;s1062v2;s1062v2c6;18 Dec Madras;1759;12;18;Madras;False
 s1062;s1062v2;s1062v2c7;13 Jun 1760 St Helena;1760;6;13;St Helena;False
 s1062;s1062v2;s1062v2c8;22 Sep Downs;1760;9;22;Downs;False
 s1062;s1062v3;s1062v3c1;Portsmouth 15 Mar 1761;1761;3;15;Portsmouth;False
-s1062;s1062v3;s1062v3c2;28 Jul St Augustine s Bay;1761;7;28;St Augustine s Bay;True
+s1062;s1062v3;s1062v3c2;28 Jul St Augustine's Bay;1761;7;28;St Augustine's Bay;True
 s1062;s1062v3;s1062v3c3;25 Aug Morandava;1761;8;25;Morandava;False
 s1062;s1062v3;s1062v3c4;27 Sep Manabulle;1761;9;27;Manabulle;False
 s1062;s1062v3;s1062v3c5;8 Jan 1762 Madras;1762;1;8;Madras;False
@@ -22627,7 +22627,7 @@ s1068;s1068v3;s1068v3c1;Downs 15 Jan 1758;1758;1;15;Downs;False
 s1068;s1068v3;s1068v3c2;Portsmouth 6 Mar;1758;3;6;Portsmouth;False
 s1068;s1068v3;s1068v3c3;28 Mar Madeira;1758;3;28;Madeira;False
 s1068;s1068v3;s1068v3c4;28 Apr Sao Tiago;1758;4;28;Sao Tiago;False
-s1068;s1068v3;s1068v3c5;8 Aug St Augustine s Bay;1758;8;8;St Augustine s Bay;True
+s1068;s1068v3;s1068v3c5;8 Aug St Augustine's Bay;1758;8;8;St Augustine's Bay;True
 s1068;s1068v3;s1068v3c6;2 Nov Goa;1758;11;2;Goa;False
 s1068;s1068v3;s1068v3c7;15 Nov Bombay;1758;11;15;Bombay;False
 s1068;s1068v3;s1068v3c8;31 Dec Anjengo;1758;12;31;Anjengo;False
@@ -22680,9 +22680,9 @@ s1069;s1069v4;s1069v4c6;3 Jun St Helena;1777;6;3;St Helena;False
 s1069;s1069v4;s1069v4c7;1 Oct Downs;1777;10;1;Downs;False
 s1070;s1070v1;s1070v1c1;Isle of Wight 15 Oct 1786;1786;10;15;Isle of Wight;True
 s1070;s1070v1;s1070v1c2;14 Nov Sao Tiago;1786;11;14;Sao Tiago;False
-s1070;s1070v1;s1070v1c3;24 Jan 1789 'New Year s Island;1789;1;24;'New Year s Island;True
+s1070;s1070v1;s1070v1c3;24 Jan 1789 'New Year's Island';1789;1;24;'New Year's Island';True
 s1070;s1070v1;s1070v1c4;6 Jul Nootka Sound;1789;7;6;Nootka Sound;False
-s1070;s1070v1;s1070v1c5;21 Aug Queen Charlotte s Islands;1789;8;21;Queen Charlotte s Islands;True
+s1070;s1070v1;s1070v1c5;21 Aug Queen Charlotte's Islands;1789;8;21;Queen Charlotte's Islands;True
 s1070;s1070v1;s1070v1c6;10 Jan 1788 Sandwich Islands;1788;1;10;Sandwich Islands;False
 s1070;s1070v1;s1070v1c7;27 Apr Montague Island;1788;4;27;Montague Island;False
 s1070;s1070v1;s1070v1c8;12 Sep off Morotai;1788;9;12;off Morotai;False
@@ -22944,7 +22944,7 @@ s1081;s1081v3;s1081v3c2;20 Jul Anjengo;1760;7;20;Anjengo;False
 s1081;s1081v3;s1081v3c3;31 Jul Cuddalore;1760;7;31;Cuddalore;False
 s1081;s1081v3;s1081v3c4;10 Aug Madras;1760;8;10;Madras;False
 s1081;s1081v3;s1081v3c5;15 Nov Balambangan;1760;11;15;Balambangan;False
-s1081;s1081v3;s1081v3c6;24 Jan 1761 'Straits of New Guinea;1761;1;24;'Straits of New Guinea;True
+s1081;s1081v3;s1081v3c6;24 Jan 1761 'Straits of New Guinea';1761;1;24;'Straits of New Guinea';True
 s1081;s1081v3;s1081v3c7;28 Mar Macao;1761;3;28;Macao;False
 s1081;s1081v3;s1081v3c8;7 Apr Whampoa;1761;4;7;Whampoa;False
 s1081;s1081v3;s1081v3c9;28 Jun Second Bar;1761;6;28;Second Bar;False
@@ -23910,7 +23910,7 @@ s1133;s1133v3;s1133v3c10;13 Jun Downs;1833;6;13;Downs;False
 s1134;s1134v1;s1134v1c1;Portsmouth 23 Jan 1821;1821;1;23;Portsmouth;False
 s1134;s1134v1;s1134v1c2;13 Mar St Helena;1821;3;13;St Helena;False
 s1134;s1134v1;s1134v1c3;12 Jun Benkulen;1821;6;12;Benkulen;False
-s1134;s1134v1;s1134v1c4;6 Aug Penang;1821;8;6;Penang;False
+s1134;s1134v1;s1134v1c4;6'Aug Penang;1821;nan;nan;6'Aug Penang;False
 s1134;s1134v1;s1134v1c5;30 Aug Singapore;1821;8;30;Singapore;False
 s1134;s1134v1;s1134v1c6;24 Sep Whampoa;1821;9;24;Whampoa;False
 s1134;s1134v1;s1134v1c7;15 Dec Second Bar;1821;12;15;Second Bar;False
@@ -23950,7 +23950,7 @@ s1134;s1134v5;s1134v5c2;17 Jun Madras;1829;6;17;Madras;False
 s1134;s1134v5;s1134v5c3;7 Aug Penang;1829;8;7;Penang;False
 s1134;s1134v5;s1134v5c4;25 Aug Malacca;1829;8;25;Malacca;False
 s1134;s1134v5;s1134v5c5;31 Aug Singapore;1829;8;31;Singapore;False
-s1134;s1134v5;s1134v5c6;18 Sep Urmston s Bay;1829;9;18;Urmston s Bay;True
+s1134;s1134v5;s1134v5c6;18 Sep Urmston's Bay;1829;9;18;Urmston's Bay;False
 s1134;s1134v5;s1134v5c7;8 Dec Hong Kong;1829;12;8;Hong Kong;False
 s1134;s1134v5;s1134v5c8;11 Feb 1830 Whampoa;1830;2;11;Whampoa;False
 s1134;s1134v5;s1134v5c9;28 Feb Second Bar;1830;2;28;Second Bar;False
@@ -24107,7 +24107,7 @@ s1141;s1141v4;s1141v4c1;Downs 30 Dec 1757;1757;12;30;Downs;False
 s1141;s1141v4;s1141v4c2;Portsmouth 6 Mar 1758;1758;3;6;Portsmouth;False
 s1141;s1141v4;s1141v4c3;27 Mar Madeira;1758;3;27;Madeira;False
 s1141;s1141v4;s1141v4c4;25 Apr Sao Tiago;1758;4;25;Sao Tiago;False
-s1141;s1141v4;s1141v4c5;7 Aug St Augustine s Bay;1758;8;7;St Augustine s Bay;True
+s1141;s1141v4;s1141v4c5;7 Aug St Augustine's Bay;1758;8;7;St Augustine's Bay;True
 s1141;s1141v4;s1141v4c6;1 Nov Goa;1758;11;1;Goa;False
 s1141;s1141v4;s1141v4c7;14 Nov Bombay;1758;11;14;Bombay;False
 s1141;s1141v4;s1141v4c8;3 May 1759 Madras;1759;5;3;Madras;False
@@ -24325,7 +24325,7 @@ s1153;s1153v1;s1153v1c20;1 Feb 1783 St Helena;1783;2;1;St Helena;False
 s1153;s1153v1;s1153v1c21;31 Mar River Shannon;1783;3;31;River Shannon;False
 s1153;s1153v1;s1153v1c22;4 Jun Downs;1783;6;4;Downs;False
 s1154;s1154v1;s1154v1c1;Portsmouth 11 Sep 1782;1782;9;11;Portsmouth;False
-s1154;s1154v1;s1154v1c2;27 Nov All Saints  Bay;1782;11;27;All Saints  Bay;True
+s1154;s1154v1;s1154v1c2;27 Nov All Saints' Bay;1782;11;27;All Saints' Bay;True
 s1154;s1154v1;s1154v1c3;16 Apr 1783 Madras;1783;4;16;Madras;False
 s1154;s1154v1;s1154v1c4;23 Apr Kedgeree;1783;4;23;Kedgeree;False
 s1154;s1154v1;s1154v1c5;2 Dec Saugor;1783;12;2;Saugor;False
@@ -24334,7 +24334,7 @@ s1154;s1154v1;s1154v1c7;28 May Downs;1784;5;28;Downs;False
 s1154;s1154v2;s1154v2c1;Portsmouth 25 Mar 1785;1785;3;25;Portsmouth;False
 s1154;s1154v2;s1154v2c2;27 Jul Madras;1785;7;27;Madras;False
 s1154;s1154v2;s1154v2c3;11 Aug Diamond Creek;1785;8;11;Diamond Creek;False
-s1154;s1154v2;s1154v2c4;22 Nov Cox s Island;1785;11;22;Cox s Island;True
+s1154;s1154v2;s1154v2c4;22 Nov Cox's Island;1785;11;22;Cox's Island;False
 s1154;s1154v2;s1154v2c5;17 Mar 1786 St Helena;1786;3;17;St Helena;False
 s1154;s1154v2;s1154v2c6;20 May Downs;1786;5;20;Downs;False
 s1154;s1154v3;s1154v3c1;Portsmouth 21 Feb 1787;1787;2;21;Portsmouth;False
@@ -24446,7 +24446,7 @@ s1160;s1160v3;s1160v3c8;21 Aug Downs;1793;8;21;Downs;False
 s1160;s1160v4;s1160v4c1;Portsmouth 2 May 1794;1794;5;2;Portsmouth;False
 s1160;s1160v4;s1160v4c2;3 Sep Madras;1794;9;3;Madras;False
 s1160;s1160v4;s1160v4c3;23 Sep Diamond Harbour;1794;9;23;Diamond Harbour;False
-s1160;s1160v4;s1160v4c4;29 Nov Cox s Island;1794;11;29;Cox s Island;True
+s1160;s1160v4;s1160v4c4;29 Nov Cox's Island;1794;11;29;Cox's Island;False
 s1160;s1160v4;s1160v4c5;18 Mar 1795 St Helena;1795;3;18;St Helena;False
 s1160;s1160v4;s1160v4c6;22 Jul Downs;1795;7;22;Downs;False
 s1160;s1160v5;s1160v5c1;Portsmouth 18 Mar 1797;1797;3;18;Portsmouth;False
@@ -24558,7 +24558,7 @@ s1164;s1164v2;s1164v2c6;8 May Tellicherry;1781;5;8;Tellicherry;False
 s1164;s1164v2;s1164v2c7;26 May Cuddalore;1781;5;26;Cuddalore;False
 s1164;s1164v2;s1164v2c8;4 Jun Negapatam;1781;6;4;Negapatam;False
 s1164;s1164v2;s1164v2c9;26 Jun Madras;1781;6;26;Madras;False
-s1164;s1164v2;s1164v2c10;18 Jul ' Jaggemaickpuram;1781;7;18;' Jaggemaickpuram;False
+s1164;s1164v2;s1164v2c10;18 Jul ' Jaggemaickpuram';1781;7;18;' Jaggemaickpuram';False
 s1164;s1164v2;s1164v2c11;7 Aug Masulipatam;1781;8;7;Masulipatam;False
 s1164;s1164v2;s1164v2c12;28 Aug Madras;1781;8;28;Madras;False
 s1164;s1164v2;s1164v2c13;12 Oct Negapatam;1781;10;12;Negapatam;False
@@ -24895,7 +24895,7 @@ s1174;s1174v1;s1174v1c15;29 Apr Tellicherry;1749;4;29;Tellicherry;False
 s1174;s1174v1;s1174v1c16;1 May Cochin;1749;5;1;Cochin;False
 s1174;s1174v1;s1174v1c17;5 May Anjengo;1749;5;5;Anjengo;False
 s1174;s1174v1;s1174v1c18;16 May Fort St David;1749;5;16;Fort St David;True
-s1174;s1174v1;s1174v1c19;30 May 'Calderoon Bay;1749;5;30;'Calderoon Bay;False
+s1174;s1174v1;s1174v1c19;30 May 'Calderoon Bay';1749;5;30;'Calderoon Bay';False
 s1174;s1174v1;s1174v1c20;29 Jun Fort St David;1749;6;29;Fort St David;True
 s1174;s1174v1;s1174v1c21;31 Jul Malacca;1749;7;31;Malacca;False
 s1174;s1174v1;s1174v1c22;2 Sep Whampoa;1749;9;2;Whampoa;False
@@ -25002,7 +25002,7 @@ s1176;s1176v3;s1176v3c4;26 May St Helena;1765;5;26;St Helena;False
 s1176;s1176v3;s1176v3c5;7 Sep Benkulen;1765;9;7;Benkulen;False
 s1176;s1176v3;s1176v3c6;5 Oct Moco Moco;1765;10;5;Moco Moco;False
 s1176;s1176v3;s1176v3c7;30 Oct Benkulen;1765;10;30;Benkulen;False
-s1176;s1176v3;s1176v3c8;8 Nov 'Pulo Bay;1765;11;8;'Pulo Bay;False
+s1176;s1176v3;s1176v3c8;8 Nov 'Pulo Bay';1765;11;8;'Pulo Bay';False
 s1176;s1176v3;s1176v3c9;11 Dec Benkulen;1765;12;11;Benkulen;False
 s1176;s1176v3;s1176v3c10;10 Jan 1766 Pisang;1766;1;10;Pisang;False
 s1176;s1176v3;s1176v3c11;16 Mar Banjarmassin;1766;3;16;Banjarmassin;False
@@ -25176,12 +25176,12 @@ s1182;s1182v3;s1182v3c5;31 Jan 1779 Onore;1779;1;31;Onore;False
 s1182;s1182v3;s1182v3c6;8 Feb Cochin;1779;2;8;Cochin;False
 s1182;s1182v3;s1182v3c7;5 Mar Madras;1779;3;5;Madras;False
 s1182;s1182v3;s1182v3c8;23 Mar Kedgeree;1779;3;23;Kedgeree;False
-s1182;s1182v3;s1182v3c9;9 Aug Uockelee;1779;8;9;Uockelee;False
+s1182;s1182v3;s1182v3c9;9 Aug Uockelee';1779;8;9;Uockelee';False
 s1182;s1182v3;s1182v3c10;17 Sep Straits of Malacca;1779;9;17;Straits of Malacca;True
 s1182;s1182v3;s1182v3c11;19 Oct Whampoa;1779;10;19;Whampoa;False
 s1182;s1182v3;s1182v3c12;15 Jan 1780 Second Bar;1780;1;15;Second Bar;False
 s1182;s1182v3;s1182v3c13;8 Feb Malacca;1780;2;8;Malacca;False
-s1182;s1182v3;s1182v3c14;23 Jun St Augustine s Bay;1780;6;23;St Augustine s Bay;True
+s1182;s1182v3;s1182v3c14;23 Jun St Augustine's Bay;1780;6;23;St Augustine's Bay;True
 s1182;s1182v3;s1182v3c15;25 Aug Cape;1780;8;25;Cape;False
 s1182;s1182v3;s1182v3c16;29 Oct St Helena;1780;10;29;St Helena;False
 s1182;s1182v3;s1182v3c17;8 Feb 1781 Downs * inc col sketches of islands in Straits of Malacca;1781;2;8;Downs * inc col sketches of islands in Straits of Malacca;True
@@ -25246,7 +25246,7 @@ s1191;s1191v1;s1191v1c2;19 Mar Sao Tiago;1707;3;19;Sao Tiago;False
 s1191;s1191v1;s1191v1c3;3 Aug Madras;1707;8;3;Madras;False
 s1191;s1191v1;s1191v1c4;22 Aug Balasore;1707;8;22;Balasore;False
 s1191;s1191v1;s1191v1c5;1 Sep Rogues River;1707;9;1;Rogues River;False
-s1191;s1191v1;s1191v1c6;24 Dec Cox s Island;1707;12;24;Cox s Island;True
+s1191;s1191v1;s1191v1c6;24 Dec Cox's Island;1707;12;24;Cox's Island;False
 s1191;s1191v1;s1191v1c7;2 Mar 1708 Cape;1708;3;2;Cape;False
 s1191;s1191v1;s1191v1c8;28 Sep Downs;1708;9;28;Downs;False
 s1191;s1191v2;s1191v2c1;Downs 7 Jan 1710;1710;1;7;Downs;False
@@ -25327,9 +25327,9 @@ s1193;s1193v1;s1193v1c7;17 Feb Angra Pequena 24 Feb;1821;2;24;Angra Pequena;Fals
 s1193;s1193v1;s1193v1c8;8 Mar St Helena 21 Sep;1821;9;21;St Helena;False
 s1193;s1193v1;s1193v1c9;5 Nov Downs;1821;11;5;Downs;False
 s1193;s1193v2;s1193v2c1;Downs 20 May 1822;1822;5;20;Downs;False
-s1193;s1193v2;s1193v2c2;captured by 'the desperado Don Antonio Constanti  6 Apr 1830, saved by the carpenter and remaining five crew, reached Sierra Leone 2 May 1830;1830;5;2;captured by 'the desperado Don Antonio Constanti  1830, saved by the carpenter and remaining five crew, reached Sierra Leone;True
+s1193;s1193v2;s1193v2c2;captured by 'the desperado Don Antonio Constanti' 6 Apr 1830, saved by the carpenter and remaining five crew, reached Sierra Leone 2 May 1830;1830;5;2;captured by 'the desperado Don Antonio Constanti' 1830, saved by the carpenter and remaining five crew, reached Sierra Leone;True
 s1194;s1194v1;s1194v1c1;Portsmouth 22 Mar 1742;1742;3;22;Portsmouth;False
-s1194;s1194v1;s1194v1c2;9 Jul St Augustine s Bay;1742;7;9;St Augustine s Bay;True
+s1194;s1194v1;s1194v1c2;9 Jul St Augustine's Bay;1742;7;9;St Augustine's Bay;True
 s1194;s1194v1;s1194v1c3;6 Sep Bombay;1742;9;6;Bombay;False
 s1194;s1194v1;s1194v1c4;24 Oct Cannanore;1742;10;24;Cannanore;False
 s1194;s1194v1;s1194v1c5;1 Nov Tellicherry;1742;11;1;Tellicherry;False
@@ -25353,12 +25353,12 @@ s1194;s1194v2;s1194v2c2;Plymouth 6 May;1746;5;6;Plymouth;False
 s1194;s1194v2;s1194v2c3;10 Oct Rogues River;1746;10;10;Rogues River;False
 s1194;s1194v2;s1194v2c4;6 Feb 1747 Kedgeree;1747;2;6;Kedgeree;False
 s1194;s1194v2;s1194v2c5;9 Jul Delagoa Bay;1747;7;9;Delagoa Bay;False
-s1194;s1194v2;s1194v2c6;18 Nov St Paul s, Luanda;1747;11;18;St Paul s, Luanda;True
+s1194;s1194v2;s1194v2c6;18 Nov St Paul's, Luanda;1747;11;18;St Paul's, Luanda;True
 s1194;s1194v2;s1194v2c7;13 Feb 1748 Lisbon;1748;2;13;Lisbon;False
 s1194;s1194v2;s1194v2c8;5 Apr Downs;1748;4;5;Downs;False
 s1194;s1194v3;s1194v3c1;Downs 21 Mar 1749;1749;3;21;Downs;False
 s1194;s1194v3;s1194v3c2;Falmouth 30 Apr;1749;4;30;Falmouth;False
-s1194;s1194v3;s1194v3c3;5 Aug St Augustine s Bay;1749;8;5;St Augustine s Bay;True
+s1194;s1194v3;s1194v3c3;5 Aug St Augustine's Bay;1749;8;5;St Augustine's Bay;True
 s1194;s1194v3;s1194v3c4;17 Oct Bombay 5 Nov;1749;11;5;Bombay;False
 s1194;s1194v3;s1194v3c5;cruising;1749;nan;nan;cruising;False
 s1194;s1194v3;s1194v3c6;12 Dec Bombay;1749;12;12;Bombay;False
@@ -25522,7 +25522,7 @@ s1208;s1208v2;s1208v2c5;6 Jan 1750 Second Bar;1750;1;6;Second Bar;False
 s1208;s1208v2;s1208v2c6;3 May St Helena;1750;5;3;St Helena;False
 s1208;s1208v2;s1208v2c7;8 Jul Downs;1750;7;8;Downs;False
 s1208;s1208v3;s1208v3c1;Downs 5 Apr 1753;1753;4;5;Downs;False
-s1208;s1208v3;s1208v3c2;8 Jul St Augustine s Bay;1753;7;8;St Augustine s Bay;True
+s1208;s1208v3;s1208v3c2;8 Jul St Augustine's Bay;1753;7;8;St Augustine's Bay;True
 s1208;s1208v3;s1208v3c3;15 Aug Bombay 28 Sep;1753;9;28;Bombay;False
 s1208;s1208v3;s1208v3c4;Malabar coast;1753;nan;nan;Malabar coast;False
 s1208;s1208v3;s1208v3c5;9 Oct Bombay;1753;10;9;Bombay;False
@@ -25763,7 +25763,7 @@ s1218;s1218v1;s1218v1c22;Swally 15 Jan 1698;1698;1;15;Swally;False
 s1218;s1218v1;s1218v1c23;Bombay 27 Jan;1698;1;27;Bombay;False
 s1218;s1218v1;s1218v1c24;15 Apr Cape;1698;4;15;Cape;False
 s1218;s1218v1;s1218v1c25;St Helena;1698;nan;nan;St Helena;False
-s1218;s1218v1;s1218v1c26;28 Jul Downs * f.7v list of officers, against each name an armorial seal (a cross molincs w ithin a border, an esquire s helmet, the crest a lion passant);1698;7;28;Downs * f.7v list of officers, against each name an armorial seal (a cross molincs w ithin a border, an esquire s helmet, the crest a lion passant);True
+s1218;s1218v1;s1218v1c26;28 Jul Downs * f.7v list of officers, against each name an armorial seal (a cross molincs w ithin a border, an esquire's helmet, the crest a lion passant);1698;7;28;Downs * f.7v list of officers, against each name an armorial seal (a cross molincs w ithin a border, an esquire's helmet, the crest a lion passant);True
 s1218;s1218v2;s1218v2c1;Downs 2 Mar 1699;1699;3;2;Downs;False
 s1218;s1218v2;s1218v2c2;wrecked at Nash Point, Bristol Channel. Jan 1701;1701;1;nan;wrecked at Nash Point, Bristol Channel.;True
 s1219;s1219v1;s1219v1c1;22 Feb 1704;1704;2;22;nan;False
@@ -25934,7 +25934,7 @@ s1230;s1230v2;s1230v2c10;18 Oct Plymouth;1755;10;18;Plymouth;False
 s1230;s1230v3;s1230v3c1;Portsmouth 5 Mar 1758;1758;3;5;Portsmouth;False
 s1230;s1230v3;s1230v3c2;28 Mar Madeira;1758;3;28;Madeira;False
 s1230;s1230v3;s1230v3c3;28 Apr Sao Tiago;1758;4;28;Sao Tiago;False
-s1230;s1230v3;s1230v3c4;8 Aug St Augustine s Bay;1758;8;8;St Augustine s Bay;True
+s1230;s1230v3;s1230v3c4;8 Aug St Augustine's Bay;1758;8;8;St Augustine's Bay;True
 s1230;s1230v3;s1230v3c5;2 Nov Goa;1758;11;2;Goa;False
 s1230;s1230v3;s1230v3c6;15 Nov Bombay;1758;11;15;Bombay;False
 s1230;s1230v3;s1230v3c7;31 Jan 1759 Madras;1759;1;31;Madras;False
@@ -26374,7 +26374,7 @@ s1255;s1255v1;s1255v1c4;Nov Bantam;1612;11;nan;Bantam;False
 s1255;s1255v1;s1255v1c5;arrived in England after August 1613;1613;nan;nan;arrived in England after August;True
 s1255;s1255v2;s1255v2c1;Downs 7 Mar 1614;1614;3;7;Downs;False
 s1255;s1255v2;s1255v2c2;15 Jun Cape;1614;6;15;Cape;False
-s1255;s1255v2;s1255v2c3;7 Aug St Augustine s Bay;1614;8;7;St Augustine s Bay;True
+s1255;s1255v2;s1255v2c3;7 Aug St Augustine's Bay;1614;8;7;St Augustine's Bay;True
 s1255;s1255v2;s1255v2c4;23 Aug Moheli;1614;8;23;Moheli;False
 s1255;s1255v2;s1255v2c5;9 Sep Socotra;1614;9;9;Socotra;False
 s1255;s1255v2;s1255v2c6;15 Oct Surat 3 Mar 1615;1615;3;3;Surat;False
@@ -26599,7 +26599,7 @@ s1262;s1262v1;s1262v1c4;Sumatra;1627;nan;nan;Sumatra;False
 s1262;s1262v1;s1262v1c5;Oct 1628 Bantam;1628;10;nan;Bantam;False
 s1262;s1262v1;s1262v1c6;Downs;1628;nan;nan;Downs;False
 s1262;s1262v2;s1262v2c1;Downs 2 Feb 1631;1631;2;2;Downs;False
-s1262;s1262v2;s1262v2c2;30 May St Augustine s Bay;1631;5;30;St Augustine s Bay;True
+s1262;s1262v2;s1262v2c2;30 May St Augustine's Bay;1631;5;30;St Augustine's Bay;True
 s1262;s1262v2;s1262v2c3;1 Jul Johanna;1631;7;1;Johanna;False
 s1262;s1262v2;s1262v2c4;14 Oct Surat;1631;10;14;Surat;False
 s1262;s1262v2;s1262v2c5;Sumatra;1631;nan;nan;Sumatra;False
@@ -26652,7 +26652,7 @@ s1264;s1264v1;s1264v1c1;Downs 28 Mar 1624;1624;3;28;Downs;False
 s1264;s1264v1;s1264v1c2;Sep Surat;1624;9;nan;Surat;False
 s1264;s1264v1;s1264v1c3;Batavia 6 Aug;1624;8;6;Batavia;False
 s1264;s1264v1;s1264v1c4;Surat;1624;nan;nan;Surat;False
-s1264;s1264v1;s1264v1c5;Jun 1626 St Augustine s Bay;1626;6;nan;St Augustine s Bay;True
+s1264;s1264v1;s1264v1c5;Jun 1626 St Augustine's Bay;1626;6;nan;St Augustine's Bay;True
 s1264;s1264v1;s1264v1c6;not heard of again;1626;nan;nan;not heard of again;True
 s1265;s1265v1;s1265v1c1;Portsmouth 6 Feb 1782;1782;2;6;Portsmouth;False
 s1265;s1265v1;s1265v1c2;13 Jun St Helena 18 Aug;1782;8;18;St Helena;False
@@ -26774,7 +26774,7 @@ s1269;s1269v1;s1269v1c14;9 Aug Madras;1716;8;9;Madras;False
 s1269;s1269v1;s1269v1c15;13 Sep Balasore;1716;9;13;Balasore;False
 s1269;s1269v1;s1269v1c16;18 Sep Rogues River;1716;9;18;Rogues River;False
 s1269;s1269v1;s1269v1c17;2 Oct Calcutta;1716;10;2;Calcutta;False
-s1269;s1269v1;s1269v1c18;14 Nov Cox s Island;1716;11;14;Cox s Island;True
+s1269;s1269v1;s1269v1c18;14 Nov Cox's Island;1716;11;14;Cox's Island;False
 s1269;s1269v1;s1269v1c19;10 Dec Tellicherry;1716;12;10;Tellicherry;False
 s1269;s1269v1;s1269v1c20;24 Dec Bombay;1716;12;24;Bombay;False
 s1269;s1269v1;s1269v1c21;28 Jan 1717 Karwar;1717;1;28;Karwar;False
@@ -26800,7 +26800,7 @@ s1269;s1269v2;s1269v2c14;20 May St Helena;1719;5;20;St Helena;False
 s1269;s1269v2;s1269v2c15;22 Aug Woolwich * B ff.38v;1719;8;22;Woolwich * B ff.38v;True
 s1269;s1269v2;s1269v2c16;44 & C ff.56;1719;nan;44;& C ff.56;True
 s1269;s1269v2;s1269v2c17;57, 59y;1719;nan;nan;57, 59y;False
-s1269;s1269v2;s1269v2c18;60v action agst Angria s fleet;1719;nan;nan;60v action agst Angria s fleet;True
+s1269;s1269v2;s1269v2c18;60v action agst Angria's fleet;1719;nan;nan;60v action agst Angria's fleet;True
 s1269;s1269v3;s1269v3c1;Downs 15 Jun 1721;1721;6;15;Downs;False
 s1269;s1269v3;s1269v3c2;6 Jan 1722 Anjengo;1722;1;6;Anjengo;False
 s1269;s1269v3;s1269v3c3;11 Jan Cochin;1722;1;11;Cochin;False
@@ -26879,7 +26879,7 @@ s1273;s1273v1;s1273v1c8;17 Aug Ascension;1757;8;17;Ascension;False
 s1273;s1273v1;s1273v1c9;29 Nov Downs;1757;11;29;Downs;False
 s1273;s1273v2;s1273v2c1;Downs 24 Mar 1759;1759;3;24;Downs;False
 s1273;s1273v2;s1273v2c2;1 May Madeira;1759;5;1;Madeira;False
-s1273;s1273v2;s1273v2c3;10 Aug St Augustine s Bay;1759;8;10;St Augustine s Bay;True
+s1273;s1273v2;s1273v2c3;10 Aug St Augustine's Bay;1759;8;10;St Augustine's Bay;True
 s1273;s1273v2;s1273v2c4;28 Oct Madras;1759;10;28;Madras;False
 s1273;s1273v2;s1273v2c5;25 Dec Culpee;1759;12;25;Culpee;False
 s1273;s1273v2;s1273v2c6;30 Jan 1760 Ingeli;1760;1;30;Ingeli;False
@@ -27009,7 +27009,7 @@ s1277;s1277v1;s1277v1c1;Portsmouth 4 Nov 1747;1747;11;4;Portsmouth;False
 s1277;s1277v1;s1277v1c2;14 Dec Madeira;1747;12;14;Madeira;False
 s1277;s1277v1;s1277v1c3;12 Jan 1748 Sao Tiago;1748;1;12;Sao Tiago;False
 s1277;s1277v1;s1277v1c4;28 Mar Cape;1748;3;28;Cape;False
-s1277;s1277v1;s1277v1c5;3 Jul St Augustine s Bay;1748;7;3;St Augustine s Bay;True
+s1277;s1277v1;s1277v1c5;3 Jul St Augustine's Bay;1748;7;3;St Augustine's Bay;True
 s1277;s1277v1;s1277v1c6;26 Oct Bombay;1748;10;26;Bombay;False
 s1277;s1277v1;s1277v1c7;4 Dec Tellicherry;1748;12;4;Tellicherry;False
 s1277;s1277v1;s1277v1c8;7 Dec Calicut;1748;12;7;Calicut;False
@@ -27163,7 +27163,7 @@ s1284;s1284v1;s1284v1c7;29 Nov Batavia;1712;11;29;Batavia;False
 s1284;s1284v1;s1284v1c8;27 Mar 1713 Cape;1713;3;27;Cape;False
 s1284;s1284v1;s1284v1c9;25 Aug Limehouse;1713;8;25;Limehouse;False
 s1284;s1284v2;s1284v2c1;Downs 7 Mar 1717;1717;3;7;Downs;False
-s1284;s1284v2;s1284v2c2;lost nr St Thomas s Mount;1717;nan;nan;lost nr St Thomas s Mount;True
+s1284;s1284v2;s1284v2c2;lost nr St Thomas's Mount;1717;nan;nan;lost nr St Thomas's Mount;True
 s1285;s1285v1;s1285v1c1;Portsmouth 17 May 1764;1764;5;17;Portsmouth;False
 s1285;s1285v1;s1285v1c2;26 Sep Anjengo;1764;9;26;Anjengo;False
 s1285;s1285v1;s1285v1c3;31 Oct Culpee;1764;10;31;Culpee;False
@@ -27473,7 +27473,7 @@ s1305;s1305v1;s1305v1c4;24 Aug Masulipatam;1710;8;24;Masulipatam;False
 s1305;s1305v1;s1305v1c5;1 Sep Vizagapatam;1710;9;1;Vizagapatam;False
 s1305;s1305v1;s1305v1c6;15 Sep Balasore;1710;9;15;Balasore;False
 s1305;s1305v1;s1305v1c7;23 Sep Rogues River;1710;9;23;Rogues River;False
-s1305;s1305v1;s1305v1c8;15 Jan 1711 Cox s Island;1711;1;15;Cox s Island;True
+s1305;s1305v1;s1305v1c8;15 Jan 1711 Cox's Island;1711;1;15;Cox's Island;False
 s1305;s1305v1;s1305v1c9;21 May Cape;1711;5;21;Cape;False
 s1305;s1305v1;s1305v1c10;18 Jun St Helena;1711;6;18;St Helena;False
 s1305;s1305v1;s1305v1c11;14 Oct Deptford;1711;10;14;Deptford;False
@@ -27634,7 +27634,7 @@ s1312;s1312v2;s1312v2c10;at Bantam in each year 1642;1642;nan;nan;at Bantam in e
 s1312;s1312v2;s1312v2c11;1646;1646;nan;nan;nan;False
 s1313;s1313v1;s1313v1c1;Plymouth 12 Nov 1741;1741;11;12;Plymouth;False
 s1313;s1313v1;s1313v1c2;31 Jan 1742 Cape;1742;1;31;Cape;False
-s1313;s1313v1;s1313v1c3;11 Mar St Augustine s Bay;1742;3;11;St Augustine s Bay;True
+s1313;s1313v1;s1313v1c3;11 Mar St Augustine's Bay;1742;3;11;St Augustine's Bay;True
 s1313;s1313v1;s1313v1c4;25 Apr St Helena;1742;4;25;St Helena;False
 s1313;s1313v1;s1313v1c5;17 Sep Portsmouth;1742;9;17;Portsmouth;False
 s1313;s1313v2;s1313v2c1;Portsmouth 11 Jan 1743;1743;1;11;Portsmouth;False
@@ -27854,7 +27854,7 @@ s1321;s1321v3;s1321v3c3;1 Nov Acheh;1703;11;1;Acheh;False
 s1321;s1321v3;s1321v3c4;14 Dec Madras;1703;12;14;Madras;False
 s1321;s1321v3;s1321v3c5;16 Mar 1704 Balasore;1704;3;16;Balasore;False
 s1321;s1321v3;s1321v3c6;26 Mar Rogues River;1704;3;26;Rogues River;False
-s1321;s1321v3;s1321v3c7;27 Nov 'Sajo Island;1704;11;27;'Sajo Island;False
+s1321;s1321v3;s1321v3c7;27 Nov 'Sajo Island';1704;11;27;'Sajo Island';False
 s1321;s1321v3;s1321v3c8;2 May 1705 St Helena;1705;5;2;St Helena;False
 s1321;s1321v3;s1321v3c9;23 Jul Ascension;1705;7;23;Ascension;False
 s1321;s1321v3;s1321v3c10;27 Sep Kinsale;1705;9;27;Kinsale;False
@@ -27902,7 +27902,7 @@ s1322;s1322v3;s1322v3c10;9 Mar Anjengo;1754;3;9;Anjengo;False
 s1322;s1322v3;s1322v3c11;28 Jun St Helena;1754;6;28;St Helena;False
 s1322;s1322v3;s1322v3c12;7 Oct Downs;1754;10;7;Downs;False
 s1322;s1322v4;s1322v4c1;Downs 30 Jan 1757;1757;1;30;Downs;False
-s1322;s1322v4;s1322v4c2;16 Jul St Augustine s Bay;1757;7;16;St Augustine s Bay;True
+s1322;s1322v4;s1322v4c2;16 Jul St Augustine's Bay;1757;7;16;St Augustine's Bay;True
 s1322;s1322v4;s1322v4c3;6 Sep Madras 22 Oct;1757;10;22;Madras;False
 s1322;s1322v4;s1322v4c4;2 Dec Bombay 9 Mar 1758;1758;3;9;Bombay;False
 s1322;s1322v4;s1322v4c5;15 Apr Madras 24 May;1758;5;24;Madras;False
@@ -28065,7 +28065,7 @@ s1329;s1329v5;s1329v5c2;15 Jun Madras;1829;6;15;Madras;False
 s1329;s1329v5;s1329v5c3;27 Aug Malacca;1829;8;27;Malacca;False
 s1329;s1329v5;s1329v5c4;2 Sep Singapore;1829;9;2;Singapore;False
 s1329;s1329v5;s1329v5c5;15 Sep Toun;1829;9;15;Toun;False
-s1329;s1329v5;s1329v5c6;koo;1829;nan;nan;koo;False
+s1329;s1329v5;s1329v5c6;koo';1829;nan;nan;koo';False
 s1329;s1329v5;s1329v5c7;17 Nov Capsmgmoon Passage;1829;11;17;Capsmgmoon Passage;False
 s1329;s1329v5;s1329v5c8;9 Feb 1830 Whampoa;1830;2;9;Whampoa;False
 s1329;s1329v5;s1329v5c9;Second Bar 17 Mar;1830;3;17;Second Bar;False
@@ -28314,7 +28314,7 @@ s1340;s1340v1;s1340v1c2;4 Nov Cape;1796;11;4;Cape;False
 s1340;s1340v1;s1340v1c3;30 Nov St Helena;1796;11;30;St Helena;False
 s1340;s1340v1;s1340v1c4;5 Feb 1797 Falmouth;1797;2;5;Falmouth;False
 s1341;s1341v1;s1341v1c1;Received Royal licence 25 Jun 1604;1604;6;25;Received Royal licence;True
-s1341;s1341v1;s1341v1c2;left Cowes with Tiger s Whelp pinnace 5 Dec 1604;1604;12;5;left Cowes with Tiger s Whelp pinnace;True
+s1341;s1341v1;s1341v1c2;left Cowes with Tiger's Whelp pinnace 5 Dec 1604;1604;12;5;left Cowes with Tiger's Whelp pinnace;True
 s1341;s1341v1;s1341v1c3;8 Apr 1605 Cape;1605;4;8;Cape;False
 s1341;s1341v1;s1341v1c4;25 Jul Coast of Sumatra;1605;7;25;Coast of Sumatra;True
 s1341;s1341v1;s1341v1c5;13 Aug Priaman;1605;8;13;Priaman;False
@@ -28381,7 +28381,7 @@ s1343;s1343v6;s1343v6c8;23 Jun Downs;1815;6;23;Downs;False
 s1344;s1344v1;s1344v1c1;Downs 15 Jan 1758;1758;1;15;Downs;False
 s1344;s1344v1;s1344v1c2;21 Mar Madeira;1758;3;21;Madeira;False
 s1344;s1344v1;s1344v1c3;28 Apr Sao Tiago;1758;4;28;Sao Tiago;False
-s1344;s1344v1;s1344v1c4;7 Aug St Augustine s Bay;1758;8;7;St Augustine s Bay;True
+s1344;s1344v1;s1344v1c4;7 Aug St Augustine's Bay;1758;8;7;St Augustine's Bay;True
 s1344;s1344v1;s1344v1c5;1 Nov Goa 15 Nov Bombay;1758;11;15;Goa Bombay;False
 s1344;s1344v1;s1344v1c6;16 Feb 1759 Madras;1759;2;16;Madras;False
 s1344;s1344v1;s1344v1c7;3 Apr Pulicat;1759;4;3;Pulicat;False
@@ -28694,7 +28694,7 @@ s1358;s1358v1;s1358v1c4;1 Mar Downs;1801;3;1;Downs;False
 s1358;s1358v2;s1358v2c1;Calcutta 26 Feb 1802;1802;2;26;Calcutta;False
 s1358;s1358v2;s1358v2c2;Kedgeree 17 Apr;1802;4;17;Kedgeree;False
 s1358;s1358v2;s1358v2c3;9 Jul St Helena;1802;7;9;St Helena;False
-s1358;s1358v2;s1358v2c4;13 Sep Downs * inc note 'state of the sails;1802;9;13;Downs * inc note 'state of the sails;True
+s1358;s1358v2;s1358v2c4;13 Sep Downs * inc note 'state of the sails';1802;9;13;Downs * inc note 'state of the sails';True
 s1359;s1359v1;s1359v1c1;Portsmouth 12 Apr 1796;1796;4;12;Portsmouth;False
 s1359;s1359v1;s1359v1c2;12 Aug Cape 1 Oct;1796;10;1;Cape;False
 s1359;s1359v1;s1359v1c3;14 Oct St Helena;1796;10;14;St Helena;False
@@ -28711,7 +28711,7 @@ s1360;s1360v1;s1360v1c9;15 Jan 1749 Fort St David;1749;1;15;Fort St David;True
 s1360;s1360v1;s1360v1c10;19 Feb Tellicherry;1749;2;19;Tellicherry;False
 s1360;s1360v1;s1360v1c11;5 Jun St Helena;1749;6;5;St Helena;False
 s1360;s1360v1;s1360v1c12;24 Aug Downs;1749;8;24;Downs;False
-s1360;s1360v2;s1360v2c1;3 Mar 'Dunderogipore;1749;3;3;'Dunderogipore;False
+s1360;s1360v2;s1360v2c1;3 Mar 'Dunderogipore';1749;3;3;'Dunderogipore';False
 s1360;s1360v2;s1360v2c2;9 Mar Bombay;1749;3;9;Bombay;False
 s1360;s1360v2;s1360v2c3;25 Mar Surat;1749;3;25;Surat;False
 s1360;s1360v2;s1360v2c4;5 Apr Bombay;1749;4;5;Bombay;False
@@ -28749,7 +28749,7 @@ s1361;s1361v1;s1361v1c11;13 May Tellicheny;1762;5;13;Tellicheny;False
 s1361;s1361v1;s1361v1c12;30 May Madras;1762;5;30;Madras;False
 s1361;s1361v1;s1361v1c13;19 Jul Malacca;1762;7;19;Malacca;False
 s1361;s1361v1;s1361v1c14;19 Aug Whampoa;1762;8;19;Whampoa;False
-s1361;s1361v1;s1361v1c15;21 Jan 1763 'Pulo Auroe;1763;1;21;'Pulo Auroe;False
+s1361;s1361v1;s1361v1c15;21 Jan 1763 'Pulo Auroe';1763;1;21;'Pulo Auroe';False
 s1361;s1361v1;s1361v1c16;14 Apr St Helena;1763;4;14;St Helena;False
 s1361;s1361v1;s1361v1c17;15 Jul Downs;1763;7;15;Downs;False
 s1361;s1361v2;s1361v2c1;Downs 12 Apr 1765;1765;4;12;Downs;False
@@ -28912,11 +28912,11 @@ s1374;s1374v1;s1374v1c2;Plymouth 31 Mar;1608;3;31;Plymouth;False
 s1374;s1374v1;s1374v1c3;12 Apr Canaries;1608;4;12;Canaries;False
 s1374;s1374v1;s1374v1c4;27 Apr Maio;1608;4;27;Maio;False
 s1374;s1374v1;s1374v1c5;14 Jul Cape 19 Sep;1608;9;19;Cape;False
-s1374;s1374v1;s1374v1c6;St Augustine s Bay;1608;nan;nan;St Augustine s Bay;True
+s1374;s1374v1;s1374v1c6;St Augustine's Bay;1608;nan;nan;St Augustine's Bay;True
 s1374;s1374v1;s1374v1c7;Zanzibar;1608;nan;nan;Zanzibar;False
 s1374;s1374v1;s1374v1c8;27 Jul 1609 Acheh;1609;7;27;Acheh;False
 s1374;s1374v1;s1374v1c9;Priaman Feb 1610;1610;2;nan;Priaman;False
-s1374;s1374v1;s1374v1c10;Sep St Augustine s Bay;1610;9;nan;St Augustine s Bay;True
+s1374;s1374v1;s1374v1c10;Sep St Augustine's Bay;1610;9;nan;St Augustine's Bay;True
 s1374;s1374v1;s1374v1c11;Feb 1611 wrecked on rocks of Audierne, Britanny, for lack of crew, cargo looted;1611;2;nan;wrecked on rocks of Audierne, Britanny, for lack of crew, cargo looted;True
 s1375;s1375v1;s1375v1c1;Downs 9 Mar 1702;1702;3;9;Downs;False
 s1375;s1375v1;s1375v1c2;10 Jun St Helena;1702;6;10;St Helena;False
@@ -29204,7 +29204,7 @@ s1386;s1386v4;s1386v4c9;25 Apr Downs;1790;4;25;Downs;False
 s1386;s1386v5;s1386v5c1;Downs 9 Mar 1792;1792;3;9;Downs;False
 s1386;s1386v5;s1386v5c2;11 May St Helena;1792;5;11;St Helena;False
 s1386;s1386v5;s1386v5c3;6 Aug Diamond Point;1792;8;6;Diamond Point;False
-s1386;s1386v5;s1386v5c4;21 Sep 'Monsourcottah;1792;9;21;'Monsourcottah;False
+s1386;s1386v5;s1386v5c4;21 Sep 'Monsourcottah';1792;9;21;'Monsourcottah';False
 s1386;s1386v5;s1386v5c5;2 Nov Diamond Harbour 2 Jan 1793;1793;1;2;Diamond Harbour;False
 s1386;s1386v5;s1386v5c6;12 Jan Madras;1793;1;12;Madras;False
 s1386;s1386v5;s1386v5c7;20 Feb Benkulen 13 Mar;1793;3;13;Benkulen;False
@@ -29212,7 +29212,7 @@ s1386;s1386v5;s1386v5c8;11 May St Helena 21 Jun;1793;6;21;St Helena;False
 s1386;s1386v5;s1386v5c9;21 Aug Downs;1793;8;21;Downs;False
 s1386;s1386v6;s1386v6c1;Portsmouth 2 May 1794;1794;5;2;Portsmouth;False
 s1386;s1386v6;s1386v6c2;12 Sep Diamond Harbour;1794;9;12;Diamond Harbour;False
-s1386;s1386v6;s1386v6c3;28 Nov Cox s Island 8 Jan 1795;1795;1;8;Cox s Island;True
+s1386;s1386v6;s1386v6c3;28 Nov Cox's Island 8 Jan 1795;1795;1;8;Cox's Island;False
 s1386;s1386v6;s1386v6c4;18 Mar St Helena 14 May;1795;5;14;St Helena;False
 s1386;s1386v6;s1386v6c5;23 Jul Downs;1795;7;23;Downs;False
 s1387;s1387v1;s1387v1c1;Downs 18 Jan 1719;1719;1;18;Downs;False
@@ -29284,7 +29284,7 @@ s1389;s1389v3;s1389v3c7;20 May St Helena;1787;5;20;St Helena;False
 s1389;s1389v3;s1389v3c8;20 Jul Downs;1787;7;20;Downs;False
 s1389;s1389v4;s1389v4c1;Downs 25 Mar 1789;1789;3;25;Downs;False
 s1389;s1389v4;s1389v4c2;15 Jul Batavia;1789;7;15;Batavia;False
-s1389;s1389v4;s1389v4c3;wrecked 23 Aug on a rock in Straits of Caspar, crew escaped in ship s boats;1789;8;23;wrecked on a rock in Straits of Caspar, crew escaped in ship s boats;True
+s1389;s1389v4;s1389v4c3;wrecked 23 Aug on a rock in Straits of Caspar, crew escaped in ship's boats;1789;8;23;wrecked on a rock in Straits of Caspar, crew escaped in ship's boats;True
 s1390;s1390v1;s1390v1c1;Downs 5 Mar 1833;1833;3;5;Downs;False
 s1390;s1390v1;s1390v1c2;7 Jun Madras;1833;6;7;Madras;False
 s1390;s1390v1;s1390v1c3;16 Jun Saugor 18 Aug;1833;8;18;Saugor;False
@@ -29583,7 +29583,7 @@ s1399;s1399v1;s1399v1c8;11 Mar St Helena;1754;3;11;St Helena;False
 s1399;s1399v1;s1399v1c9;24 May Downs;1754;5;24;Downs;False
 s1399;s1399v2;s1399v2c1;Portsmouth 12 Mar 1756;1756;3;12;Portsmouth;False
 s1399;s1399v2;s1399v2c2;28 Mar Madeira;1756;3;28;Madeira;False
-s1399;s1399v2;s1399v2c3;21 Jul St Augustine s Bay;1756;7;21;St Augustine s Bay;True
+s1399;s1399v2;s1399v2c3;21 Jul St Augustine's Bay;1756;7;21;St Augustine's Bay;True
 s1399;s1399v2;s1399v2c4;20 Sep Madras;1756;9;20;Madras;False
 s1399;s1399v2;s1399v2c5;15 Dec Fultah;1756;12;15;Fultah;False
 s1399;s1399v2;s1399v2c6;Barrabulla 16 Mar 1757;1757;3;16;Barrabulla;False
@@ -29618,7 +29618,7 @@ s1400;s1400v3;s1400v3c2;22 Mar Madeira;1786;3;22;Madeira;False
 s1400;s1400v3;s1400v3c3;13 Jul Johanna;1786;7;13;Johanna;False
 s1400;s1400v3;s1400v3c4;9 Aug Madras;1786;8;9;Madras;False
 s1400;s1400v3;s1400v3c5;23 Aug Diamond Point 24 Dec;1786;12;24;Diamond Point;False
-s1400;s1400v3;s1400v3c6;26 Dec Cox s Island 14 Jan 1787;1787;1;14;Cox s Island;True
+s1400;s1400v3;s1400v3c6;26 Dec Cox's Island 14 Jan 1787;1787;1;14;Cox's Island;False
 s1400;s1400v3;s1400v3c7;31 Jan Madras;1787;1;31;Madras;False
 s1400;s1400v3;s1400v3c8;4 Mar Kedgeree;1787;3;4;Kedgeree;False
 s1400;s1400v3;s1400v3c9;13 May Madras;1787;5;13;Madras;False
@@ -29764,7 +29764,7 @@ s1404;s1404v1;s1404v1c6;23 Jun Downs;1790;6;23;Downs;False
 s1404;s1404v2;s1404v2c1;Downs 19 Jan 1793;1793;1;19;Downs;False
 s1404;s1404v2;s1404v2c2;3 Apr Cape;1793;4;3;Cape;False
 s1404;s1404v2;s1404v2c3;30 May Madras 6 Jul;1793;7;6;Madras;False
-s1404;s1404v2;s1404v2c4;off Pondicherry with Admiral Cornwallis s squadron;1793;nan;nan;off Pondicherry with Admiral Cornwallis s squadron;True
+s1404;s1404v2;s1404v2c4;off Pondicherry with Admiral Cornwallis's squadron;1793;nan;nan;off Pondicherry with Admiral Cornwallis's squadron;True
 s1404;s1404v2;s1404v2c5;28 Aug Madras;1793;8;28;Madras;False
 s1404;s1404v2;s1404v2c6;4 Oct Penang;1793;10;4;Penang;False
 s1404;s1404v2;s1404v2c7;18 Oct Malacca;1793;10;18;Malacca;False
@@ -29845,7 +29845,7 @@ s1405;s1405v9;s1405v9c3;Second Bar 3 Dec;1815;12;3;Second Bar;False
 s1405;s1405v9;s1405v9c4;3 Mar 1816 St Helena;1816;3;3;St Helena;False
 s1405;s1405v9;s1405v9c5;29 Apr Downs;1816;4;29;Downs;False
 s1406;s1406v1;s1406v1c1;Downs 22 Mar 1749;1749;3;22;Downs;False
-s1406;s1406v1;s1406v1c2;20 May All Saints  Bay;1749;5;20;All Saints  Bay;True
+s1406;s1406v1;s1406v1c2;20 May All Saints' Bay;1749;5;20;All Saints' Bay;True
 s1406;s1406v1;s1406v1c3;12 Sep Johanna;1749;9;12;Johanna;False
 s1406;s1406v1;s1406v1c4;8 Dec Moheli;1749;12;8;Moheli;False
 s1406;s1406v1;s1406v1c5;27 Feb 1750 Johanna;1750;2;27;Johanna;False
@@ -29875,7 +29875,7 @@ s1406;s1406v2;s1406v2c17;7 May 1756 St Helena;1756;5;7;St Helena;False
 s1406;s1406v2;s1406v2c18;18 Aug Kinsale;1756;8;18;Kinsale;False
 s1406;s1406v2;s1406v2c19;9 Sep Downs;1756;9;9;Downs;False
 s1406;s1406v3;s1406v3c1;Portsmouth 21 Apr 1758;1758;4;21;Portsmouth;False
-s1406;s1406v3;s1406v3c2;2 Aug St Augustine s Bay;1758;8;2;St Augustine s Bay;True
+s1406;s1406v3;s1406v3c2;2 Aug St Augustine's Bay;1758;8;2;St Augustine's Bay;True
 s1406;s1406v3;s1406v3c3;29 Sep Point de Galle;1758;9;29;Point de Galle;True
 s1406;s1406v3;s1406v3c4;19 Nov Culpee;1758;11;19;Culpee;False
 s1406;s1406v3;s1406v3c5;8 Dec Calcutta;1758;12;8;Calcutta;False
@@ -30182,7 +30182,7 @@ s1414;s1414v6;s1414v6c7;12 Feb 1828 St Helena;1828;2;12;St Helena;False
 s1414;s1414v6;s1414v6c8;4 Apr Downs;1828;4;4;Downs;False
 s1414;s1414v7;s1414v7c1;Downs 30 Apr 1829;1829;4;30;Downs;False
 s1414;s1414v7;s1414v7c2;31 Aug Macao;1829;8;31;Macao;False
-s1414;s1414v7;s1414v7c3;4 Sep 'Toonkoo Bay  7 Feb 1830;1830;2;7;'Toonkoo Bay ;True
+s1414;s1414v7;s1414v7c3;4 Sep 'Toonkoo Bay' 7 Feb 1830;1830;2;7;'Toonkoo Bay';False
 s1414;s1414v7;s1414v7c4;9 Feb Whampoa;1830;2;9;Whampoa;False
 s1414;s1414v7;s1414v7c5;Second Bar 28 Mar;1830;3;28;Second Bar;False
 s1414;s1414v7;s1414v7c6;1 Jul St Helena;1830;7;1;St Helena;False
@@ -30225,7 +30225,7 @@ s1419;s1419v1;s1419v1c6;Macao 6 Jan 1701;1701;1;6;Macao;False
 s1419;s1419v1;s1419v1c7;Java Head 5 Feb;1701;2;5;Java Head;False
 s1419;s1419v1;s1419v1c8;17 Apr Cape;1701;4;17;Cape;False
 s1419;s1419v1;s1419v1c9;16 May St Helena;1701;5;16;St Helena;False
-s1419;s1419v1;s1419v1c10;9 Aug Downs See Barlow s Journal, ed Basil Lubbock (London, 1934) 2 pp.502;1701;8;2;Downs See Barlow s Journal, ed Basil Lubbock (London, 1934) pp.502;True
+s1419;s1419v1;s1419v1c10;9 Aug Downs See Barlow's Journal, ed Basil Lubbock (London, 1934) 2 pp.502;1701;8;2;Downs See Barlow's Journal, ed Basil Lubbock (London, 1934) pp.502;True
 s1419;s1419v1;s1419v1c11;28;1701;nan;28;nan;False
 s1419;s1419v2;s1419v2c1;Downs 8 Mar 1702;1702;3;8;Downs;False
 s1419;s1419v2;s1419v2c2;25 Aug Balasore;1702;8;25;Balasore;False
@@ -30357,7 +30357,7 @@ s1425;s1425v2;s1425v2c7;Jun 1628 Surat;1628;6;nan;Surat;False
 s1425;s1425v2;s1425v2c8;Jan 1629 Downs;1629;1;nan;Downs;False
 s1425;s1425v3;s1425v3c1;Downs 15 Mar 1630;1630;3;15;Downs;False
 s1425;s1425v3;s1425v3c2;20 May Trinidade;1630;5;20;Trinidade;False
-s1425;s1425v3;s1425v3c3;14 Jul St Augustine s Bay;1630;7;14;St Augustine s Bay;True
+s1425;s1425v3;s1425v3c3;14 Jul St Augustine's Bay;1630;7;14;St Augustine's Bay;True
 s1425;s1425v3;s1425v3c4;7 Aug Johanna;1630;8;7;Johanna;False
 s1425;s1425v3;s1425v3c5;14 Oct Surat;1630;10;14;Surat;False
 s1425;s1425v3;s1425v3c6;7 Feb 1631 Bandar Abbas;1631;2;7;Bandar Abbas;False
@@ -30375,7 +30375,7 @@ s1425;s1425v3;s1425v3c17;17 May St Helena;1633;5;17;St Helena;False
 s1425;s1425v3;s1425v3c18;3 Aug Downs;1633;8;3;Downs;False
 s1425;s1425v4;s1425v4c1;Downs;1633;nan;nan;Downs;False
 s1425;s1425v4;s1425v4c2;31 Jun 1635 Trinidade;1635;6;31;Trinidade;False
-s1425;s1425v4;s1425v4c3;6 Aug St Augustine s Bay;1635;8;6;St Augustine s Bay;True
+s1425;s1425v4;s1425v4c3;6 Aug St Augustine's Bay;1635;8;6;St Augustine's Bay;True
 s1425;s1425v4;s1425v4c4;21 Aug Johanna;1635;8;21;Johanna;False
 s1425;s1425v4;s1425v4c5;19 Nov Surat;1635;11;19;Surat;False
 s1425;s1425v4;s1425v4c6;17 Dec Goa;1635;12;17;Goa;False
@@ -30433,7 +30433,7 @@ s1430;s1430v5;s1430v5c3;7 Jul Penang;1830;7;7;Penang;False
 s1430;s1430v5;s1430v5c4;16 Jul Malacca;1830;7;16;Malacca;False
 s1430;s1430v5;s1430v5c5;22 Jul Singapore;1830;7;22;Singapore;False
 s1430;s1430v5;s1430v5c6;8 Aug 'Chow;1830;8;8;'Chow;False
-s1430;s1430v5;s1430v5c7;long;1830;nan;nan;long;False
+s1430;s1430v5;s1430v5c7;long';1830;nan;nan;long';False
 s1430;s1430v5;s1430v5c8;14 Sep Whampoa;1830;9;14;Whampoa;False
 s1430;s1430v5;s1430v5c9;Second Bar 17 Nov;1830;11;17;Second Bar;False
 s1430;s1430v5;s1430v5c10;31 Jan 1831 St Helena;1831;1;31;St Helena;False
@@ -30459,7 +30459,7 @@ s1431;s1431v2;s1431v2c5;26 Sep Quebec;1834;9;26;Quebec;False
 s1432;s1432v1;s1432v1c1;Downs 26 Mar 1786;1786;3;26;Downs;False
 s1432;s1432v1;s1432v1c2;26 Jul Madras;1786;7;26;Madras;False
 s1432;s1432v1;s1432v1c3;14 Aug Diamond Point;1786;8;14;Diamond Point;False
-s1432;s1432v1;s1432v1c4;13 Dec Cox s Island 2 Jan 1787;1787;1;2;Cox s Island;True
+s1432;s1432v1;s1432v1c4;13 Dec Cox's Island 2 Jan 1787;1787;1;2;Cox's Island;False
 s1432;s1432v1;s1432v1c5;13 Mar St Helena;1787;3;13;St Helena;False
 s1432;s1432v1;s1432v1c6;15 May Downs;1787;5;15;Downs;False
 s1432;s1432v2;s1432v2c1;Downs 5 Apr 1788;1788;4;5;Downs;False
@@ -30671,10 +30671,10 @@ s1437;s1437v1;s1437v1c14;22 May St Helena;1745;5;22;St Helena;False
 s1437;s1437v1;s1437v1c15;16 Sep Galway Bay 30 Nov;1745;11;30;Galway Bay;False
 s1437;s1437v1;s1437v1c16;19 Dec Downs;1745;12;19;Downs;False
 s1437;s1437v2;s1437v2c1;Downs 16 Feb 1747;1747;2;16;Downs;False
-s1437;s1437v2;s1437v2c2;driven on shore nr Fort St David by 'a violent storm of wind  14 Apr 1749;1749;4;14;driven on shore nr Fort St David by 'a violent storm of wind ;True
+s1437;s1437v2;s1437v2c2;driven on shore nr Fort St David by 'a violent storm of wind' 14 Apr 1749;1749;4;14;driven on shore nr Fort St David by 'a violent storm of wind';True
 s1438;s1438v1;s1438v1c1;Plymouth 5 Jan 1753;1753;1;5;Plymouth;False
 s1438;s1438v1;s1438v1c2;24 Jan Madeira;1753;1;24;Madeira;False
-s1438;s1438v1;s1438v1c3;2 Jun St Augustine s Bay;1753;6;2;St Augustine s Bay;True
+s1438;s1438v1;s1438v1c3;2 Jun St Augustine's Bay;1753;6;2;St Augustine's Bay;True
 s1438;s1438v1;s1438v1c4;24 Jul Fort St David;1753;7;24;Fort St David;True
 s1438;s1438v1;s1438v1c5;4 Aug Madras;1753;8;4;Madras;False
 s1438;s1438v1;s1438v1c6;18 Aug Vizagapatam;1753;8;18;Vizagapatam;False
@@ -30697,7 +30697,7 @@ s1438;s1438v2;s1438v2c1;Downs 30 Dec 1757;1757;12;30;Downs;False
 s1438;s1438v2;s1438v2c2;Portsmouth 6 Mar 1758;1758;3;6;Portsmouth;False
 s1438;s1438v2;s1438v2c3;28 Mar Madeira;1758;3;28;Madeira;False
 s1438;s1438v2;s1438v2c4;28 Apr Sao Tiago;1758;4;28;Sao Tiago;False
-s1438;s1438v2;s1438v2c5;7 Aug St Augustine s Bay;1758;8;7;St Augustine s Bay;True
+s1438;s1438v2;s1438v2c5;7 Aug St Augustine's Bay;1758;8;7;St Augustine's Bay;True
 s1438;s1438v2;s1438v2c6;2 Nov Goa;1758;11;2;Goa;False
 s1438;s1438v2;s1438v2c7;15 Nov Bombay;1758;11;15;Bombay;False
 s1438;s1438v2;s1438v2c8;30 Dec Anjengo;1758;12;30;Anjengo;False
@@ -30952,7 +30952,7 @@ s1444;s1444v7;s1444v7c7;Second Bar 23 Jan 1833;1833;1;23;Second Bar;False
 s1444;s1444v7;s1444v7c8;5 Apr St Helena;1833;4;5;St Helena;False
 s1444;s1444v7;s1444v7c9;29 May Downs;1833;5;29;Downs;False
 s1445;s1445v1;s1445v1c1;Portsmouth 4 Sep 1782;1782;9;4;Portsmouth;False
-s1445;s1445v1;s1445v1c2;27 Nov All Saints  Bay;1782;11;27;All Saints  Bay;True
+s1445;s1445v1;s1445v1c2;27 Nov All Saints' Bay;1782;11;27;All Saints' Bay;True
 s1445;s1445v1;s1445v1c3;17 Apr 1783 Madras;1783;4;17;Madras;False
 s1445;s1445v1;s1445v1c4;25 Jul Vizagapatam;1783;7;25;Vizagapatam;False
 s1445;s1445v1;s1445v1c5;8 Aug Kedgeree;1783;8;8;Kedgeree;False
@@ -31082,7 +31082,7 @@ s1449;s1449v1;s1449v1c4;4 Feb 1821 Downs;1821;2;4;Downs;False
 s1450;s1450v1;s1450v1c1;Downs 2 Apr 1686;1686;4;2;Downs;False
 s1450;s1450v1;s1450v1c2;free ship to trade in the country;1686;nan;nan;free ship to trade in the country;True
 s1451;s1451v1;s1451v1c1;Portsmouth 4 May 1757;1757;5;4;Portsmouth;False
-s1451;s1451v1;s1451v1c2;27 Jul All Saints  Bay;1757;7;27;All Saints  Bay;True
+s1451;s1451v1;s1451v1c2;27 Jul All Saints' Bay;1757;7;27;All Saints' Bay;True
 s1451;s1451v1;s1451v1c3;5 Dec Nicobars;1757;12;5;Nicobars;False
 s1451;s1451v1;s1451v1c4;16 Feb 1758 Culpee;1758;2;16;Culpee;False
 s1451;s1451v1;s1451v1c5;23 Mar Calcutta 10 Sep;1758;9;10;Calcutta;False
@@ -31146,7 +31146,7 @@ s1452;s1452v4;s1452v4c3;8 May Goree;1779;5;8;Goree;False
 s1452;s1452v4;s1452v4c4;3 Oct Whampoa;1779;10;3;Whampoa;False
 s1452;s1452v4;s1452v4c5;Second Bar 21 Jan 1780;1780;1;21;Second Bar;False
 s1452;s1452v4;s1452v4c6;8 Feb Malacca;1780;2;8;Malacca;False
-s1452;s1452v4;s1452v4c7;23 Jun St Augustine s Bay;1780;6;23;St Augustine s Bay;True
+s1452;s1452v4;s1452v4c7;23 Jun St Augustine's Bay;1780;6;23;St Augustine's Bay;True
 s1452;s1452v4;s1452v4c8;25 Aug Cape;1780;8;25;Cape;False
 s1452;s1452v4;s1452v4c9;29 Oct St Helena;1780;10;29;St Helena;False
 s1452;s1452v4;s1452v4c10;9 Jan 1781 Crookhaven;1781;1;9;Crookhaven;False
@@ -31177,7 +31177,7 @@ s1453;s1453v3;s1453v3c2;22 Aug Benkulen 14 Nov;1793;11;14;Benkulen;False
 s1453;s1453v3;s1453v3c3;19 Jan 1794 St Helena;1794;1;19;St Helena;False
 s1453;s1453v3;s1453v3c4;30 Apr Downs;1794;4;30;Downs;False
 s1453;s1453v4;s1453v4c1;Portsmouth 17 May 1795;1795;5;17;Portsmouth;False
-s1453;s1453v4;s1453v4c2;7 Jul All Saints  Bay;1795;7;7;All Saints  Bay;True
+s1453;s1453v4;s1453v4c2;7 Jul All Saints' Bay;1795;7;7;All Saints' Bay;True
 s1453;s1453v4;s1453v4c3;4 Sep Simons Bay;1795;9;4;Simons Bay;False
 s1453;s1453v4;s1453v4c4;3 Oct Cape;1795;10;3;Cape;False
 s1453;s1453v4;s1453v4c5;2 Jan 1796 Diamond Harbour;1796;1;2;Diamond Harbour;False
@@ -31216,7 +31216,7 @@ s1453;s1453v8;s1453v8c1;Portsmouth 4 Mar 1807;1807;3;4;Portsmouth;False
 s1453;s1453v8;s1453v8c2;13 May St Helena;1807;5;13;St Helena;False
 s1453;s1453v8;s1453v8c3;20 Sep Madras;1807;9;20;Madras;False
 s1453;s1453v8;s1453v8c4;12 Nov Malacca;1807;11;12;Malacca;False
-s1453;s1453v8;s1453v8c5;5 Dec 'Gressee;1807;12;5;'Gressee;False
+s1453;s1453v8;s1453v8c5;5 Dec 'Gressee';1807;12;5;'Gressee';False
 s1453;s1453v8;s1453v8c6;13 Feb 1808 Madras;1808;2;13;Madras;False
 s1453;s1453v8;s1453v8c7;11 Mar Point de Galle;1808;3;11;Point de Galle;True
 s1453;s1453v8;s1453v8c8;22 Apr Bombay 12 Jul;1808;7;12;Bombay;False
@@ -31323,7 +31323,7 @@ s1456;s1456v4;s1456v4c6;26 Jul Downs;1772;7;26;Downs;False
 s1457;s1457v1;s1457v1c1;Downs 24 Dec 1773;1773;12;24;Downs;False
 s1457;s1457v1;s1457v1c2;15 Apr St Helena;1773;4;15;St Helena;False
 s1457;s1457v1;s1457v1c3;21 Aug Benkulen;1773;8;21;Benkulen;False
-s1457;s1457v1;s1457v1c4;21 Oct cSaloomah;1773;10;21;cSaloomah;False
+s1457;s1457v1;s1457v1c4;21 Oct cSaloomah';1773;10;21;cSaloomah';False
 s1457;s1457v1;s1457v1c5;16 Nov Pring;1773;11;16;Pring;False
 s1457;s1457v1;s1457v1c6;5 Dec Manna;1773;12;5;Manna;False
 s1457;s1457v1;s1457v1c7;18 Jan 1775 Batavia;1775;1;18;Batavia;False

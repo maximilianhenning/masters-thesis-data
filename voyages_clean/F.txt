@@ -9,13 +9,13 @@ Built in Bengal, launched 1810, 2 decks, 4in bottom, length 132ft 5in, keel 106f
 Principal Managing Owners: 1-2 John Biddulph, 3-4 David Gordon
 1 From Bengal 1810
 L/MAR/B/277F Journal 10 Apr 1810-1 Mar 1811 
-Capt William Parker D Esterre
+Capt William Parker D'Esterre
 Saugor 19 Jul 1810 - 30 Aug Madras - 3 Dec St Helena - 26 Feb 1811 Downs
 2 1811/2 Batavia, Madras and Bengal
 L/MAM/B/147A Journal 26 Feb 1812-29 Jun 1814 
 L/MAR/B/147D(1) Ledger
 L/MAR/B/147D(2) Pay Book
-Capt William Parker D Esteree
+Capt William Parker D'Esteree
 Portsmouth 3 Jun 1812 -18 Jun Madeira - 5 Dec Saugor - 28 Mar 1813 Penang - 7 Apr Malacca - 1 May Batavia - 26 May Samarang -18 Jun Batavia -18 Jul Madras -17 Aug Kidderpore - 2 Nov Saugor -1 Mar 1814 Cape -18 Mar St Helena - 3 Jun Blackwall
 3 1814/5 Bengal and Batavia
 L/MAR/B/147B Journal 7 Mar 1815-17 Dec 1816
@@ -39,7 +39,7 @@ Downs Mar 1625 - 2 Aug Madagascar - 16 Aug Johanna - 19 Nov Surat - Bandar Abbas
 FALCON (2)
 1 1644/5 Surat, to remain
 L/MAR/A/LXV Rough journal 25 Sep 1645-16 Oct 1649, William Makins
-Downs Apr 1645 - 22 Jui St Augustine s Bay - 12 Aug Johanna - 25 Sep Sural - voyages to Mokha
+Downs Apr 1645 - 22 Jui St Augustine's Bay - 12 Aug Johanna - 25 Sep Sural - voyages to Mokha
 1646. 1647 & 1648, to Bandar Abbas 1649 (twice)
 FALCON (3)
 380/430 tons, 76 crew, 30 guns
@@ -88,7 +88,7 @@ Downs 3 Feb 1760 - 20 Jul Anjengo - 3 Aug Cuddalore - 13 Aug Madras 4 Oct - 12 D
 L/MAR/B/582D Journal 4 Oct 1762-18 Sep 1764
 L/MAJR/B/582H(1) Ledger
 L/MAR/B/5821R[(2) Pay Book
-Capt Geoffrey O Hare
+Capt Geoffrey O'Hare
 Portsmouth 12 Jan 1763 - 28 Jun Madras - 15 Oct Whampoa - 9 Jan 1764 Bocca Tigris - 28 Jan Manila - 3 Jun St Helena - 17 Aug Blackwail
 5 1765/6 Bengal
 L/MAR/B/582-E(l) Imprest Book
@@ -139,11 +139,11 @@ Downs 27 May 1819 - 5 Oct Saugor -15 Oct Kidderpore -12 Feb 1820 Diamond Harbour
 Capt Charles Young
 Downs 27 May 1823 - burnt at Benkulen 2 Feb 1824
 FAREWELL
-Company s own ship
+Company's own ship
 Sold to Daniel Andrews 4 Oct 1650 for £910
 1 1646/7 Madras
 Master Robert Tindall
-Downs 17 Jan 1647 - 7 May St Augustine s Bay - 24 May Johanna -3 Jul Madras - Bengal -11 Jan 1648 Madras - Bantam 4 Aug - 30 Oct 1648 Surat - London
+Downs 17 Jan 1647 - 7 May St Augustine's Bay - 24 May Johanna -3 Jul Madras - Bengal -11 Jan 1648 Madras - Bantam 4 Aug - 30 Oct 1648 Surat - London
 FARQUHARSON
 Built by Gordon at Deptford, launched 1820, 3 decks, 4in bottom, length 166ft 21/2in, keel 133ft 9     /4in, breadth 43ft 2in, hold 17ft lin, wing transom 26ft, port cell 29ft 7in, waist 1ft 6in, between decks 6ft 6in & 6ft 4in, roundhouse 6ft SViin, ports 14 middle & 13 upper, deck range 97ft 6in, 1326 tons Principal Managing Owner: John Christopher Lochner Sold to Joseph Somes 23 May 1834 for £6,000
 1 1820/1 Bombay and China
@@ -206,11 +206,11 @@ Downs 29 Nov 1698 - 15 Feb 1699 Cape -10 May Batavia - 26 Jun Amoy 26 Feb 1700 -
 3 1701/2 China
 Capt Thomas Burgess
 Downs 8 Mar 1702 - 13 Jul Batavia - Sep Whampoa 1 Feb 1703 - 25 May St Helena - 4 Aug Ascension - 2 Oct Kinsale -19 Nov Downs
-See Barlow s journal, ed Basil Lubbock (London, 1934), II pp.529-44
+See Barlow's journal, ed Basil Lubbock (London, 1934), II pp.529-44
 4 1704/5 Madras and Bengal
 L/MAR/B/693A Journal 10 Nov 1704-3 Apr 1707 [Charles Newton, Chief Mate ?]
 Capt Thomas Burgess
-Downs 5 Jan 1705 - 28 Jun Madras - 29 Jul Balasore - 7 Aug Rogues River - 22 Aug 'Ganges  - 19 Jan 1706 Madras - 26 May Cape - 5 Aug St Helena -12 Nov Cork - 8 Mar 1707 Blackwall
+Downs 5 Jan 1705 - 28 Jun Madras - 29 Jul Balasore - 7 Aug Rogues River - 22 Aug 'Ganges' - 19 Jan 1706 Madras - 26 May Cape - 5 Aug St Helena -12 Nov Cork - 8 Mar 1707 Blackwall
 5 1707/8 St Helena, Bombay and Mokha
 Capt Charles Newton
 FLORENTIA
@@ -229,12 +229,12 @@ L/MAM/B/54C Deck Log 18 May 1826-9 Jun 1827
 Capt Thomas Aldham
 Downs 20 Jun 1826 - 23 Oct Calcutta - 21 Jan 1827 Saugor - 3 Apr St Helena - 26 May Blackwall
 FLY
-Company s cutter
+Company's cutter
 1 1760/1 St Helena, Ascension, Madagascar and Cape
 L/MAR/B/597A-B Journal 4 Dec 1760-30 Apr 1765
 L/MAM/B/597C Ledger
 Capt Peter Fea
-Downs 1 Feb 1761 - 13 Mar Plymouth - 7 Jun St Helena -15 Jan 1762 Ascension -11 Feb St Helena - 16 Feb 1764 Ascension - 30 Mar St Helena -11 Jul Cape - 20 Aug St Augustine s Bay - 27 Dec Cape -23 Jan 1765 St Helena-
+Downs 1 Feb 1761 - 13 Mar Plymouth - 7 Jun St Helena -15 Jan 1762 Ascension -11 Feb St Helena - 16 Feb 1764 Ascension - 30 Mar St Helena -11 Jul Cape - 20 Aug St Augustine's Bay - 27 Dec Cape -23 Jan 1765 St Helena-
 FLYING EAGLE
 120 tons
 1 1670/1 Bantam
@@ -268,7 +268,7 @@ L/MAR/1B/684E(1) Ledger
 L/MAR/B/684E(2) Pay Book
 Capt Richard Gosfright 13 Dec 1728 = 1 Jul 1731
 FORMOSA
-Company s frigate, 200 tons, 20 crew, 8 guns
+Company's frigate, 200 tons, 20 crew, 8 guns
 1 1675/6 Bantam
 Capt James Mariner 15 Nov 1675 =
 Country voyage
@@ -281,13 +281,13 @@ L/MAR/B/540A Journal 14 Dec 1780-23 Jun 1782
 L/MAM/B/540B(1) Imprest Book
 L/MAR/B/540B(2) Absence Book
 Capt Charles Gregorie
-Portsmouth 13 Mar 1781 - 15 Apr engagment with French off Sao Tiago -17 Aug Madras - 28 Sep Kedgeree - 10 Nov Saugor - 10 Dec Madras - 16 Feb 1782 Kedgeree - 8 May 'Cockelee  - 23 Jun captured by French frigate La Fine
+Portsmouth 13 Mar 1781 - 15 Apr engagment with French off Sao Tiago -17 Aug Madras - 28 Sep Kedgeree - 10 Nov Saugor - 10 Dec Madras - 16 Feb 1782 Kedgeree - 8 May 'Cockelee' - 23 Jun captured by French frigate La Fine
 FORTITUDE (2)
-Company s packet, 170 tons, 25 crew, 4 guns
+Company's packet, 170 tons, 25 crew, 4 guns
 1 From India 1784 L/MAM/B/540C(1) Ledger 
 L/MAR/B/540C(2) Receipt Book Capt Lawrence Bowden arrived Downs 28 Apr 1784
 FORT ST GEORGE (1)
-Company s galley, 160 tons, 35 crew, 10 guns
+Company's galley, 160 tons, 35 crew, 10 guns
 1 1721/2 Bombay
 L/MAR/B/632D Imprest Book
 L/MAR/B/632E Receipt Book
@@ -332,7 +332,7 @@ L/MAR/B/91C Journal 15 Oct 1788-20 Sep 1790
 L/MAR/B/91N(1) Ledger
 L/MAR/B/91 N(2) Pay Book
 Capt George Simson
-Downs 13 Dec 1788 - 3 Apr 1789 St Augustine s Bay - 3 Jun Bombay - 7 Sep Malacca -11 Oct Whampoa - 27 Jan 1790 Second Bar -19 Jun St Helena - 28 Aug Long Reach
+Downs 13 Dec 1788 - 3 Apr 1789 St Augustine's Bay - 3 Jun Bombay - 7 Sep Malacca -11 Oct Whampoa - 27 Jan 1790 Second Bar -19 Jun St Helena - 28 Aug Long Reach
 3 1792/3 Madras and Bengal
 L/MAR/B/91D Journal 25 Feb 1793-15 Dec 1794
 L/MAR/B/91-0(1) Ledger
@@ -361,7 +361,7 @@ FORT WILLIAM (3)
 Built at Calcutta, launched 1806, 3 decks, 4'Ain bottom, length 162ft 6in, keel 132ft, breadth 46ft 3in, hold 16ft Sin, wing transom 25ft Sin, port cell 29ft, waist 1ft lOin, between decks 6ft 6in & 6ft 6%m, roundhouse 6ft Sin, ports 14 middle & 13 upper, deck range 99ft, 1137 tons Principal Managing Owners: Gilmore & Co
 1 From India 1809
 L/MAR/B/91H Journal 12 Oct 1809-29 Jun 1810, anon [Parsons?]
-'East Indies  12 Oct 1809 - 25 Dec Cape -13 Jan 1810 St Helena - 24 Mar Greenhithe
+'East Indies' 12 Oct 1809 - 25 Dec Cape -13 Jan 1810 St Helena - 24 Mar Greenhithe
 2 From China 1812
 L/MAR/B/91-I Journal 29 Jul 1812-15 Jul 1813
 Capt J R Parish
@@ -390,7 +390,7 @@ L/MAR/B/455B Journal 19 Nov 1785-27 Nov 1788
 L/MAR/B/455E(1) Ledger
 L/MAR/B/455E(2) Pay Book
 Capt George Blachford
-Downs 20 Feb 1786 - 16 Jun False Bay - 26 Aug Madras -11 Sep Masulipatam - 4 Oct 'Bengal  - 13 Dec Kedgeree -11 Feb 1787 Madras - 20 Mar Calicut -13 Apr Bombay -13 Aug Penang - 6 Oct Whampoa - 9 Feb 1788 Second Bar -17 Jul St Helena - 23 Oct Downs
+Downs 20 Feb 1786 - 16 Jun False Bay - 26 Aug Madras -11 Sep Masulipatam - 4 Oct 'Bengal' - 13 Dec Kedgeree -11 Feb 1787 Madras - 20 Mar Calicut -13 Apr Bombay -13 Aug Penang - 6 Oct Whampoa - 9 Feb 1788 Second Bar -17 Jul St Helena - 23 Oct Downs
 3 1789/90 Madras, Bengal and Benkulen
 Capt George Blachford
 Downs 3 Jun 1790 - left Madras for Benkulen 8 Mar 1791, not heard of again See 
@@ -449,7 +449,7 @@ L/MAR/B/456U(2) Pay Book
 Capt John Blackburn
 Portsmouth 11 Mar 1783 - 25 Jun Johanna - 7 Aug Madras -16 Sep Culpee - 22 Jan 1784 Kedgeree - 14 Jun St Helena - 30 Sep Deptford
 FOX (3)
-Company s packet, 240 tons, 28 crew, 8 guns
+Company's packet, 240 tons, 28 crew, 8 guns
 1 1780/1 St Helena, China and Bengal
 L/MAR/B/456-1-J Journal 25 Jul 1781-20 Jul 1783
 L/MAR/B/456T(1) Ledger
@@ -533,7 +533,7 @@ L/MAM/B/443F Journal 25 Feb 1795-17 Sep 1796
 L/MAM/B/443L(1) Ledger
 L/MAM/B/443L(2) Pay Book
 Capt Robert Burrowes
-Portsmouth 24 May 1795 - 2 Sep Madras - 24 Sep Diamond Harbour - 4 Dec Cox s Island - 6 Feb 1796 Madras - 7 May St Helena - 3 Aug Downs
+Portsmouth 24 May 1795 - 2 Sep Madras - 24 Sep Diamond Harbour - 4 Dec Cox's Island - 6 Feb 1796 Madras - 7 May St Helena - 3 Aug Downs
 FREDERICK
 Rated at 350 tons, 70 crew, 25/30 guns
 1 1698/9 Surat
@@ -558,7 +558,7 @@ FRIENDSHIP (1)
 1 1795/6 Bengal
 L/MAR/B/433A Journal 11 Jan-1 Nov 1796, John Newham, Chief Mate
 Capt Black?
-Portsmouth 23 Feb 1796 - 5 Apr Sao Tiago - 28 May Simons Bay -13 Jun Cape - 27 Oct captured by French privateer L  Aventure, crew placed on American ship Henry
+Portsmouth 23 Feb 1796 - 5 Apr Sao Tiago - 28 May Simons Bay -13 Jun Cape - 27 Oct captured by French privateer L 'Aventure, crew placed on American ship Henry
 FRIENDSHIP (2)
 Built by Wells, 3 decks, 3in bottom, length 118ft, keel 96fl 4 in, breadth 28fl 2!4in, hold 12ft 21/2in, wing transom 19ft, port cell 23ft V^in, waist 4in, between decks, 6ft 5in & 4ft Sin, ports 11 upper, 407 tons
 1 1796/7 Bengal and Madras

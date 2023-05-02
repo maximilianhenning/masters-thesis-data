@@ -248,7 +248,7 @@ L/MAR/B/561A Deck Log 17 Mar 1764-15 Jun 1765
 L/MAR/B/561B(1) Imprest Book
 L/MAR/B/561B(2) Absence Book
 Capt Newton Mallack
-Portsmouth 29 May 1764 - 12 Aug Rio de Janeiro - 3 Nov St Augustine s Bay - 4 Apr 1765 Prince s Island -10 Apr Bantam -17 Apr Batavia - 9 Jun Benkulen - remained in East Indies
+Portsmouth 29 May 1764 - 12 Aug Rio de Janeiro - 3 Nov St Augustine's Bay - 4 Apr 1765 Prince's Island -10 Apr Bantam -17 Apr Batavia - 9 Jun Benkulen - remained in East Indies
 BEDFORD (1)
 750/800 tons, 46/50 guns, 150/160 crew
 1 1696/7 Surat
@@ -280,7 +280,7 @@ L/MAR/B/638C-D Journal 8 Oct 1739-11 Sep 1742
 L/MAR/B/638G(1) Ledger 
 L/MAR/B/638G(2) Pay Book
 L/MAR/B/638G(3) Pay agreements
-L/MAR/B/638G(4) Debts for purserage, dead men s effects etc 
+L/MAR/B/638G(4) Debts for purserage, dead men's effects etc 
 Capt William Wells
 Downs 21 Jan 1740 - 12 May St Helena -18 Aug Batavia - 29 Sep Benkulen - 7 May 1741 Rogues River - 9 Nov Ingeli - 7 Mar 1742 Cape - 26 Jun Newfoundland - 5 Sep Downs
 BEE
@@ -462,7 +462,7 @@ Capt John Goldsborough
 5 1686/7 Bombay
 L/MAR/A/LXXXm Journal 11 Sep 1686-10 May 1688 
 Capt William Perse
-Downs 17 Nov 1686 - 4 Jan 1687 Sao Tiago -18 Mar Cape -17 Apr Johanna -14 Aug Calicut - 7 Sep Bombay - 8 Dec Goa -12 Dec Karwar - 20 Dec Mangalore - 27 Jan 1688 Tellicheny - 31 Jan Calicut - 7 Feb Tellicheny 22 Feb Calicut - 29 Feb 'Ruttera  - 28 Mar 'Brinjoan  -13 Apr Madras - voyage ended 23 Jul 1689 Portsmouth
+Downs 17 Nov 1686 - 4 Jan 1687 Sao Tiago -18 Mar Cape -17 Apr Johanna -14 Aug Calicut - 7 Sep Bombay - 8 Dec Goa -12 Dec Karwar - 20 Dec Mangalore - 27 Jan 1688 Tellicheny - 31 Jan Calicut - 7 Feb Tellicheny 22 Feb Calicut - 29 Feb 'Ruttera' - 28 Mar 'Brinjoan' -13 Apr Madras - voyage ended 23 Jul 1689 Portsmouth
 BENGAL MERCHANT (2)
 1 1770/1 New Company voyage
 L/MAR/A/CLVni Imprest Book
@@ -588,7 +588,7 @@ L/MAR/B/392D Journal 10 Dec 1792-29 May 1794
 L/MAR/B/392J(1) Ledger
 L/MAR/B/392J(2) Pay Book
 Capt Thomas Ley
-Portsmouth 5 Apr 1793 - 15 Aug Madras - 6 Diamond Harbour - 7 Nov Cox s Island -11 Feb 1794 St Helena - 2 May Long Reach
+Portsmouth 5 Apr 1793 - 15 Aug Madras - 6 Diamond Harbour - 7 Nov Cox's Island -11 Feb 1794 St Helena - 2 May Long Reach
 5 1794/5 Madras and Bengal
 L/MAR/B/392E Journal 25 Mar 1795-29 Jan 1798
 L/MAR/B/392K(1) Ledger
@@ -671,7 +671,7 @@ L/MAR/B/259F(1) Ledger
 L/MAR/B/259F(2) Pay Book
 HMN/142-143 Invoice Books 1777-81
 HMN/144 
-Captain s Letter Book 1786-88
+Captain's Letter Book 1786-88
 Capt Alexander Montgomerie
 Portsmouth 15 Jul 1777 - 3 Aug Madeira - 24 Nov Cape - 9 Feb 1778 Madras -19 Mar Cochin - 31 Mar Tellicheny - 30 Apr Bombay - 29 Jul Madras - 23 Aug Cuddalore - 8 Sep Pondicherry -
 25 Sep Cuddalore - 4 Nov Madras - 31 Dec Kedgeree -16 Mar 1799 Madras -17 Jun Bombay -1 Nov Kedgeree - 21 Jan 1780 Madras -13 Feb Pondicherry - 7 Mar Cochin -11 Mar Tellicheny -19 Mar Mangalore -17 Apr Surat - 23 Apr Bombay -15 Jul Madras -19 Aug Malacca -16 Sep Whampoa -
@@ -750,7 +750,7 @@ Downs - 29 Jul 1626 Johanna - 3 Oct Surat - 27 May 1627 Batavia - Surat - 20 Jun
 3 1629/30 Surat and Bantam
 L/MAR/A/LVI Journal 16 Mar 1630-30 Apr 1633, Andrew Warden
 L/MAR/A/LVIII Journal 13 Aug 1631-30 Apr 1633, anon
-Downs 16 Mar 1630 - 14 Jul St Augustine s Bay - 7 Aug Johanna -14 Oct Surat - 7 Feb 1631 Bandar Abbas - 5 Apr Surat - Bantam - Aug Sumatra - 28 Nov Surat - 26 Feb 1632 Bandar Abbas - 8 Apr Surat - 4 Jul Mauritius 1 Oct -12 Nov Cape -10 Dec St Helena - Apr 1633 Downs
+Downs 16 Mar 1630 - 14 Jul St Augustine's Bay - 7 Aug Johanna -14 Oct Surat - 7 Feb 1631 Bandar Abbas - 5 Apr Surat - Bantam - Aug Sumatra - 28 Nov Surat - 26 Feb 1632 Bandar Abbas - 8 Apr Surat - 4 Jul Mauritius 1 Oct -12 Nov Cape -10 Dec St Helena - Apr 1633 Downs
 4 1633/4 Surat and Bantam
 Master John Elsmore/John White
 Downs Apr 1634 - Dec Surat - Bandar Abbas - Surat Apr 1635 - Bantam - Surat - Bandar Abbas 2 Jan 1636 - Surat 4 Feb -14 May Goa - 3 Jul Mauritius - Mozambique Channel - 7 Oct Surat - Mozambique Channel -12 Jun 1637 Masulipatam 27 Sep -18 Jan 1638 Bandar Abbas - Surat 26 Mar - Jun Aden -11 Dec Surat - left at Goa in 1639, broken up in 1641
@@ -994,7 +994,7 @@ Capt James Birkdell Downs - 25 Jun 1648 Madras - Masulipatam - Madras Jan 1649 -
 2 1649/50 Assada and Madras
 BL: Sloane MS 3231 Journal 4 Feb 1650-28 Dec 1651, Charles Wylde, purser 
 Capt Yates; Master George Cormett
-Blackwall 4 Feb 1650 - 18 Mar Maio -11 Jun St Augustine s Bay - 28 Jun Assada - 21 Jul Johanna - 26 Aug Madras - 26 Nov Masulipatam - 24 Dec Madras - 23 Jan 1651 Cochin -11 Mar Bandar Abbas - 24 May Madras - 3 Jun Masulipatam -18 Sep Madras -17 Dec Bantam - * carried planters to form colony at Assada
+Blackwall 4 Feb 1650 - 18 Mar Maio -11 Jun St Augustine's Bay - 28 Jun Assada - 21 Jul Johanna - 26 Aug Madras - 26 Nov Masulipatam - 24 Dec Madras - 23 Jan 1651 Cochin -11 Mar Bandar Abbas - 24 May Madras - 3 Jun Masulipatam -18 Sep Madras -17 Dec Bantam - * carried planters to form colony at Assada
 BORNEO
 180/200 tons, 12 guns, 30/40 crew
 1 1699/1700 Batavia and Banjarmassin 
@@ -1002,7 +1002,7 @@ L/MAR/A/CXLVII Journal 10 Jun 1700-30 Jun 1702
 L/MAR/A/CXLVn-A Ledger 
 L/MAR/A/CXLVII-B Imprest Book
 Capt Henry Barre
-Downs 4 Jul 1700 - 30 Jul Madeira -13 Aug Sao Tiago - 3 Feb 1701 Batavia - 20 Feb Benjarmassin - 25 Apr 1702 'Borneo  -1 Jun Batavia - voyage ended 25 Apr 1703
+Downs 4 Jul 1700 - 30 Jul Madeira -13 Aug Sao Tiago - 3 Feb 1701 Batavia - 20 Feb Benjarmassin - 25 Apr 1702 'Borneo' -1 Jun Batavia - voyage ended 25 Apr 1703
 2 1713/4 Banjarmassin and Benkulen
 L/MAR/B/674A Journal 2 Sep 1713-2 Jun 1716 
 Capt Thomas Lewis
@@ -1037,7 +1037,7 @@ L/MAR/B/572H(1) Ledger
 L/MAR/B/572H(2) Pay Book
 Capt Benjamin Braund
 Portsmouth 26 May 1761 -16 Aug Rio de Janeiro -16 Dec Anjengo - 25 Dec Tellicherry - 9 Jan 1762 Goa -19 Feb Bombay - 2 Mar Surat -12 May Mokha -14 Jun Jeddah - 22 Aug Mokha -15 Sep Surat -14 Oct Bombay -19 Nov Cannanore - 22 Nov Calicut - 25 Nov Cochin - 30 Nov Anjengo -1 Feb 1763 Kedgeree -1 Apr Ingeli - 8 Jun Calcutta -10 Feb 1764 Culpee - 9 Mar Barrabulla - 26 Jun Mauritius - 29 Dec Bourbon - 21 Jan 1765 Cape - 27 Feb St Helena - 31 May Blackwall
-See Journal or narrative of the Boscawen s voyage to Bombay in the East Indies, Benjamin Braund, Commander. With remarks on her remarkable quick passage thither, and some surprising events that occurr d during the same, anno 1749. By a Young Gentleman, passenger on board, communicated to his father in London, August 1750 London: 1750 IOL: Tr.133
+See Journal or narrative of the Boscawen's voyage to Bombay in the East Indies, Benjamin Braund, Commander. With remarks on her remarkable quick passage thither, and some surprising events that occurr'd during the same, anno 1749. By a Young Gentleman, passenger on board, communicated to his father in London, August 1750 London: 1750 IOL: Tr.133
 BOUVEREE
 420/450 tons, 30 guns, 84/90 crew
 1 1709/10 Madras and Bengal
@@ -1048,11 +1048,11 @@ Downs 7 Dec 1709 - 11 Jan 1710 Plymouth -11 May Cape -19 Jul Madras - 28 Aug Rog
 2 1713/4 Madras and Bengal
 L/MAR/B/692B Journal 26 Nov 1713-22 Aug 1716, Chief Mate Thomas Meacham 
 Capt Thomas Wotton
-Downs 9 Jan 1714 - 28 Apr Cape - 22 Jul Madras - 25 Aug Vizagapatam - 9 Sep Balasore -10 Oct Calcutta - 22 Dec Cox s Island - 27 Jan 1715 Anjengo - 31 Jan Cochin - 6 Feb Calicut -16 Feb Karwar -13 Mar Bombay - 24 Mar Surat - 6 May Bombay - 3 Jun Madras - 24 Jun Balasore - 6 Jul Rogues River -11 Dec Vizagapatam - 8 Jan 1716 Madras - 25 Jan Fort St David - 5 May St Helena - 20 Aug Woolwich
+Downs 9 Jan 1714 - 28 Apr Cape - 22 Jul Madras - 25 Aug Vizagapatam - 9 Sep Balasore -10 Oct Calcutta - 22 Dec Cox's Island - 27 Jan 1715 Anjengo - 31 Jan Cochin - 6 Feb Calicut -16 Feb Karwar -13 Mar Bombay - 24 Mar Surat - 6 May Bombay - 3 Jun Madras - 24 Jun Balasore - 6 Jul Rogues River -11 Dec Vizagapatam - 8 Jan 1716 Madras - 25 Jan Fort St David - 5 May St Helena - 20 Aug Woolwich
 3 1716/7 Madras and Bengal
 L/MAR/B/692C Journal 29 Jan 1719-16 Aug 1720 
 Capt Thomas Wotton
-Downs 31 Jan 1717 - Bandar Abbas 29 Jun 1719 -16 Aug Madras - 25 Sep Balasore -14 Oct Calcutta - 24 Dec Cox s Island -11 May 1720 St Helena - voyage ended 24 Aug
+Downs 31 Jan 1717 - Bandar Abbas 29 Jun 1719 -16 Aug Madras - 25 Sep Balasore -14 Oct Calcutta - 24 Dec Cox's Island -11 May 1720 St Helena - voyage ended 24 Aug
 4 1721/2 Bengal
 L/MAR/B/699A Journal 16 Oct 1721-23 Jun 1723
 Capt James Chambre
@@ -1062,7 +1062,7 @@ Extra ship, built by Hill, measured 1795, 3 decks, length 109ft Sin, keel 87ft, 
 1 1794/5 St Helena and Bengal
 L/MAR/B/446A Deck Log 13 May 1795-8 Jan 1797 
 Capt Robert Young
-Portsmouth 8 Jul 1795 - 5 Sep Rio de Janeiro -10 Nov St Helena - 24 Dec Cape - 31 Mar 1796 Calcutta - 22 Jun Kedgeree - 29 Sep Cape - 28 Oct St Helena - 8 Jan 1797 'towards England , engagement with a French ship
+Portsmouth 8 Jul 1795 - 5 Sep Rio de Janeiro -10 Nov St Helena - 24 Dec Cape - 31 Mar 1796 Calcutta - 22 Jun Kedgeree - 29 Sep Cape - 28 Oct St Helena - 8 Jan 1797 'towards England', engagement with a French ship
 BOYNE (1)
 Built at Calcutta 1807, 800 tons
 Principal Managing Owner: Benjamin Fergusson
@@ -1105,7 +1105,7 @@ L/MAR/B/42C Journal 31 Dec 1726-5 Aug 1728
 L/MAR/B/42BB(1) Ledger
 L/MAR/B/42BB(2) Pay Book
 Capt Edward Williamson
-Downs 8 Mar 1727 - 6 Apr Sao Tiago - 23 Jul Madras -19 Aug 'Bengal river  - 26 Jan 1728 Balasore - 20 May St Helena - 5 Aug Woolwich
+Downs 8 Mar 1727 - 6 Apr Sao Tiago - 23 Jul Madras -19 Aug 'Bengal river' - 26 Jan 1728 Balasore - 20 May St Helena - 5 Aug Woolwich
 4 1729/30 Madras and Bengal
 L/MAR/B/42D Journal 12 Oct 1729-30 Aug 1731
 L/MAR/B/42CC(1) Ledger
@@ -1180,7 +1180,7 @@ BRIDGEWATER (4)
 1 1799/1800 Madras
 L/MAR/B/42P Journal 17 Nov 1800-8 Nov 1801, anon
 Capt George Lukin
-Downs 24 Jan 1801 - 21 May Madras 14 Aug -10 Oct 'towards England 
+Downs 24 Jan 1801 - 21 May Madras 14 Aug -10 Oct 'towards England'
 BRIDGEWATER (5)
 Built by Brent, launched 1812, 3 decks, 4in bottom, length 166ft 5in, keel 135ft 85/sin, breadth 42ft I'Ain, hold 17ft V&in, wing transom 25ft 6in, port cell 29ft 3in, waist 1ft 4in, between decks 6ft 41/4in & 6ft 4in, roundhouse 6ft 5'Ain, ports 14 middle & upper, deck range 98ft 3in, 1276 tons Principal Managing Owner: James Sims
 1 1812/3 Madras and China
@@ -1274,7 +1274,7 @@ L/MAR/B/285EE Journal 17 May 1746-29 Apr 1748
 L/MAR/B/285E(1) Ledger
 L/MAR/B/285E(2) Pay Book
 Capt John Sumner
-Downs 26 Apr 1746 - 5 Nov Madras, forced out by a French ship -17 Nov Point de Galle - 22 Feb 1747 Fort St David - 3 Aug St Augustine s Bay- 28 Feb 1748 Lisbon - 4 Apr Downs
+Downs 26 Apr 1746 - 5 Nov Madras, forced out by a French ship -17 Nov Point de Galle - 22 Feb 1747 Fort St David - 3 Aug St Augustine's Bay- 28 Feb 1748 Lisbon - 4 Apr Downs
 2 1748/9 Bengal, Bombay and Madras
 L/MAR/B/285FF Journal 4 Nov 1748-17 May 1752
 L/MAR/B/285F(1) Ledger
@@ -1317,7 +1317,7 @@ Downs 12 Dec 1768 - 8 Jan 1769 Madeira 20 Jan - 27 Jan Madeira - 20 Apr Cape - 8
 Capt James Swithin
 Downs 22 Jun 1771 - 26 Jul 1773 Downs
 BRITANNIA (4)
-Company s own ship, built in India, launched 1775, 3 decks, 5in bottom, length 137ft 4in, keel 110ft !/2in, breadth 36ft 31/2in, hold 14ft 7in, wing transom 22ft lin, port cell 26ft, waist 1ft 2l4in, between decks 5ft lOin & 6ft 5in, roundhouse 6ft 5in, deck range 72ft, 770 tons
+Company's own ship, built in India, launched 1775, 3 decks, 5in bottom, length 137ft 4in, keel 110ft !/2in, breadth 36ft 31/2in, hold 14ft 7in, wing transom 22ft lin, port cell 26ft, waist 1ft 2l4in, between decks 5ft lOin & 6ft 5in, roundhouse 6ft 5in, deck range 72ft, 770 tons
 1 From India 1780
 L/MAR/B/285LL Journal 1 Sep 1779-15 Dec 1781
 L/MAR/B/285L(1) Ledger
@@ -1346,7 +1346,7 @@ L/MAR/B/285-0(2) Pay Book
 L/MAR/B/285-0(3) Imprest Book
 L/MAR/B/285-0(3) Receipt Book
 Capt Edward Cumming
-Downs 6 Jan 1787 - 18 Jan Madeira - 3 Apr Cape -11 Jun Diamond Point -14 Jan 1788 Cox s Island - 25 Apr St Helena - 7 Jul Downs
+Downs 6 Jan 1787 - 18 Jan Madeira - 3 Apr Cape -11 Jun Diamond Point -14 Jan 1788 Cox's Island - 25 Apr St Helena - 7 Jul Downs
 5 1788/9 St Helena and China
 L/MAR/B/285PP Journal 31 Oct 1788-9 Sep 1790
 L/MAR/B/285P(1) Ledger 
@@ -1404,7 +1404,7 @@ Portsmouth 26 Oct 1803 - 5 Mar 1804 St Helena - 5 Oct Madras - 31 Dec St Helena 
 L/MAR/B/285EEE Deck Log 15 Jun-31 Oct 1805
 L/MAR/B/285X Imprest Book
 Capt Jonathan Birch
-Portsmouth 27 Jul 1805 - 27 Aug Cork - 29 Sep Madeira - lost 'off the Brazils  4 Dec
+Portsmouth 27 Jul 1805 - 27 Aug Cork - 29 Sep Madeira - lost 'off the Brazils' 4 Dec
 BRITANNIA (5)
 Extra ship, measured 1786, 2 decks, 3in bottom, length 97fl lOin, keel 77fl 3in, breadth 27ft 3in, hold 12ft, wing transom 17ft, between decks 5ft llin, 305 tons
 1 From Bengal 1786
@@ -1435,7 +1435,7 @@ L/MAR/B/285AAA Journal 28 Oct 1801-28 May 1802
 L/MAR/B/285BBB Journal 28 Oct 1801-6 Jun 1802, Chief Mate John Johnson Capt Benjamin Stout
 Calcutta 28 Oct 1801 - 5 Dec Kedgeree 4 Jan 1802 - 7 Feb Cape - 26 Mar St Helena - 29 May Downs
 BRITANNIA (9)
-Company s own ship, built by Wells, launched 1806, 3 decks, 4in bottom, length 165ft 5!/2in, keel 133ft 71/2in, breadth 42ft 4in, hold 17ft lin, wing transom 25ft 9in, port cell 29ft 6in, waist 1ft lOin, between decks 6ft 7in & 6ft 6in, roundhouse 6ft 574in, ports 14 middle & upper, deck range 97ft, 1273 tons
+Company's own ship, built by Wells, launched 1806, 3 decks, 4in bottom, length 165ft 5!/2in, keel 133ft 71/2in, breadth 42ft 4in, hold 17ft lin, wing transom 25ft 9in, port cell 29ft 6in, waist 1ft lOin, between decks 6ft 7in & 6ft 6in, roundhouse 6ft 574in, ports 14 middle & upper, deck range 97ft, 1273 tons
 1 1806/7 Bombay and China
 L/MAR/B/285Y (1) Ledger
 L/MAR/B/285Y(2) Pay Book
@@ -1476,7 +1476,7 @@ BRITISH MERCHANT
 1 1715/6 Mokha
 L/MAR/B/766A(1) Ledger 
 L/MAR/B/766A(2) Pay Book
-L/MAR/B/766A(3) Owners  accounts 
+L/MAR/B/766A(3) Owners' accounts 
 Capt Thomas Gilbert 5 Dec 1715 - 20 Aug 1717
 BROTHERS
 425 tons
@@ -1550,7 +1550,7 @@ Licensed ship, 300 tons
 1 1697/8 Muscat
 Downs 16 Aug 1698 -
 BUCKINGHAMSHIRE
-Company s own ship, built at Bombay, launched 13 Apr 1816, 3 decks, 6in bottom, length 166fl, keel 133ft 1 l1/8in, breadth 43ft lOin, hold 17ft, wing transom 26ft 2in, port cell 30ft lin, waist 1ft 4in, between decks 6ft SV^in & 6ft 4in, roundhouse 6ft 3in, ports 14 middle & 13 upper, deck range 98ft,
+Company's own ship, built at Bombay, launched 13 Apr 1816, 3 decks, 6in bottom, length 166fl, keel 133ft 1 l1/8in, breadth 43ft lOin, hold 17ft, wing transom 26ft 2in, port cell 30ft lin, waist 1ft 4in, between decks 6ft SV^in & 6ft 4in, roundhouse 6ft 3in, ports 14 middle & 13 upper, deck range 98ft,
 26 guns, 130 crew, 1369 tons
 Sold to Thacker & Mangles 25 Jun 1834 for £10,500
 1 From Bombay 1816
@@ -1622,7 +1622,7 @@ L/MAR/A/XXV ff. 12-14 Fragment of journal 24 Dec 1623-27 Jan 1624, Edmund Sayers
 merchant
 Downs Aug 1619-28 Nov Cape -17 Mar 1620 Batavia - Bantam 26 Apr - served in Anglo-Dutch Fleet of Defence based at Hirado 1620-23 - 27 Jan 1624 Batavia - at Lagundy in 1625 - laid up in 1626
 BULL (2)
-Country ship, 'belonging to the King of Bantam 
+Country ship, 'belonging to the King of Bantam'
 1 1674-5 Manila
 L/MAR/A/LXXn Journal 3 Jul 1674-7 Feb 1675 Master John Hallewell
 Bantam 3 Jul 1674 - 2 Aug Manila 15 Jan 1675 - 7 Feb Bantam
@@ -1646,13 +1646,13 @@ L/MAR/B/413B Journal 4 Dec 1786-27 May 1788
 L/MAR/B/413J(1) Ledger
 L/MAR/B/413 J(2) Pay Book
 Capt Thomas Robertson
-Downs 19 Feb 1787 - 6 Jun Madras - 27 Jun Diamond Harbour -16 Nov Cox s Island - 6 Jan 1788 Madras - 2 Mar St Helena - 29 Apr Long Reach
+Downs 19 Feb 1787 - 6 Jun Madras - 27 Jun Diamond Harbour -16 Nov Cox's Island - 6 Jan 1788 Madras - 2 Mar St Helena - 29 Apr Long Reach
 4 1788/9 Madras and Bengal
 L/MAR/B/413C Journal 24 Dec 1788-1 Jun 1790
 L/MAR/B/413K(1) Ledger
 L/MAR/B/413K(2) Pay Book
 Capt Thomas Robertson
-Downs 7 Mar 1789 - 24 Jun Madras - 3 Jul Diamond Harbour - 23 Nov Cox s Island -14 Dec Saugor - 2 Mar 1790 St Helena -1 May Long Reach
+Downs 7 Mar 1789 - 24 Jun Madras - 3 Jul Diamond Harbour - 23 Nov Cox's Island -14 Dec Saugor - 2 Mar 1790 St Helena -1 May Long Reach
 5 1791/2 Madras and Bengal
 L/MAR/B/413D Journal 21 Feb 1792-27 Sep 1793
 L/MAR/B/413L(1) Ledger
@@ -1683,7 +1683,7 @@ L/MAR/B/481A Journal 3 Feb 1763-25 Mar 1766
 L/MAR/B/481E(1) Ledger
 L/MAR/B/481E(2) Pay Book
 Capt Patrick Maitland
-Downs 3 Apr 1763 - 16 Jul St Augustine s Bay - 30 Aug Bombay -11 Nov Anjengo -10 Jan 1764 Kedgeree -1 Mar Ingeli -16 Apr Kedgeree -12 Jun Benkulen - 27 Jul Batavia - 30 Nov Malacca - 16 Jan 1765 Ingeli -16 Jun Mauritius - 29 Jun Bourbon - 25 Sep St Helena - 2 Jan 1766 Crookhaven -
+Downs 3 Apr 1763 - 16 Jul St Augustine's Bay - 30 Aug Bombay -11 Nov Anjengo -10 Jan 1764 Kedgeree -1 Mar Ingeli -16 Apr Kedgeree -12 Jun Benkulen - 27 Jul Batavia - 30 Nov Malacca - 16 Jan 1765 Ingeli -16 Jun Mauritius - 29 Jun Bourbon - 25 Sep St Helena - 2 Jan 1766 Crookhaven -
 1 Feb Plymouth - 24 Feb Downs
 2 1766/7 Bombay
 L/MAR/B/481B Journal 18 Dec 1766-7 Jul 1769
