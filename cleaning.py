@@ -16,8 +16,8 @@ def cleaner(lines):
         line = line.strip()
         # Clean characters: dot to line etc.
         line = line.replace("\t", " ")
-        line = line.replace("â€™", " ")
-        line = line.replace("â€˜", "'")
+        line = line.replace("â€™", "\'")
+        line = line.replace("â€˜", "\'")
         line = line.strip("â€¢")
         # Line break before L/MAR
         if "L/MAR" in line[5:]:

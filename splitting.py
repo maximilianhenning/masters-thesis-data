@@ -217,11 +217,10 @@ location_list = []
 location_list += df_calls.loc[df_calls["special"] == False]["location"].tolist()
 location_list += df_ships.loc[df_ships["built_at"].notna()]["built_at"].tolist()
 location_list = list(set(location_list))
-print(location_list)
 
 # People table
-# person_id     last_name   first_name  birth_date  death_date  baptised_location   mother_name father_name
-# person_id     string      string      string      string      location_id         string      string      
+# person_id     last_name   first_name  birth_date  death_date  birth_location  baptised_location   mother_name father_name
+# person_id     string      string      string      string      location_id     location_id         string      string      
 
 def person_line_expander(person):
     last_name = "nan"
@@ -246,24 +245,48 @@ def person_line_expander(person):
     return result_series
 
 def person_info_expander(info):
+    birth_location = "nan"
     baptised_location = "nan"
     mother_name = "nan"
     father_name = "nan"
     # XXXX baptised_location
-    if " s of " in str(info):
-        parents = info.split(" s of ")[1].split(";")[0]
-        parents_split = parents.split("&")
-        if len(parents_split) > 1:
-            father_name = parents_split[0].strip()
-            mother_name = parents_split[1].strip()
-    
-    result_series = pd.Series([baptised_location, mother_name, father_name])
-    return result_series
+    if ";" in str(info):
+        info_tokens = info.split(";")
+    else: 
+        info_tokens = [info]
+    for token in info_tokens:
+        token = str(token)
+        if "b " in token and not " bap " in token:
+            birth_location = token.strip("b ")
+            if "s of" in birth_location:
+                birth_location = birth_location.split("s of")[0]
+            birth_location = birth_location.split(" ")
+            birth_tokens = []
+            for token in birth_location:
+                if not token == "in" and not token.isdigit() and not token in ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]:
+                    birth_tokens.append(token)
+            birth_location = " ".join(birth_tokens).strip()
+        if " s of " in token:
+            print(token)
+            parents = token.split(" s of ")[1]
+            parents_split = parents.split("&")
+            if len(parents_split) > 1:
+                father_name = parents_split[0].strip()
+                mother_name = parents_split[1].strip()
+            if "bap" in token:
+                baptised_location = token.split("bap")[1].split(", s of")[0]
+                baptised_location = baptised_location.split(" ")
+                baptised_tokens = []
+                for token in baptised_location:
+                    if not token.isdigit() and not token in ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]:
+                        baptised_tokens.append(token)
+                baptised_location = " ".join(baptised_tokens).strip()
+    return pd.Series([birth_location, baptised_location, mother_name, father_name])
 
 df_people = df_people_combined
 df_people[["last_name", "first_name", "birth_date", "death_date"]] = df_people["person"].apply(person_line_expander)
-df_people[["baptised_location", "mother_name", "father_name"]] = df_people["info"].apply(person_info_expander)
-print(df_people.head())
+df_people[["birth_location", "baptised_location", "mother_name", "father_name"]] = df_people["info"].apply(person_info_expander)
+df_people.to_csv(path.join(dir, "output/people.csv"), index = False, sep = ";")
 
 # Jobs table
 # person_id     job_id      job     ship_id     voyage_id
