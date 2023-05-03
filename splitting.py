@@ -292,24 +292,55 @@ df_people.to_csv(path.join(dir, "output/people.csv"), index = False, sep = ";", 
 # person_id     job_id      string      voyage_id
 
 jobs_list = []
+job_list = ["apprentice", "seaman", "midshipman", "Capt's servant", "6th mate", "5th mate", "4th mate", "3rd mate",
+            "2nd mate", "1st mate", "purser", "surgeon", "surgeon's mate", "master", "Lieutenant", "Capt"]
 for row in df_people.iterrows():
     person_id = row[1]["person_id"]
     info_tokens = str(row[1]["info"]).split(";")
-    job_counter = 1
+    # Split tokens if they contain several jobs
+    tokens_split = []
     for token in info_tokens:
-        job_list = ["apprentice", "seaman", "midshipman", "Capt's servant", "6th mate", "5th mate", "4th mate", "3rd mate",
-                    "2nd mate", "1st mate", "purser", "surgeon", "surgeon's mate", "master", "Lieutenant", "Capt"]
+        token_split = False
+        # & - One ship, several voyages
+        if "&" in token:
+            token_split = True
+            subtoken = token.replace("&", "").split(" ")
+            jobs_split = [x for x in subtoken if not "/" in x]
+            job = " ".join(jobs_split).strip()
+            years_split = [x.strip(",").strip() for x in subtoken if "/" in x]
+            for year in years_split:
+                tokens_split.append(job + " " + year)
+        # & - Different ships
+        # home as
+        # if "home as" in token:
+        # transfer to
+        # if "transfer to" in token:
+        if not token_split:
+            tokens_split.append(token)
+    job_counter = 1
+    for token in tokens_split:
         for job in job_list:
             job_string = job + " "
             if job_string in token:
+                if "approved" in token:
+                    token = re.sub(r"\([^()]*approved[^()]*\)", "", token)
                 voyage_id = "nan"
-                voyage_id = token.replace(job, "").strip()
-                job_id = person_id + "j" + str(job_counter)
-                job_counter += 1
-                job_row = [person_id, job_id, job, voyage_id]
-                jobs_list.append(job_row)
-    # Find some solution to several jobs in one token
-    # home, &, and, transfer to
+                # , - Several journeys, several ships
+                if "," in token:
+                    token_split = re.split(",|&", token)
+                    for subtoken in token_split:
+                        voyage_id = str(subtoken).replace(job, "").strip()
+                        job_id = person_id + "j" + str(job_counter)
+                        job_counter += 1
+                        job_row = [person_id, job_id, job, voyage_id]
+                        jobs_list.append(job_row)
+                # Otherwise, add the single one
+                else:
+                    voyage_id = str(token).replace(job, "").strip()
+                    job_id = person_id + "j" + str(job_counter)
+                    job_counter += 1
+                    job_row = [person_id, job_id, job, voyage_id]
+                    jobs_list.append(job_row)
 jobs_df = pd.DataFrame(jobs_list)
 jobs_df.rename(columns = {0: "person_id", 1: "job_id", 2: "job", 3: "voyage_id"}, inplace = True)
 jobs_df.to_csv(path.join(dir, "output/jobs.csv"), index = False, sep = ";", encoding = "utf-8")
