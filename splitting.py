@@ -266,8 +266,6 @@ def person_info_expander(info):
                 if not token == "in" and not token.isdigit() and not token in ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]:
                     birth_tokens.append(token)
             birth_location = " ".join(birth_tokens).strip()
-            if birth_location[-1] == ",":
-                birth_location = birth_location[:-1]
         if " s of " in token:
             parents = token.split(" s of ")[1]
             parents_split = parents.split("&")
@@ -282,8 +280,6 @@ def person_info_expander(info):
                     if not token.isdigit() and not token in ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]:
                         baptised_tokens.append(token)
                 baptised_location = " ".join(baptised_tokens).strip()
-                if baptised_location[-1] == ",":
-                    baptised_location = baptised_location[:-1]
     return pd.Series([birth_location, baptised_location, mother_name, father_name])
 
 df_people = df_people_combined
@@ -292,8 +288,31 @@ df_people[["birth_location", "baptised_location", "mother_name", "father_name"]]
 df_people.to_csv(path.join(dir, "output/people.csv"), index = False, sep = ";", encoding = "utf-8")
 
 # Jobs table
-# person_id     job_id      job     ship_id     voyage_id
-# person_id     job_id      string  ship_id     voyage_id
+# person_id     job_id      job         voyage_id
+# person_id     job_id      string      voyage_id
+
+jobs_list = []
+for row in df_people.iterrows():
+    person_id = row[1]["person_id"]
+    info_tokens = str(row[1]["info"]).split(";")
+    job_counter = 1
+    for token in info_tokens:
+        job_list = ["apprentice", "seaman", "midshipman", "Capt's servant", "6th mate", "5th mate", "4th mate", "3rd mate",
+                    "2nd mate", "1st mate", "purser", "surgeon", "surgeon's mate", "master", "Lieutenant", "Capt"]
+        for job in job_list:
+            job_string = job + " "
+            if job_string in token:
+                voyage_id = "nan"
+                voyage_id = token.replace(job, "").strip()
+                job_id = person_id + "j" + str(job_counter)
+                job_counter += 1
+                job_row = [person_id, job_id, job, voyage_id]
+                jobs_list.append(job_row)
+    # Find some solution to several jobs in one token
+    # home, &, and, transfer to
+jobs_df = pd.DataFrame(jobs_list)
+jobs_df.rename(columns = {0: "person_id", 1: "job_id", 2: "job", 3: "voyage_id"}, inplace = True)
+jobs_df.to_csv(path.join(dir, "output/jobs.csv"), index = False, sep = ";", encoding = "utf-8")
 
 # Fill in IDs for relevant features in all tables
 # XXXX

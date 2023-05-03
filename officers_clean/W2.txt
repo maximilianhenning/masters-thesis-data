@@ -86,7 +86,7 @@ Walker, William
 surgeon LAPWING (2) 1762/3 & 1763/4, ADMIRAL STEVENS 1765, ADMIRAL WATSON
 1766/7
 Walker, William (1776-)
-b7 Aug 1776 Edinburgh; gunner’s servant PIGOT (2) 1788/9; midshipman DUKE OF
+b7 Aug 1776 Edinburgh; gunner's servant PIGOT (2) 1788/9; midshipman DUKE OF
 MONTROSE 1791/2; in Royal Navy 4y; 3rd mate LADY JANE DUNDAS 1799/1800
 Walker, William Harrison (1796-)
 bap 7 Apr 1796 Milton-next-Sittingbourne, Kent, s of Benjamin & Sarah; midshipman
@@ -109,7 +109,7 @@ Wall, Sherman
 5th mate STAFFORD (1) 1746/7; 4th mate BRITANNIA (2) 1748/9; 3rd mate SALISBURY
 (1) 1752/3; 2nd mate STORMONT (1) 1755/6 & 1758/9
 Wall, Thomas (c1746-)
-b in England; 2nd mate’s servant ROYAL CHARLOTTE (1) 1761/2; midshipman NORFOLK
+b in England; 2nd mate's servant ROYAL CHARLOTTE (1) 1761/2; midshipman NORFOLK
 (2) 1763/4; 2nd mate Thetis to Smyrna 9m; 2nd mate Hananel to Genoa and Leghorn 9m;
 4th mate SPEAKER 1768/9; 3rd mate GODFREY (2) 1770/1; 2nd mate SPEKE 1773/4
 (approved 29 Oct 1773, aged 27); 1st mate WORCESTER (3) 1776/7; 1st mate VALENTINE
@@ -128,7 +128,7 @@ b 24 May 1778 Preston, Kent; seaman PONSBORNE (2) 1793/4; 6th mate CANTON 1795/6
 4th mate WALMER CASTLE 1798/9; 1st mate PRINCESS MARY (2) 1800/1; 2nd mate
 CANTON 1803/4
 Walling, Charles (1763-)
-bap 19 Feb 1763 St Paul’s Covent Garden, London, s of George & Mary; midshipman HAWKE
+bap 19 Feb 1763 St Paul's Covent Garden, London, s of George & Mary; midshipman HAWKE
 (4) 1778/9; 5th mate EARL OF HERTFORD 1780/1, home from St Helena in GLATTON (2);
 midshipman Orestes sloop 4m; 5th mate PIGOT (2) 1782/3, run 16 Oct 1784; 3rd mate
 MALABAR 1795/6
@@ -153,13 +153,13 @@ Wallis, John
 Wallis, John
 Aga noah PRINCE; WHLLIAR (D) 1726/7; 3a made PRINCE, WULILIARL G0) 1729/30
 Wallis, Thomas
-steward EXPEDITION (2) 1627/8; steward’s mate PALSGRAVE 1630/1
+steward EXPEDITION (2) 1627/8; steward's mate PALSGRAVE 1630/1
 Wallis, William
 1st mate EAST INDIA MERCHANT (3) 1698/9
 Walmesley, William
 5th mate ROYAL CHARLOTTE (1) 1764/5
 Walmsley, Peter
-purser’s mate MARY (1) 1626/7; purser PEARL (2) 1631/2
+purser's mate MARY (1) 1626/7; purser PEARL (2) 1631/2
 Walpole, Richard
 6th mate & purser AUGUSTA 1744/5; 3rd mate SOMERSET 1747/8; Capt HOUGHTON (3)
 1751/2 & 1754/5
@@ -220,7 +220,7 @@ Ware, John
 Ware, William
 2nd mate ANNA (1) 1706/7
 Ware, William Watson (1783-1805)
-b 17 Dec 1783 & bap 18 Jan 1784 St Luke’s, Chelsea, Middx, s of Thomas & Esther; 4th mate
+b 17 Dec 1783 & bap 18 Jan 1784 St Luke's, Chelsea, Middx, s of Thomas & Esther; 4th mate
 LADY JANE DUNDAS 1803/4; d 7 Feb 1805
 Warham, Ambrose
 4th mate HAVANNAH 1765/6; 3rd mate HAVANNAH 1768/9
@@ -266,12 +266,12 @@ pensioned 15 Dec 1834; d 28 Dec 1837 Stroud, Glos
 Washington, Thomas
 purser NATHANIEL (2) 1708/9
 Wasmus, Charles (-1800)
-Surgeon’s mate in Bengal 1753; surgeon MERCURY (1) 1775/6; Surgeon at Benkulen 1 Jan
+Surgeon's mate in Bengal 1753; surgeon MERCURY (1) 1775/6; Surgeon at Benkulen 1 Jan
 1779; pensioned 31 Dec 1796; d 1800 Calcutta
 Wasse, Edward (-1784)
 5th mate EARL OF MANSFIELD 1783/4; killed 5 May 1784
 Wasse, Leonard (1779-)
-b 19 Nov 1779 & bap 27 Oct 1780 Blandford Forum, Dorset, s of Charles & Elizabeth; Capt’s
+b 19 Nov 1779 & bap 27 Oct 1780 Blandford Forum, Dorset, s of Charles & Elizabeth; Capt's
 servant ALFRED (2) 1793/4; midshipman ALFRED (2) 1795/6; 5th mate LORD
 HAWKESBURY 1798/9; 4th mate LORD HAWKESBURY 1800/1; 3rd mate BRUNSWICK
 1803/4; 2nd mate LORD ELDON 1805/6; 1st mate TRAVERS 1807/8; 1st mate PRESTON
@@ -371,7 +371,7 @@ surgeon ESSEX (4) 1787/8, HAWKE (5) 1789/90, WARLEY (1) 1792/3
 Weale, Thomas
 5th mate HECTOR (2) 1750/1
 Wear, Joshua (1778-)
-b 14 Sep 1778 pa St John’s, Hackney, Middx; seaman WALPOLE (5) 1797/8; 4th mate
+b 14 Sep 1778 pa St John's, Hackney, Middx; seaman WALPOLE (5) 1797/8; 4th mate
 HERCULEAN 1799/1800; 4th mate ALNWICK CASTLE 1801/2; 3rd mate FAME (3)
 1803/4; 1st mate FAME (3) 1805/6; 1st mate ANN (1) 1806/7
 Weatherhead, Samuel
@@ -450,7 +450,7 @@ surgeon GRANTHAM (2) 1728/9, transf to DRAKE (1) 8 Jan 1730; run 12 Aug 1731
 Wellard, Charles
 4th mate LORD HOLLAND (1) 1766/7
 Wellbank or Welbank, Robert (1778-)
-bap 4 Feb 1778 St Botolph Bishopsgate, London, aged 18d, s of William & Jemina; Capt’s
+bap 4 Feb 1778 St Botolph Bishopsgate, London, aged 18d, s of William & Jemina; Capt's
 servant HILLSBOROUGH (2) 1792/3; 6th mate CIRENCESTER 1794/5; 4th mate COUTTS
 1796/7; 3rd mate WOODFORD (1) 1798/9; 2nd mate WOODFORD (1) 1800/1; 1st mate
 WOODFORD (1) 1802/3; Capt CUFFNELLS 1806/7, 1808/9, 1811/2 & 1814/5
@@ -462,7 +462,7 @@ Wellbank, Thomas jun
 Wellen, John
 2nd mate ATLAS (2) 1801/2
 Weller, Charles (1780-)
-b 1 Jul & bap 18 Jul 1780 St Paul’s, Deptford, Kent, s of William Walterley, maltster, &
+b 1 Jul & bap 18 Jul 1780 St Paul's, Deptford, Kent, s of William Walterley, maltster, &
 Elizabeth, of Church St; apprentice in east country trade 3y; 6th mate PRINCESS
 CHARLOTTE (1) 1797/8; 3rd mate EARL HOWE 1800/1; 3rd mate CERES (4) 1803/4;
 1st mate SIR WILLIAM BENSLEY 1805/6 & 1807/8; 1st mate HUDDART 1809/10 & 1812/3;
@@ -482,7 +482,7 @@ purser SUSANNA (2) 1712/3; d 10 Mar 1714
 Wells, George
 surgeon TIGRIS (2) 1806/7
 Wells, John (1774-)
-b 17 Oct & bap 17 Nov 1774 St Martin’s Ludgate, London, s of Joseph & Mary; seaman
+b 17 Oct & bap 17 Nov 1774 St Martin's Ludgate, London, s of Joseph & Mary; seaman
 VALENTINE (3) 1788/9; seaman Augustus Caesar to West Indies 8m; midshipman
 VALENTINE (3) 1791/2; 5th mate THETIS (1) 1793/4; 4th mate THETIS (1) 1795/6;
 2nd mate DUBLIN 1797/8
@@ -547,7 +547,7 @@ SCARBOROUGH (2) 1740/1; Capt PRINCE OF ORANGE (2) 1744/5
 Westcott, John
 1st mate BARNARDISTON 1681/2
 Westcott, William (1802-)
-bap 16 Jul 1802 Barnstaple, Devon, s of William & Betsy; surgeon’s mate BOMBAY (3) 1824/5;
+bap 16 Jul 1802 Barnstaple, Devon, s of William & Betsy; surgeon's mate BOMBAY (3) 1824/5;
 surgeon BOMBAY (3) 1826/7, WILLIAM FAIRLIE 1829/30
 Westerbane, William (-1726)
 1st mate DRAKE (1) 1720/1; Capt DRAKE (1) 1724/5; d 14 Sep 1726
@@ -556,7 +556,7 @@ Westerburg, John
 Western, John
 3rd mate PONSBORNE (1) 1770/1; run 3 Dec 1771
 Western, Roger Peter (1772-)
-bS Des 1772 & bap 2 May 1773 Welest, Bath, sof Thomas, Esq, & Jane; Capt’s servant
+bS Des 1772 & bap 2 May 1773 Welest, Bath, sof Thomas, Esq, & Jane; Capt's servant
 WILLIAM PITT (1) 1787/8 & 1789/90; 6th mate LORD MACARTNEY 1791/2; 3rd mate
 EARL OF WYCOMBE 1793/4; 3rd mate WILLIAM PITT (1) 1795/6; 2nd mate WILLIAM
 PITT (1) 1798/9; 1st mate DUKE OF MONTROSE 1800/1; 1st mate ALFRED (2) 1802/3;
@@ -575,8 +575,8 @@ HARRINGTON 1735/6; Capt RICHMOND (1) 1738/9; Capt EXETER (1) 1742/3 & 1745/6
 Westropp, Berkeley
 1st mate LORD HUNGERFORD 1826/7
 Wheatley, William Henry (c1755-)
-b in England; seaman Caroline packet 5m; Capt’s servant EUROPE (1) 1769/70; 2nd mate
-Lady’s Adventure to Barbados ly; midshipman EUROPA (1) 1772/3; 2nd mate Earl of Grenville
+b in England; seaman Caroline packet 5m; Capt's servant EUROPE (1) 1769/70; 2nd mate
+Lady's Adventure to Barbados ly; midshipman EUROPA (1) 1772/3; 2nd mate Earl of Grenville
 to Oporto Sm; 2nd mate Worcester to Barbados ly, midshipman & mate HMS Ardent ly 6m;
 master HMS Hawke, Valiant, Serapis, Alarm, Resource and Dictator 8y; 2nd mate FRANCIS (2)
 1786/7 (approved 5 Dec 1786, aged 31); 1st mate EUROPA (2) 1788/9; run 3 Jan 1790
@@ -626,8 +626,8 @@ b 9 Aug & bap 19 Aug 1789 St Mary the Virgin, Dover, s of James & Elizabeth; 4th
 OCEAN (6) 1807/8; 3rd mate GENERAL STUART 1810/1; 1st mate OCEAN (6) 1812/3;
 1st mate HUDDART 1814/5
 White, James Christopher (1771-1806)
-bap 29 Aug 1771 St Mary’s Whitechapel, London, s of William & Sarah, of High St; seaman &
-mate in Baltic trade 4y; carpenter’s servant ROCKINGHAM (1) 1785/6; 1st mate’s servant
+bap 29 Aug 1771 St Mary's Whitechapel, London, s of William & Sarah, of High St; seaman &
+mate in Baltic trade 4y; carpenter's servant ROCKINGHAM (1) 1785/6; 1st mate's servant
 BRIDGEWATER (3) 1787/8; 2nd mate Active to Botany Bay 2y 3m; 2nd mate Indispensible to
 Botany Bay and China ly 8m; 3rd mate GOOD HOPE (3) 1795/6; 2nd mate GOOD HOPE (3)
 1797/8; 1st mate TRAVERS 1799/1800; 2nd mate EARL HOWE 1802/3, transf to LORD
@@ -667,7 +667,7 @@ lst mate EARL OF OXFORD 1782/3, 1785/6 & 1788/9; Capt EARL OF OXFORD 1792/3
 White, William
 5th mate COUTTS 1804/5
 White, William Tryon (1772-)
-b Dec 1772 New York; Capt’s servant GENERAL ELIOTT 1788/9; seaman DEPTFORD (2)
+b Dec 1772 New York; Capt's servant GENERAL ELIOTT 1788/9; seaman DEPTFORD (2)
 1790/1; 5th mate OSTERLEY (3) 1792/3; 3rd mate Middlesex to West Indies ly, 2nd mate
 MARQUIS OF LANSDOWN 1796/7; Capt MARQUIS OF LANSDOWN 1798/9
 Whitehead, Walter Horrocks (1796-)
@@ -710,7 +710,7 @@ BOMBAY CASTLE (1) 1745/6
 Widdrington, Thomas
 4th mate PERSIA MERCHANT (2) 1681/2
 Wier, Dickie (c1750-)
-Capt’s servant & seaman Marshall Keith two voyages to America ly, seaman Chance to
+Capt's servant & seaman Marshall Keith two voyages to America ly, seaman Chance to
 Maryland 11m; 5th mate RESOLUTION (3) 1769/70; 4th mate MARQUIS OF
 ROCKINGHAM (2) 1771/2 (approved 28 Jan 1772, aged 21)
 Wigan, Edmund
@@ -746,7 +746,7 @@ bap 2 Feb 1781 Feathard, co Tipperary, s of James, Esq; 5th mate CARNATIC (2) 18
 3rd mate EXPERIMENT (4) 1802/3; 2nd mate EXPERIMENT (4) 1803/4; 1st mate
 EXPERIMENT (4) 1805/6; 1st mate HUDDART 1807/8; dismissed 14 Oct 1808
 Wilkins, Jeffery (1780-)
-b 18 Jul & bap 24 Aug 1780 St John’s, Brecon, s of Jeffery & Catherine; seaman EARL OF
+b 18 Jul & bap 24 Aug 1780 St John's, Brecon, s of Jeffery & Catherine; seaman EARL OF
 OXFORD 1794/5; 5th mate EARL TALBOT (2) 1796/7; 4th mate AIRLY CASTLE 1800/1;
 3rd mate EXETER (2) 1802/3; 2nd mate EARL CAMDEN 1804/5
 Wilkins, Nathaniel
@@ -758,7 +758,7 @@ surgeon ADMIRAL POCOCK 1761/2, EARL OF MIDDLESEX 1766/7
 Wilkinson, Brave
 5th mate THAMES (2) 1803/4, transf to HMS Caroline 6 Nov 1804
 Wilkinson, Edmund (1786-)
-bap Feb 1786 St Luke’s, Chelsea, Middx, s of Richard & Ann; 6th mate WILLIAM PITT (2)
+bap Feb 1786 St Luke's, Chelsea, Middx, s of Richard & Ann; 6th mate WILLIAM PITT (2)
 1804/5; 3rd mate UNION (5) 1806/7 & 1808/9; 2nd mate UNION (5) 1810/1
 Wilkinson, George
 surgeon HERTFORD (2) 1726/7 & 1730/1, NEWCASTLE 1732/3
@@ -775,7 +775,7 @@ LARKINS (1) 1813/4; 1st mate LARKINS (1) 1815/6; Capt WATERLOO (2) 1819/20
 Wilkinson, James
 surgeon GRENVILLE 1774/5
 Wilkinson, James (1782-1802)
-b Sep 1782 Newcastle-on-Tyne; Capt’s servant PRINCE WILLIAM HENRY 1794/5;
+b Sep 1782 Newcastle-on-Tyne; Capt's servant PRINCE WILLIAM HENRY 1794/5;
 midshipman PRINCE WILLIAM HENRY 1796/7; 5th mate LORD NELSON 1799/1800;
 4th mate LORD NELSON 1801/2; d 19 Dec 1802
 Wilkinson, John (c1748-)
@@ -793,7 +793,7 @@ surgeon THAMES (5) 1828/9
 Will, George
 surgeon LAYTON 1823/4
 Willcocks, George (1785-)
-b 20 Nov & bap 18 Dec 1785 St James’ Clerkenwell, London, s of Richard & Elizabeth; purser
+b 20 Nov & bap 18 Dec 1785 St James' Clerkenwell, London, s of Richard & Elizabeth; purser
 TOTTENHAM 1810/1 & 1812/3
 Wilcox, Francis
 6th mate DEPTFORD (2) 1784/5; run 20 Nov 1785
@@ -849,7 +849,7 @@ b 13 Feb 1783 Shrewsbury; midshipman LORD THURLOW 1796/7; midshipman WALMER
 CASTLE 1798/9; 5th mate HUGH INGLIS 1802/3; 3rd mate WILLIAM PITT (2) 1804/5;
 2nd mate WILLIAM PITT (2) 1807/8; 2nd mate SURAT CASTLE (2) 1809/10; 1st mate
 MARQUIS OF WELLINGTON (1) 1812/3 & 1814/5; d 26 Jun 1821 Bengal
-m 31 Aug 1812 St George’s, Hanover Sq, London, Sarah Nixon, wid
+m 31 Aug 1812 St George's, Hanover Sq, London, Sarah Nixon, wid
 Herbert bap 1 Oct 1813
 Williams, Joseph Mills (1797-)
 b 18 Nov 1797 England; midshipman BRIDGEWATER (5) 1812/3 & 1814/5; 6th mate
@@ -878,7 +878,7 @@ apprentice Leopard in Virginia trade Sy; seaman & mate in several ships to Afric
 several ships to Africa 4y; midshipman ALFRED (1) 1776/7; 2nd mate KENT (5) 1781/2
 (approved 5 Sep 1781, aged 28)
 Williamson, George
-purser’s mate WILLIAM (1) 1625/6; purser PALSGRAVE 1630/1
+purser's mate WILLIAM (1) 1625/6; purser PALSGRAVE 1630/1
 Williamson, George
 purser HERTFORD (1) 1719/20
 Williamson, George (c1756-1787)
@@ -886,8 +886,8 @@ b in Scotland; seaman in coasting trade 4y; seaman CERES (1) 1776/7; midshipman 
 (1) 1778/9; 4th mate ALFRED 1781/2 (approved 24 Aug 1781, aged 25); 3rd mate EARL OF
 WYCOMBE 1786/7; drowned 11 Aug 1787
 Williamson, George (1775-)
-bap 1 Dec 1775 St Saviour’s , Southwark, London, s of Jeremiah, timber merchant, & Mary;
-Capt’s servant NOTTINGHAM (4) 1788/9; seaman TRUE BRITON (4) 1790/1; surgeon’s
+bap 1 Dec 1775 St Saviour's , Southwark, London, s of Jeremiah, timber merchant, & Mary;
+Capt's servant NOTTINGHAM (4) 1788/9; seaman TRUE BRITON (4) 1790/1; surgeon's
 servant LORD THURLOW 1792/3; seaman BOMBAY CASTLE (2) 1794/5; 5th mate
 BELVEDERE 1796/7; 2nd mate HERCULEAN 1799/1800; 3rd mate PERSEVERANCE (2)
 1801/2; 2nd mate DOVER CASTLE 1803/4; 2nd mate PERSEVERANCE (2) 1805/6 &
@@ -909,7 +909,7 @@ Williamson, James
 2nd mate MANGLES 1825
 Williamson, James Burnett see Burnett, James Burnett
 Willis, Edwin (1810-)
-b 28 Aug 1810 & bap 17 Nov 1811 St Mary’s, Lambeth, s of John & Elizabeth; 6th mate
+b 28 Aug 1810 & bap 17 Nov 1811 St Mary's, Lambeth, s of John & Elizabeth; 6th mate
 HYTHE 1826/7; 5th mate DUKE OF SUSSEX 1828/9
 Willis, George
 3rd mate CATHERINE (2) 1715/6
@@ -922,7 +922,7 @@ surgeon EARL OF CHESTERFIELD 1786/7 & 1788/9; run 29 Jan 1790
 Willis, Thomas
 6th mate PRINCESS AMELIA (4) 1819/20
 Willmot, John (1773-)
-bap 24 Feb 1773 St Botolph Aldgate, London, s of John Gerrard & Elizabeth; gunner’s servant
+bap 24 Feb 1773 St Botolph Aldgate, London, s of John Gerrard & Elizabeth; gunner's servant
 DOVER (2) 1786/7; midshipman FORT WILLIAM (2) 1788/9; free mariner to Bombay 1790.
 home in LORD MACARTNEY 1795; approved as 3rd mate WOODFORD (1) 22 Apr 1796,
 did not proceed
@@ -990,7 +990,7 @@ midshipman THAMES (2) 1799/1800; purser THAMES (2) 1801/2, SCALEBY CASTLE
 Wilson, Henry (-1713)
 purser SOMERS 1711/2; d 6 May 1713
 Wilson, James William
-surgeon’s mate INGLIS 1812/3; surgeon VANSITTART (4) 1814, 1814/5, 1816/7, 1818/9,
+surgeon's mate INGLIS 1812/3; surgeon VANSITTART (4) 1814, 1814/5, 1816/7, 1818/9,
 1820/1, 1822/3, 1824/5, 1826/7, 1828/9 & 1830/1
 Wilson, John
 surgeon HOPEWELL (2) 1630/1
@@ -1018,7 +1018,7 @@ Wilson, John
 Wilson, John
 1st mate FORT WILLIAM (3) 1825/6
 Wilson, John (1814-)
-b 23 Sep 1814 & bap 17 Jan 1815 All Saints’, Huntingdon, s of Jonah, surgeon, & Ann;
+b 23 Sep 1814 & bap 17 Jan 1815 All Saints', Huntingdon, s of Jonah, surgeon, & Ann;
 micshisian TER WICKSED NE 1829/20; 6th mate PER WICKSEIRE 138 1/2
 Wilson, John Charles
 3rd mate STREATHAM (4) 1812/3
@@ -1027,7 +1027,7 @@ b L Oet 196? Norwich; seaneem & midsixiomae EMS Warwick and Gotieth 3y 7m; midsh
 WORCESTER (4) 1785/6; in Straits trade 6y; 4th mate VALENTINE (3) 1793/4; 1st mate
 LORD THURLOW 1796/7
 Wilson, John Major (1770-1818) ‘
-ip TP POs somgeun ROSS GY 1F9Q9; Pongal Aset Surgeon 27 May 1803; MD Aberdeen 1812;
+p TP POs somgeun ROSS GY 1F9Q9; Pongal Aset Surgeon 27 May 1803; MD Aberdeen 1812;
 Surgeon 15 Jul 1815; d 24 May 1818 Calcutta
 Wilson, Robert
 purser UNION (4) 1810/1, FAME (4) 1818/9, FLORENTIA 1820/1, ROYAL GEORGE (6)
@@ -1036,7 +1036,7 @@ Wilson, Somerville
 surgeon WINTERTON 1787/8
 Wilson, Thomas (c1756-)
 apprentice Edinburgh to America and the Straits Sy, seaman (9m) & 2nd mate (6m) Harriot to
-America; seaman GREENWICH (2) 1775/6; gunner’s mate MOUNTSTUART 1777/8;
+America; seaman GREENWICH (2) 1775/6; gunner's mate MOUNTSTUART 1777/8;
 3rd mate MOUNTSTUART 1779/80 (approved 17 May 1780, aged 24)
 Wilson, Thomas
 2nd mate COVERDALE 1795/6 & 1797/8
@@ -1064,7 +1064,7 @@ b 24 Sep 1783 Alnwick, Northumberland; seaman in coasting trade 6m; 6th mate THA
 1803/4; 4th mate GLATTON (4) 1805/6; 3rd mate THAMES (2) 1808/9; 2nd mate
 MARCHIONESS OF EXETER 1810/1; petitioned Poplar Fund 1817
 Wilton, Joseph William (1771-)
-bap 9 Jun 1771 St Michael’s, Dublin, s of William & Esther; boy PONSBORNE (2) 1783/4;
+bap 9 Jun 1771 St Michael's, Dublin, s of William & Esther; boy PONSBORNE (2) 1783/4;
 midshipman PONSBORNE (2) 1785/6; midshipman TRITON (3) 1787/8; midshipman
 RODNEY (2) 1789/90; 4th mate WINTERTON 1791/2
 Wiltshire, George
@@ -1074,7 +1074,7 @@ Capt FLORENTIA 1822/3; Capt PARMELIA 1826/7; Capt LADY NUGENT 1829/30
 Winn, Francis Manning
 purser BOMBAY CASTLE (2) 1799/1800, HENRY ADDINGTON (2) 1802/3, ARNISTON
 1809/19, BOMBAY (3) 1811/2 & 1813/4
-m 25 Aug 1804 St George’s Hanover Sq, London, Mary Herbert
+m 25 Aug 1804 St George's Hanover Sq, London, Mary Herbert
 Mary b 12 Aug 1806
 Frank Dawson b 15 Jul 1808
 William & Margaret Harriet bap 25 Sep 1818
@@ -1096,7 +1096,7 @@ b 1692, probably s of John, of Deptford, shipbuilder; 4th mate KING WILLIAM (2) 
 1st mate KING WILLIAM (2) 1712/3; Capt KING WILLIAM (2) 1715/6 & 1718/9; Capt
 EYLES 1721/2 & 1724/5; EIC Director between 1737 and 1754; Elder Brother of Trinity House
 1733-56; d 24 Jan 1756 Stepney
-m 30 Nov 1717 Hannah Evans, of St Bride’s pa, London
+m 30 Nov 1717 Hannah Evans, of St Bride's pa, London
 re-m his cousin Mary, eldst dau of Capt Nehemiah Winter, of Finchley, Essex
 Winter, James (1779-)
 lb 22 Ape ct Igy 16 May 1290 St Pauls, Depttord, sa? Tames, gent, & Blizabeth, af Union; St,
@@ -1148,7 +1148,7 @@ midshipman LORD MACARTNEY 1791/2; 4th mate QUEEN (4) 1793/4; 2nd mate
 GENERAL GODDARD 1795/6; 1st mate LADY JANE DUNDAS 1799/1800; 1st mate
 WALTHAMSTOW 1801/2
 Withers, Richard (1775-)
-b 12 Aug 1775 Wexford; Capt’s servant CARNATIC (2) 1790/1; seaman HINDOSTAN 69)
+b 12 Aug 1775 Wexford; Capt's servant CARNATIC (2) 1790/1; seaman HINDOSTAN 69)
 1792/3; 4th mate EARL CORNWALLIS 1794/5
 Witherstone, Josiah
 5th mate GODOLPHIN (2) 1734/5; 4th mate HARRISON 1736/7
@@ -1182,7 +1182,7 @@ master JAMES (1) 1620/1
 Wood, John
 4th mate PRINCESS AMELIA (2) 1745/6
 Wood, John (c1746-)
-1st mate’s servant HARCOURT (1) 1761/2; midshipman ANSON (3) 1763/4; midshipman
+1st mate's servant HARCOURT (1) 1761/2; midshipman ANSON (3) 1763/4; midshipman
 DUKE OF KINGSTON (1) 1765/6; midshipman GROSVENOR (1) 1767/8; 4th mate
 WORCESTER (3) 1769/70; 3rd mate NASSAU (3) 1771/2 (approved 26 Nov 1771, aged 25);
 3rd mate COLEBROOKE 1774/5; commanded Ellen in Straits trade 3y; 1st mate GATTON
@@ -1263,7 +1263,7 @@ midshipman HINDOSTAN (2) 1800/1; 6th mate HINDOSTAN (2) 1802/3 (ship lost); 5th 
 HOPE (2) 1802/3; 3rd mate WALPOLE (5) 1804/5; 2nd mate HOPE (2) 1806/7; 1st mate
 CARMARTHEN 1811/2
 Woolmore, John (1755-)
-bap.4 May 1755 St Mary’s Whitechapel, London, s of John & Ann, of Rosemary Lane; seaman
+bap.4 May 1755 St Mary's Whitechapel, London, s of John & Ann, of Rosemary Lane; seaman
 GRANBY 1767/8; midshipman DUKE OF RICHMOND 1770/1; midshipman STORMONT
 (2) 1772/3; seaman in coasting trade 8m; 2nd mate Harcourt to America; 3rd mate EARL
 TALBOT (1) 1778/9; 2nd mate EARL OF CHESTERFIELD 1780/1, home from Madras as
@@ -1356,7 +1356,7 @@ Wright, William (1788-)
 b 3 Oct & bap 1 Dec 1788 St Marylebone, London, s of Thomas & Amy; 6th mate HUGH
 INGLIS 1807/8; 3rd mate UNION (5) 1810/1
 ‘Wright, William Cook C9772
-bap 14 Dec 1777 St Mary’s Whitechapel, London, s of William & Ann; midshipman
+bap 14 Dec 1777 St Mary's Whitechapel, London, s of William & Ann; midshipman
 NORTHUMBERLAND (3) 1794/5; 5th mate HOPE (2) 1796/7; 4th mate EARL
 ABERGAVENNY (2) 1798/9; 3rd mate EARL OF ABERGAVENNY (2) 1800/1; 2nd mate
 EARL CAMDEN 1802/3; 2nd mate WINDHAM (2) 1804/5

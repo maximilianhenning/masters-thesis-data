@@ -91,7 +91,9 @@ def officer_clean(file_ocr):
         # Get lines with content
         if len(line) > 3:
             clean_line = clean_line.strip("â€˜")
-            clean_line = clean_line.replace("â€™", "\'")
+            clean_line = clean_line.strip("i ")
+            clean_line = clean_line.strip("’ ")
+            clean_line = clean_line.replace("’", "\'")
             clean_line = clean_line.replace(":", ";")
             clean_line = clean_line.replace("Ist", "1st")
             clean_line = clean_line.replace("Sth", "5th")
@@ -101,20 +103,30 @@ def officer_clean(file_ocr):
             file_lines.append(clean_line)
     return file_lines
 
-officer_file_list = []
 officer_folder_list = glob(path.join(dir, "officers_png/*"))
+if not path.exists(path.join(dir, "officers_ocr")):
+    makedirs(path.join(dir, "officers_ocr"))
 for folder in officer_folder_list: 
     folder_title = folder.split("\\")[-1].split(".")[0]
-    print(folder_title)
-    files = glob(folder + "/*")
-    folder_lines = []
-    for file in files:
-        # Add one stage inbetween here for manual fixes & not having to rerun Tesseract all the time
-        file_ocr = pytesseract.image_to_string(Image.open(file))
-        file_lines = officer_clean(file_ocr)
-        folder_lines += file_lines
-    if not path.exists(path.join(dir, "officers_clean")):
-        makedirs(path.join(dir, "officers_clean"))
-    with open(path.join(dir, "officers_clean", folder_title + ".txt"), "w") as output:
-        for line in folder_lines:
+    if not path.exists(path.join(dir, "officers_ocr", folder_title + ".txt")):
+        files = glob(folder + "/*")
+        folder_ocr = []
+        for file in files:
+            file_ocr = pytesseract.image_to_string(Image.open(file))
+            folder_ocr += file_ocr
+        with open(path.join(dir, "officers_ocr", folder_title + ".txt"), "w") as output:
+            for char in folder_ocr:
+                output.write(char)
+    print(folder_title + ": OCR done")
+ocr_file_list = glob(path.join(dir, "officers_ocr/*"))
+if not path.exists(path.join(dir, "officers_clean")):
+    makedirs(path.join(dir, "officers_clean"))
+for file in ocr_file_list: 
+    file_title = file.split("\\")[-1].split(".")[0]
+    with open(file, "r") as input:
+        file_content = input.read()
+    file_lines = officer_clean(file_content)
+    with open(path.join(dir, "officers_clean", file_title + ".txt"), "w") as output:
+        for line in file_lines:
             output.write(line + "\n")
+    print(file_title + ": Cleaning done")

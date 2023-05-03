@@ -19,7 +19,7 @@ Raidie, John
 Rainbett, William
 2nd mate GENERAL GRAHAM 1811/2
 Raincock, George (1770-)
-b 23 Sep & bap 6 Nov 1770 St Mary’s Woolchurch, Haw, s of John & Mary; seaman ESSEX (4)
+b 23 Sep & bap 6 Nov 1770 St Mary's Woolchurch, Haw, s of John & Mary; seaman ESSEX (4)
 1787/8; seaman in coal trade 9m; midshipman in Royal Navy ly 6m; 4th mate HENRY
 DUNDAS 1792/3; 3rd mate EARL FITZWILLIAM 1794/5; 2nd mate WALPOLE (4) 1797/8;
 2nd mate WALTHAMSTOW 1799/1800; 1st mate MARQUIS OF ELY 180 1/2; Capt
@@ -32,7 +32,7 @@ Raine, Thomas
 Cant SURREY @ 1015
 Raines, Thomas
 Capt MARTHA (1) 1693/4, 1697/8 & 1699/1700
-Raton’, Robert (1700)
+Raton', Robert (1700)
 surgeon TANKERVILLE 1699/1700; d 23 Jul 1700
 Raisbeck, Thomas (1775-1802)
 b 18 Mar & bap 24 May 1775 Stockton, co Durham, s of John Stapylton & Sarah; seaman and
@@ -94,9 +94,9 @@ Rattray, Alexander
 Rattray, Charles
 purser HAMPSHIRE (2) 1770/1
 Rattray, George (-1835)
-surgeon’s mate ASTELL 1809/10 surgeon FAIRLIE 1811/12, JAMES SIBBALD 1814/5;
+surgeon's mate ASTELL 1809/10 surgeon FAIRLIE 1811/12, JAMES SIBBALD 1814/5;
 petitioned Poplar Fund 1817; d 15 Sep 1835
-m 5 Apr 1825 St Ninian’s, Mary Anne Forrester
+m 5 Apr 1825 St Ninian's, Mary Anne Forrester
 Rattray, Henry
 surgeon SHAFTESBURY (1) 1741/2
 Rattray, James (c1741-)
@@ -171,10 +171,10 @@ Redford, Frederick {
 Redhead, William
 Capt ADVICE (4) 1700/1
 Reding, John Cameron Hl
-purser DUKE OF BUCCLEUGH (1) 1800/1, CANTON 1809/10 i
+purser DUKE OF BUCCLEUGH (1) 1800/1, CANTON 1809/10
 Redley, Thomas
-6th mate ROYAL GEORGE (4) 1813/4 i
-Redman, Edward i
+6th mate ROYAL GEORGE (4) 1813/4
+Redman, Edward
 master TROJAN 1795/6
 Redman, Gabriel Jemmett
 Capt HENRY PORCHER 1829/30
@@ -188,7 +188,7 @@ Sid mere EARL TALBOT (0) 1PS4/S; Let mate WTERTON MSHS; et mate DIS Hdl
 Redmond, Richard
 3rd mate & gunner BOUVERIE 1709/10; 2nd mate BOUVERIE 1713/4; 1st mate CARDIGAN Il
 1716/7 & 1719/20
-Redwood, Gabriel i
+Redwood, Gabriel
 3rd mate STANHOPE 1725/6 I  }
 Redwood, Langford
 6th mate ROYAL ADMIRAL (1) 1795/6
@@ -263,7 +263,7 @@ Reynolds, John
 Reynolds, John
 6th mate INGLIS 1814/5
 Reynolds, John Smeaton (1775-)
-b 23 Aug & bap 22 Nov 1775 St Andrew’s Holborn, London, s of John & Leslie; seaman to West
+b 23 Aug & bap 22 Nov 1775 St Andrew's Holborn, London, s of John & Leslie; seaman to West
 Indies ly 6m; midshipman TRITON (3) 1792/3; midshipman LONDON (13) 1794/5; 4th mate
 DUKE OF MONTROSE 1796/7; run 20 Oct 1798
 Reynolds, Joseph
@@ -271,7 +271,7 @@ Reynolds, Joseph
 Reynolds, Nathaniel
 Capt SURAT MERCHANT 1681/2
 Reynolds, Thomas
-purser’s mate REFORMATION 1628/9; purser LONDON (1) 1630/1, PALSGRAVE 1632/3
+purser's mate REFORMATION 1628/9; purser LONDON (1) 1630/1, PALSGRAVE 1632/3
 Reynolds, William (1780-)
 b 1 May 1780 Ballyshannon, co Donegal; 3rd mate TRAVERS 1799/1800; 1st mate
 MEVANIES 1801/2; 2ad mate SOVERELON (2) 1803/4; 1st mate SOVEREIGN (2) 1805/6;
@@ -323,7 +323,7 @@ Richard, William
 Richards, William
 Capt ANN & AMELIA (3) 1829/30
 Richardson, Benjamin (1768-)
-fap 11 Ost 1768 St Anme’s Solbo, London, aget 23d, 6 ef Capt Joseoh & Sees; seaman
+fap 11 Ost 1768 St Anme's Solbo, London, aget 23d, 6 ef Capt Joseoh & Sees; seaman
 STORMONT (2) 1782/3; seaman DUTTON (2) 1784/5; seaman MINERVA (1) 1786/7;
 4th mate MINERVA (1) 1792/3; 2nd mate MINERVA (1) 1794/5; 1st mate MINERVA (1)
 1796/7 & 1798/9, Capt PRINCESS CHARLOTTE (1) 1800/1; Capt ALBION (2) 1804/5 &
@@ -367,7 +367,7 @@ Richardson, R B
 Richardson, Robert (-1783)
 surgeon HILLSBOROUGH (1) 1779/80, LORD MACARTNEY 1782/3; d 1 Dec 1783
 Richardson, Robert (-1824)
-MNCS 1802; eumgesn’s mate CRIES ( 18012, CANTRON 1803/4; Madras Asst Surgeon 15 Jul
+MNCS 1802; eumgesn's mate CRIES ( 18012, CANTRON 1803/4; Madras Asst Surgeon 15 Jul
 1805; Surgeon 18 Feb 1819; d31 May 1824 Madras
 active service in capture of Bourbon 1810
 Rickards, William (-1768)
@@ -385,7 +385,7 @@ bap 21 eb 1S] Newer, Notts, sof Insegh 4 Reheuce; apprentice four voyages to Wes
 Ricketts, James T
 1st mate BRITANNIA (8) 1800; 1st mate ADMIRAL RAINER 1803
 Ricketts, Thomas (1781-)
-“LS Aspe (& bap 6 May 1281 St James’s Piecediilly, London, s of Themes Mary; 5th mate
+“LS Aspe (& bap 6 May 1281 St James's Piecediilly, London, s of Themes Mary; 5th mate
 ROYAL CHARLOTTE (5) 1801/2; 4th mate WALTHAMSTOW 1803/4; run 25 Oct 1804
 Rickman, Henry
 mate GLOBE 1615/6, master PEPPERCORN 1617
@@ -418,9 +418,9 @@ D2 Jim 1773 Wallet; apprentice and mate én coasting trade Sy; quarter master TRU
 (4) 1793/4; 4th mate BRIDGEWATER (3) 1795/6; 4th mate TRUE BRITON (4) 1798/9
 Ritchie, James (1804-)
 b 30 Mar & bap 18 Apr 1804 Torbolton, Ayshire, s of Rev John, tinier, & Choistion Stodare
-Capt’s clerk DUNIRA 1823/4, 1825/6 & 1827/8; purser THOMAS COUTTS 1829/30 & 1831/2
+Capt's clerk DUNIRA 1823/4, 1825/6 & 1827/8; purser THOMAS COUTTS 1829/30 & 1831/2
 Ritherdon, George (cl758-)
-Capt’s servant GLATINON () 1768/9; midshipman GLATTON CD 1770/1; seaman Neptune to
+Capt's servant GLATINON () 1768/9; midshipman GLATTON CD 1770/1; seaman Neptune to
 Lisbon 4m; midshipman THAMES (1) 1773/4; seaman Neptune to Lisbon 7m; 5th mate
 GLATTON (2) 1777/8; 3rd mate GLATTON (2) 1779/80 (approved 17 Mar 1780, aged 22)
 Rivaz, Henry (1801-)
@@ -438,7 +438,7 @@ oth its WORCESTER @) 1760/1; d 26 Aug 1761
 Rivett, James (-cl687)
 1st mate JONAS (2) 1686/7; dc.Dec 1687
 Rivington, Robert (1757-)
-b 24 Jun 1757 pa St Faith’s, London, s of John & Elizabeth Miller; Capt’s servant LORD
+b 24 Jun 1757 pa St Faith's, London, s of John & Elizabeth Miller; Capt's servant LORD
 CAMDEN (1) 1771/2; midshipman MORSE 1773/4; 5th mate STORMONT (2) 1776/7;
 4th mate HAWKE (4) 1778/9; 2nd mate HAWKE (4) 1781/2; 1st mate HAWKE (S) 1786/7;
 1st mate WARLEY (1) 1788/9 & 1792/3; 1st mate RAYMOND 1790/1; 1st mate HAWKE (5)
@@ -496,7 +496,7 @@ to New York 2y; commanded Hero to America 2y 2m; 2nd mate DEPTFORD (2) 1780/1
 Roberts, W C
 1st mate CORNWALLIS 1817
 Robertson, George (c1760-)
-b in Scotland; Capt’s servant BUTE 1773/4; midshipman LATHAM (2) 1775/6; 6th mate
+b in Scotland; Capt's servant BUTE 1773/4; midshipman LATHAM (2) 1775/6; 6th mate
 LATHAM (2) 1777/8; 3rd mate VANSITTART (3) 1779/80 (approved 28 Apr 1780, aged 20);
 2nd mate VANSITTART (3) 1782/3; 1st mate GENERAL COOTE 1787/8; 1st mate RODNEY
 (2) 1792/3; Capt BERRINGTON 1794/5 & 1797/8; Capt LORD CASTLEREAGH (1) 1802/3
@@ -528,7 +528,7 @@ Etomate MINERVA (7) ISG; € 22 Cet 1907
 Robertson, Robert
 5th mate MARQUIS OF WELLLINGTON (1) 1824/5
 Robertson, Robert Henry (1769-)
-b 1769 Perth; Capt’s servant GLATTON (2) 1786/7; 6th mate HOUGHTON (5) 1788/9;
+b 1769 Perth; Capt's servant GLATTON (2) 1786/7; 6th mate HOUGHTON (5) 1788/9;
 midshipman DUKE OF BUCCLEUGH (1) 1791/2; 3rd mate LORD WALSINGHAM 1792/3;
 2nd mate GLATTON (4) 1795/6
 Robertson, Thomas (c1755-)
@@ -615,7 +615,7 @@ susrgeon ALEXANDER (3) 1809/10
 Rodd, James
 5th mate ANKERWYKE 1764/5
 Rodd, Thomas (1782-1808)
-b 17 Mar 1782 Ilfracombe, Devon; 2nd mate’s servant HOPE (2) 1798/9; midshipman HOPE (2)
+b 17 Mar 1782 Ilfracombe, Devon; 2nd mate's servant HOPE (2) 1798/9; midshipman HOPE (2)
 1800/1; 5th mate ROYAL GEORGE (4) 1804/5, transf as 3rd mate HOPE (2) 31 Jan 1806;
 3rd mate ROYAL GEORGE (4) 1806/7; d 6 Aug 1808 Whampoa
 m 31 Mar 1807 Ilfracombe, Honoria Palmer (she re-m Thomas Stevens)
@@ -677,7 +677,7 @@ Romer, Henry (c1754-)
 seaman in West Indies trade 3y; midshipman NORTHUMBERLAND (2) 1773/4; 4th mate
 DUKE OF PORTLAND 1776/7 (approved 4 Dec 1776, aged 22)
 Romilly, Peter Randolph (1786-1808)
-b 7 Mar & bap 7 Apr 1786 St Anne’s Soho, London, s of Thomas Peter & Jane Anne; 3rd mate
+b 7 Mar & bap 7 Apr 1786 St Anne's Soho, London, s of Thomas Peter & Jane Anne; 3rd mate
 EXPERIMENT (4) 1805/6; 2nd mate ANN (1) 1806/7; d 10 Jul 1808
 Romwale, John
 2nd mate HOPE (3) 1801
@@ -696,7 +696,7 @@ Rootsey, Thomas (-1738)
 Roper, William (1759-)
 b 30 Apr & bap 28 May 1759 St Martin-in-the-Fields, London, s of William & Martha; seaman
 two voyages to West Indies 2y; midshipman YORK (2) PIG; gramer IRODNEY (1) 17801;
-ist taste TISTON (S) 1790/3; Capt ROVAL CHLARLOTTE (S) 1795/6 & 1798/9
+st taste TISTON (S) 1790/3; Capt ROVAL CHLARLOTTE (S) 1795/6 & 1798/9
 Roper, WA
 1st mate HOPE (3) 1801
 Rose, Adam (1771-)
@@ -710,7 +710,7 @@ surgeon FLORENTIA 1820/1
 Ross, George
 3rd mate LORD MANSFIELD (1) 1759/60
 Ross, George James
-idslnipmma LORD TLIDON IS0S/6, wemaded im engagement with French oxivatear Le Cygne
+dslnipmma LORD TLIDON IS0S/6, wemaded im engagement with French oxivatear Le Cygne
 Nov 1807; midshipman LORD MELVILLE (1) 1808/9; 5th mate LORD MELVILLE (1)
 1810/1; 4th mate LORD MELVILLE (1) 1812/3; petitioned Poplar Fund 1822
 Ross, Hercules (1777-)
@@ -775,7 +775,7 @@ purser DUKE OF GRAFTON 1768/9; d 24 Jun 1770
 Roy, Andrew
 6th mate BARING (1) 1812/3
 Roy, Daniel Thomas
-surgeon’s mate GENERAL HEWETT 1821/2 & 1823/4, GEORGE THE FOURTH 1825/6;
+surgeon's mate GENERAL HEWETT 1821/2 & 1823/4, GEORGE THE FOURTH 1825/6;
 Stgson LON DOK Cid) 18278 & 182930, GEORGE THE FOURTH 1831/2
 Roydon, Marmaduke
 3rd mate BARNARDISTON 1681/2
@@ -796,7 +796,7 @@ Russell, Charles (-c1714)
 purser ARABELLA 1713/4; d on voyage
 ) Russell, Edward
 3rd mate HOWLAND 1710/1
-Russell, Edward i
+Russell, Edward
 6th mate PONSBORNE (1) 1770/1
 Russell, Flower
 3rd mate HOUGHTON (2) 1745/6; 2nd mate STREATHAM (3) 1750/1; 1st mate EGMONT
@@ -817,7 +817,7 @@ Russell, John
 surgeon MONTAGU (1) 1698/9
 Russell, John
 4th mate DODDINGTON 1748/9; run 16 Feb 1748
-Russell, John Hii
+Russell, John H
 5th mate RHODA 1751/2
 Russell, John (1780-)
 b 25 Jan 1780 Walthamstow, Essex; midshipman WARREN HASTINGS (1) 1792/3; 6th mate
@@ -852,7 +852,7 @@ surgeon BRIDGEWATER (1) 1719/20; Surgeon at Vizagapatam 26 Jan 1721; Tesigned
 27 Jul 1721
 Ryland, Charles (c1748-)
 ‘it Seetlend), apprentice im comsting ims 4y; mate Jenny three voyages in West Indies trade 3y;
-ist mans £stzer beig tin West Indes meds ly Ga; master Cartigle privateer ly; 3rd mate Benson to
+st mans £stzer beig tin West Indes meds ly Ga; master Cartigle privateer ly; 3rd mate Benson to
 Jamaica 9m; mate Ann & Mary to the Baltic 6m; mate Atlantic from Jamaica 6m; 5th mate
 LONDON (13) 1779/80; 3rd mate WINTERTON 1781/2 (approved 4 Apr 1782, aged 34);
 1st mate LORD NORTH 1785/6, suspended at China; 1st mate WALPOLE (4) 1788/9; Capt
