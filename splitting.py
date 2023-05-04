@@ -5,14 +5,17 @@ from os import path
 import re
 
 dir = path.dirname(__file__)
-df_voyages_combined = pd.read_csv(path.join(dir, "combined/voyages.csv"), sep = ";")
+voyages_combined_df = pd.read_csv(path.join(dir, "combined/voyages.csv"), sep = ";")
 df_people_combined = pd.read_csv(path.join(dir, "combined/people.csv"), sep = ";")
 
 # Ships table
-# ship_id   tons    guns    crew    type    built_by    built_year  built_at    owner       info
-# ship_id   string  string  string  string  employee_id int         string      employee_id string
+# ship_id   tons    tons_min    tons_max    guns    guns_min    guns_max    crew    crew_min    crew_max
+# ship_id   int     int         int         int     int         int         int     int         int
+# 
+# type    built_by    built_year  built_at        owner       info
+# string  person_id   int         location_id     person_id   string
 
-df_ships = df_voyages_combined[["ship_id", "name", "info"]]
+df_ships = voyages_combined_df[["ship_id", "name", "info"]]
 
 def feature_getter(info, feature, min, max):
     result = info.split(feature)[0].strip().split(" ")[-1].strip("[\'")
@@ -92,21 +95,21 @@ print("Ships done")
 # voyage_id     ship    start   end     destination reference   captain
 # voyage_id     ship_id string  string  place_id    string      employee_id
 
-df_voyages_list = df_voyages_combined
-df_voyages_list.drop(["name", "info"], axis = 1, inplace = True)
+voyages_df_list = voyages_combined_df
+voyages_df_list.drop(["name", "info"], axis = 1, inplace = True)
 voyages_list = []
-for row in df_voyages_list.iterrows():
+for row in voyages_df_list.iterrows():
     for x in range(1, 10):
         voyage_id = "voyage_" + str(x)
         # Check if cell is not nan (notna doesn't work on strings)
         if type(row[1][voyage_id]) == str:
             voyages_list.append([row[1]["ship_id"], x, row[1][voyage_id]])
-df_voyages = pd.DataFrame(voyages_list)
-df_voyages.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "raw"}, inplace = True)
+voyages_df = pd.DataFrame(voyages_list)
+voyages_df.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "raw"}, inplace = True)
 def voyage_id_creator(row):
     voyage_id = row["ship_id"] + "v" + str(row["voyage_id"])
     return voyage_id
-df_voyages["voyage_id"] = df_voyages.apply(voyage_id_creator, axis = 1)
+voyages_df["voyage_id"] = voyages_df.apply(voyage_id_creator, axis = 1)
 
 def voyage_splitter(raw):
     start = "nan"
@@ -145,19 +148,19 @@ def voyage_splitter(raw):
             captain = "nan"
     return pd.Series([start, end, destination, captain, reference_string])
     #return captain
-df_voyages_expand = df_voyages["raw"].apply(voyage_splitter)
-df_voyages_expand.rename(columns = {0: "start", 1: "end", 2: "destination", 3: "captain", 4: "references"}, inplace = True)
-df_voyages = pd.concat([df_voyages, df_voyages_expand], axis = 1)
-df_voyages.to_csv(path.join(dir, "output/voyages.csv"), index = False, sep = ";", encoding = "utf-8")
+voyages_df_expand = voyages_df["raw"].apply(voyage_splitter)
+voyages_df_expand.rename(columns = {0: "start", 1: "end", 2: "destination", 3: "captain", 4: "references"}, inplace = True)
+voyages_df = pd.concat([voyages_df, voyages_df_expand], axis = 1)
+voyages_df.to_csv(path.join(dir, "output/voyages.csv"), index = False, sep = ";", encoding = "utf-8")
 print("Voyages done")
 
 # Calls table
-# ship_id   voyage_id   call_id     raw     year    month   day    place        special
-# ship_id   voyage_id   call_id     string  int     int     int    place_id     boolean    
+# ship_id   voyage_id   call_id     raw     year    month   day    location     special
+# ship_id   voyage_id   call_id     string  int     int     int    location_id  boolean    
 
 call_list = []
 # Go through all voyages
-for row in df_voyages.iterrows():
+for row in voyages_df.iterrows():
     # Get ship id and voyage id
     ship_id = row[1]["ship_id"]
     voyage_id = row[1]["voyage_id"]
@@ -202,7 +205,7 @@ for row in df_voyages.iterrows():
                         if char.isupper():
                             special = False
                 # If they write so much about it, it must be special somehow
-                if len(location) > 2:
+                if len(location) > 2 and location not in ["East India Dock", "Fort St David", "St Augustine's Bay", "Rio de Janeiro"]:
                     special = True
                 if location:
                     location = " ".join(location)
@@ -210,13 +213,13 @@ for row in df_voyages.iterrows():
                 else:
                     location = "nan"
                 call_list.append([ship_id, voyage_id, call_id, call, year, month, day, location, special])
-df_calls = pd.DataFrame(call_list)
-df_calls.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "call_id", 3: "raw", 4: "year", 5: "month", 6: "day", 7: "location", 8: "special"}, inplace = True)
+calls_df = pd.DataFrame(call_list)
+calls_df.rename(columns = {0: "ship_id", 1: "voyage_id", 2: "call_id", 3: "raw", 4: "year", 5: "month", 6: "day", 7: "location", 8: "special"}, inplace = True)
 def call_id_creator(row):
     call_id = row["voyage_id"] + "c" + str(row["call_id"])
     return call_id
-df_calls["call_id"] = df_calls.apply(call_id_creator, axis = 1)
-df_calls.to_csv(path.join(dir, "output/calls.csv"), index = False, sep = ";", encoding = "utf-8")
+calls_df["call_id"] = calls_df.apply(call_id_creator, axis = 1)
+calls_df.to_csv(path.join(dir, "output/calls.csv"), index = False, sep = ";", encoding = "utf-8")
 print("Calls done")
 
 # People table
@@ -369,10 +372,11 @@ jobs_df.to_csv(path.join(dir, "output/jobs.csv"), index = False, sep = ";", enco
 
 location_list = []
 locations_added_list = []
-for location in df_calls.loc[df_calls["special"] == False & df_calls["location"].notna()]["location"].tolist():
-    for string in ["off", "at", "left"]:
-        location = location.strip(string).strip()
+for location in calls_df.loc[calls_df["location"].notna()]["location"].tolist():
+    for string in [" off ", " at ", " left "]:
+        location = location.replace(string, "")
     location = re.sub(r"\([^()]*\)", "", location)
+    location = location.strip()
     if location not in locations_added_list:
         locations_added_list.append(location)
         location_list.append([location, "calls"])
@@ -380,10 +384,10 @@ for location in df_ships.loc[df_ships["built_at"].notna()]["built_at"].tolist():
     if location not in locations_added_list:
         locations_added_list.append(location)
         location_list.append([location, "ships_built_at"])
-for location in df_voyages.loc[df_voyages["destination"].notna()]["destination"].tolist():
+for location in voyages_df.loc[voyages_df["destination"].notna()]["destination"].tolist():
     location = location.strip("From").strip()
-    if "and" in location or "," in location or "&" in location:
-        location_split = re.split("and|,|&", location)
+    if " and " in location or "," in location or "&" in location:
+        location_split = re.split(" and |,|&", location)
         for location in location_split:
             location = location.strip()
             if location not in locations_added_list:
@@ -401,15 +405,12 @@ for location in df_people.loc[df_people["baptised_city"].notna()]["baptised_city
         locations_added_list.append(location)
         location_list.append([location, "people_baptised"])
 
-location_df = pd.DataFrame(location_list)
+locations_df = pd.DataFrame(location_list)
 def location_id_creator(index):
     location_id = "l" + str(index + 1)
     return location_id
-location_df["location_id"] = location_df.reset_index()["index"].apply(location_id_creator).drop(columns = ["index"])
-location_df.rename(columns = {0: "location", 1: "category"}, inplace = True)
-location_df = location_df[["location_id", "location", "category"]]
-location_df.to_csv(path.join(dir, "output/locations.csv"), index = False, sep = ";", encoding = "utf-8")
+locations_df["location_id"] = locations_df.reset_index()["index"].apply(location_id_creator).drop(columns = ["index"])
+locations_df.rename(columns = {0: "location", 1: "category"}, inplace = True)
+locations_df = locations_df[["location_id", "location", "category"]]
+locations_df.to_csv(path.join(dir, "output/locations.csv"), index = False, sep = ";", encoding = "utf-8")
 print("Locations done")
-
-# Fill in IDs for relevant features in all tables
-# XXXX

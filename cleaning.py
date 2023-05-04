@@ -98,7 +98,6 @@ def officer_clean(file_ocr):
             clean_line = clean_line.strip("’ ")
             clean_line = clean_line.replace("’", "\'")
             clean_line = clean_line.replace(":", ";")
-            clean_line = clean_line.replace("l", "1")
             clean_line = clean_line.replace("Ist", "1st")
             clean_line = clean_line.replace("Sth", "5th")
             clean_line = clean_line.replace("Sad", "2nd")
