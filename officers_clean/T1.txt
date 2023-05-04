@@ -138,8 +138,8 @@ CASTLEREAGH as 2nd mate 1 Jul 1816; Capt NORTHAMPTON (2) 1817/8
 Tebutt, Thomas
 4th mate ANN (1) 1811/2
 Tedd, John (-1758)
-oid matte HAAS LING IIE D 17356; Ind mats ROVAL GEORGE (1) 1328; lst mate Hy
-WILMINGTON 175940; Cast WILMINGTON 17402; Capt ILCENESTIER 1745/6, 1749/50, { ‘
+oid matte HAAS LING IIE D 17356; Ind mats ROVAL GEORGE (1) 1328; 1st mate Hy
+WILMINGTON 175940; Cast WILMINGTON 17402; Capt ILCENESTIER 1745/6, 1749/50,  ‘
 1753/4 & 1756/7; d 24 Jul 1758 H
 Tedd, John
 5th Mate LORD ANSON1759/60; 3rd mate THAMES (1) 1764/5
@@ -631,7 +631,7 @@ sungeon WAUROLE (4) L7S2S, 1985/6 & 1ISS; LORD MAWIESNUTRY 179041; tm 12 Jen
 1792
 Tryon, William (-1776)
 5th mate WINCHESTER 1742/3; 4th mate STAFFORD (1) 1746/7; 4th mate SANDWICH
-L7GS9, See imane TIREIRON (0) L9S0V1; lst amie WARRIEN 19534; Capt DENIAN 1758/9;
+L7GS9, See imane TIREIRON (0) L9S0V1; 1st amie WARRIEN 19534; Capt DENIAN 1758/9;
 Capt DEPTFORD (1) 1762/3, 1765/6, 1768/9 & 1770/1; Capt ANSON (3) 1773/4 homeward;
 d 25 Mar 1776 Kinsale
 Tuck, James Arthur
@@ -697,7 +697,7 @@ Turner, James
 Turner, James i.
 1st mate QUEEN CHARLOTTE 1788 hI
 Turner, John (-1712)
-purser DARTMOUTH 1710/1; d 4 Feb 1712 {
+purser DARTMOUTH 1710/1; d 4 Feb 1712
 Turner, John
 2nd mate SURPRISE (2) 1795 Wit
 Turner, John

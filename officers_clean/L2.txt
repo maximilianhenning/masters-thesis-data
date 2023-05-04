@@ -30,7 +30,7 @@ Lamb, George
 surgeon INDUS 1803/4, LORD MELVILLE (1) 1805/6, ASIA (4) 1807/8, PENANG 1810,
 LORD MIS VTIGULE (lp 181G/) & 18.973, PRINCE PEGUENT 1815/5; allie Benwal dest
 Surgeon 2 Jun 1818; transf to Nizam's Forces 31 Jul 1819
-Lamb, George {
+Lamb, George
 4th mate ANN (1) 1813/4, transf to COLDSTREAM; 3rd mate LORD KEITH 1815/6;
 2nd mate LORD KEITH 1817/8; 3rd mate PHOENIX (6) 1819/20
 Lamb, James
@@ -236,7 +236,7 @@ Lear, JG
 Learmont, John
 surgeon FRANCIS (2) 1792/3, LORD THURLOW 1794/5
 Learmouth, Charles
-lst mate SCALEBY CASTLE 1798 & 1802
+1st mate SCALEBY CASTLE 1798 & 1802
 Learmouth, William
 3rd mate NORTHAMPTON (2) 1800/1
 Leath, Thomas Rand (1788-)
@@ -500,7 +500,7 @@ Lister, John (-1802)
 } 19 Jon & lp 19 Jal 1R02 Se Marylenons, Londen, s af elon & Ann; surgeon's mate
 FARQUHARSON 1826/7; surgeon LOWTHER CASTLE 1828/9, ASIA (6) 1831/2
 Lister, Thomas
-lst mate ARCHDUKE CHARLES 1814
+1st mate ARCHDUKE CHARLES 1814
 Liston, Archibald (-1715)
 surgeon SUCCESS (3) 1710/1 (from 1 Sep 1711) & 1712/3; d 12 Nov 1715
 Little, Archibald (-1840)

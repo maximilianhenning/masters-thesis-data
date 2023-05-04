@@ -1,7 +1,7 @@
 Caddick, William
 4th mate DUKE OF YORK (1) 1728/9
 Cade, James
-lst mate PRESIDENT 1681/2
+1st mate PRESIDENT 1681/2
 Cade, Joseph
 purser LASCELLES 1791/2, ALFRED (2) 1793/4, HENRY ADDINGTON (1) 1796/7 &
 1799, CANTON 1799/1800
@@ -50,7 +50,7 @@ Cameron, Andrew
 6th mate VALENTINE (3) 1788/9
 Cameron, Ewen (1802-)
 b 25 Dec 1802 Drimnasallie, Argyle, s of John, Esq, & Catherine Cameron; surgeon's mate
-TOMAS COUMES 18278 & 1820/30; surges THOMAS COUTTS IS31f2
+TOMAS COUMES 1827/8 & 1820/30; surges THOMAS COUTTS IS31f2
 Cameron, Hugh (1775-1801)
 b 17 Jan 1775 Monmouth; midshipman MARQUIS OF LANSDOWN 1789/90; 6th mate SIR
 EDWARD HUGHES 1791/2; 2nd mate NANCY (2) 1793/4; 2nd mate BOYD 1794/5; 3rd mate
@@ -75,7 +75,7 @@ BRUNSWICK 1794/5; 5th mate BRUNSWICK 1797/8; 4th mate CERES (4) 1799/1800;
 Campbell, Alexander (-1752)
 3rd mate COLCHESTER (2) 1751/2; d 24 Sep 1752
 Campbell, Alexander (1773-)
-b 19 Jun 19773 Keilmos, Scotland; ceamam VALLIDNTIINE (@) 1786 ce 1787/8, home from
+b 12 Jun 1773 Keilmoe, Scotland; seaman VALENTINE (3) 1785/6 & 1787/8, home from
 Bombay as midshipman WINTERTON; 5th mate MIDDLESEX (2) 1791/2; 4th mate
 BUSBRIDGE 1795/6; 2nd mate LORD WALSINGHAM 1799/1800; 1st mate MANSHIP (2)
 1800/1; 1st mate UNITED KINGDOM 1801/2; Capt SOVEREIGN (2) 1805/6, 1807/8, 1809/10
@@ -120,8 +120,8 @@ am 17 Sep 1832 Campbeltown, Angyle, Sliza dau of Maj Robert Elder of Bealloch
 Campbell, John
 Capt BENGAL MERCHANT (3) 1832/3
 Campbell, John Eyton (1809-)
-b 22 May 1809 St Peter's pa, Dublin, oof ‘Dugald & Catherine, of beget St midshipman
-ORAS COUTES 18078; Gih mate TNOMAS COUTTS 1829/30; 4th mate DUCHESS OF
+b 22 May 1809 St Peter's pa, Dublin, s of Dugald & Catherine, of Baggot St; midshipman
+THOMAS COUTTS 1807/8; 6th mate THOMAS COUTTS 1829/30; 4th mate DUCHESS OF
 ATHOL 1831/2
 Candler, James
 purser LORD DUNCAN 1802/3, ADMIRAL GARDNER 1804/5; run 10 Jan 1806
@@ -170,30 +170,30 @@ Carleton, William
 Carling, J
 4th mate MORNINGTON 1800/1
 Carlisle, Nicholas
-purser ERP WATER @) 17SH4, 17855 1797/8
+purser BRIDGEWATER (3) 1793/4, 1795/6 1797/8
 Carlisle, William
-songson MUDDILMESES ©) 1720/1; Surgeon at St Helena 18 Mar 1723; resigned 9 Jul 1723
+surgeon MIDDLESEX (1) 1720/1; Surgeon at St Helena 18 Mar 1723; resigned 9 Jul 1723
 Carmichael, Andrew
 anggson CRONGIANA Gp 1795/6
 Carmichael, John (-1762)
 purser FOX (1) 1760/1; d 12 Jun 1762
 Carmichael, Robert (c1760-1786)
 b dn Seatlant; apprentice im exsting tacks 4y, pnts in. Row Navy 29; mate in West Indies trade
-Sy; master in Jamas texde Ty Ou {fa mate ESS BOROUGH 1785/6 (approved 22 Mar 1786,
+Sy; master in Jamas texde Ty Ou fa mate ESS BOROUGH 1785/6 (approved 22 Mar 1786,
 aged 26); d 21 Jun 1786
 Carmichael, Thomas
 surgeon SWIFT 1742/3
 Carmick, William
 2nd mate CANADA 1811
 Carnall, Samuel
-Gh mate ROVAL CARIAIN (1) 176018 & 1769/70, run 29 Jul 1770
+6th mate ROYAL CAPTAIN (1) 1767/8 & 1769/70; run 29 Jul 1770
 Carne, John
 purser NATHANIEL (2) 1700/1 & 1704/5
 Carne, Thomas
 purser AISLABIE 1727/8; 5th mate AISLABIE 1730/1; purser GEORGE (3) 1733/4,
 HAESLINGFIELD 1735/6, SHAFTESBURY (1) 1738/9 & 1741/2
 Carneck, George
-onl mate RISING BAGIUE LvO0%L
+2nd mate RISING EAGLE 1700/1
 Carnegie, Alexander (1743-1806)
 b 1743; surgeon's mate DEVONSHIRE (2) 1765/6; surgeon NOTTINGHAM (2) 1768/9;
 Bengal Asst Surgeon 22 Dec 1772; resigned 27 Mar 1775, re-admitted; Surgeon 2 Mar 1780;
@@ -215,8 +215,8 @@ Carr, Robert
 VANSITTART (2) 1763/4; 1st mate LORD HOLLAND (1) 1766/7; Capt GREENWICH (2)
 1769/70, 1771/2 & 1775/6, Capt BARWELL 1782/3 & 1784/5
 Carr, Robert Gibbons (1807-)
-b2 Ox & bap § Nov 1905 St Leonst's, Blythe, Rent, sof Wiltenn & Elizabeth; midshipman
-ORWELL ISS6 & ISD7A; 4th mate ANN & AMIBLIG (8) 12850
+b 2 Oct & bap 8 Nov 1805 St Leonard's, Hythe, kent, s of William & Elizabeth; midshipman
+ORWELL 1825/6 & 1827/8; 4th mate ANN & AMELIA (3) 1829/30
 Carr, Thomas (c1760-)
 sexnen in Greenland tads Io; apprentice in Jamaica trade 4y; mvidshipaan (900) & mate (3y) in
 Royall Newy; Let suete it Jametien teade Ty Jim; Ord untae HILLSBOROUGH (2) 1785/6
@@ -257,13 +257,12 @@ purser ROSE (1) 1619
 Carter, Roger
 Capt DARTMOUTH 1717/8 & 1720/1
 Carter, Thomas (1780-1827)
-b 17 Feb & bap 5 Apr 1780 St Saviour's, Southwark, London, s of James, attorney, & Susanna,
+b 17 Feb & bap 5 Apr 1780 St Saviour's, Southwark, London, s of James, attorney, & Susanna;
 midshipman WOODCOT 1792/3 & 1794/5; 6th mate RAYMOND 1796/7 home from Bombay
-fu RIQLAVININIERTE; th; mate MIA WISE (S) 1800715 3rd mate UNITED KINGDOM 1801/2;
-2nd mate UNITED KINGDOM 1803/4; d in Australia 1827; wid Dorothea petitioned Poplar
-Fund 1829
+n BELVEDERE; 4th mate HAWKE (5) 1800/1; 3rd mate UNITED KINGDOM 1801/2;
+2nd mate UNITED KINGDOM 1803/4; d in Australia 1827; wid Dorothea petitioned Poplar Fund 1829
 Carter, William (1789-1818)
-‘bop 14 Aug 1799 Mt John the Baptist, Seuthover, Sussex, s of William & Mary; midshipman
+bap 14 Aug 1799 Mt John the Baptist, Seuthover, Sussex, s of William & Mary; midshipman
 DORSETSHIRE 1804/5; midshipman AIRLY CASTLE 1806/7; 6th mate PRINCESS
 ADORE @) 19S; 4th mate PRINCESS AMELIA (4) 1810/1 & 1814/5; 3rd mate
 PRINCESS AMELIA (4) 1815/6; 2nd mate PHOENIX (5) 1817/8; drowned 6 Sep 1818
@@ -307,8 +306,8 @@ Capt IENID @) MOD; 49 Aug 1801
 Cattley, Francis (1798-)
 b 20 May & bap 19 Jun 1798 St Giles, Camberwell, Surrey, s of Stephen & Ann Isabella;
 apprentice to Lisbon 6m; midshipman THAMES (2) 1813/4; 5th mate WEXFORD 1815/6;
-Ath mate WANN HASTINGS @) 18178; 3rd mate ORWELL 1819/20; 2nd mate
-WARREN HASTINGS €) lez
+4th mate WARREN HASTINGS (3) 1817/8; 3rd mate ORWELL 1819/20; 2nd mate
+WARREN HASTINGS (3) 1821/2
 Caudmore, M
 surgeon EARL OF MORNINGTON 1803
 Caulfield, James (1766-)
@@ -336,7 +335,7 @@ surgeon ROSE (2) 1796/7, HENRY ADDINGTON (1) 1798/9, WOODFORD (1) 1798/9;
 Mattas Asst Surgeon 3 Int 1897; 4 3 Jan 1821 Palamcottah
 active service at capture of Bomion 1510
 Chalmers, John
-surgeon ANN (1) 18067
+surgeon ANN (1) 1806/7
 Chaloner, Charles (1779-1805)
 t LORD MACARTNEY 1793/4; 6th mate
 b 1? Appr 1779 Guisborough, Yorks; Capt's servant
@@ -358,7 +357,7 @@ Chamberlain, Martin
 Chambers, Charles (c1745-)
 b in England seaman PLASSEY 176
 West Indies ly 6m; 2nd mate Queen
-4th mate HUNTINGDON 1768/9; 3rd mate EIUNTETGDON 17723 Gpproved 25 Oct 1772,
+4th mate HUNTINGDON 1768/9; 3rd mate HUNTINGDON 1772/3 (approved 25 Oct 1772,
 aged 27); 2nd mate ROYAL GEORGE (3) 1777/8 & 1779/80; 1st mate MONTAGU (4)
 1781/2; 1st mate EARL OF CHESTERFIELD 1786/7 & 1788/9; 1st mate WINTERTON
 1791/2
@@ -445,7 +444,7 @@ midshipman EARL OF BALCARRAS ISI7A & 1819/20; midshipman LONDON (14) 1821/2;
 ARE. Of BATLCAIRAS 1827/8; 5th mate GEORGE THE FOURTH 1829/30; 4th mate
 CEORGE THE FOURIER 1831/2
 Checkley, John
-lst mate DISCOVERY 1636-37
+1st mate DISCOVERY 1636-37
 Cheere, John
 surgeon RESOLUTION (3) 1769/70, DUKE OF CUMBERLAND (3) 1775/6
 Cheere, Thomas
@@ -476,38 +475,34 @@ Chissell, James
 Chitton, Richard
 5th mate COLCHESTER (2) 1751/2
 Chitton, Richard
-lst mate BARROSA 1831/2
+1st mate BARROSA 1831/2
 Chitty, David
 purser CLINTON 1752/3
 Chivers, John (-1749)
 6th mate TAVISTOCK (2) 1748/9; d 27 Oct 1749 Calcutta
 Chivers, Peter (-1769)
-Chivers, Samuel (c1771-)
-seaman & matte to West Indies lay, 5th
-Cholmondeley, Francis (1774-)
-Cholmondeley, Henry (-1737)
-Chowne, James (-1765)
-5th mate HORSENDEN 1764/5; d 25
-Chrisp, James (c1766-)
-Christian, Charles
-surgeon MIDDLESEX (2) 1785/6
-Christian, Edward
-purser DRAGON se Capt HOSIAND!
-b cl766 Lilley nr Hitchin, Herts, seaman in coasting trade 2y;
-1781/2 & 1784/5; 4th mate MARS 1785/6; 3rd mate HARTWELL 1786/7; 1st mate BOYD
-1794/5; 1st mate PRINCESS CHARLOTTE (1) 1797/8; 1st mate HERCULEAN 1801/2
 5th mate PIGOT (1) 1768/9; d 27 Feb 1769
-mate GOOD HOPE (3) 1795/6; 3rd mate EARL
+Chivers, Samuel (c1771-)
+seaman & matte to West Indies lay, 5th mate GOOD HOPE (3) 1795/6; 3rd mate EARL
 HOWE 1797/8; mate to West Indies 3y; 1st mate EXPERIMENT (4) 1803/4; 1st mate
-AENISTON 10516 (@ppaoved 4 Feb 1806, aged 34), petitioned poplar Fund 1817
+AENISTON 10516 (@ppaoved 4 Feb 1806, aged 34); petitioned poplar Fund 1817
+LADY BURGES 1801/2, transf to CALEDONIA 1 Sep 1802
+Cholmondeley, Francis (1774-)
 b 30 Nov 1774 & bap 14 Feb 1775 Whitegate, Cheshire, s of Thomas, Esq, & Dorothy; seaman
 ROYAL ADMIRAL (1) 1789/90; midshipman DUKE OF BUCCLEUGH (1) 1791/2, home
 from Bombay as 6th mate ROYAL ADMIRAL (1); 3rd mate ALFRED (2) 1795/6; 3rd mate
-LADY BURGES 1801/2, transf to CALEDONIA 1 Sep 1802
+Cholmondeley, Henry (-1737)
 4th mate MONTAGU (3) 1736/7; d 30 May 1737
-Aug 1765
-midshipman GENERAL COOTE
-ER 1611/2; Capt GLOBE 1612
+Chowne, James (-1765)
+5th mate HORSENDEN 1764/5; d 25
+Chrisp, James (c1766-)
+b l766 Lilley nr Hitchin, Herts, seaman in coasting trade 2y; midshipman GENERAL COOTE
+1781/2 & 1784/5; 4th mate MARS 1785/6; 3rd mate HARTWELL 1786/7; 1st mate BOYD
+1794/5; 1st mate PRINCESS CHARLOTTE (1) 1797/8; 1st mate HERCULEAN 1801/2
+Christian, Charles
+surgeon MIDDLESEX (2) 1785/6
+Christian, Edward
+purser DRAGON & Capt HOSIANDER 1611/2; Capt GLOBE 1612
 Chrystie, Alexander (1787-)
 b 29 Dec 1787 Newburn, Fife; seaman in Baltic trade ly; midshipman ARNISTON 1803/4;
 midshipman ARNISTON 1805/6; 4th mate LORD CASTLEREAGH (1) 1807/8; 3rd mate
@@ -553,10 +548,10 @@ Clark, Richard (-1740)
 3rd mate LONDON (8) 1734/5; 1st mate PRINCESS LOUISA 1736/7, 1st mate BRITANNIA
 (1) 1738/9; d 8 Aug 1740
 Clark, Robert (1767-)
-17 Jun 1967 Rivkeutbright, s of Janes, sumgeom, & Iecbel Nasmyth; seaman Queen in Jamaica
+17 Jun 1967 Rivkeutbright, s of Janes, sumgeom, & Iecbel Nasmyth; seaman Queen in Jamaica;
 trade 1782-83 ly 3m; seaman & 3rd mate Augustus Caesar in Jamaica trade 1784-87 3y 9m;
-5th mate TRITON (3) 1787/8; 4th mate TRITON (3) 1789/90; 3rd mate NOTTINGHAM (4)
-17912 1st may CARNATIC (@) 1790/6 & 170516
+5th mate TRITON (3) 1787/8; 4th mate TRITON (3) 1789/90; 3rd mate NOTTINGHAM (4);
+1791/2 1st mate CARNATIC (2) 1793/4 & 1795/6
 Clark, Thomas
 Capt SAMARITAN (2) 1658/9
 Clark, Thomas (-1725)
@@ -647,7 +642,7 @@ TFPI; 5th mate ENT G) L7PD0/1; ch mats KENT (5) 1792/3; 2nd mate CIRENCESTER
 Cleland, Guthrie (1775-)
 bb 19 Apr 1775 Ecinbargh, apprentice in Adery of Groenocks Jy; midsipinan MELVILLE
 SASTILUE S34; Att mate EAINL OF WYCONTEE 1795/6; 3rd mate EARL OF WYCOMBE
-TOG, Indl sete PATIL IOWTE W800; lst mae LORD DUNCAN 1802/3
+TOG, Indl sete PATIL IOWTE W800; 1st mae LORD DUNCAN 1802/3
 Cleland, Robert (-1790)
 5th mate SIR EDWARD HUGHES 1789/90; d 14 Dec 1790
 Cleland, Walter (1785-)
@@ -664,7 +659,7 @@ Lord Metvilie wibexte chip w Madras and Bengal 1816; 1st mate PERSEVERANCE (2) 1
 1st mate ASIA (6) 1819/20; 1st mate BOMBAY (3) 1822/3; 1824/5 & 1826/7; 1st mate
 VANSITTART (4) 1828/9 & 1830/1; 1st mate THAMES (5) 1832/3
 Clement, Richard (-1735)
-Ae meats GODOLDRIN (@) 173405; dS Oxt 179
+Ae meats GODOLPHIN (2) 1734/5; d 5 Oct 1795
 Clements, John (-1721)
 4th mate ADDISON 1717/8; 2nd mate STREATHAM (2) 1720/1; d 30 Jul 1721
 Clements, John
@@ -763,21 +758,20 @@ Cock, Daniel (-1745)
 Cock, Daniel
 surgeon EUROPA (1) 1769/70
 Coghill, Daniel
+1st mate ALIBION (4) 1820/1
 Coghlan, Robert (c1759-)
-st mate ALIBION @) 182071
 b in England, Capt's servant EAGLE (6) 1776/7; 5th mate MIDDLESEX (2) 1783/4; 3rd mate
-SOLDVAN 17856 Gpproved 1S Ser 1785, aged 26)
+SULLIVAN 1785/6 (approved 18 nov 1785, aged 26)
 Coker, Thomas
 5dq mate EASTCOURT 1760"), 4th mate MONTFORT 1752/3; 3rd mate GODOLPHIN (3)
 1755/6; 3rd mate CHESTERFIELD 1758/9
 Colby, Thomas
 1st mate MARIA 1804
 Colclough, Thomas
-dnd mate PROC SORAETIS 1826/7
+2nd mate BROXBORNEBURY 1826/7
 Cole, Alexander (-1604)
-master ASCENSION and
+master ASCENSION and HECTOR 1600/1; master HECTOR 1603/4; drowned Aug 1604
 Cape
-HECTOR 1600/1; master HECTOR 1603/4; drowned Aug 1604
 Cole, Daniel
 5th mats DAMTES & MARAE) 1723/4
 Cole, George
@@ -798,15 +792,14 @@ AMELIA (4) 1808/9; 4th mate DORSETSHIRE 1810/1
 Cole, John Richard
 5th mate GLATTON (4) 1795/6
 Cole, Joseph
-midshipman PHOENIX (3) 1799/1800; purser GAN
+midshipman PHOENIX (3) 1799/1800; purser GANGES (3) 1802/3, CANTON 1803/4,
 GANGES (3) 1804/5, EUROPE (2) 1810/1
-GIES @) 19048, CARTON 1803/4,
 Cole, Richard
 1st mate JAMES SIBBALD 1819/20 & 124s; Capt JAMES SUEIBATD 1827/8
 Cole, Robert C
 surgeon PRINCESS CHARLOTTE OF WALES 18 14/5
 Colledge, Thomas Richardson
-surgeon GENERAL TLRS 1S20vl & 10234, SIRERCROMGLE ROBINSON 1825/6
+surgeon GENERAL HARRIS 1820/1 & 1823/4, ABERCROMBIE ROBINSON 1825/6
 Collen, Henry G
 6th mate GENERAL HEWETT 1821/2; 5th mate GENERAL HEWETT 1823/4
 Collens, William
@@ -966,19 +959,19 @@ Cook, Edward
 Capt SCIPIO AFRICANUS 1675/6 & 1680/1
 Cook or Cooke, James
 Capt EAST INDIA MERCHANT (2) 1676/7; Capt ANNE (2) 1678/9; Capt GOLDEN
-FLEECE @) L680! & 1esais; Cape JOROES & MARY (i) 168677
+FLEECE (2) 1680/1 & 1682/3; Capt JAMES & MARY (1) 1686/7
 Cook, John
-In wate SECVRIEORNE CL) Oa 0
+2nd mate SHERBORNE (1) 1709/10
 Cook or Cooke, John (-1740)
 5th mate LYELL (1) 1729/30, 3rd mate ENFIELD 1731/2; 2nd mate PRINCESS LOUISA
-1798/4; 1st cute LAGSIUINCLELD 1735/6; Capt HAESLINGFIELD 1738/9; d 25 Nov 1740
+1798/4; 1st mate HAESLINGSFIELD 1735/6; Capt HAESLINGFIELD 1738/9; d 25 Nov 1740
 Cook or Cooke, John
 6th mate YORK (1) 1740/1; 4th mate HARDWICKE (1) 1742/3; 2nd mate PRINCESS OF
 WALES 1746/7
 Cooke, Thomas
-surgeon. GECRGIANA Gp 18020
+surgeon GEORGIANA 1809/10
 Cooke, William
-5th mate DISCNER 17367; 4th mate DUKE OF LORRAINE 1738/9; 2nd mate QUEEN
+5th mate DECKER 1736/7; 4th mate DUKE OF LORRAINE 1738/9; 2nd mate QUEEN
 CAROLINE 1744/5; 1st mate OXFORD 1746/7 & 1751/2; Capt ADMIRAL WATSON 1757/8
 Cooke, William (-1815)
 eungeom ONE T (i) 1760/1; Benge, Asst Surgeon 10 Mar
@@ -1057,8 +1050,7 @@ surgeon SIR ILIA BURROUGHS 1812
 Corbyn, Joseph
 Capt SHERBORNE (2) 1832/3
 Corderoy, John
-EF CUMBERLAND (3) 1775/6, COLEBROOKE 1777/8,
-purser HAWKE (8) 17728, DUINE ©
+purser HAWKE (3) 1772/3, DUKE OF CUMBERLAND (3) 1775/6, COLEBROOKE 1777/8,
 EARL OF CHESTERFIELD 1780/1, KING GEORGE (4) 1786/7, EARL OF WYCOMBE
 1789/9
 Cornish, Samuel
@@ -1104,7 +1096,7 @@ surgeon LAPWING (lp 1743%; 6 27 Jul 1744
 Vizagapatam 1696;
 Court, Dennet (-1778)
 surgeon PRINCE OF WALES (4) 1765/6, SPEKE 1770/1, EUROPE (1) 1772/3, NASSAU (3)
-197546, CSUMURLEN () 177778; d 16 Sep 1778 Catcata.
+1775/6, OSTERLEY (2) 1777/8; d 16 Sep 1778 Calcutta.
 Court, George
 Ate teute DUAN OVIR W7IGE; let aate TAINOWINE L712 de 1721/2
 Court, Jonathan
@@ -1113,8 +1105,8 @@ HOLDERNESS 1754/5; 1st mate PRINCE OF WALES (3) 1757/8, Capt PRINCE OF
 WALES (3) 1761/2; Capt PRINCE OF WALES (4) 1765/6, 1768/9, 1771/2 & 1775/6;
 Capt FOX (3) 1780/1; Capt KING GEORGE (4) 1784/5
 Court, Matthew
-Sta mate EYILES 17212; Sud monte LISS 1PASS & 1728, 2nd mate EYLES 1731/2;
-One aets PLINCE OF ORANGE (il) 1734/5; let mate MEICAS ULE 1736/7; 1st mate
+4th mate EYLES 1721/2; 3rd mate EYLES 1724/5 & 1728/9; 2nd mate EYLES 1731/2;
+2nd mate PRINCE OF ORANGE (1) 1734/5; 1st mate NEWCASTLE 1736/7; 1st mate
 DURRINGTON 1739/40; Capt CAESAR (4) 1743/4, 1746/7 & 1750/1, Capt EARL OF
 HOLDERNESS 1754/5
 Court, Matthew
@@ -1168,9 +1160,9 @@ Cowley, Robert
 Capt EAST INDIA RIBRCHANT @) 1670/1, 16v2i & 1674/5; Capt SUCCESS (1) 1678/9 &
 1680/1
 Cowley, William
-purser & 3rd mate PRINCESS MATL? @) 17006
+purser & 3rd mate PRINCESS MARY (2) 1795/6
 Cowling, John (1768-)
-b31 Mar & bap 24 Apr 1768 St Leonard's Shoreditch, London, s of William & Sarah; Capt's
+b 31 Mar & bap 24 Apr 1768 St Leonard's Shoreditch, London, s of William & Sarah; Capt's
 servant in Royal Navy 3y; midshipman ESSEX (4) 1784/5; midshipman HAWKE (5) 1786/7;
 6th mate WARLEY (1) 1788/9; 4th mate RAYMOND 1790/1
 Cowling, William
@@ -1245,7 +1237,7 @@ Cranch, Joseph
 Crane, Samuel
 surgeon PRINCESS OF WALES (1) 1726/7
 Crane, Simon
-surgeon SUNDIESLAND 1720/1, BARRINGTON 17224, FORDWICH 1724/5
+surgeon SUNDERLAND 1720/1, BARRINGTON 1722/3, FORDWICH 1724/5
 Cranston, Andrew (1746-1776)
 b 1746; surgeon OUT IUIM IRA Gp PGT, Bengal Asst Sucgen Ost 1769; Ensign,
 Bengal Anuy $ Oct 1709; Lieutenant 22 Mar 1773; d 5 Sep 1776 Berhampore
@@ -1280,8 +1272,8 @@ aica; 1st mate Justina to Jamaica 9m; 2nd mate
 Creighton, George CSS}
 b 25 Oct 1798 Gomalty, Bengal; midshipman EARL OF BALCARRAS 1815/6;
 5th mate BUCKINGHAMSHIRE 1817/8 & 1819/20; 4th mate CANNING 1821/2; 3rd mate
-GOERAL MONET 18234; oe mets CRORES THIS MOURN W25%6, Sod mrete
-CANNING 1827/8 & 1829/30; 2nd mate CANNING 1831/2 A
+GENERAL HEWETT 1823/4; 3rd mate GEORGE THE FOURTH 1825/6; 3rd mate
+CANNING 1827/8 & 1829/30; 2nd mate CANNING 1831/2
 Creighton, Mungo
 2nd mate MARQUIS OF ROCKINGHAM (1) 1768/9
 Creighton, Thomas
@@ -1294,7 +1286,7 @@ Cressett, James
 Cressy, John
 1st mate MOIRA 1830/1
 Cresswell, Francis (1789-)
-{ b DD Cet & bap 18 Woy 1722 Chaviten, Kent, sof Fremels & iiamess Dorotiy Easterby;
+b DD Cet & bap 18 Woy 1722 Chaviten, Kent, sof Fremels & iiamess Dorotiy Easterby;
 midshipman THAMES (2) 1805/6; 6th mate EARL ST VINCENT (1) 1807/8; 4th mate
 EARL CAMDEN 1809/10; 3rd mate THAMES (2) 1811/2; 1st mate THAMES (2) 1813/4;
 Capt ASTELL 1815/6, 1817/8 & 1819/20
@@ -1318,8 +1310,8 @@ Crichton, James (1779-)
 b 2 May 1779 Dalkeith, Midlothian, s of David, merchant, & Katharine Hay; seaman in coasting
 trade 3m; Capt's servant LASCELLES 1795/6; 6th mate HINDOSTAN (2) 1798/9; 4th mate
 HINDOSTAN (2) 1800/1; 3rd mate HINDOSTAN (2) 1802/3; 3rd mate DORSETSHIRE
-1802/3; 2nd mate PHOENIX (5) (R04 /5; 1st mate CANTON 160005; lat mas INGLIS 1811 &
-12198; Cant LOND LYNDOCH 1815/6
+1802/3; 2nd mate PHOENIX (5) 1804/5; 1st mate CANTON 1807/8; 1st mate INGLIS 1811 &
+1812/3; Cant LORD LYNDOCH 1815/6
 Croft, Ralph (-1614)
 qeuser OSIANDGE 1622; G28 Jan 1614
 Croft, Ralph
@@ -1329,7 +1321,7 @@ Capt MOFFAT 1831/2
 Crombie, Patrick
 2nd mate MARLBOROUGH (5) 1745/6 & 1748/9; 1st mate MARLBOROUGH (5) 1752/3
 Crook, Charles
-Sie aunts WARREN HOSTINGS (0) 199822, mat 15 S66 1794
+5th mate WARREN HASTINGS (1) 1792/3, run 15 Feb 1794
 Crook, John (c1756-)
 one voyaws to Indy midshipman OF cle 1770 midebipmen LORD CAMIBIEN Cl) 1775/6;
 midshipman COLEBROOKE 1777/8, transf to STAFFORD (2), home as
@@ -1345,10 +1337,10 @@ Cross, Charles
 3rd mate WALPOLE (3) 1758/9
 Cross, George (c1748-)
 b in England; midshipman & mate in Royal Navy 6y 6m; 2nd mate in West Indies trade 3y;
-aniistnigrun GODIN RIEY? (2) 777/400 mate GODEREY ©) I77OM0 (appacved 14 vor vad,
-aged 22); 2e¢ mate LOCKO 196071
+midshipman GODFREY (2) 1777/8; 4th mate GODFREY (2) 1779/80 (approved 14 Apr 1780,
+aged 32); 3rd mate LOCKO 1780/1
 Cross, Henry (-1749)
-2rd nets RIBATIENCOIEE @) 176607; One matte IRITTANINLAS (2) 1748/9; d3 Apr 1749
+3rd mate HEATHCOTE (4) 1746/7; 2nd mate BRITANNIA (2) 1748/9; d 3 Apr 1749
 Cross, James
 4th mate HEATHCOTE (3) 1742/3
 Cross, John
@@ -1411,8 +1403,8 @@ CASTLE 1824/5, 1826/7 & 1828/9; MARQUIS OF HUNTLY 1830/1 & 1832/3
 Cullen, William
 3rd mate WALTER BOYD 1795/6, run 28 Aug 1797
 Cullidon, John (c1760-)
-bin Irekucl eqorentios London im eoesiing made oy; uidehipmen COLEBROOKE 1777/8;
-udghiganen OWA ADMIRAL Gp 177778, from the Cape; 2nd mate Pallas to West Indies ly
+b in Ireland; apprentice London in coasting trade 5y; midshipman COLEBROOKE 1777/8;
+midshipman ROYAL ADMIRAL (1) 1777/8, from the Cape; 2nd mate Pallas to West Indies 1y
 5m; 4th mate NOTTINGHAM (3) 1781/2 (approved 28 Sep 1781, aged 21)
 Cullison, James
 purser HAMPSHIRE (1) 1704/5
@@ -1420,7 +1412,7 @@ Cullum, Henry
 3rd mate MINERVA (4) 1800/1
 Culpeck, John (-1737)
 2nd mate STANHOPE 1725/6; 3rd mate DAWSONNE 1729/30, 2nd mate BRITANNIA (1)
-172073; let mate DULCE CF CUMIEENLAND (1D 17545; 1st mats GRAFTON 1736/7, ship
+1732/3; let mate DULCE CF CUMIEENLAND (1D 17545; 1st mate GRAFTON 1736/7, ship
 lost c30 Sep 1737
 Cumberland, Simon
 Capt SAMUEL & MARY 1674/5
@@ -1482,7 +1474,7 @@ Cunningham, James
 Cunningham, John
 5th mate TRUE BRITON (4) 1795/6
 Cunningham, Ninian (-1754)
-list mace WAGER @) 174008; ‘it nate STATES SUIS (2) 1749/50; 1st mate HARCOURT
+1st mate WAGER (2) 1747/8; 1st mate SHAFTESBURY (2) 1749/50; 1st mate HARCOURT
 (1) 1752/3; d 22 Feb 1754
 Curtis, George Jewell (1798-)
 bap 7 Dec 1798 Holy Trinity, Dorchester, s of Thomas & Susanne; 6th mate SCALEBY
@@ -1499,12 +1491,12 @@ master LION and PEPPERCORN 1614/5
 Curtis, John F
 purser ORIENT 1830/1
 Curtis, Richard (c1761-)
-b in England; seaman & 2nd mate in American trade 3y; Ind mate Sally im dvnecican ads 2y,
-midighipmam & matte MIMS Nonsmeve Sy, Sh, mute LASCULLES 178242; 4th mate LASCEUUES
+b in England; seaman & 2nd mate in American trade 3y; 2nd mate Sally in American trade 2y;
+midshipman & mate HMS Nonsuch 3y; 5th mate LASCELLES 1782/3; 4th mate LASCELLES
 1784/5 (approved 11 Feb 1785, aged 23); 2nd mate LASCELLES 1786/7 & 1788/9; 3rd mate
 HENRY ADDINGTON (1) 1795/6
 Curtis, Timothy
-bin England; widstuipanen QUAY OF LONDON 1806/7; midshipman in Royal Navy 7y;
+b in England; midshipman CITY OF LONDON 1806/7; midshipman in Royal Navy 7y;
 3rd mate DAVID SCOTT (1) 1814/5; 2nd mate HUDDART 1816/7; 2nd mate MARQUIS
 CAMDEN 1818/9
 Curtis, William
@@ -1520,9 +1512,9 @@ Cush, Thomas (-1769)
 6th mate NEPTUNE (3) 1762/3; 4th mate ROYAL CHARLOTTE (1) 1764/5; 3rd mate
 POWAL CHIARILOTINE (2p LFSYD; @ 18 Cet Teo
 Cute, John
-Sal mate IOWA CRORES () 17780
+3rd mate ROYAL GEORGE (3) 1779/80
 Cuth, Thomas
 1st mate BANGALORE 1796
 Cuthbert, Charles William (1807-)
-bi Dec 1807 Nowtollk, Vinginixg midshipman ROMS Co) Mae; midshipman DUNIRA 1825/6,
+b 14 Dec 1807 Norfolk, Virginia; midshipman ROSE (4) 1823/4; midshipman DUNIRA 1825/6;
 5th mate DUNIRA 1827/8 & 1829/30; 4th mate DUNIRA 1831/2

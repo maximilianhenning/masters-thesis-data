@@ -71,7 +71,7 @@ privateer 6m; 4th mate Experiment to Boteny Bay ly Sm; 4th alieer tn an American
 3rd mate RETREAT 1806/7; 3rd mate METCALFE 1808/9; 1st mate RETREAT 1810/1
 Hale, Roger
 4th mate NEW GEORGE 1708/9; 4th mate HANOVER 1712/3; 2nd mate STRINGER 1715/6;
-lst mate HEATHCOTE (2) 1720/1 & 1723/4; 1st mate PRINCE WILLIAM (1) 1726/7 &
+1st mate HEATHCOTE (2) 1720/1 & 1723/4; 1st mate PRINCE WILLIAM (1) 1726/7 &
 1729/30; 1st mate GRANTHAM (2) 173 1/2; Capt GRANTHAM (2) 1735/6, 1738/9 & 1741/2
 Hales, James
 purser HOUGHTON (3) 1758/9 & 1761/2
@@ -155,7 +155,7 @@ GOOD HOPE (3) 1795/6, midshipman OSTERLEY (3) 1797/8; 5th mate TRUE BRITON (4)
 MELVILLE (1) 1805/6
 Hallett, William Hughes (1812-)
 b 29 Jn & bap 10 Aug 1812 eudge, ‘Kent, s of Rev Charles Hmgnes, vieat, & Frances Anne
-{sumame Halen adooed 10291; nntdshipman PRINCE REGENT 1827/8; 6th mate CASTLE
+sumame Halen adooed 10291; nntdshipman PRINCE REGENT 1827/8; 6th mate CASTLE
 HUNTLEY 1829/30; 5th mate BERWICKSHIRE 1831/2
 Hallewell, John
 Capt ULL county shop 1674-77, Capt RECOVERY country ship 1681-82, mate SUSANNA
@@ -204,7 +204,7 @@ Hamilton, John
 Hamilton, John
 6th mate WALPOLE (3) 1752/3
 Hamilton, John (1764-)
-9 Beh 1764 Callsticldl, Agushive; unidshipmam BIS Onion ly; midshipman HASTINGS (1)
+9 Beh 1764 Cal1sticldl, Agushive; unidshipmam BIS Onion ly; midshipman HASTINGS (1)
 1780/1; 4th mate BESSBOROUGH 1782/3; 2nd mate BESSBOROUGH 1785/6; 2nd mate
 HINDOSTAN (1) 1792/3; Capt BOMBAY CASTLE (2) 1794/5, 1797/8 & 1799/1800
 Hamilton, William
@@ -1126,7 +1126,7 @@ DUKE 1759/60; Capt POCOCK 1762/3, Capt GREENWICH (2) 1766/7
 Hooke, Walter
 Capt PORTOBELLO (2) 1746
 Hooper, Charles
-lst mate DART 1794/5; Capt AMAZON 1796/7 (from 9 Mar 1797); Capt BETSY 1800/1
+1st mate DART 1794/5; Capt AMAZON 1796/7 (from 9 Mar 1797); Capt BETSY 1800/1
 Hooper, Francis
 5th mate PRINCESS ROYAL (3) 1789/90
 Hooper, George (cl1759-)

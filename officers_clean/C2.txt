@@ -18,7 +18,7 @@ Callaghan, William
 purser GROSVENOR (2) 1777/8
 Callender, Kenneth
 surgeon ROYAL ADMIRAL (1) 1793/4
-Calston, John
+Ca1ston, John
 4th mate SKELTON CASTLE 1803/4
 Calvely, George Thomas (1796-1827)
 b 25 Aug 1796 & bap 30 Jul 1799 Christleton, Cheshire, s of John & Margaret; 5th mate
@@ -720,7 +720,7 @@ MIELVILILE CASTILE 1788/9; midshipman PEIOENDS (3) 1790/1; 4th mate HAWKE (5)
 Cockburn, James
 surgeon WINDHAM (1) 1728/9, HEATHCOTE (3) 1732/3
 Cockburn, John
-lst mate BENGAL MERCHANT (2) 1700/1
+1st mate BENGAL MERCHANT (2) 1700/1
 Cockburn, William
 4th mate PRINCESS ROYAL (5) 1797
 Cockerill, Fortescue Pierrepoint (1798-)
@@ -749,7 +749,7 @@ Cole, Thomas (c1752-)
 Cont's servant SPEINE 176e/, midshipman STAGE 1770/1; Sine mate Camberwell to Lisbon
 2m; 4th mate SPEKE 1773/4 (approved 11 Nov 1773, aged 21)
 Cole, William (-1740)
-Soh mate PRINCE Of WAULIES (ll) 173948; {th mmate PRINCESS LOUIS 1739/40; al 23 Sep
+Soh mate PRINCE Of WAULIES (ll) 173948; th mmate PRINCESS LOUIS 1739/40; al 23 Sep
 1740
 Coleman, George (1784-)
 b 8 Feb & bap 7 Mar 1784 St Mary Magdalen, Bermondsey, London, s of Richard, gent, &
@@ -1048,7 +1048,7 @@ BOSCAWEN 1756/7; 1st mate HAWKE (2) 1760/1; Capt HAWKE (2) 1762/3 & 1765/6; Capt
 HAWKE (3) 1769/70 & 1772/3; Capt HAWKE (4) 1776/7 & 1778/9
 Cotton, Joseph (c1745-)
 Capt's servant & midshipman HMS Gibraltar 3y 6m; midshipman & mate HMS Alarm 3y;
-4h mate DEP TERORD (2) 1258/9; 2nd mare DEPTFORD (1) 17761; lst mate HIRES ISING
+4h mate DEP TERORD (2) 1258/9; 2nd mare DEPTFORD (1) 17761; 1st mate HIRES ISING
 1772/3 (approved 16 Dec 1772, aged 27); Capt ROYAL CHARLOTTE (2) 1776/7 & 1779/80
 Cotton, Lynch Salisbury (-1771)
 6th mate AJAX 1758/9; 3rd mate GROSVENOR (1) 1761/2; 1st mate PRINCE OF WALES
@@ -1134,7 +1134,7 @@ Cox, George
 Cox, James (-1766)
 4th mate HAESLINGFIELD 1742/3, 3rd mate ADMIRAL VERNON 1747/8; 2nd mate
 ADMIRAL VERNON 1751/2; 1st mate CLINTON 1755/6; 1st mate EDGECOTE 1758/9,
-lst mate KENT (4) 1763/4; d 13 May 1766
+1st mate KENT (4) 1763/4; d 13 May 1766
 Cox, James
 31d mate PROTECTOR (2) 1829/30
 Cox, John Richard (1787-1834)
@@ -1353,7 +1353,7 @@ Capt TYWAN 1676/7; d Mar 1681 Taiwan
 Cuddon, Robert
 4th mate DERBY (2) 1729/30; 2nd mate DERBY (2) 1734/5
 Cuddy, Simon
-lst mate ANN & AMELIA (3) 1829/30; 1st mate LAYTON 1831/2
+1st mate ANN & AMELIA (3) 1829/30; 1st mate LAYTON 1831/2
 Cudlipp, William (c1765-)
 tb in England; midshiguom im Royal Nevy Sy Gra, 4a mare EARL OF MANSFIELD 1785/6
 (approved 14 Dec 1785, aged 20)

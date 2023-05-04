@@ -421,7 +421,7 @@ Deaver, John
 surgeon TAUNTON CASTLE 1803/4; ARNISTON 1805/6, CUMBERLAND 1808/9, 1810/1
 & 1812/3; HOPE (2) 1814/5
 Devereux, James
-lst mate DUKE OF CAMBRIDGE 1722/3
+1st mate DUKE OF CAMBRIDGE 1722/3
 Devereux, Nicholas
 4th mate AVERILLA 1710/1
 Deverge, Edward
@@ -890,7 +890,6 @@ DOVER (2) 1786/7, FORT WILLIAM (2) 1788/9, WINTERTON 1791/2, FORT WILLIAM
 ra,
 Dunne, John (-1626)
 purser ROEBUCK 1622/3; d 1626
-}
 Dunne, Richard
 4th mate HERNE (3) 1707/8
 Dunningham, Richard

@@ -90,20 +90,21 @@ def officer_clean(file_ocr):
     file_lines = []
     for line in lines:
         # Clean line
-        clean_line = re.sub(r"\||\[|\]", "", line)
+        line = re.sub(r"\||\[|\]|\{|\}»", "", line)
         # Get lines with content
         if len(line) > 3:
-            clean_line = clean_line.strip("â€˜")
-            clean_line = clean_line.strip("i ")
-            clean_line = clean_line.strip("’ ")
-            clean_line = clean_line.replace("’", "\'")
-            clean_line = clean_line.replace(":", ";")
-            clean_line = clean_line.replace("Ist", "1st")
-            clean_line = clean_line.replace("Sth", "5th")
-            clean_line = clean_line.replace("Sad", "2nd")
-            clean_line = clean_line.replace("mete", "mate")
-            clean_line = clean_line.strip()
-            file_lines.append(clean_line)
+            line = line.strip("â€˜")
+            line = line.strip("i ")
+            line = line.strip("’ ")
+            line = line.replace("’", "\'")
+            line = line.replace(":", ";")
+            line = line.replace("lst", "1st")            
+            line = line.replace("Ist", "1st")
+            line = line.replace("Sth", "5th")
+            line = line.replace("Sad", "2nd")
+            line = line.replace("mete", "mate")
+            line = line.strip()
+            file_lines.append(line)
     return file_lines
 
 officer_folder_list = glob(path.join(dir, "officers_png/*"))
