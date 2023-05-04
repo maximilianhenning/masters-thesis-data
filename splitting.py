@@ -209,15 +209,6 @@ def call_id_creator(row):
 df_calls["call_id"] = df_calls.apply(call_id_creator, axis = 1)
 df_calls.to_csv(path.join(dir, "output/calls.csv"), index = False, sep = ";", encoding = "utf-8")
 
-# Location table
-# location_id   longitude   latitude
-# location_id   float       float
-
-location_list = []
-location_list += df_calls.loc[df_calls["special"] == False]["location"].tolist()
-location_list += df_ships.loc[df_ships["built_at"].notna()]["built_at"].tolist()
-location_list = list(set(location_list))
-
 # People table
 # person_id     last_name   first_name  birth_date  death_date  birth_location  baptised_location   mother_name father_name
 # person_id     string      string      string      string      location_id     location_id         string      string      
@@ -246,7 +237,8 @@ def person_line_expander(person):
 
 def person_info_expander(info):
     birth_location = "nan"
-    baptised_location = "nan"
+    baptised_parish = "nan"
+    baptised_city = "nan"
     mother_name = "nan"
     father_name = "nan"
     # XXXX baptised_location
@@ -266,6 +258,8 @@ def person_info_expander(info):
                 if not token == "in" and not token.isdigit() and not token in ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]:
                     birth_tokens.append(token)
             birth_location = " ".join(birth_tokens).strip()
+            if "," in birth_location:
+                birth_location = birth_location.split(",")[0].strip()
         if " s of " in token:
             parents = token.split(" s of ")[1]
             parents_split = parents.split("&")
@@ -280,70 +274,127 @@ def person_info_expander(info):
                     if not token.isdigit() and not token in ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]:
                         baptised_tokens.append(token)
                 baptised_location = " ".join(baptised_tokens).strip()
-    return pd.Series([birth_location, baptised_location, mother_name, father_name])
+                if "," in baptised_location:
+                    baptised_parish = baptised_location.split(", ")[0].strip()
+                    baptised_city = baptised_location.split(", ")[1].strip()
+                else:
+                    baptised_city = baptised_location
+    return pd.Series([birth_location, baptised_parish, baptised_city, mother_name, father_name])
 
 df_people = df_people_combined
 df_people[["last_name", "first_name", "birth_date", "death_date"]] = df_people["person"].apply(person_line_expander)
-df_people[["birth_location", "baptised_location", "mother_name", "father_name"]] = df_people["info"].apply(person_info_expander)
+df_people[["birth_location", "baptised_parish", "baptised_city", "mother_name", "father_name"]] = df_people["info"].apply(person_info_expander)
 df_people.to_csv(path.join(dir, "output/people.csv"), index = False, sep = ";", encoding = "utf-8")
 
 # Jobs table
 # person_id     job_id      job         voyage_id
 # person_id     job_id      string      voyage_id
 
+def job_token_reader(token, job_counter):
+    voyage_ship = "nan"
+    voyage_start = "nan"
+    voyage_end = "nan"
+    voyage = re.sub(job, "", token, flags = re.IGNORECASE).strip()
+    voyage_split = voyage.split(" ")
+    voyage_ship = " ".join([token for token in voyage_split if not "/" in token])
+    voyage_dates = " ".join([token for token in voyage_split if "/" in token])
+    if voyage_dates:
+        voyage_start = voyage_dates.split("/")[0]
+        voyage_end = voyage_dates.split("/")[1]
+        voyage_end = voyage_start[:-len(voyage_end)] + voyage_end
+    job_id = person_id + "j" + str(job_counter)
+    job_counter += 1
+    job_row = [person_id, job_id, job, voyage_ship, voyage_start, voyage_end]
+    return job_row
+
 jobs_list = []
-job_list = ["apprentice", "seaman", "midshipman", "Capt's servant", "6th mate", "5th mate", "4th mate", "3rd mate",
-            "2nd mate", "1st mate", "purser", "surgeon", "surgeon's mate", "master", "Lieutenant", "Capt"]
+job_list = ["passenger", "apprentice", "seaman", "midshipman", "capt's servant", "6th mate", "5th mate", "4th mate", "3rd mate",
+            "2nd mate", "1st mate", "purser", "surgeon", "surgeon's mate", "master", "lieutenant", "capt"]
 for row in df_people.iterrows():
     person_id = row[1]["person_id"]
     info_tokens = str(row[1]["info"]).split(";")
-    # Split tokens if they contain several jobs
-    tokens_split = []
-    for token in info_tokens:
-        token_split = False
-        # & - One ship, several voyages
-        if "&" in token:
-            token_split = True
-            subtoken = token.replace("&", "").split(" ")
-            jobs_split = [x for x in subtoken if not "/" in x]
-            job = " ".join(jobs_split).strip()
-            years_split = [x.strip(",").strip() for x in subtoken if "/" in x]
-            for year in years_split:
-                tokens_split.append(job + " " + year)
-        # & - Different ships
-        # home as
-        # if "home as" in token:
-        # transfer to
-        # if "transfer to" in token:
-        if not token_split:
-            tokens_split.append(token)
     job_counter = 1
-    for token in tokens_split:
+    for token in info_tokens:
         for job in job_list:
             job_string = job + " "
-            if job_string in token:
+            if job_string in token.lower():
                 if "approved" in token:
                     token = re.sub(r"\([^()]*approved[^()]*\)", "", token)
-                voyage_id = "nan"
-                # , - Several journeys, several ships
-                if "," in token:
-                    token_split = re.split(",|&", token)
+                # home as
+                if ",home as" in token:
+                    token_split = token.split(",home as")
                     for subtoken in token_split:
-                        voyage_id = str(subtoken).replace(job, "").strip()
-                        job_id = person_id + "j" + str(job_counter)
                         job_counter += 1
-                        job_row = [person_id, job_id, job, voyage_id]
-                        jobs_list.append(job_row)
+                        jobs_list.append(job_token_reader(subtoken, job_counter)) 
+                # , - Several journeys, several ships
+                elif "," in token:
+                    token_split = token.split(",")
+                    for subtoken in token_split:
+                        job_counter += 1
+                        jobs_list.append(job_token_reader(subtoken, job_counter))
+                # X & X - One ship, several voyages
+                if re.search(r"\d\s&\s\d", token):
+                    token_split = []
+                    subtoken = token.replace("&", "").split(" ")
+                    non_date_split = [x for x in subtoken if not "/" in x]
+                    non_date_string = " ".join(non_date_split).strip()
+                    years_split = [x.strip(",").strip() for x in subtoken if "/" in x]
+                    for year in years_split:
+                        token_split.append(non_date_string + " " + year)
+                    for subtoken in token_split:
+                        job_counter += 1
+                        jobs_list.append(job_token_reader(subtoken, job_counter)) 
                 # Otherwise, add the single one
                 else:
-                    voyage_id = str(token).replace(job, "").strip()
-                    job_id = person_id + "j" + str(job_counter)
                     job_counter += 1
-                    job_row = [person_id, job_id, job, voyage_id]
-                    jobs_list.append(job_row)
+                    jobs_list.append(job_token_reader(token, job_counter))
 jobs_df = pd.DataFrame(jobs_list)
-jobs_df.rename(columns = {0: "person_id", 1: "job_id", 2: "job", 3: "voyage_id"}, inplace = True)
+jobs_df.rename(columns = {0: "person_id", 1: "job_id", 2: "job", 3: "voyage_ship", 4: "voyage_start", 5: "voyage_end"}, inplace = True)
 jobs_df.to_csv(path.join(dir, "output/jobs.csv"), index = False, sep = ";", encoding = "utf-8")
+
+# Location table
+# location_id   longitude   latitude
+# location_id   float       float
+
+location_list = []
+locations_added_list = []
+for location in df_calls.loc[df_calls["special"] == False & df_calls["location"].notna()]["location"].tolist():
+    if location not in locations_added_list:
+        locations_added_list.append(location)
+        location_list.append([location, "calls"])
+for location in df_ships.loc[df_ships["built_at"].notna()]["built_at"].tolist():
+    if location not in locations_added_list:
+        locations_added_list.append(location)
+        location_list.append([location, "ships_built_at"])
+for location in df_voyages.loc[df_voyages["destination"].notna()]["destination"].tolist():
+    location = location.strip("From").strip()
+    if "and" in location or "," in location or "&" in location:
+        location_split = re.split("and|,|&", location)
+        for location in location_split:
+            location = location.strip()
+            if location not in locations_added_list:
+                locations_added_list.append(location)
+                location_list.append([location, "voyage_destinations"])
+    if location not in locations_added_list:
+        locations_added_list.append(location)
+        location_list.append([location, "voyage_destinations"])
+for location in df_people.loc[df_people["birth_location"].notna()]["birth_location"].tolist():
+    if location not in locations_added_list:
+        locations_added_list.append(location)
+        location_list.append([location, "people_birth"])
+for location in df_people.loc[df_people["baptised_city"].notna()]["baptised_city"].tolist():
+    if location not in locations_added_list:
+        locations_added_list.append(location)
+        location_list.append([location, "people_baptised"])
+
+location_df = pd.DataFrame(location_list)
+def location_id_creator(index):
+    location_id = "l" + str(index + 1)
+    return location_id
+location_df["location_id"] = location_df.reset_index()["index"].apply(location_id_creator).drop(columns = ["index"])
+location_df.rename(columns = {0: "location", 1: "category"}, inplace = True)
+location_df = location_df[["location_id", "location", "category"]]
+location_df.to_csv(path.join(dir, "output/locations.csv"), index = False, sep = ";", encoding = "utf-8")
 
 # Fill in IDs for relevant features in all tables
 # XXXX

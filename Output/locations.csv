@@ -1,0 +1,2005 @@
+location_id;location;category
+l1;Downs;calls
+l2;Bengal;calls
+l3;Narsipur;calls
+l4;Madras;calls
+l5;St Helena;calls
+l6;Hugh;calls
+l7;Calcutta;calls
+l8;Saugor;calls
+l9;Blackwall;calls
+l10;Cape;calls
+l11;Bombay;calls
+l12;Singapore;calls
+l13;Whampoa;calls
+l14;Malacca;calls
+l15;Macao;calls
+l16;Kowloon;calls
+l17;Portsmouth;calls
+l18;Second Bar;calls
+l19;Kedgeree;calls
+l20;Falmouth;calls
+l21;Batavia;calls
+l22;Tiku;calls
+l23;Anjengo;calls
+l24;Calicut;calls
+l25;Tellicherry;calls
+l26;Karwar;calls
+l27;Mangalore;calls
+l28;Surat;calls
+l29;voyage ended;calls
+l30;Balasore;calls
+l31;Rogues River;calls
+l32;Benkulen;calls
+l33;Silebar;calls
+l34;Nore;calls
+l35;Sao Tiago;calls
+l36;Johanna;calls
+l37;Khanderi;calls
+l38;Colaba;calls
+l39;Goa;calls
+l40;Vijayadura;calls
+l41;Cochin;calls
+l42;Reunion;calls
+l43;Deptford;calls
+l44;False Bay;calls
+l45;Lintin;calls
+l46;Torbay;calls
+l47;Madeira;calls
+l48;Diamond Harbour;calls
+l49;Colombo;calls
+l50;Moheli;calls
+l51;Cavite;calls
+l52;Manila;calls
+l53;Pangasinan;calls
+l54;Sulu;calls
+l55;Da;calls
+l56;nang;calls
+l57;Tellicheny;calls
+l58;Gravesend;calls
+l59;Ingeli;calls
+l60;Ascension;calls
+l61;Belem;calls
+l62;Scarborough;calls
+l63;Erith;calls
+l64;Mauritius;calls
+l65;Vizagapatam;calls
+l66;Culpee;calls
+l67;Bandar Abbas;calls
+l68;'towards England';calls
+l69;Limehouse;calls
+l70;Moco Moco;calls
+l71;Acheh;calls
+l72;Plymouth;calls
+l73;;calls
+l74;Bantam;calls
+l75;Pattani;calls
+l76;Hirado;calls
+l77;Masulipatam;calls
+l78;Pring;calls
+l79;Rat Island;calls
+l80;River Shannon;calls
+l81;Trincomalee;calls
+l82;Woolwich;calls
+l83;Quilon;calls
+l84;Ganjam;calls
+l85;nan;calls
+l86;Woolwich ff.6;calls
+l87;Barbados;calls
+l88;Penang;calls
+l89;Long Reach;calls
+l90;City Canal;calls
+l91;Day Downs;calls
+l92;From England;calls
+l93;Accra;calls
+l94;Ouidah;calls
+l95;Port Jackson;calls
+l96;Funchal;calls
+l97;Porto Praya;calls
+l98;Rodrigues;calls
+l99;'Allas';calls
+l100;'Saloomah';calls
+l101;Madagascar;calls
+l102;Crookhaven;calls
+l103;Amboina;calls
+l104;Balambangan;calls
+l105;Northfleet;calls
+l106;Tenerife;calls
+l107;Lisbon;calls
+l108;Fulta;calls
+l109;Cork;calls
+l110;Down;calls
+l111;Cadiz;calls
+l112;Persia;calls
+l113;Guinea;calls
+l114;Lizard;calls
+l115;Purfleet;calls
+l116;from Bengal;calls
+l117;Faro;calls
+l118;Spithead;calls
+l119;Coringa;calls
+l120;Yarmouth;calls
+l121;Quebec;calls
+l122;moorings;calls
+l123;Halifax;calls
+l124;From Bantam;calls
+l125;Delagoa river;calls
+l126;Mokha;calls
+l127;joined Anglo;calls
+l128;Malabar;calls
+l129;Dabhol;calls
+l130;Jambi;calls
+l131;Bengal river;calls
+l132;Kinsale;calls
+l133;Bedthar;calls
+l134;Hugli;calls
+l135;Cox's Island;calls
+l136;Cagayan Sulu;calls
+l137;Banda;calls
+l138;Gogha;calls
+l139;Linton;calls
+l140;L/MAR/B/515B Journal;calls
+l141;off Lintin;calls
+l142;Lower Hope;calls
+l143;transport;calls
+l144;Toibay;calls
+l145;Canaries;calls
+l146;Madagascar htor;calls
+l147;Nicobars;calls
+l148;arrived;calls
+l149;Maio;calls
+l150;Bandas;calls
+l151;Comoros;calls
+l152;Pemba;calls
+l153;Seychelles;calls
+l154;Aden;calls
+l155;Socotra;calls
+l156;Bombay (repairs);calls
+l157;Bocca Tigris;calls
+l158;Madras Kedgeree;calls
+l159;Qishm;calls
+l160;Padang;calls
+l161;Simons Bay;calls
+l162;Mahe;calls
+l163;'Samkoke' Island;calls
+l164;New Anchorage;calls
+l165;River Thames;calls
+l166;Hong Kong;calls
+l167;Jim Johanna;calls
+l168;Santa Cruz;calls
+l169;Dungeness;calls
+l170;Waterford;calls
+l171;Sydney Cove;calls
+l172;Wliampoa;calls
+l173;Left England;calls
+l174;Kedah;calls
+l175;Stokes Bay;calls
+l176;Arp Cape;calls
+l177;Bantal;calls
+l178;left Bengal;calls
+l179;Margate;calls
+l180;Mozambique;calls
+l181;Moorings;calls
+l182;Galway;calls
+l183;Borneo;calls
+l184;Ceylon;calls
+l185;v Downs;calls
+l186;Prince's Island;calls
+l187;recovered;calls
+l188;Jeddah;calls
+l189;Newfoundland;calls
+l190;Jask;calls
+l191;Siam;calls
+l192;feared lost;calls
+l193;Barrabulla;calls
+l194;Reach;calls
+l195;Pondicherry;calls
+l196;Madras^;calls
+l197;Cannanore;calls
+l198;Tellicheny Calicut;calls
+l199;'Ruttera';calls
+l200;'Brinjoan';calls
+l201;home mid;calls
+l202;Onore;calls
+l203;SSo Tiago;calls
+l204;Negapatam;calls
+l205;Pulicat;calls
+l206;Indrapura;calls
+l207;Muscat;calls
+l208;from Bombay;calls
+l209;Tranquebar;calls
+l210;Narsapore;calls
+l211;Texel;calls
+l212;Hormuz;calls
+l213;Sumatra;calls
+l214;Mozambique Channel;calls
+l215;L/MAR/B/414A Journal;calls
+l216;left China;calls
+l217;Assada;calls
+l218;Benjarmassin;calls
+l219;'Borneo';calls
+l220;Banjarmassin;calls
+l221;San Salvador;calls
+l222;Bourbon;calls
+l223;Portland;calls
+l224;Benguela;calls
+l225;Car Nicobar;calls
+l226;'Bengal river';calls
+l227;Princes Island;calls
+l228;Bencoolen;calls
+l229;Pulau Pisang;calls
+l230;Manna;calls
+l231;Nagore;calls
+l232;Jim Madras;calls
+l233;Ipoh;calls
+l234;Laye;calls
+l235;Bertoonan;calls
+l236;Diamond Point;calls
+l237;Achen;calls
+l238;Downs *;calls
+l239;Martinique;calls
+l240;St Lucia;calls
+l241;St Pierre;calls
+l242;coastal cruise;calls
+l243;Kamree Roads;calls
+l244;Mahim;calls
+l245;Cowes;calls
+l246;Torbar;calls
+l247;Toon;calls
+l248;koo;calls
+l249;Sing;calls
+l250;moon;calls
+l251;Porta Nova;calls
+l252;Karrack;calls
+l253;Basra;calls
+l254;Whampaoa;calls
+l255;Fernando Loronho;calls
+l256;Carrick Road;calls
+l257;Milford Haven;calls
+l258;Tilbury;calls
+l259;Bentoonan;calls
+l260;Scindy;calls
+l261;Negrais;calls
+l262;Greenhithe;calls
+l263;First Bar;calls
+l264;Left China;calls
+l265;Timor;calls
+l266;Amoy;calls
+l267;Carrig Roads;calls
+l268;JulBalasore;calls
+l269;Semarang;calls
+l270;Tom Borneo;calls
+l271;Bahia;calls
+l272;Malwa;calls
+l273;Second bar;calls
+l274;Coninga;calls
+l275;Lantau;calls
+l276;Lampagao;calls
+l277;Upper Hope;calls
+l278;Kidderpore;calls
+l279;Port Louis;calls
+l280;Ramsgate;calls
+l281;Pulo Condore;calls
+l282;L/MAR/B/115C Journal;calls
+l283;Sidney Cove;calls
+l284;Cochin Calicut;calls
+l285;Cuddalore;calls
+l286;Bristol Channel;calls
+l287;Palembang;calls
+l288;Apr/May Maldives;calls
+l289;Tuticorin;calls
+l290;occupied Bombay;calls
+l291;Chuenpi;calls
+l292;Narispore;calls
+l293;Narsipore;calls
+l294;Augustine's Bay;calls
+l295;'Macao islands';calls
+l296;Quilton;calls
+l297;Kidderporc;calls
+l298;Jakatra;calls
+l299;Delagoa Bay;calls
+l300;'Scindy Road';calls
+l301;Red Sea;calls
+l302;Bachian;calls
+l303;Makian;calls
+l304;Tidore;calls
+l305;Ryukyu Islands;calls
+l306;Petapoli;calls
+l307;St Paul;calls
+l308;Iambi;calls
+l309;Persian Gulf;calls
+l310;Mew Bay;calls
+l311;at Masulipatam;calls
+l312;Rangoon;calls
+l313;Jiddah;calls
+l314;St Laurence;calls
+l315;Moluccas;calls
+l316;Buton;calls
+l317;Dartmouth;calls
+l318;Trinidade;calls
+l319;'Tumala Punta';calls
+l320;Quedah;calls
+l321;'Capshee Bay';calls
+l322;Planter rejoined;calls
+l323;Anunghol;calls
+l324;Tiger Island;calls
+l325;Gibralter;calls
+l326;Bearhaven;calls
+l327;Deal;calls
+l328;Ceram;calls
+l329;Kambelu;calls
+l330;Macassar;calls
+l331;Sukadana;calls
+l332;Thames;calls
+l333;Howrah;calls
+l334;Pulo Run;calls
+l335;left Madras;calls
+l336;China;calls
+l337;Taverapatam;calls
+l338;left Benkulen;calls
+l339;Fulla;calls
+l340;Tambomeo;calls
+l341;off Ascension;calls
+l342;Annabon;calls
+l343;Diamond Creek;calls
+l344;Galway Bay;calls
+l345;Simon's Bay;calls
+l346;Pipli;calls
+l347;the Gore;calls
+l348;Westcott Bay;calls
+l349;Tellicherry Bombay;calls
+l350;Portsmouth Ar;calls
+l351;Bombay Goa;calls
+l352;Left Bengal;calls
+l353;Limerick;calls
+l354;Ramsey, Pembrokeshire;calls
+l355;Morardava;calls
+l356;Massaleige;calls
+l357;Prawdar;calls
+l358;Boyne Harbour;calls
+l359;Tuloa;calls
+l360;Ratcliffe;calls
+l361;Orkneys;calls
+l362;off Greenland;calls
+l363;Warwick's Foreland;calls
+l364;voyage abandoned;calls
+l365;off Scilly;calls
+l366;Dartmouth ';calls
+l367;sacked Bombay;calls
+l368;Surat Cape;calls
+l369;Mozamibique Channel;calls
+l370;Left Bantam;calls
+l371;Spilhead;calls
+l372;cruising;calls
+l373;Rajapur;calls
+l374;Macasser;calls
+l375;Diu;calls
+l376;'Sambroke';calls
+l377;Temate;calls
+l378;Swally;calls
+l379;subsequently lost;calls
+l380;Banjarmassin Tambomeo;calls
+l381;Madura;calls
+l382;Leith;calls
+l383;Morandava;calls
+l384;Morungary river;calls
+l385;M Malacca;calls
+l386;Bali Straits;calls
+l387;Gorec, Holland;calls
+l388;Matavai;calls
+l389;Tonga;calls
+l390;Resolution Bay;calls
+l391;Tahiti;calls
+l392;Pisang;calls
+l393;Bonavista;calls
+l394;cape;calls
+l395;'Canton river';calls
+l396;Ar Mokha;calls
+l397;Bombay Surat;calls
+l398;'Pulo Bay';calls
+l399;Capt Torbay;calls
+l400;Downs Penang;calls
+l401;Urmston's Bay;calls
+l402;Chaul;calls
+l403;Enth;calls
+l404;Bantry Bay;calls
+l405;Galloway;calls
+l406;Borneo river;calls
+l407;Londonderry;calls
+l408;burnt before;calls
+l409;Ingeh;calls
+l410;Moco;calls
+l411;Shannon;calls
+l412;Onroot;calls
+l413;SWSMW1772;calls
+l414;Portsmouth June;calls
+l415;Batevia;calls
+l416;M Whampoa;calls
+l417;'Pulo Massey';calls
+l418;PortsmouthSMay;calls
+l419;Severndroog;calls
+l420;Bancoot;calls
+l421;Portsmouth3 oÂ°Mar;calls
+l422;Teliicheriy;calls
+l423;pCS0r:â€œ;calls
+l424;saugor;calls
+l425;Sural;calls
+l426;Teilicherry;calls
+l427;Culpce;calls
+l428;Ingcli;calls
+l429;Kinsaie;calls
+l430;Eddystone;calls
+l431;L/MAR/B/aSB Journal;calls
+l432;Chusan;calls
+l433;off Newfoundland;calls
+l434;Whampoa Downs;calls
+l435;Banjarmasin;calls
+l436;Inseli;calls
+l437;Pernambuco;calls
+l438;Myapore;calls
+l439;Garden Reach;calls
+l440;with Anglo;calls
+l441;Liverpool;calls
+l442;Gravsend;calls
+l443;Mew Island;calls
+l444;Alguarda;calls
+l445;Tnncomalee;calls
+l446;Colombo Roads;calls
+l447;Bushire;calls
+l448;Bar;calls
+l449;'Bajalar';calls
+l450;St Salvadore;calls
+l451;jun Penang;calls
+l452;DowwMarll^Batavia;calls
+l453;Priaman;calls
+l454;Mauntius;calls
+l455;DownsDec;calls
+l456;'Tappanooly Bay';calls
+l457;Portsitmuth nS^lSlO;calls
+l458;Botun;calls
+l459;Dhufar;calls
+l460;Downs late;calls
+l461;broken up;calls
+l462;James Fort;calls
+l463;Belfast;calls
+l464;Taiwan;calls
+l465;Pescadores;calls
+l466;Samarang;calls
+l467;of;calls
+l468;Sen Bcnkuien;calls
+l469;Clyde;calls
+l470;Pondicherry';calls
+l471;Blackwail;calls
+l472;bt Helena;calls
+l473;London;calls
+l474;Jim Bombay;calls
+l475;'Ganges';calls
+l476;L/MAM/A/LXXIV pp.52;calls
+l477;Journal;calls
+l478;Bangkok;calls
+l479;Ayutthaya;calls
+l480;L/MAE/A/LXXIV pp.125;calls
+l481;Tonkin;calls
+l482;'Cockelee';calls
+l483;Tcllicherry;calls
+l484;Barrabulla, Sumatra;calls
+l485;nampoa;calls
+l486;Andamans;calls
+l487;Balambang;calls
+l488;Tellicherty;calls
+l489;'East Indies';calls
+l490;'Bengal';calls
+l491;Bristol;calls
+l492;Sulu Roads;calls
+l493;Carrick Roads;calls
+l494;iph;calls
+l495;Long Beach;calls
+l496;Goree;calls
+l497;Broken Ground;calls
+l498;Camicobar;calls
+l499;Malaca;calls
+l500;Whmpoa;calls
+l501;Chumpee;calls
+l502;L/MAR/B/290A Journal;calls
+l503;Fernando Noronha;calls
+l504;Hugh river;calls
+l505;Poole;calls
+l506;Benguella;calls
+l507;River Plate;calls
+l508;Calcutta';calls
+l509;Quang Nam;calls
+l510;Bouro;calls
+l511;Sumbava;calls
+l512;off Ceylon;calls
+l513;Engano;calls
+l514;lost;calls
+l515;Ryapore;calls
+l516;attempted mutiny;calls
+l517;Jim;calls
+l518;'English coast';calls
+l519;off Dungeness;calls
+l520;Sillebar;calls
+l521;Maldives;calls
+l522;Sheemess;calls
+l523;Gambia river;calls
+l524;Managalore;calls
+l525;Whampo;calls
+l526;Sydney;calls
+l527;Morendavia Bay;calls
+l528;Pondicheny;calls
+l529;Achch;calls
+l530;Table Bay;calls
+l531;Port Dauphin;calls
+l532;Masirah;calls
+l533;Sohar;calls
+l534;Lagundy;calls
+l535;Japara;calls
+l536;Bowns;calls
+l537;Sind;calls
+l538;Lombok;calls
+l539;portsmouth;calls
+l540;Helena;calls
+l541;Malabar coast;calls
+l542;'Bally Town';calls
+l543;Lintin Roads;calls
+l544;Karakaul;calls
+l545;Dublin;calls
+l546;Bassein;calls
+l547;'Poolo Bay';calls
+l548;Dock;calls
+l549;Singapaore;calls
+l550;The Hope;calls
+l551;Srat;calls
+l552;Condore;calls
+l553;Cochin China;calls
+l554;off Teinchin;calls
+l555;Anger;calls
+l556;'Killybeg' Ireland;calls
+l557;L/MAR/B/168;calls
+l558;I Journal;calls
+l559;Labrador;calls
+l560;Princes' Island;calls
+l561;Manila Bay;calls
+l562;Gomes Island;calls
+l563;Brazil;calls
+l564;Hobart;calls
+l565;to remain;calls
+l566;New York;calls
+l567;Hamburg;calls
+l568;Cap Sprat;calls
+l569;'from England';calls
+l570;Whampa;calls
+l571;Pattern;calls
+l572;Scillies;calls
+l573;Sierra Leone;calls
+l574;Ireland;calls
+l575;Tanjayang;calls
+l576;Trimdade;calls
+l577;Jim Madeira;calls
+l578;Amboyna;calls
+l579;Colvin's Ghat;calls
+l580;St Salvadorc;calls
+l581;Masuhpatam;calls
+l582;Masulipalam;calls
+l583;Delagoa;calls
+l584;Cascais;calls
+l585;Djapara;calls
+l586;Madapollam;calls
+l587;Johore river;calls
+l588;Lmtin;calls
+l589;Kmsale;calls
+l590;'Indialee';calls
+l591;Great Nanka;calls
+l592;Pnng Manna;calls
+l593;Acension;calls
+l594;North Island;calls
+l595;Coopers Bay;calls
+l596;Culpee Madras;calls
+l597;Algoa Bay;calls
+l598;Banca Straits;calls
+l599;Borneo coast;calls
+l600;off Madagascar;calls
+l601;Eastern Channel;calls
+l602;Caipang Bay;calls
+l603;Tasmama;calls
+l604;Pulau Condore;calls
+l605;Dunnose;calls
+l606;St Eustatia;calls
+l607;Jim Mauritius;calls
+l608;off Pondicherry;calls
+l609;Moheli Madras;calls
+l610;Telhcherry;calls
+l611;Portland Bill;calls
+l612;Hollis Bay;calls
+l613;Makassar;calls
+l614;Pulau Run;calls
+l615;Johore;calls
+l616;off Parcelar;calls
+l617;Portsmouth Dock;calls
+l618;off Bantam;calls
+l619;DootTm S7l763;calls
+l620;Madias;calls
+l621;Cupee;calls
+l622;ship lost;calls
+l623;SÃ£o Tiago;calls
+l624;Boeton;calls
+l625;Downs April;calls
+l626;Scilly;calls
+l627;Rogue's River;calls
+l628;M;calls
+l629;'Miapore';calls
+l630;Leith Road;calls
+l631;Fultah;calls
+l632;Sagor;calls
+l633;St Croix;calls
+l634;Bankshall;calls
+l635;Rogues Rrver;calls
+l636;Luanda;calls
+l637;Dover;calls
+l638;^ Saugor;calls
+l639;San Thome;calls
+l640;The Nore;calls
+l641;Tellicherxy;calls
+l642;'Broken Ground';calls
+l643;Portsmouth M;calls
+l644;Sao Thome;calls
+l645;Bandar;calls
+l646;Frith;calls
+l647;Southampton;calls
+l648;'Burah Bazaar';calls
+l649;Surabaya;calls
+l650;coasting;calls
+l651;July Madras;calls
+l652;Cor;calls
+l653;Left India;calls
+l654;Kinsalc;calls
+l655;Beachy Head;calls
+l656;Dee Ingcli;calls
+l657;Culpcc;calls
+l658;Ingcli Dee;calls
+l659;Dee Bombay;calls
+l660;Dee Sural;calls
+l661;Banlal;calls
+l662;Bcnkulcn;calls
+l663;Dee Cuddalorc;calls
+l664;Texcl;calls
+l665;Dee Benkulen;calls
+l666;Manduta;calls
+l667;downs;calls
+l668;Ballamboan;calls
+l669;Coromandel;calls
+l670;Dublin Bay;calls
+l671;Madasgascar;calls
+l672;S2o Tiago;calls
+l673;'At China';calls
+l674;Porthsmouth;calls
+l675;Oc Bombay;calls
+l676;San Salvadore;calls
+l677;'Lankeet Flat;calls
+l678;'off Chumpee';calls
+l679;Port Philip;calls
+l680;II Cape;calls
+l681;Bomay;calls
+l682;Balassore;calls
+l683;San Savadore;calls
+l684;Mozamibique;calls
+l685;Mozambique Chanel;calls
+l686;at Cape;calls
+l687;left Priaman;calls
+l688;Armagon;calls
+l689;'towards Lisbon';calls
+l690;Colombo Bombay;calls
+l691;Madras Downs;calls
+l692;Allas;calls
+l693;manna;calls
+l694;Trinidale;calls
+l695;Anjengo Cape;calls
+l696;Balasore Calcutta;calls
+l697;Batticaloa;calls
+l698;Porto Novo;calls
+l699;Do Ingeli;calls
+l700;Manabulle;calls
+l701;Natal;calls
+l702;Lye Road;calls
+l703;Tynemouth;calls
+l704;King's Channel;calls
+l705;Tamborneo;calls
+l706;Teignmouth;calls
+l707;Iceland;calls
+l708;Gunfleet;calls
+l709;Malacca Whampoa;calls
+l710;Nootka Sound;calls
+l711;Sandwich Islands;calls
+l712;Montague Island;calls
+l713;off Morotai;calls
+l714;off Taiwan;calls
+l715;Portsmouth Madras;calls
+l716;Pearl River;calls
+l717;Culpeee;calls
+l718;Croce;calls
+l719;Geriah;calls
+l720;off Bankshall;calls
+l721;returned by;calls
+l722;Downs Dee;calls
+l723;Downs Jim;calls
+l724;Dee Calcutta;calls
+l725;Surat Dee;calls
+l726;Batavia (repaired);calls
+l727;Mohcli;calls
+l728;6'Aug Penang;calls
+l729;off Bengal;calls
+l730;gap;calls
+l731;Cock Island;calls
+l732;Island;calls
+l733;Nagasaki;calls
+l734;Krakatoa;calls
+l735;A Downs;calls
+l736;Pulo Timan;calls
+l737;Kitow;calls
+l738;Kisnapatam;calls
+l739;Coromandel Coast;calls
+l740;' Jaggemaickpuram';calls
+l741;Barrier Islands;calls
+l742;Pulao Bay;calls
+l743;Jim Downs;calls
+l744;'Calderoon Bay';calls
+l745;Uockelee';calls
+l746;L/MAR/A/XCVIII Journal;calls
+l747;Sutanati;calls
+l748;Downs Sold;calls
+l749;Angra Pequena;calls
+l750;Tellicheriy;calls
+l751;Culpee Ingeli;calls
+l752;Downs Guinea;calls
+l753;Downs Bantam;calls
+l754;off Batavia;calls
+l755;navigational rules;calls
+l756;Kharg;calls
+l757;hugli river;calls
+l758;'Caracf;calls
+l759;Genoa;calls
+l760;Leghorn;calls
+l761;Mauritius (repairs);calls
+l762;Spithcad;calls
+l763;Anjcngo;calls
+l764;Borrum;calls
+l765;Okinawa;calls
+l766;cPulau Laurotf;calls
+l767;Cockelee;calls
+l768;L/MAR/B/340A Journal;calls
+l769;Culpec;calls
+l770;Hog River;calls
+l771;Masulipatam (sheathed);calls
+l772;Dewas;calls
+l773;Brest;calls
+l774;Trengganu;calls
+l775;Salsette;calls
+l776;57, 59y;calls
+l777;Armagaon;calls
+l778;off Spithead;calls
+l779;Mary Surat;calls
+l780;Cape Verde;calls
+l781;Java Head;calls
+l782;Leith Roads;calls
+l783;Jim Malacca;calls
+l784;Banaca;calls
+l785;Indramayo;calls
+l786;Woolwich LJFcb;calls
+l787;Macassar Batavia;calls
+l788;Port Cornwallis;calls
+l789;Cape Augustine;calls
+l790;Trincomale;calls
+l791;Balambangam;calls
+l792;Cork (repairs);calls
+l793;Gt Yarmouth;calls
+l794;Amsterdam Island;calls
+l795;Bass Straits;calls
+l796;Norfolk Island;calls
+l797;'Sajo Island';calls
+l798;Benkulen Whampoa;calls
+l799;Cheduba;calls
+l800;Toun;calls
+l801;koo';calls
+l802;Capsmgmoon Passage;calls
+l803;Inn Bombay;calls
+l804;Bombay Penang;calls
+l805;Goa Bombay;calls
+l806;Johnna;calls
+l807;Second I;calls
+l808;Sao Paulo;calls
+l809;L/MAR/B/689B Journal;calls
+l810;Launched Madras;calls
+l811;Loronho Bay;calls
+l812;Rajapore;calls
+l813;'Dunderogipore';calls
+l814;Doc Cochin;calls
+l815;Doc Tellicherry;calls
+l816;'Pulo Auroe';calls
+l817;named vessel;calls
+l818;at Tonkin;calls
+l819;Zanzibar;calls
+l820;Gibraltar;calls
+l821;Indremayo;calls
+l822;Coringa Roads;calls
+l823;Hainan;calls
+l824;'Monsourcottah';calls
+l825;River Shanon;calls
+l826;Princess Island;calls
+l827;Calingapatam;calls
+l828;Diamond Island;calls
+l829;Java;calls
+l830;at Benkulen;calls
+l831;'Toonkoo Bay';calls
+l832;Chittagong river;calls
+l833;Bimlipatam;calls
+l834;'Chow;calls
+l835;long';calls
+l836;LSaugor;calls
+l837;Onraet;calls
+l838;ship leaky;calls
+l839;Bellial, Portugal;calls
+l840;'Gressee';calls
+l841;Onores;calls
+l842;cSaloomah';calls
+l843;South;ships_built_at
+l844;Pauli;ships_built_at
+l845;Itchenor;ships_built_at
+l846;Whitby;ships_built_at
+l847;the;ships_built_at
+l848;Culpe'];ships_built_at
+l849;Ipswich;ships_built_at
+l850;Harwich;ships_built_at
+l851;China 7;voyage_destinations
+l852;Nov 1805 ten crew injured in skirmish with French ship;voyage_destinations
+l853;Philippines;voyage_destinations
+l854;2 From Bengal;voyage_destinations
+l855;Cambodia;voyage_destinations
+l856;Japan;voyage_destinations
+l857;Corom;voyage_destinations
+l858;el;voyage_destinations
+l859;eb 1650 -;voyage_destinations
+l860;Banta;voyage_destinations
+l861;1806/7 St Helena;voyage_destinations
+l862;Apr 1821-30 Sep 1822;voyage_destinations
+l863;New South Wales;voyage_destinations
+l864;1802-18 Dec 1803;voyage_destinations
+l865;Borne;voyage_destinations
+l866;To remain in India;voyage_destinations
+l867;Jan 1681 -28 Aug 1682;voyage_destinations
+l868;East Indies;voyage_destinations
+l869;5 1803/4 China;voyage_destinations
+l870;the Maldives;voyage_destinations
+l871;1831/2 Madras;voyage_destinations
+l872;1829/30 China;voyage_destinations
+l873;t St David;voyage_destinations
+l874;China 1817;voyage_destinations
+l875;Oct 1801 recaptured Friendship snow of Vizagapatam from French;voyage_destinations
+l876;B;voyage_destinations
+l877;ar Abbas;voyage_destinations
+l878;5 1792/3 Bombay;voyage_destinations
+l879;Dec 1700-;voyage_destinations
+l880;2 1736/7 Madras;voyage_destinations
+l881;Bombay (to remain);voyage_destinations
+l882;1722 -;voyage_destinations
+l883;Jan 1681-21 Nov 1682;voyage_destinations
+l884;New Company voyage;voyage_destinations
+l885;Guinea (to remain);voyage_destinations
+l886;Mar Cape -17 Apr St Helena -13 Jul Downs 1;voyage_destinations
+l887;1832/3 St Helena;voyage_destinations
+l888;St Helena -17 Jul Thames;voyage_destinations
+l889;1804/5 Madras;voyage_destinations
+l890;West Indies;voyage_destinations
+l891;8 1828/9 Bombay;voyage_destinations
+l892;Jan 1677 -;voyage_destinations
+l893;Dec 1727 -11 Jun 1729;voyage_destinations
+l894;Apr Blackwall;voyage_destinations
+l895;Nov 1717-11 Jun 1719;voyage_destinations
+l896;6 1818/9 Madras;voyage_destinations
+l897;(^hina;voyage_destinations
+l898;1832/3 Madras;voyage_destinations
+l899;815/6 Bombay;voyage_destinations
+l900;' Bengal;voyage_destinations
+l901;Mar 1812 St Helena -15 May Long Reach;voyage_destinations
+l902;1801/2 China;voyage_destinations
+l903;Madras ^;voyage_destinations
+l904;1831/2 Bengal;voyage_destinations
+l905;Apr 1699 -;voyage_destinations
+l906;Nova Scotia;voyage_destinations
+l907;1803/4 China;voyage_destinations
+l908;Madras L/MAM/B/698G(3) Imprest Book;voyage_destinations
+l909;Benkulen (to remain);voyage_destinations
+l910;North-West Passage;voyage_destinations
+l911;India;voyage_destinations
+l912;Sep 1681 -29 Aug 1683;voyage_destinations
+l913;South Pacific;voyage_destinations
+l914;9 Madras;voyage_destinations
+l915;Surat Master Thomas Tayl;voyage_destinations
+l916;1831/2 China;voyage_destinations
+l917;Journal 13 May 1794-14 Sep 1795;voyage_destinations
+l918;Bengal 1801 .;voyage_destinations
+l919;West Africa;voyage_destinations
+l920;1647;voyage_destinations
+l921;1648;voyage_destinations
+l922;to B;voyage_destinations
+l923;ar Abbas 1649 (twice);voyage_destinations
+l924;80 Sia;voyage_destinations
+l925;India 1784 L/MAM/B/540C(1) Ledge;voyage_destinations
+l926;1785/6 Madras;voyage_destinations
+l927;eb 1713 -12 Mar 1715;voyage_destinations
+l928;1830/1 St Helena;voyage_destinations
+l929;'For India';voyage_destinations
+l930;Bantam Master Gilbert Grimes ?;voyage_destinations
+l931;Pay Book;voyage_destinations
+l932;China L/MAM/B/390J Journal 8 Dec 1786-28 Aug 1788;voyage_destinations
+l933;Oct Downs;voyage_destinations
+l934;Australia;voyage_destinations
+l935;1832/3 Bombay;voyage_destinations
+l936;Jun Downs;voyage_destinations
+l937;Benga;voyage_destinations
+l938;China L/MAM/B/131B Deck Log 19 Dec 1831-15 Jun 1832;voyage_destinations
+l939;China L/MAM/B/438H Journal 14 Jan 1755-13 Sep 1757 L/MAM/B/438BB(1) Ledger L/MAM/B/438BB(2) Pay Book;voyage_destinations
+l940;1700 Gibralte;voyage_destinations
+l941;'India';voyage_destinations
+l942;Benkulcn;voyage_destinations
+l943;Mar 1678 -;voyage_destinations
+l944;to remain as country ship;voyage_destinations
+l945;1685 -28 Aug 1687;voyage_destinations
+l946;Jan 1701 -17 Sep 1702;voyage_destinations
+l947;Macassa;voyage_destinations
+l948;South Seas;voyage_destinations
+l949;Jan 1825-29 Jun Calcutta;voyage_destinations
+l950;Holl;voyage_destinations
+l951;1809;voyage_destinations
+l952;Journal on Jonas;voyage_destinations
+l953;Lion 17 Mar 1621-22 Jul 1623;voyage_destinations
+l954;Richard Swanley Master John Weddell;voyage_destinations
+l955;crew;voyage_destinations
+l956;Madagasgar;voyage_destinations
+l957;Bombay<;voyage_destinations
+l958;the South Seas;voyage_destinations
+l959;3 1745/6 Bombay;voyage_destinations
+l960;1821/2 St Helena;voyage_destinations
+l961;New 1699-6 Mar 1702;voyage_destinations
+l962;Chins;voyage_destinations
+l963;Macasse;voyage_destinations
+l964;1831/2 St Helena;voyage_destinations
+l965;Oct Whampoa -19 Jan 1831 Second Bar -11 Apr St Helena -10 Jun Downs;voyage_destinations
+l966;Surat (New Company);voyage_destinations
+l967;Surat (Licensed ship);voyage_destinations
+l968;1698 -;voyage_destinations
+l969;eb 1715 -27 Jul 1716;voyage_destinations
+l970;Sia;voyage_destinations
+l971;1832/3 China;voyage_destinations
+l972;739/40 Mokha;voyage_destinations
+l973;3 1777/8 Bombay;voyage_destinations
+l974;India 1782;voyage_destinations
+l975;eb 1682 -29 Aug 1683;voyage_destinations
+l976;Amoy (New Company L/MAM/A/CLVn Journal 2 Dec 1700-16 Sep 1702;voyage_destinations
+l977;from India 10 Apr 1783;voyage_destinations
+l978;Nov 1682- 11 May 1684;voyage_destinations
+l979;Benkulan;voyage_destinations
+l980;Sep 1681 -29 Sep 1683;voyage_destinations
+l981;May 1792 'stood to sea from St Helena' -19-20 May skirmish with the French fleet;voyage_destinations
+l982;Sep Downs;voyage_destinations
+l983;Borneo (New Company);voyage_destinations
+l984;in Engl;voyage_destinations
+l985;Jul 1810;voyage_destinations
+l986;Bantam Master Matthew Morton;voyage_destinations
+l987;South Wales;voyage_destinations
+l988;British Columbia;voyage_destinations
+l989;the Moluccas;voyage_destinations
+l990;1825/6 China;voyage_destinations
+l991;1719 -18 Mar 1729;voyage_destinations
+l992;Si Helena;voyage_destinations
+l993;Bengal (to remain);voyage_destinations
+l994;1701 -2 Apr 1703;voyage_destinations
+l995;China (Licensed ship);voyage_destinations
+l996;Bengal (New Company);voyage_destinations
+l997;inc sketches of the ship;voyage_destinations
+l998;the season's convoy;voyage_destinations
+l999;fish;voyage_destinations
+l1000;birds;voyage_destinations
+l1001;Batavia Roads;voyage_destinations
+l1002;Aug Downs;voyage_destinations
+l1003;Nov 1683 -21 Mar 1685;voyage_destinations
+l1004;Bombay (to remain) Downs 4 May 1686-;voyage_destinations
+l1005;St Helena (to remain);voyage_destinations
+l1006;eb 1682-8 Aug 1683;voyage_destinations
+l1007;May 1681 -23 Sep 1682;voyage_destinations
+l1008;1614;voyage_destinations
+l1009;1615;voyage_destinations
+l1010;Surat (to remain);voyage_destinations
+l1011;1 From Calcutta;voyage_destinations
+l1012;Dec 1684 -28 Jul 1687;voyage_destinations
+l1013;To West Indies;voyage_destinations
+l1014;Madras (to remain);voyage_destinations
+l1015;8/9 Bengal;voyage_destinations
+l1016;LMARS 15A-B Journal 11 May 1795-24 Feb 1797;voyage_destinations
+l1017;South Atlantic;voyage_destinations
+l1018;Nov 1712-28 Jul 1717;voyage_destinations
+l1019;Jan 1719-25 Aug 1720;voyage_destinations
+l1020;Tasmania;voyage_destinations
+l1021;Jan 1716 -19 Aug 1717;voyage_destinations
+l1022;Madagasca;voyage_destinations
+l1023;Fort St David;voyage_destinations
+l1024;India 1757;voyage_destinations
+l1025;Balambanga;voyage_destinations
+l1026;1796;voyage_destinations
+l1027;1798 St Helena -17 Mar Downs;voyage_destinations
+l1028;China (New Company);voyage_destinations
+l1029;Boston;voyage_destinations
+l1030;Newfoundl;voyage_destinations
+l1031;Batavia (to remain);voyage_destinations
+l1032;1830/1 China;voyage_destinations
+l1033;ap St Mary's;people_birth
+l1034;Mezignac nr Bordeaux;people_birth
+l1035;Scotland;people_birth
+l1036;Surgeon;people_birth
+l1037;Dalgetty;people_birth
+l1038;Bowbrickhill;people_birth
+l1039;Craigs;people_birth
+l1040;purser REGENT 1821/2;people_birth
+l1041;commumeed covert Ships Honduras and African trade Aye Tighmente IRAN IENS SY ORO approved Peb Ivehyagad 32);people_birth
+l1042;England;people_birth
+l1043;1st mate SCALEBY CASTLE 1832/3 m St Luke's;people_birth
+l1044;Edinburgh;people_birth
+l1045;ap Ealing;people_birth
+l1046;Maidenhall;people_birth
+l1047;Yorkshire;people_birth
+l1048;apptd Surgeon at St Helena;people_birth
+l1049;Salemstead;people_birth
+l1050;Greenock;people_birth
+l1051;1738;people_birth
+l1052;run;people_birth
+l1053;Bombay Asst Surgeon;people_birth
+l1054;oth ielsd ANA (1804/5! Ah AOLORE RN TET 1805/6;people_birth
+l1055;South Petherton;people_birth
+l1056;Bridgwater;people_birth
+l1057;Hurstmonceux;people_birth
+l1058;Melton Constable;people_birth
+l1059;3rd mate RAVENSWORTH 1785/6 (approved 1786;people_birth
+l1060;Glasgow;people_birth
+l1061;3rd mate DUKE OF GRAFTON 1775/6;people_birth
+l1062;Stogursey;people_birth
+l1063;France;people_birth
+l1064;Saxthorpe;people_birth
+l1065;4th mate AIRLEY CASTLE 1787/8 (approved 1788;people_birth
+l1066;Hendon;people_birth
+l1067;Mirzapur;people_birth
+l1068;d;people_birth
+l1069;Denaticon;people_birth
+l1070;ap Waltham Lincs;people_birth
+l1071;Sestland;people_birth
+l1072;Stale APMERAIL GARDNER 180g/9 m St Mary's;people_birth
+l1073;Member Bengal Medical Board & Insp-Gen of Hospitals;people_birth
+l1074;3rd mate ROYAL BISHOP 1785/6 (approved 1726;people_birth
+l1075;Milbrooke;people_birth
+l1076;ap Tottenham;people_birth
+l1077;lost im senects;people_birth
+l1078;employed attending the wreck until;people_birth
+l1079;Knockdrin Castle;people_birth
+l1080;Aldham;people_birth
+l1081;resigned active service 2nd Mysore War 1781-82;people_birth
+l1082;4th mate PHOENIX (3) 1799/1800 (approved 1800;people_birth
+l1083;ap St Augustine's;people_birth
+l1084;Rottingdean;people_birth
+l1085;approved as 1st mats HIECTOR 176;people_birth
+l1086;St Marylebone;people_birth
+l1087;Kettle;people_birth
+l1088;Sanguhar;people_birth
+l1089;Redgrave;people_birth
+l1090;Norwich;people_birth
+l1091;Harley St;people_birth
+l1092;Banff;people_birth
+l1093;Tenby;people_birth
+l1094;& Lee;people_birth
+l1095;d Calcutta m Hammersmith;people_birth
+l1096;Lambeth;people_birth
+l1097;Stratford-on-Avon;people_birth
+l1098;seoma Gy) & 2nd mate (ly) James & Rebeses to Antique;people_birth
+l1099;Clement's Lane;people_birth
+l1100;South Leith;people_birth
+l1101;resigned;people_birth
+l1102;St Alphage's pa;people_birth
+l1103;d Calcutta;people_birth
+l1104;Hertford;people_birth
+l1105;Kirkaldy;people_birth
+l1106;3nd matte MUAIRCEMUOINESS OF ELY 1821/2;people_birth
+l1107;Milburn St Andrews;people_birth
+l1108;Old Melton;people_birth
+l1109;ap Whitby;people_birth
+l1110;3rd mate PONSBORNE 1779/80;people_birth
+l1111;d3;people_birth
+l1112;Kinnettles;people_birth
+l1113;St Andrew's pa;people_birth
+l1114;St Peter Port;people_birth
+l1115;4th mate THISTLEWORTH 1718/9 (to 1720);people_birth
+l1116;England senmem LORD CANIN (1) 1771/2;people_birth
+l1117;Dysart;people_birth
+l1118;d7;people_birth
+l1119;Capt EARL OF BALCARRAS 1827/8;people_birth
+l1120;Rhynie;people_birth
+l1121;Kilmarnock;people_birth
+l1122;im Rotterdam;people_birth
+l1123;177] Newsom;people_birth
+l1124;resigned secvod es sumpeon to ir Eyre Covte the Carnatic;people_birth
+l1125;Perthshire;people_birth
+l1126;Holbrook;people_birth
+l1127;(approved 1786;people_birth
+l1128;St Martin-in-the-Fields pa;people_birth
+l1129;4th mate CARMARTHEN 1805/6 ed as 2nd mate DUBLIN 1787;people_birth
+l1130;Capt THOMAS GRENVILLE 1832/3 m Bridgewater;people_birth
+l1131;3rd mate b Ireland;people_birth
+l1132;Stockton;people_birth
+l1133;Fort William;people_birth
+l1134;Harrow;people_birth
+l1135;Englancl midshipman DAVID SCOTT (2) 1807/8;people_birth
+l1136;d St Helena;people_birth
+l1137;apptd Bengal Asst Surgeon (in absentia);people_birth
+l1138;Newbyth;people_birth
+l1139;Eccles;people_birth
+l1140;Walcot;people_birth
+l1141;Leadhills;people_birth
+l1142;retired active service Nepal War 1815-16;people_birth
+l1143;Crieff;people_birth
+l1144;Prestwich;people_birth
+l1145;ind mate COMDSTRIBART 1811/2 m St Stephen's Coleman Street;people_birth
+l1146;Derby;people_birth
+l1147;Westbury;people_birth
+l1148;Kirby Stephen;people_birth
+l1149;im Wales;people_birth
+l1150;ap Pocklington;people_birth
+l1151;Blandford;people_birth
+l1152;Stowmarket;people_birth
+l1153;2nd mate YORK (4) 1785/6 (approved 1786;people_birth
+l1154;St Saviour's pa;people_birth
+l1155;Llandilo;people_birth
+l1156;4th mate WARREN HASTINGS (1) 1784/5 (approved 1785;people_birth
+l1157;ap St Margaret Moses;people_birth
+l1158;Shadbrook;people_birth
+l1159;Isle of Skye;people_birth
+l1160;Cupar Angus;people_birth
+l1161;Hickling;people_birth
+l1162;Alford;people_birth
+l1163;it England;people_birth
+l1164;Aor Ipswich;people_birth
+l1165;Hereford;people_birth
+l1166;Brechin;people_birth
+l1167;Tweedmouth;people_birth
+l1168;St Cuthbert's pa;people_birth
+l1169;seaman EAGLE (6) packet 1779-22 when she was captured;people_birth
+l1170;Croydon;people_birth
+l1171;p23 [62 Englamd;people_birth
+l1172;1st mate ORWELL 1829/30 & 1831/2 m St Helena;people_birth
+l1173;‘b;people_birth
+l1174;Stilton;people_birth
+l1175;Guernsey;people_birth
+l1176;volunteer 1st Class;people_birth
+l1177;Forkc;people_birth
+l1178;Capt & Principal Managing Gomer SEVIERN (2) s3as2 m3 St Luke's;people_birth
+l1179;accidentally killed;people_birth
+l1180;Nantwich;people_birth
+l1181;ur St Pancras;people_birth
+l1182;Campsie;people_birth
+l1183;im Scotland;people_birth
+l1184;Claines;people_birth
+l1185;St Botolph's pa;people_birth
+l1186;purser LASCELLES 1791/2;people_birth
+l1187;Drimnasallie;people_birth
+l1188;Monmouth;people_birth
+l1189;Moy Lamiasry;people_birth
+l1190;Keilmos;people_birth
+l1191;cl767;people_birth
+l1192;Kilmartin;people_birth
+l1193;St Peter's pa;people_birth
+l1194;dn Seatlant;people_birth
+l1195;Ord untae HILLSBOROUGH (2) 1785/6 (gpproved Peb 1796;people_birth
+l1196;6th mate KING WILLIAM (3) 1733/4 Carter;people_birth
+l1197;Barton Mere;people_birth
+l1198;Dundee;people_birth
+l1199;Fort George;people_birth
+l1200;6th mate b 1? Appr Guisborough;people_birth
+l1201;England seaman PLASSEY West Indies ly 6m;people_birth
+l1202;Seb nate MOT INGIAI (@) Wresy>;people_birth
+l1203;also Principal Managing Owner BROXBORNEBURY 1824/5-1831/2 m St Marylebone;people_birth
+l1204;pa St Olave Hart St;people_birth
+l1205;d mate GOOD HOPE (3) 1795/6;people_birth
+l1206;Capt THOMAS COUTTS 1821/2;people_birth
+l1207;Dumfries;people_birth
+l1208;drowned;people_birth
+l1209;1st mate KELLIE CASTLE 1832/3 m Walton-on-Thames;people_birth
+l1210;Hill House;people_birth
+l1211;Heston;people_birth
+l1212;Gib mats WINDSOUS (2) 1822/3;people_birth
+l1213;Ecinbargh;people_birth
+l1214;purser LADY MELVILLE 1821/2;people_birth
+l1215;Samgect S;people_birth
+l1216;st mate ALIBION @) b England;people_birth
+l1217;resigned 1794;people_birth
+l1218;ap Woodford;people_birth
+l1219;Benge;people_birth
+l1220;d Bandar Abbas;people_birth
+l1221;pa St George's Hanover Sq;people_birth
+l1222;Ang & bep St Mary's;people_birth
+l1223;4th mate FORDWICH 1728/9 (from 1730);people_birth
+l1224;North Berwick;people_birth
+l1225;2nd mate Creighton;people_birth
+l1226;sick leave home 1806;people_birth
+l1227;Dalkeith;people_birth
+l1228;Aberdeen;people_birth
+l1229;Turriff;people_birth
+l1230;St Andrews;people_birth
+l1231;3rd mate WINCHELSEA (3) 1830/1 m3 St James;people_birth
+l1232;4th mate LASCEUUES 1784/5 (approved 1785;people_birth
+l1233;purser WILLIAM PITT (1) 1789/90;people_birth
+l1234;Head Surgeon at Calcutta;people_birth
+l1235;surgeon CASTLE HUNTLEY 1819/20;people_birth
+l1236;Campbeltown;people_birth
+l1237;North Knabdale;people_birth
+l1238;Kilbride Castle;people_birth
+l1239;America;people_birth
+l1240;Brooke;people_birth
+l1241;Newington;people_birth
+l1242;im Bogland;people_birth
+l1243;ap Lindfield;people_birth
+l1244;Walthamstow;people_birth
+l1245;Hartland;people_birth
+l1246;Ih eb & bop Croydon;people_birth
+l1247;1st mate HARTWELL 1786/7;people_birth
+l1248;Capt SIR WILLIAM PULTENEY 1804/5;people_birth
+l1249;retired;people_birth
+l1250;Beb Dumdayell;people_birth
+l1251;Wexford;people_birth
+l1252;Monthrath;people_birth
+l1253;Binnington;people_birth
+l1254;Berkeley Sq;people_birth
+l1255;Cockpen;people_birth
+l1256;Perth;people_birth
+l1257;fb hn Englands micishigraam im Royall Navy Sy Soy 5th mate ROWAL SOP 1755/5 (approved 1786;people_birth
+l1258;MARQUIS CAMDEN 1823/4;people_birth
+l1259;Cove;people_birth
+l1260;Scotlane;people_birth
+l1261;Millan;people_birth
+l1262;Hadley;people_birth
+l1263;Asst Surgeon;people_birth
+l1264;d m Cameron;people_birth
+l1265;Newington Green;people_birth
+l1266;Trevethin;people_birth
+l1267;Lithgow;people_birth
+l1268;Bleach Field;people_birth
+l1269;1st mate SPEAKER 1771/2 (approved 1772;people_birth
+l1270;Ipswiel;people_birth
+l1271;Kessingland;people_birth
+l1272;Gib ome TCE (2) 1797/8;people_birth
+l1273;Member of Wiedicel Board;people_birth
+l1274;tb England;people_birth
+l1275;Shetland Isles;people_birth
+l1276;3rd mate ANTELOPE (4) 1781/2 (approved 1782;people_birth
+l1277;Illan Court;people_birth
+l1278;3rd mate ASIA (3) 1780/1;people_birth
+l1279;Bovey Tracey;people_birth
+l1280;Newton Bushell;people_birth
+l1281;Tiverton;people_birth
+l1282;Bath;people_birth
+l1283;ed 1782;people_birth
+l1284;3rd mate ROCKINGHAM (1) 1785/6 (approved 1786;people_birth
+l1285;1st mate Heater ‘0 Jamaica (approved 1786;people_birth
+l1286;5th mate GENERAL Totlb 1824/5;people_birth
+l1287;Lambourn;people_birth
+l1288;Ayr;people_birth
+l1289;Whitehaven;people_birth
+l1290;Ilfracombe;people_birth
+l1291;Barnstaple;people_birth
+l1292;Hambleton;people_birth
+l1293;m7 Walcot;people_birth
+l1294;Crathie;people_birth
+l1295;Inverness;people_birth
+l1296;Alloa;people_birth
+l1297;Toulouse;people_birth
+l1298;& St George's Bloomsbury;people_birth
+l1299;St Giles;people_birth
+l1300;1748;people_birth
+l1301;dat sea;people_birth
+l1302;Sorbie;people_birth
+l1303;Wales;people_birth
+l1304;Redbridge;people_birth
+l1305;Aylesbury;people_birth
+l1306;Sid tnate INDIAN TRADER 1794/5;people_birth
+l1307;Virginia;people_birth
+l1308;5th mate KELLIE CASTLE 1828/9;people_birth
+l1309;4th mate “RACRIL OL SAND WIGHT F789 (approved 1779;people_birth
+l1310;Metz;people_birth
+l1311;St John's pa;people_birth
+l1312;Barnsley;people_birth
+l1313;Bengal Asst Surgeon;people_birth
+l1314;Tneland;people_birth
+l1315;Haddington;people_birth
+l1316;Aberdeenshire;people_birth
+l1317;Brettenham;people_birth
+l1318;Gerloch;people_birth
+l1319;Sicily;people_birth
+l1320;approved as 3rd mate ROCKINGHAM (1) 1786;people_birth
+l1321;m Llandygwydd;people_birth
+l1322;Wick;people_birth
+l1323;im Rnglamd;people_birth
+l1324;d Bombay;people_birth
+l1325;Chatham;people_birth
+l1326;lost overboard m St Dunstan's;people_birth
+l1327;Wormley;people_birth
+l1328;3rd mate BESSBOROUGH 1785/6 (approved 1786;people_birth
+l1329;1st mate DUCHESS OF ATHOL 1831/2 m Cork Cathedral;people_birth
+l1330;1740;people_birth
+l1331;4th mate STAFFORD (2) 1777/8 (approved eb 1778;people_birth
+l1332;Neath;people_birth
+l1333;Ryton-upon-Dunsmore;people_birth
+l1334;Welshpool;people_birth
+l1335;St Mary's pa;people_birth
+l1336;1st mate LORD WALSINGHAM 1786/7 (approved 1787;people_birth
+l1337;Enniskillen;people_birth
+l1338;Ross;people_birth
+l1339;Selborne;people_birth
+l1340;Capt ST HELENA b St Helen's pa;people_birth
+l1341;surgeon HUDDART 1814/5 b England;people_birth
+l1342;Kirk Newton;people_birth
+l1343;ap Whorlton;people_birth
+l1344;2nd mate MIMVIDLESEX @) 1785/6 (approved autho trade Gun;people_birth
+l1345;at sea;people_birth
+l1346;Cornhill;people_birth
+l1347;Sunderland;people_birth
+l1348;lost overboard;people_birth
+l1349;1727;people_birth
+l1350;wounded action agst French 1759;people_birth
+l1351;Prescot St;people_birth
+l1352;“Kb mate LAP WING (1) Lays;people_birth
+l1353;1774. Windsor;people_birth
+l1354;Bishopsgate;people_birth
+l1355;St Luke's pa;people_birth
+l1356;Cumberland;people_birth
+l1357;St Stephen's Walbrook;people_birth
+l1358;& tep St Macy';people_birth
+l1359;appointed Asst Bombay Hospital;people_birth
+l1360;Little Clacton;people_birth
+l1361;Logie;people_birth
+l1362;midshipman MARQUIS OF ROCKINGHAM (2) 1775/6;people_birth
+l1363;Sweden;people_birth
+l1364;Dores;people_birth
+l1365;Stepney;people_birth
+l1366;seaman & 1st mate Royal Clubb and Adriatic Greenland and Newfoundland trade 7y 9m;people_birth
+l1367;Love Lane;people_birth
+l1368;Canterbury;people_birth
+l1369;im Smgtends ome voyswe to indie;people_birth
+l1370;Barking;people_birth
+l1371;run 4th mate LADY RAFFLES 1825/6;people_birth
+l1372;pa St Chad's;people_birth
+l1373;Gerrard or Gerard;people_birth
+l1374;midshipman (2y 6m);people_birth
+l1375;d b pa Christ Church;people_birth
+l1376;Montrose;people_birth
+l1377;4h mate NEPTUNE (4) 1785/6 (approved 1786;people_birth
+l1378;Kirk Oswald;people_birth
+l1379;d Macao m St Pancras;people_birth
+l1380;Cameron;people_birth
+l1381;5th mate GATTON 1777/8;people_birth
+l1382;Royal Navy 8y 4m;people_birth
+l1383;Inverness-shire;people_birth
+l1384;Portsoy;people_birth
+l1385;4th mate EARL OF DARTMOUTH 1779/80 (approved 1780;people_birth
+l1386;ur Ilfracombe;people_birth
+l1387;d 1890;people_birth
+l1388;Bordeaux;people_birth
+l1389;ur St Paul's Covent Gdn;people_birth
+l1390;Mount Melick;people_birth
+l1391;Grantham;people_birth
+l1392;Dominica;people_birth
+l1393;St Peter's Close;people_birth
+l1394;3rd mate VALENTINE (3) 1793/4 (approved 1794;people_birth
+l1395;1st Lieutenant Achilles cutter (3m) and Job cutter (2m);people_birth
+l1396;Isle of Man;people_birth
+l1397;Carron;people_birth
+l1398;Wootton Hall;people_birth
+l1399;Blunderston;people_birth
+l1400;[Great Yarmouth ?];people_birth
+l1401;Sotheniom;people_birth
+l1402;Stirling;people_birth
+l1403;Msg Camengate;people_birth
+l1404;Canongate;people_birth
+l1405;‘bap Fores;people_birth
+l1406;Foggymill;people_birth
+l1407;ur;people_birth
+l1408;Johnshaven;people_birth
+l1409;Haxbourgrace;people_birth
+l1410;Chipping Ongar;people_birth
+l1411;Southwark;people_birth
+l1412;4th mate MARQUIS OF WELLINGTON (1) 1814/5 (approved 1814;people_birth
+l1413;Pitfern;people_birth
+l1414;St Swithin's pa;people_birth
+l1415;1730;people_birth
+l1416;2nd mate SUFFOLK (1) 1758/9;people_birth
+l1417;purser PRINCESS CHARLOTTE OF WALES 1822/3;people_birth
+l1418;Surgeon at Benkulen;people_birth
+l1419;Baghent) seaman CIES @) 1792/3;people_birth
+l1420;4th mate BELVEDERE 1800/1 (approved 1801;people_birth
+l1421;aorington or Marington;people_birth
+l1422;& bao  Bermondsey;people_birth
+l1423;Spatree;people_birth
+l1424;Kensington;people_birth
+l1425;Weybridge;people_birth
+l1426;served im Jen Charnock's war agst the Nawab af Bengal 1636-87;people_birth
+l1427;MB 1785;people_birth
+l1428;ur Staynton;people_birth
+l1429;Stokesley;people_birth
+l1430;Datsham;people_birth
+l1431;4th mate LADY BURGES 1803/4;people_birth
+l1432;Caldecote Hall;people_birth
+l1433;Tilbury Fort;people_birth
+l1434;Kirkcaldy;people_birth
+l1435;St Andrew's;people_birth
+l1436;Nb toate POCOCIS 1258/9;people_birth
+l1437;Westdown;people_birth
+l1438;went home 1757;people_birth
+l1439;4th mate HUGH INGLIS 1815/6 (approved 1816;people_birth
+l1440;reinstated;people_birth
+l1441;4th mate GRENVILLE 1774/5 (approved 1775;people_birth
+l1442;Aweltenndsy;people_birth
+l1443;Gaicbonwugh;people_birth
+l1444;Coylton;people_birth
+l1445;Oban;people_birth
+l1446;Kiloredtomont;people_birth
+l1447;favo vorages to India;people_birth
+l1448;Wigton;people_birth
+l1449;resigned 1819;people_birth
+l1450;ap Basingstoke;people_birth
+l1451;Capt MORLEY 1828/9 orred;people_birth
+l1452;resigned Haskins;people_birth
+l1453;Cestieliond;people_birth
+l1454;co Durham;people_birth
+l1455;4th mate ALNWICK CASTLE 1814/5 (approved 1815;people_birth
+l1456;Liskeard;people_birth
+l1457;Dunbar;people_birth
+l1458;1785;people_birth
+l1459;& baw $ Ape Leyton;people_birth
+l1460;Illugan;people_birth
+l1461;3nd mate LORD MIACARTIOSY LPS ud mats BAR OF WiCOMILE Ts6r? (approved 1787;people_birth
+l1462;Northallerton;people_birth
+l1463;Web 17S4 Wells;people_birth
+l1464;Musselburgh;people_birth
+l1465;Richmond;people_birth
+l1466;Newcastle-on-Tyne;people_birth
+l1467;im Buwlend;people_birth
+l1468;4th mate UNION (5) 1806/7;people_birth
+l1469;Queensferry;people_birth
+l1470;3rd mate EUROPA (2) 1781/2 (approved 1782;people_birth
+l1471;Battle;people_birth
+l1472;b Havre de Grace;people_birth
+l1473;1st mate DUKE OF YORK (2) 1826/7 & 1828/9;people_birth
+l1474;2nd mate MINERVA (7) 1824/5;people_birth
+l1475;Grange;people_birth
+l1476;Maidstone;people_birth
+l1477;d Edinburgh active service Third Maratha War 1817-18;people_birth
+l1478;b Llanbadarn;people_birth
+l1479;midshipman HMS Monmouth;people_birth
+l1480;ap Rhayader;people_birth
+l1481;North Crescent;people_birth
+l1482;& hep St ives;people_birth
+l1483;Shorwell;people_birth
+l1484;presented as 4th mate LORD MACARTNEY 1795/6;people_birth
+l1485;Newport;people_birth
+l1486;Swansea;people_birth
+l1487;4th mate HUGH INGLIS 1809/10 (approved 1810;people_birth
+l1488;im England;people_birth
+l1489;pa St Michael's Cornhill;people_birth
+l1490;Montreal;people_birth
+l1491;Ulverston;people_birth
+l1492;Bardsea;people_birth
+l1493;ap Donagh;people_birth
+l1494;Sileby;people_birth
+l1495;Madras Asst Surgeon;people_birth
+l1496;4th mate VANSITTART 1772/3 (approved 1773;people_birth
+l1497;Bengal Supernumerary Surgeon;people_birth
+l1498;Harwood;people_birth
+l1499;Burntisland;people_birth
+l1500;Hammersmith;people_birth
+l1501;y & tap episcopal Chapel;people_birth
+l1502;Dingwall;people_birth
+l1503;Seo & tap St Colas;people_birth
+l1504;Whitekirk;people_birth
+l1505;Macias Asst Sunysem Noy 1782;people_birth
+l1506;Eastbourne;people_birth
+l1507;d LE Si Mathew's Pricey St;people_birth
+l1508;d b Barnstaple;people_birth
+l1509;Cape ASTELL 1823/4 & 1826/7 ‘ewin;people_birth
+l1510;Folkestone;people_birth
+l1511;4th mate RHODA 1757/8;people_birth
+l1512;Newburgh;people_birth
+l1513;Carnwath;people_birth
+l1514;Clackmannan;people_birth
+l1515;British garrison of New York;people_birth
+l1516;captured by French off Benkulen 794;people_birth
+l1517;run Lyons;people_birth
+l1518;Bengal Surgeon;people_birth
+l1519;cl1554 Basingstoke;people_birth
+l1520;Hunsdon;people_birth
+l1521;North Leith;people_birth
+l1522;1795;people_birth
+l1523;'b Beonsteple;people_birth
+l1524;Thorley;people_birth
+l1525;4th mate PIGOT (2) 1792/3 (approved 1793;people_birth
+l1526;Inch;people_birth
+l1527;1st mate DEVONSHIRE (2) 1771/2 (approved 1772;people_birth
+l1528;m South Mims;people_birth
+l1529;Llanereth Mead;people_birth
+l1530;Cramond;people_birth
+l1531;ap St John's;people_birth
+l1532;purser BOMBAY CASTLE (2) 1804/5;people_birth
+l1533;ret;people_birth
+l1534;6th mate COUTTS 1813/4;people_birth
+l1535;Markhal;people_birth
+l1536;Kelmelir;people_birth
+l1537;Inveraray;people_birth
+l1538;Killea;people_birth
+l1539;Dalrymple;people_birth
+l1540;Ardwally;people_birth
+l1541;d19 Fsb ig;people_birth
+l1542;Ll South Bnd;people_birth
+l1543;Whitehorn;people_birth
+l1544;Kirkgunzion;people_birth
+l1545;4b mate COUMLING 1808/3;people_birth
+l1546;Applecross;people_birth
+l1547;Glenluce;people_birth
+l1548;1805;people_birth
+l1549;d L761 Cape;people_birth
+l1550;4th mate HECTOR (3) 1775/6 (approved 1776;people_birth
+l1551;Capt CHARLES GRANT 1/2 oe jut Presents;people_birth
+l1552;Alphington;people_birth
+l1553;Cullen;people_birth
+l1554;Dorking;people_birth
+l1555;ap Totnes;people_birth
+l1556;Sap Reb St Dansten's;people_birth
+l1557;Leuchars;people_birth
+l1558;resigned 1771;people_birth
+l1559;Penningham;people_birth
+l1560;or Drummagh;people_birth
+l1561;Canonbie;people_birth
+l1562;Islington;people_birth
+l1563;1G 178] Aberdloons MRCS;people_birth
+l1564;Upper Borlunce;people_birth
+l1565;approved as 3rd mate LORD MACARTNEY 1782;people_birth
+l1566;ur Dittisham;people_birth
+l1567;ap Bavarian Chapel;people_birth
+l1568;Bratton;people_birth
+l1569;Twyford;people_birth
+l1570;pa St Benet's;people_birth
+l1571;St Paul's pa;people_birth
+l1572;Kilfinan;people_birth
+l1573;Dollerie;people_birth
+l1574;Dee Kelins;people_birth
+l1575;ap St George's;people_birth
+l1576;Anworth;people_birth
+l1577;Lerwick;people_birth
+l1578;St Bride;people_birth
+l1579;Boleskine & Abertarff pa;people_birth
+l1580;Cumnock;people_birth
+l1581;West Church pa;people_birth
+l1582;Forres;people_birth
+l1583;Harris;people_birth
+l1584;Seve;people_birth
+l1585;Abchurch Lane;people_birth
+l1586;Ballmascanlon House;people_birth
+l1587;St Anne's pa;people_birth
+l1588;Frant;people_birth
+l1589;Elie;people_birth
+l1590;Coldstream;people_birth
+l1591;Edward;people_birth
+l1592;Edrington;people_birth
+l1593;1st mate DUKE OF GRAFTON 1775/6 m Bishopwearmouth;people_birth
+l1594;ap Spilsby;people_birth
+l1595;Shoddon;people_birth
+l1596;1st mate ASIA (1) 1787/8 & 1790/1 m on board WINTERTON;people_birth
+l1597;Get Dublia;people_birth
+l1598;pa St John's;people_birth
+l1599;Exeter;people_birth
+l1600;pa St Leonard's Shoreditch;people_birth
+l1601;West Teignmouth;people_birth
+l1602;widow petitioned Poplar Fund m St Mary's;people_birth
+l1603;& bap.21 Hawick;people_birth
+l1604;Oxford;people_birth
+l1605;c1733 London;people_birth
+l1606;d Bath m Martha dau of James Taylor of Carmarthen;people_birth
+l1607;Wrotham;people_birth
+l1608;5b Noy Lenidam;people_birth
+l1609;Sevenhampton;people_birth
+l1610;2nd mate EUROPE (2) 1804/5;people_birth
+l1611;Wickenford;people_birth
+l1612;Wilbraham;people_birth
+l1613;Forecross Chancry;people_birth
+l1614;Kelins;people_birth
+l1615;Kingston;people_birth
+l1616;Monifieth;people_birth
+l1617;Berwick-upon-Tweed;people_birth
+l1618;Pitteneern;people_birth
+l1619;d Norris;people_birth
+l1620;Midlothian;people_birth
+l1621;Kirkby-over-Carr;people_birth
+l1622;South Ronaldsay;people_birth
+l1623;Itheringham;people_birth
+l1624;Mansfield;people_birth
+l1625;Tua;people_birth
+l1626;Dedham;people_birth
+l1627;Gib mate CHLARLIES GRANT 1816/7;people_birth
+l1628;Northampton;people_birth
+l1629;New Town;people_birth
+l1630;3rd mate WINDHAM (2) 1815/6 (approved 1816;people_birth
+l1631;3rd mate ROYAL CHARLOTTE (2) 1785/6 (approved 1786;people_birth
+l1632;Methil;people_birth
+l1633;BELVEDERE 1786/7 (approved 1787;people_birth
+l1634;Lichfield;people_birth
+l1635;Carlton;people_birth
+l1636;Plumstead;people_birth
+l1637;1st mate PIGOT (2) 1785/6 (approved 1786;people_birth
+l1638;Ballyshannon;people_birth
+l1639;Whitburn;people_birth
+l1640;d Madras active service Second Mysore War 1780-82;people_birth
+l1641;ap eb 1S] Newer;people_birth
+l1642;Leeds;people_birth
+l1643;pa St Faith's;people_birth
+l1644;1st mate ROYAL CHARLOTTE (2) 1785/6 (approved 1786;people_birth
+l1645;acig bombay Asst Surgeon 1905;people_birth
+l1646;run Russell;people_birth
+l1647;Kirkliston;people_birth
+l1648;Falkirk;people_birth
+l1649;Grade;people_birth
+l1650;& Bap Boreham;people_birth
+l1651;Bridewell Hospital;people_birth
+l1652;d Dysart m Lavinia Salmon Elizabeth b Andrew James b John Griffins b Mary b Lavinia b Christian Hunt b 1801/2;people_birth
+l1653;Bowden;people_birth
+l1654;Dean St;people_birth
+l1655;Haverfordwest;people_birth
+l1656;Abercorn;people_birth
+l1657;Birlingham;people_birth
+l1658;3rd mate ATLAS (1) 1784/5 (approved 1785;people_birth
+l1659;Ratho;people_birth
+l1660;Carlisle;people_birth
+l1661;Capt HARCOURT (2) 1764/5 & 1767/8;people_birth
+l1662;3rd mate CARNATIC (3) 1814/5 (approved 1815;people_birth
+l1663;Kinnaird;people_birth
+l1664;hae Baglanc);people_birth
+l1665;April Madeira;people_birth
+l1666;Heckfield;people_birth
+l1667;4th mate WALPOLE (4) 1782/3 (approved 1783;people_birth
+l1668;Epsom;people_birth
+l1669;3rd mate PONSBORNE (2) 1779/80 (approved 1780;people_birth
+l1670;Woodside Cottage nr Windsor;people_birth
+l1671;Witton-le-Wear;people_birth
+l1672;Lassuden;people_birth
+l1673;1st mate BENGAL (2) 1807/8;people_birth
+l1674;Ackleby;people_birth
+l1675;2nd mate BOMBAY (3) Laura Louisa b Ellen Susan b;people_birth
+l1676;ap Nettlestead;people_birth
+l1677;net;people_birth
+l1678;Kirkcudbright;people_birth
+l1679;Daviot;people_birth
+l1680;Durham;people_birth
+l1681;Netherley;people_birth
+l1682;suageu PALMIOUTIE 1764/5;people_birth
+l1683;Auldearn;people_birth
+l1684;3rd mate SCALEBY CASTLE 1815/6 (approved 1816;people_birth
+l1685;invalided;people_birth
+l1686;Walsingham;people_birth
+l1687;m Edmonton;people_birth
+l1688;Linlithgow;people_birth
+l1689;Witheridge;people_birth
+l1690;3rd mate ATLAS (4) 1816/7 & 1818/9;people_birth
+l1691;4th mate CITY OF LONDON 1808/9;people_birth
+l1692;ap St Mary's Rotherhithe;people_birth
+l1693;Clechpoldich;people_birth
+l1694;Chresenham;people_birth
+l1695;2nd mate BRITANNIA (4) 1780;people_birth
+l1696;Acomb nr Hexham;people_birth
+l1697;St Helen's pa;people_birth
+l1698;Collier Row Lane;people_birth
+l1699;& bep St Jolm's;people_birth
+l1700;Threadneedle St;people_birth
+l1701;midshipman HMS Squirrel;people_birth
+l1702;Kirkpatrick Fleming;people_birth
+l1703;Graveley;people_birth
+l1704;Maw Staithes ar Whithy;people_birth
+l1705;Delville nr Dublin;people_birth
+l1706;mc1615 Anne dau of William Megg;people_birth
+l1707;Damhead;people_birth
+l1708;Inverleithen;people_birth
+l1709;1st mate ROYAL BISHOP 1785/6 (approved 1786;people_birth
+l1710;1st mate RELIANCE 1829/30 & 1831/2 O23 & Many's;people_birth
+l1711;ap Deal;people_birth
+l1712;Blackrock;people_birth
+l1713;d Malacca Sheen;people_birth
+l1714;tn Bland;people_birth
+l1715;Tannadice;people_birth
+l1716;1772;people_birth
+l1717;Cumbernauld;people_birth
+l1718;d active service Second Maratha War 1802-03;people_birth
+l1719;Sec monte DUNNE OF GIRAITION 1775/6 (approved 1778;people_birth
+l1720;Polmont;people_birth
+l1721;Packington;people_birth
+l1722;Burlingham St Andrew;people_birth
+l1723;Ewell;people_birth
+l1724;approved as 1st mate ROYAL CHARLOTTE (2) 1786;people_birth
+l1725;Garrock;people_birth
+l1726;Woodford Bridge;people_birth
+l1727;Teddington;people_birth
+l1728;Fifeshire;people_birth
+l1729;4th mate EARL CORNWALLIS 1783/4 (approved 1784;people_birth
+l1730;Vellore;people_birth
+l1731;d m  Wolverhampton;people_birth
+l1732;3rd mate LORD WALSINGHAM 1786/7 (approved 1787;people_birth
+l1733;Binny;people_birth
+l1734;suspended 1786;people_birth
+l1735;St Etheldred's pa;people_birth
+l1736;dae;people_birth
+l1737;transf to HMS Hyena;people_birth
+l1738;'b Sectlendl appoenttive Cecalline amele;people_birth
+l1739;approved as 4th mate BRIDGEWATER (3) 1788;people_birth
+l1740;3rd mate LORD MACARTNEY 1782/3 (approved 1783;people_birth
+l1741;dismissed;people_birth
+l1742;Stoke;people_birth
+l1743;ap St Leonard's;people_birth
+l1744;lo Broughton;people_birth
+l1745;drowned m St Mary;people_birth
+l1746;1st mate LOYALIST 1795/6 m Ramsey;people_birth
+l1747;Woodford;people_birth
+l1748;Avening;people_birth
+l1749;Kennington;people_birth
+l1750;punser ANNES @) 16?a/s Harriet b Ellen b;people_birth
+l1751;Lowestoft;people_birth
+l1752;Bowdon;people_birth
+l1753;VY Mint & Ibap Cross St Chapel;people_birth
+l1754;Throgmorton St;people_birth
+l1755;5th mate LADY BURGES 1803/4;people_birth
+l1756;Denny;people_birth
+l1757;ur St Giles-in-the-Fields;people_birth
+l1758;d {;people_birth
+l1759;ap Ware;people_birth
+l1760;Hedon;people_birth
+l1761;Hedon-in-Holderness;people_birth
+l1762;went heme on GENERAL ELLIOT 1784;people_birth
+l1763;Suptdg Surgeon;people_birth
+l1764;Dailly;people_birth
+l1765;Cathcart;people_birth
+l1766;Member of Medical Board 1808;people_birth
+l1767;Pakefield;people_birth
+l1768;Ifield Court;people_birth
+l1769;widow petitioned Poplar Fund m Bombay;people_birth
+l1770;Noy & bop Dee & Hamer Piccadilly;people_birth
+l1771;Llantrissant;people_birth
+l1772;Hailsham;people_birth
+l1773;Bathford;people_birth
+l1774;3rd mate HERCULEAN 1801/2;people_birth
+l1775;Colworth;people_birth
+l1776;Oving;people_birth
+l1777;1766;people_birth
+l1778;1767;people_birth
+l1779;Devynnock;people_birth
+l1780;ap St Nicholas;people_birth
+l1781;St Columb;people_birth
+l1782;Alrewas;people_birth
+l1783;Walberswick;people_birth
+l1784;Newcastle;people_birth
+l1785;Sidmouth;people_birth
+l1786;pa St John the Baptist;people_birth
+l1787;examined as 3rd mate DUTTON (2) 1791;people_birth
+l1788;Sotterley;people_birth
+l1789;Principal Managing Owner EGMONT (2) 1766/7-1772/3 m Elizabeth Webster;people_birth
+l1790;pa St Stephen's Walbrook;people_birth
+l1791;4th mate MIDDLESEX (2) 1789/9 (approved 1789;people_birth
+l1792;Wareham;people_birth
+l1793;Philadelphia;people_birth
+l1794;3rd mate MARQUIS OF WELLINGTON (1) 1812/3 Wilkinson;people_birth
+l1795;Langstephan;people_birth
+l1796;1739;people_birth
+l1797;Galashiels;people_birth
+l1798;Capt CARNATIC 1785/6 (approved 1786;people_birth
+l1799;Verdun;people_birth
+l1800;Bishop Wearmouth;people_birth
+l1801;Weller;people_birth
+l1802;Boarhunt;people_birth
+l1803;lost wreck;people_birth
+l1804;St Pancras;people_birth
+l1805;Great Snoring;people_birth
+l1806;St James' pa;people_birth
+l1807;Kilconquhar;people_birth
+l1808;Preston;people_birth
+l1809;ap St Paul's Covent Garden;people_birth
+l1810;d London;people_birth
+l1811;Rodborough;people_birth
+l1812;Inveresk;people_birth
+l1813;ap St Botolph Bishopsgate;people_birth
+l1814;St Petersburg;people_birth
+l1815;Wemyss Castle;people_birth
+l1816;rejoined at Bombay;people_birth
+l1817;Wellington;people_birth
+l1818;Ide;people_birth
+l1819;4th mate MARQUIS OF ROCKINGHAM (2) 1775/6 (approved 1776;people_birth
+l1820;England apprentice Speedwell Straits trade;people_birth
+l1821;surgeon UNION (4) 1810/1;people_birth
+l1822;ap Feathard;people_birth
+l1823;ap St Luke's;people_birth
+l1824;Shrewsbury;people_birth
+l1825;ap St Botolph Aldgate;people_birth
+l1826;3rd mate AIRLY CASTLE 1797/8 (approved 1798;people_birth
+l1827;L Oet 196? Norwich;people_birth
+l1828;Alnwick;people_birth
+l1829;1692;people_birth
+l1830;lb Ape ct Igy St Pauls;people_birth
+l1831;4th mate ROYAL CHARLOTTE 1785/6 (approved 1786;people_birth
+l1832;ap West Ham;people_birth
+l1833;3rd mate PIGOT (2) 1785/6 (approved 1786;people_birth
+l1834;d on board Alfred off Saugor active service China 1840-41;people_birth
+l1835;Asst Surgeon HM 67th Foot 1809;people_birth
+l1836;Horsham;people_birth
+l1837;Ironchurch;people_birth
+l1838;Cupar;people_birth
+l1839;Strichen;people_birth
+l1840;surgeon of Bombay Marine grab Restoration;people_birth
+l1841;ap Camberwell;people_birth
+l1842;Kent;people_baptised
+l1843;Hants;people_baptised
+l1844;Pembroke;people_baptised
+l1845;Colchester;people_baptised
+l1846;Wakefield;people_baptised
+l1847;Salford;people_baptised
+l1848;Stirlingshire;people_baptised
+l1849;Northumberland;people_baptised
+l1850;Surrey;people_baptised
+l1851;Londen;people_baptised
+l1852;Middx;people_baptised
+l1853;Dorset;people_baptised
+l1854;Devon;people_baptised
+l1855;Great Yarmouth;people_baptised
+l1856;Commwvalll;people_baptised
+l1857;London s of Charles;people_baptised
+l1858;Shadwell;people_baptised
+l1859;Suffolk;people_baptised
+l1860;Berks;people_baptised
+l1861;Essex;people_baptised
+l1862;Banbury;people_baptised
+l1863;Yorkslulse;people_baptised
+l1864;Sussex;people_baptised
+l1865;Leics;people_baptised
+l1866;Chester;people_baptised
+l1867;Denbigh;people_baptised
+l1868;Bast Lothian;people_baptised
+l1869;Blackheath;people_baptised
+l1870;Glos;people_baptised
+l1871;Notts;people_baptised
+l1872;Westminster;people_baptised
+l1873;Tun Sheerness;people_baptised
+l1874;Tower of London Chapel;people_baptised
+l1875;Kewl;people_baptised
+l1876;St Pater Pon;people_baptised
+l1877;Wilts;people_baptised
+l1878;Herefords;people_baptised
+l1879;Bumts;people_baptised
+l1880;Hunts;people_baptised
+l1881;Fife;people_baptised
+l1882;Thanet;people_baptised
+l1883;Greenwich;people_baptised
+l1884;Rochester;people_baptised
+l1885;Stockton-on-Tees;people_baptised
+l1886;Somerset;people_baptised
+l1887;Camberwell;people_baptised
+l1888;Doctors' Commons;people_baptised
+l1889;Cheshire;people_baptised
+l1890;York;people_baptised
+l1891;IoW;people_baptised
+l1892;Bermondsey;people_baptised
+l1893;Hull;people_baptised
+l1894;Norfolk;people_baptised
+l1895;Staffs;people_baptised
+l1896;Yorks;people_baptised
+l1897;Clos;people_baptised
+l1898;Hanover Sq;people_baptised
+l1899;Dorchester;people_baptised
+l1900;Argyle;people_baptised
+l1901;Fleet St;people_baptised
+l1902;Srepacy;people_baptised
+l1903;Doncaster;people_baptised
+l1904;Chelsea;people_baptised
+l1905;Clerkenwell;people_baptised
+l1906;Louden;people_baptised
+l1907;Worcs;people_baptised
+l1908;Cornwall;people_baptised
+l1909;Montgomery;people_baptised
+l1910;Nottingham;people_baptised
+l1911;Hackney;people_baptised
+l1912;White Row;people_baptised
+l1913;Deptiond;people_baptised
+l1914;Berwick-on-Tweed;people_baptised
+l1915;Fite;people_baptised
+l1916;Cammerthen;people_baptised
+l1917;Stitton. Suffolk;people_baptised
+l1918;Berwickshire;people_baptised
+l1919;Caithness;people_baptised
+l1920;Sneoney;people_baptised
+l1921;Warwicks;people_baptised
+l1922;Roxburgshire;people_baptised
+l1923;Worcester;people_baptised
+l1924;Gt Berkhamsted;people_baptised
+l1925;Rotherhithe;people_baptised
+l1926;Lancs;people_baptised
+l1927;Soho;people_baptised
+l1928;Leicester;people_baptised
+l1929;Bow;people_baptised
+l1930;Cambridge;people_baptised
+l1931;Otley;people_baptised
+l1932;Bormateple;people_baptised
+l1933;Holborn;people_baptised
+l1934;West Ham;people_baptised
+l1935;Lincs;people_baptised
+l1936;Merioneth;people_baptised
+l1937;Herts;people_baptised
+l1938;Bloomsbury;people_baptised
+l1939;Phillack;people_baptised
+l1940;Nortel;people_baptised
+l1941;‘Kent;people_baptised
+l1942;Lanarks;people_baptised
+l1943;Piccadilly;people_baptised
+l1944;[Essex?];people_baptised
+l1945;Garwald;people_baptised
+l1946;Salop;people_baptised
+l1947;Poplar;people_baptised
+l1948;Old Jewry;people_baptised
+l1949;Sul;people_baptised
+l1950;3rd s of John;people_baptised
+l1951;Dumtfries;people_baptised
+l1952;Glamorgan;people_baptised
+l1953;Northants;people_baptised
+l1954;Pembrokeshire;people_baptised
+l1955;co Durbem;people_baptised
+l1956;Montego Bay;people_baptised
+l1957;Radnor;people_baptised
+l1958;Fes Monpbie;people_baptised
+l1959;New Ross;people_baptised
+l1960;Waltham;people_baptised
+l1961;Brecon;people_baptised
+l1962;Chard;people_baptised
+l1963;Penzance;people_baptised
+l1964;Lichfield Cathedral;people_baptised
+l1965;Gloucs;people_baptised
+l1966;Hampstead;people_baptised
+l1967;Wapping;people_baptised
+l1968;Kimg*s Lymn;people_baptised
+l1969;Argyll;people_baptised
+l1970;Newmgion;people_baptised
+l1971;Tain;people_baptised
+l1972;London Wall;people_baptised
+l1973;Haw;people_baptised
+l1974;Ayshire;people_baptised
+l1975;East Lothian;people_baptised
+l1976;Wigtown;people_baptised
+l1977;Hawkshead;people_baptised
+l1978;Kincardine;people_baptised
+l1979;Winchester;people_baptised
+l1980;Guildford;people_baptised
+l1981;Stroud;people_baptised
+l1982;Derset;people_baptised
+l1983;co Antrim;people_baptised
+l1984;Jam Kinnonle;people_baptised
+l1985;Oxon;people_baptised
+l1986;Brighton;people_baptised
+l1987;Selkirk;people_baptised
+l1988;Roxburghs;people_baptised
+l1989;Hythe;people_baptised
+l1990;Glandwr;people_baptised
+l1991;Thirsk;people_baptised
+l1992;Kendal;people_baptised
+l1993;Cartmel;people_baptised
+l1994;Flints;people_baptised
+l1995;Westmorland;people_baptised
+l1996;Evesham;people_baptised
+l1997;Taunton;people_baptised
+l1998;co Cork;people_baptised
+l1999;Suftell;people_baptised
+l2000;Survey;people_baptised
+l2001;Sandwich;people_baptised
+l2002;Cockermouth;people_baptised
+l2003;Long Buckley;people_baptised
+l2004;Huntingdon;people_baptised
