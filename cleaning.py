@@ -15,10 +15,13 @@ def cleaner(lines):
     for line in lines:
         line = line.strip()
         # Clean characters: dot to line etc.
+        line = line.strip(">")
+        line = line.strip("<")
+        line = line.strip("^")
+        line = line.strip("â€¢")
         line = line.replace("\t", " ")
         line = line.replace("â€™", "\'")
         line = line.replace("â€˜", "\'")
-        line = line.strip("â€¢")
         # Line break before L/MAR
         if "L/MAR" in line[5:]:
             line_split = line.split("L/MAR")
@@ -87,7 +90,7 @@ def officer_clean(file_ocr):
     file_lines = []
     for line in lines:
         # Clean line
-        clean_line = re.sub(r"\|", "", line)
+        clean_line = re.sub(r"\||\[|\]", "", line)
         # Get lines with content
         if len(line) > 3:
             clean_line = clean_line.strip("â€˜")
@@ -95,6 +98,7 @@ def officer_clean(file_ocr):
             clean_line = clean_line.strip("’ ")
             clean_line = clean_line.replace("’", "\'")
             clean_line = clean_line.replace(":", ";")
+            clean_line = clean_line.replace("l", "1")
             clean_line = clean_line.replace("Ist", "1st")
             clean_line = clean_line.replace("Sth", "5th")
             clean_line = clean_line.replace("Sad", "2nd")
@@ -104,21 +108,22 @@ def officer_clean(file_ocr):
     return file_lines
 
 officer_folder_list = glob(path.join(dir, "officers_png/*"))
-if not path.exists(path.join(dir, "officers_ocr")):
-    makedirs(path.join(dir, "officers_ocr"))
+overall_list = []
+if not path.exists(path.join(dir, "officers_text")):
+    makedirs(path.join(dir, "officers_text"))
 for folder in officer_folder_list: 
     folder_title = folder.split("\\")[-1].split(".")[0]
-    if not path.exists(path.join(dir, "officers_ocr", folder_title + ".txt")):
+    if not path.exists(path.join(dir, "officers_text", folder_title + ".txt")):
         files = glob(folder + "/*")
         folder_ocr = []
         for file in files:
             file_ocr = pytesseract.image_to_string(Image.open(file))
             folder_ocr += file_ocr
-        with open(path.join(dir, "officers_ocr", folder_title + ".txt"), "w") as output:
+        with open(path.join(dir, "officers_text", folder_title + ".txt"), "w") as output:
             for char in folder_ocr:
                 output.write(char)
     print(folder_title + ": OCR done")
-ocr_file_list = glob(path.join(dir, "officers_ocr/*"))
+ocr_file_list = glob(path.join(dir, "officers_text/*"))
 if not path.exists(path.join(dir, "officers_clean")):
     makedirs(path.join(dir, "officers_clean"))
 for file in ocr_file_list: 
@@ -126,7 +131,11 @@ for file in ocr_file_list:
     with open(file, "r") as input:
         file_content = input.read()
     file_lines = officer_clean(file_content)
+    overall_list += file_lines
     with open(path.join(dir, "officers_clean", file_title + ".txt"), "w") as output:
         for line in file_lines:
             output.write(line + "\n")
     print(file_title + ": Cleaning done")
+with open(path.join(dir, "combined/people.txt"), "w") as output:
+    for line in overall_list:
+        output.write(line + "\n")

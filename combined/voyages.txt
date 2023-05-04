@@ -30,7 +30,7 @@ L/MAR/B/71F(1) Ledger
 L/MAR/B/71F(2) Pay Book
 Capt John Innes
 Downs 21 Feb 1828 - 5 Jun Bombay - 3 Sep Malacca - 26 Sep Whampoa -12 Dec Macao - 22 Feb 1829 St Helena - 20 Apr Blackwall
-3 1829/30 Bombay and China 7
+3 1829/30 Bombay and China
 L/MAR/B/71C Journal 3 Dec 1829-10 May 1831
 L/MAR/B/71 G(l) Ledger
 L/MAR/B/71 G(2) Pay Book
@@ -174,7 +174,7 @@ Built by Hudson & Bacon at Calcutta 1798, 511 tons Sold in England for a store s
 L/MAR/B/342A Journal 28 Dec 1799-28 Oct 1800 
 Capt William Lay
 Calcutta 28 Dec 1799 - 15 Jun 1800 St Helena - 2 Sep Falmouth - 5 Oct Deptford
-2     2 From Bengal 1803
+2     From Bengal 1803
 L/MAR/B/342B Journal 1 Jan-26 Sep 1803
 L/MAR/B/342C Journal 1 Jan-27 Sep 1803, George Walden, Second Mate
 Calcutta 1 Jan 1803 - 1 Feb Kedgeree -16 Jul St Helena -27 Sep Gravesend
@@ -1128,7 +1128,7 @@ L/MAR/B/149L(1) Ledger
 L/MAR/B/149L(2) Pay Book
 Capt Campbell Maijoribanks
 Downs 31 Dec 1801 - 9 Mar 1802 St Helena -10 Jun Benkulen -12 Jul Penang - 31 Aug Whampoa - 24 Oct Second Bar -11 Feb 1803 St Helena - 26 Apr Long Reach
-5     5 1803/4 China
+5     1803/4 China
 L/MAR/B/149E Journal 25 Feb 1804-13 Nov 1805
 L/MAR/B/149M(1) Ledger
 L/MAR/B/149M(2) Pay Book
@@ -4354,7 +4354,7 @@ Originally built for the Turkey trade, 3 decks, 40/46 guns, 128/132 crew, 660 to
 NMM: Ms.8097 Copy journal 4 Aug-12 Dec 1686, Hugh Levellis, Chief
 Capt James Bonnell
 Downs 31 Dec 1684 - Madras 4 Aug 1686 - 14 Sep Sumatra - 4 Oct Benkulen - 26 May 1687 Downs
-2 1688/9 Madras ^
+2 1688/9 Madras 
 L/MAR/A/LXXXIX Journal 4 Feb 1689-2 Jan 1691 
 Capt John Bonnell
 Downs 6 Mar 1689 - 15 Jul Cape - 5 Nov Madras - 24 May 1690 Mauritius - 8 Oct St Helena - 28 Jan 1691 Downs
@@ -7807,7 +7807,7 @@ L/MAR/B/490D Journal 23 Oct 1782-19 May 1785
 L/MAR/B/490H(1) Ledger
 L/MAR/B/490H(2) Pay Book
 L/MAR/B/490H(3) Absence Book
-Portsmouth 11 Mar 1783 - 2 Apr Sao Tiago -18 Jul Johanna - 29 Aug Madras - 22 Nov Batevia - M Feb 1784 Whampoa - 7 Apr Second Bar -18 Jul Malacca - 2 Nov St Helena - 4 Apr 1785 Downs
+Portsmouth 11 Mar 1783 - 2 Apr Sao Tiago -18 Jul Johanna - 29 Aug Madras - 22 Nov Batavia - M Feb 1784 Whampoa - 7 Apr Second Bar -18 Jul Malacca - 2 Nov St Helena - 4 Apr 1785 Downs
 EARL OF WYCOMBE
 Built at Liverpool, launched 1786, 3 decks, 4in bottom, length 128ft, keel 102ft 1'^n' gy4in hold 12ft llin, wing transom 20ft 3in, port cell 23ft 2in, waist 5m, between decks 5ft 6m & 6ft, roundhouse 6ft lin, ports 10 middle & 8 upper, deck range 73ft 655 tons Principal Managing Owners; 1-3 Anthony Brough, 4-6 John Woolmore
 1 1786/7 China
@@ -8835,7 +8835,7 @@ L/MAR/B/138G Journal 27 Jan 1796-17 Mar 1798
 Calcutta 2^13^96^24 Feb Saugor - 30 Jul St Augustine's Bay - 20 Sep Bombay - 27 Mar 1797 Trincomalee -19 Oct Cape -10 Dec St Helena - 30 Jan 1798 Downs
 2 From Bengal 1800
 L/MAR/B/138H Journal 1 Feb-27 Sep 1800
-Capt Anthony Dunlop ^
+Capt Anthony Dunlop 
 Calcutta 1 Feb 1800 - 8 Mar Kedgeree -17 Jun St Helena - 6 Sep Downs
 3 From Bengal 1801 . .
 L/MAR/B/138J Journal 1 Jul 1801-22 Mar 1802, James Guthne, Chief Mate
@@ -9325,7 +9325,7 @@ FORT WILLIAM (3)
 Built at Calcutta, launched 1806, 3 decks, 4'Ain bottom, length 162ft 6in, keel 132ft, breadth 46ft 3in, hold 16ft Sin, wing transom 25ft Sin, port cell 29ft, waist 1ft lOin, between decks 6ft 6in & 6ft 6%m, roundhouse 6ft Sin, ports 14 middle & 13 upper, deck range 99ft, 1137 tons Principal Managing Owners: Gilmore & Co
 1 From India 1809
 L/MAR/B/91H Journal 12 Oct 1809-29 Jun 1810, anon [Parsons?]
-'East Indies' 12 Oct 1809 - 25 Dec Cape -13 Jan 1810 St Helena - 24 Mar Greenhithe
+˜East Indies' 12 Oct 1809 - 25 Dec Cape -13 Jan 1810 St Helena - 24 Mar Greenhithe
 2 From China 1812
 L/MAR/B/91-I Journal 29 Jul 1812-15 Jul 1813
 Capt J R Parish
@@ -10476,7 +10476,7 @@ Portsmouth 7 Mar 1779 - 5 Apr Madeira - 9 May Goree - 30 Jul Cape -18 Jan 1780 M
 GRANT
 1 1800/1 Bengal
 L/MAR/B/376A Journal 16 Dec 1800-18 Jan 1802, anon
-'English coast' 16 Dec 1800 - 30 Apr 1801 Calcutta - left Bengal 25 Jul -18 Jan 1802 off Dungeness
+˜English coast' 16 Dec 1800 - 30 Apr 1801 Calcutta - left Bengal 25 Jul -18 Jan 1802 off Dungeness
 GRANTHAM (1)
 Rated at 450/470 tons, 90/94 crew 36/40 guns
 1 1711/2 Bombay
@@ -14208,7 +14208,7 @@ L/MAR/B/1BB(1) Ledger
 L/MAR/B/1BB(2) Pay Book
 Capt Richard Allwight
 Portsmouth 20 Apr 1758 - 1 Aug St Augustine's Bay -12 Oct Madras -17 Nov Culpee - 8 Jan 1759 Ingeli -18 Feb Benkulen - 21 Jun St Helena -17 Sep Kinsale -19 Oct Downs
-4 1759/60 Bombay<
+4 1759/60 Bombay
 L/MAR/B/IC Journal 16 Mar 1760-5 Feb 1762
 L/MAR/B/1CC(1) Ledger
 L/MAR/B/1 CC(2) Pay Book
@@ -15517,7 +15517,7 @@ Capt James Temple Brown
 Downs 21 Jun 1830-13 Nov Calcutta-9 Feb 1831 Kodgeree-20 Apr Cape -1 Jun St Helena- 4 Aug Downs
 MAJOR
 Built by Randall, launched 1781, 3 decks, 4in bottom, length 1438 9in, keel 117, breadth 35th Han hold 14ft 9in, wing transom 22 100, port cell 26ft 3in, between decks di Nin & m roundhouse 6ft 4in, ports 13 middle & upper, 768 tons Principal Managing Owner Gilbert Slater
-1 1781/2 Madras and Chins
+1 1781/2 Madras and China
 L/MAR/B/780A(1) Imprest Book
 L/MAR/B/780A(2) Absence Book
 Capt David Arthur
@@ -17634,7 +17634,7 @@ NORTHAMPTON (3)
 1 From China 1816
 L/MAR/B/198-1 Journal 14 Jan-26 Sep 1816 
 Capt John A Tween
-'At China' 14 Jan 1816 -17 Jan Whampoa - 2 Mar First Bar - 25 Jun St Helena - 4 Sep Downs
+˜At China' 14 Jan 1816 -17 Jan Whampoa - 2 Mar First Bar - 25 Jun St Helena - 4 Sep Downs
 NORTHINGTON
 Built by Wells, launched 1766, 3 decks, 3in bottom, length 136ft, keel 109ft S'/dn, breadth 34ft 53/4in, hold 14ft 4in, wing transom 22ft 6in, port cell 26ft 31/2in, between decks 5ft 71/2in, 693 tons Principal Managing Owners: 1-2 John Durand, 3 William Nixon, 4 John Durand
 1 1766/7 Bengal and Madras
@@ -18425,7 +18425,8 @@ Downs 1 Apr 1610 - Jul Cape - 25 Oct Socotra - 7 Nov Aden - Mokha 19 Jun 1611 - 
 2 1614/5 Surat and Bantam 
 Capt Christopher Harris
 Downs 23 Feb 1615 - 5 Jun Cape - 22 Jul Moheli - 24 Aug Socotra -18 Sep Surat 19 Feb 1616 - 25 Apr Acheh - Jul Tiku - Bantam - Starits of Sunda 28 Feb 1617 -16 May Cape - 25 Aug Plymouth
-3 1617/8 Bantam Master Matthew Morton
+3 1617/8 Bantam
+Master Matthew Morton
 Downs Mar 1618 -19 Nov Bantam - Jul 1619 Masulipatam - Oct 1620 Batavia - joined Anglo-Dutch Fleet of Defence based in Japan 1621-22 - laid up in Java 1623 as a careening hulk
 PERSEUS
 1 New South Wales
@@ -19989,7 +19990,7 @@ L/MAR/B/176B Journal 7 Jun 1810-17 Oct 1812
 L/MAR/B/176C-D Journal 14 May 1811-17 Oct 1812, Forrest Hamilton, Chief Mate 
 Capt Andrew Barclay
 Portsmouth 7 Sep 1810 -12 Sep Cork - 23 Dec Falmouth 21 Jan 1811 - 23 Mar Rio de Janeiro - 2 Jul Sydney -16 Dec Whampoa - 3 Feb 1812 Second Bar - 24 Apr Simons Bay - 10 Jun St Helena - 4 Sep Falmouth -15 Sep Downs
-3 1815/6 Si Helena and China
+3 1815/6 St Helena and China
 L/MAR/B/176E Journal 19 Jan 1816-21 Aug 1817
 L/MAR/B/176G(1) Ledger
 L/MAM/B/176G(2) Pay Book
@@ -21606,7 +21607,7 @@ New Company
 L/MAK/A/CLXXI Journal 6 Dec 1701-26 Jun 1703, anon
 L/MAR/B/119B Ledger
 Capt Finch Reddall
-'Caracf 6 Dec 1701 - 27 Dec Genoa -11 Jan 1702 Leghorn - 5 Feb Genoa - 25 Mar 1702 Dover - Plymouth 30 Sep - 26 Oct Sao Tiago - 2 Jan 1703 Cape - 10 Apr Benkulen - 28 Apr Batavia - 23 May Samarang - 2 Jun Batavia -
+˜Caracf 6 Dec 1701 - 27 Dec Genoa -11 Jan 1702 Leghorn - 5 Feb Genoa - 25 Mar 1702 Dover - Plymouth 30 Sep - 26 Oct Sao Tiago - 2 Jan 1703 Cape - 10 Apr Benkulen - 28 Apr Batavia - 23 May Samarang - 2 Jun Batavia -
 SAMUEL AND HENRY
 2 decks, length 84ft, breadth 28ft, death lift, between decks 6ft, 70 crew, 30 guns, 350 tons
 1 1674/5 Madras and Bengal
@@ -24328,7 +24329,7 @@ L/MAR/B/297D Journal 24 Feb 1761-7 Sep 1763
 L/MAR/B/297U(1) Ledger
 L/MAR/B/297U(2) Pay Book
 Capt Thomas Crichton
-Portsmouth 26 May 1761 - 15 Aug Rio dc Janeiro - 12 Dec Anjengo - 15 Doc Cochin - 20 Doc Tellicherry - 11 Jan 1762 Bombay - 9 Mar Surat - 18 Mar Bombay - 1 Apr Surat - 26 Apr Bombay - 13 May Tellicheny - 30 May Madras - 19 Jul Malacca -19 Aug Whampoa - 21 Jan 1763 'Pulo Auroe' - 14 Apr St Helena -15 Jul Downs
+Portsmouth 26 May 1761 - 15 Aug Rio dc Janeiro - 12 Dec Anjengo - 15 Dec Cochin - 20 Dec Tellicherry - 11 Jan 1762 Bombay - 9 Mar Surat - 18 Mar Bombay - 1 Apr Surat - 26 Apr Bombay - 13 May Tellicheny - 30 May Madras - 19 Jul Malacca -19 Aug Whampoa - 21 Jan 1763 'Pulo Auroe' - 14 Apr St Helena -15 Jul Downs
 2 1764/5 Madras and Bombay
 L/MAR/B/297E Journal 6 Jan 1765-27 Oct 1766
 L/MAR/B/297V(1) Ledger

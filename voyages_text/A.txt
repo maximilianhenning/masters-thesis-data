@@ -30,7 +30,7 @@ L/MAR/B/71F(1)	Ledger
 L/MAR/B/71F(2)	Pay Book
 Capt John Innes
 Downs 21 Feb 1828 - 5 Jun Bombay - 3 Sep Malacca - 26 Sep Whampoa -12 Dec Macao - 22 Feb 1829 St Helena - 20 Apr Blackwall
-    3 1829/30	Bombay and China	7
+    3 1829/30	Bombay and China
 L/MAR/B/71C	Journal 3 Dec	1829-10	May 1831
 L/MAR/B/71 G(l)	Ledger
 L/MAR/B/71 G(2)	Pay Book
@@ -163,7 +163,7 @@ Built by Hudson & Bacon at Calcutta 1798, 511 tons Sold in England for a store s
     1 From Bengal 1799
 L/MAR/B/342A Journal 28 Dec 1799-28 Oct 1800 Capt William Lay
 Calcutta 28 Dec 1799 - 15 Jun 1800 St Helena - 2 Sep Falmouth - 5 Oct Deptford
-2     2 From Bengal 1803
+2     From Bengal 1803
 L/MAR/B/342B	Journal 1 Jan-26 Sep 1803
 L/MAR/B/342C	Journal 1 Jan-27 Sep 1803, George Walden, Second Mate
 Calcutta 1 Jan 1803 - 1 Feb Kedgeree -16 Jul St Helena -27 Sep Gravesend
@@ -1084,7 +1084,7 @@ L/MAR/B/149L(1)	Ledger
 L/MAR/B/149L(2)	Pay Book
 Capt Campbell Maijoribanks
 Downs 31 Dec 1801 - 9 Mar 1802 St Helena -10 Jun Benkulen -12 Jul Penang - 31 Aug Whampoa - 24 Oct Second Bar -11 Feb 1803 St Helena - 26 Apr Long Reach
-	5     5 1803/4	China
+	5     1803/4	China
 L/MAR/B/149E	Journal 25 Feb	1804-13	Nov	1805
 L/MAR/B/149M(1)	Ledger
 L/MAR/B/149M(2)	Pay Book
