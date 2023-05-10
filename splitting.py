@@ -555,7 +555,7 @@ def geocoded_df_creator(geocoded_dict):
     return geocoded_df
 geocoded_df = geocoded_df_creator(geocoded_dict)
 
-# Manual annotation, XXXX rework so that manual annotation overrides automatic geocoding
+# Manual annotation
 
 locations_geocoded_df = pd.merge(locations_df, geocoded_df, 
                             how = "left", 
@@ -564,19 +564,36 @@ locations_geocoded_df = pd.merge(locations_df, geocoded_df,
                             )
 locations_geocoded_df = locations_geocoded_df[["location_id", "location", "category", "lat", "lon"]]
 locations_annotate_df = locations_geocoded_df.loc[locations_geocoded_df["lat"].isna()]
+locations_annotate_df.drop(columns = ["location_id"], inplace = True)
 # Create annotate file if it doesn't exist yet
 if not path.exists(dir + "/geocoding/annotate.csv"):
     pd.DataFrame.to_csv(locations_annotate_df, path.join(dir, "geocoding/annotate.csv"), encoding = "utf-8", sep = ";", index = False)
     locations_annotate_combined_df = locations_annotate_df
+    locations_complete_df = locations_geocoded_df
 # Otherwise, load locations that have been annotated there
 else:
     locations_annotated_df = pd.read_csv(path.join(dir, "geocoding/annotate.csv"), encoding = "utf-8", sep = ";")
     locations_annotated_df = locations_annotated_df.loc[locations_annotated_df["lat"].notna()]
     locations_annotated_list = locations_annotated_df["location"].tolist()
     locations_annotate_df = locations_annotate_df.loc[~locations_annotate_df["location"].isin(locations_annotated_list)]
+    locations_annotate_df = pd.merge(
+        locations_annotate_df, locations_df,
+        how = "left",
+        on = "location"
+    )
     locations_annotate_combined_df = pd.concat([locations_annotated_df, locations_annotate_df])
     pd.DataFrame.to_csv(locations_annotate_combined_df, path.join(dir, "geocoding/annotate.csv"), encoding = "utf-8", sep = ";", index = False)
-locations_complete_df = pd.concat([locations_annotated_df, locations_geocoded_df.loc[~locations_geocoded_df["location"].isin(locations_annotated_list)]])
+    locations_annotated_df = pd.merge(
+        locations_annotated_df, locations_df,
+        how = "left",
+        on = "location"
+    )
+    print(locations_annotated_df.head())
+    print(locations_df.head())
+    print(locations_geocoded_df.head())
+    locations_annotated_df = locations_annotated_df[["location_id_x", "location", "category_x", "lat", "lon"]]
+    locations_annotated_df.rename(columns = {"location_id_x": "location_id", "category_x": "category"}, inplace = True)
+    locations_complete_df = pd.concat([locations_annotated_df, locations_geocoded_df.loc[~locations_geocoded_df["location"].isin(locations_annotated_list)]])
 
 # Some don't need any changes here
 
