@@ -524,9 +524,11 @@ def geocoded_dict_creator(locations_list):
 geocoded_dict = geocoded_dict_creator(locations_list)
 
 #geocode_df = geocode_df.loc[geocode_df["Country Code"].isin(["PT"])]
-geocode_df = geocode_df[["Name", "Coordinates", "Population", "Alternate Names"]]
+geocode_df = geocode_df[["Name", "Coordinates", "Population", "Alternate Names", "Country Code"]]
 geocode_df["name_code"] = geocode_df["Name"].str.lower().apply(unidecode)
 geocode_df["Alternate Names"] = geocode_df["Alternate Names"].str.lower()
+geocode_british_isles_df = geocode_df.loc[geocode_df["Country Code"].isin(["GB", "IE"])]
+geocode_other_df = geocode_df.loc[~geocode_df["Country Code"].isin(["GB", "IE"])]
 
 def geocoded_df_creator(geocoded_dict):
     location_counter = 0
@@ -534,14 +536,21 @@ def geocoded_df_creator(geocoded_dict):
     for city in geocoded_dict.keys():
         location_counter += 1
         search_string = str("," + city + ",")
-        # Check in primary name
-        if city in geocode_df["name_code"].to_list():
+        # Check in British Isles primary names
+        if city in geocode_british_isles_df["name_code"].to_list():
             if len(geocoded_dict[city]) == 1:
-                    coordinates = geocode_df.loc[geocode_df["name_code"] == city]["Coordinates"].values[0].split(", ")
+                    coordinates = geocode_british_isles_df.loc[geocode_british_isles_df["name_code"] == city]["Coordinates"].values[0].split(", ")
                     geocoded_dict[city].append(coordinates[0])
                     geocoded_dict[city].append(coordinates[1])
                     #success_counter += 1
-        # Otherwise check in alternate names
+        # Check in other primary names
+        elif city in geocode_other_df["name_code"].to_list():
+            if len(geocoded_dict[city]) == 1:
+                    coordinates = geocode_other_df.loc[geocode_other_df["name_code"] == city]["Coordinates"].values[0].split(", ")
+                    geocoded_dict[city].append(coordinates[0])
+                    geocoded_dict[city].append(coordinates[1])
+                    #success_counter += 1
+        # Otherwise check in all alternate names
         elif geocode_df["Alternate Names"].str.contains(search_string, na = False).any():
             coordinates = geocode_df.loc[geocode_df["Alternate Names"].str.contains(search_string, na = False)].sort_values("Population")["Coordinates"].values[0].split(", ")
             geocoded_dict[city].append(coordinates[0])

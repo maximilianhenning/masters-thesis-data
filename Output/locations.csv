@@ -50,13 +50,39 @@ l2545;Fleet St;people_baptised;51.5138;-0.1105
 l2571;Soho;people_baptised;51.3046;-0.752
 l2582;Bloomsbury;people_baptised;51.5201;-0.1288
 l2598;Pembrokeshire;people_baptised;51.5042;-4.5032
+l580;Leith;calls;55.98;-3.17
+l945;Ireland;calls;53.2658;-7.3011
+l1048;Scilly;calls;49.55;-6.2
+l1095;Bab el Mandeb;calls;12.35;43.2
+l2057;Southwark;people_birth;51.4988;-0.0901
+l2432;Sotterley;people_birth;52.401;1.61
+l2455;Rodborough;people_birth;51.744;-2.215
+l2611;Wapping;people_baptised;51.5073;-0.061
+l1684;England;people_birth;52.4387;-1.3478
+l1677;Scotland;people_birth;56.6549;-4.3368
+l1949;Wales;people_birth;52.3965;-3.7382
+l1941;Inverness;people_birth;57.4778;-4.2247
+l8;Calcutta;calls;22.3403;88.2212
+l2260;Kingston;people_birth;53.444;-0.1957
+l56;Madeira;calls;32.45;-17.0
+l1689;Yorkshire;people_birth;54.0;-2.0
+l4;Madras;calls;13.457;80.163
+l2409;Cathcart;people_birth;55.8195;-4.2679
+l2265;Midlothian;people_birth;55.5339;-3.0407
+l2228;Harris;people_birth;57.91;-6.83
+l2026;Cameron;people_birth;56.2953;-2.8529
+l1819;Guernsey;people_birth;49.45;-2.58
+l1761;Dysart;people_birth;56.13;-3.11
+l1913;Lithgow;people_birth;55.979;-3.6105
+l1875;St Andrews;people_birth;56.3404;-2.7955
+;Llandeilo;people_birth;51.885;-3.992
+l5;St Helena;calls;-15.58;-5.42
+l2197;Alphington;people_birth;50.42;-3.32
+l2191;Applecross;people_birth;57.43304;-5.80958
 l2;Bengal;calls;;
-l4;Madras;calls;44.63345;-121.12949
-l5;St Helena;calls;-37.68988;145.12315
 l7;Hugh;calls;;
-l8;Calcutta;calls;40.6734;-80.57646
 l9;Saugor;calls;23.83877;78.73874
-l10;Blackwall;calls;-33.50252;151.32786
+l10;Blackwall;calls;51.50971;-0.0016
 l11;Cape;calls;;
 l12;Bombay;calls;19.07283;72.88261
 l13;Singapore;calls;1.28967;103.85007
@@ -64,10 +90,10 @@ l14;Whampoa;calls;23.11037;113.4418
 l15;Malacca;calls;2.196;102.2405
 l16;Macao;calls;39.55573;-7.99421
 l17;Kowloon;calls;22.31667;114.18333
-l18;Portsmouth;calls;43.07704;-70.75766
+l18;Portsmouth;calls;50.79899;-1.09125
 l19;Second Bar;calls;;
 l20;Kedgeree;calls;;
-l21;Falmouth;calls;17.02741;-61.78136
+l21;Falmouth;calls;50.15441;-5.07113
 l22;Batavia;calls;39.07701;-84.17688
 l23;Tiku;calls;-0.3958;99.92307
 l24;voyages to Sumatra 1624, Lagundy 1625, Coromandel;calls;;
@@ -96,7 +122,6 @@ l51;captured by the French near Mauritius;calls;;
 l52;False Bay;calls;;
 l54;Torbay;calls;47.66659;-52.73135
 l55;returned to St Helena;calls;;
-l56;Madeira;calls;39.19089;-84.36355
 l57;Diamond Harbour;calls;22.19101;88.19047
 l58;Colombo;calls;-25.29167;-49.22417
 l59;lost on Goodwin SandsSouth Foreland;calls;;
@@ -109,11 +134,11 @@ l65;Da;calls;;
 l66;nang;calls;29.04701;93.08795
 l67;Rio de Janeiro;calls;-22.90642;-43.18223
 l68;Tellicheny;calls;;
-l69;Gravesend;calls;40.5976;-73.96514
+l69;Gravesend;calls;51.44206;0.37106
 l70;Ingeli;calls;;
 l71;Ascension;calls;31.0926;-107.99687
 l72;Belem;calls;19.63334;-98.79664
-l73;Scarborough;calls;11.18229;-60.73525
+l73;Scarborough;calls;54.27966;-0.40443
 l74;Erith;calls;51.48315;0.17484
 l77;Vizagapatam;calls;17.68009;83.20161
 l78;Culpee;calls;;
@@ -122,7 +147,7 @@ l80;towards England;calls;;
 l81;Limehouse;calls;51.51412;-0.03282
 l82;Moco Moco;calls;;
 l83;Acheh;calls;;
-l84;Plymouth;calls;41.24036;-75.94464
+l84;Plymouth;calls;50.37153;-4.14305
 l85;;calls;;
 l86;Bantam;calls;;
 l87;Pattani;calls;6.86814;101.25009
@@ -181,10 +206,10 @@ l139;from Bengal;calls;;
 l140;Faro;calls;37.01869;-7.92716
 l142;not heard of after leaving Bengal about the end of;calls;;
 l143;Coringa;calls;;
-l144;Yarmouth;calls;43.80064;-70.18672
+l144;Yarmouth;calls;50.70529;-1.49929
 l145;Quebec;calls;46.81228;-71.21454
 l146;moorings;calls;;
-l147;Halifax;calls;36.76597;-78.92834
+l147;Halifax;calls;53.71667;-1.85
 l148;went on shoreBerck nr Boulogne, abandoned;calls;;
 l149;From Bantam;calls;;
 l150;Delagoa river;calls;;
@@ -219,7 +244,7 @@ l180;built a boat, sailed;calls;;
 l181;Macao Seevftt account of the Pelew Islands ... George Keate;calls;;
 l182;Banda;calls;24.04488;78.96094
 l183;Gogha;calls;;
-l184;Linton;calls;46.26666;-100.23289
+l184;Linton;calls;51.92529;-2.49669
 l185;L/MAR/B/515B Journal;calls;;
 l186;Alexander Stirling, Chief Mate Falmouth;calls;;
 l187;off Lintin;calls;;
@@ -257,7 +282,7 @@ l221;Hong Kong;calls;22.27832;114.17469
 l222;Jim Johanna;calls;;
 l223;Santa Cruz;calls;15.30815;120.85318
 l225;Diamond Harbour Saugor;calls;;
-l226;Waterford;calls;37.64132;-120.76048
+l226;Waterford;calls;52.25833;-7.11194
 l227;Sydney Cove;calls;;
 l228;Wliampoa;calls;;
 l229;Left England;calls;;
@@ -277,7 +302,7 @@ l243;sailed for England;calls;;
 l245;off North Island;calls;;
 l246;Capt William Baker;calls;;
 l247;off Persian coast;calls;;
-l248;Margate;calls;-30.8636;30.37052
+l248;Margate;calls;51.38132;1.38617
 l249;Mozambique;calls;-15.03466;40.73447
 l250;lost going into Bombay;calls;;
 l251;Moorings;calls;;
@@ -352,7 +377,7 @@ l320;Banjarmassin;calls;;
 l321;off St Helena, unable to call because of French ships;calls;;
 l322;San Salvador;calls;-13.49361;-71.77389
 l323;Bourbon;calls;41.2956;-86.11639
-l324;Portland;calls;41.57288;-72.64065
+l324;Portland;calls;50.56748;-2.44472
 l325;towards England', engagement with a French ship;calls;;
 l326;New South Wales;calls;;
 l327;Benguela;calls;-12.57626;13.40547
@@ -382,7 +407,7 @@ l351;lost on the Goodwin Sandsthe South Foreland;calls;;
 l352;Capt Thomas Gilbert;calls;;
 l353;Kamree Roads;calls;;
 l355;captured by the FrenchPoint de Galle, ran ashore in Simons Bay, Cape,;calls;;
-l356;Cowes;calls;-38.45231;145.23865
+l356;Cowes;calls;50.76252;-1.29781
 l357;Torbar;calls;;
 l358;Capt Richard Glasspoole Downs;calls;;
 l359;Toon;calls;33.79427;132.89011
@@ -407,7 +432,7 @@ l378;Tilbury;calls;51.46248;0.35856
 l379;Bentoonan;calls;;
 l380;Scindy;calls;;
 l382;parted companyMauritius 1809, not heard of again;calls;;
-l383;Greenhithe;calls;-36.77081;174.68651
+l383;Greenhithe;calls;51.45026;0.28539
 l384;First Bar;calls;;
 l385;St Helena Long Reach;calls;;
 l386;Left China;calls;;
@@ -428,7 +453,7 @@ l401;captured by piratesJohanna;calls;;
 l402;MadrasBengal;calls;;
 l403;Upper Hope;calls;;
 l405;Port Louis;calls;-20.16194;57.49889
-l406;Ramsgate;calls;-33.9822;151.14
+l406;Ramsgate;calls;51.33568;1.41797
 l407;Pulo Condore;calls;8.68641;106.60824
 l408;L/MAR/B/115C Journal;calls;;
 l409;1717, Francis Gostlin, Fourth Mate Lizard;calls;;
@@ -558,7 +583,7 @@ l534;at Lagundy Mar/Apr;calls;;
 l535;laid up as a careening hulk early;calls;;
 l536;Capt Thomas Woodcock Downs;calls;;
 l537;Left Bengal;calls;;
-l538;Limerick;calls;40.23093;-75.52212
+l538;Limerick;calls;52.66472;-8.62306
 l539;Ramsey, Pembrokeshire;calls;;
 l540;Morardava;calls;;
 l541;Massaleige;calls;;
@@ -599,7 +624,6 @@ l576;subsequently lost;calls;;
 l577;soldMadras;calls;;
 l578;Banjarmassin Tambomeo;calls;;
 l579;Madura;calls;9.919;78.11953
-l580;Leith;calls;;
 l581;Morandava;calls;;
 l582;Morungary river;calls;;
 l583;Moco Moco Benkulen;calls;;
@@ -650,7 +674,7 @@ l630;Portsmouth as transport with HMS Salisbury and Seahorse under Commodore Sir
 l631;lost in Madras Roads;calls;;
 l632;lost on the Camicobar Jim;calls;;
 l633;Moco;calls;;
-l634;Shannon;calls;46.88026;-71.51464
+l634;Shannon;calls;52.70389;-8.86417
 l635;Onroot;calls;;
 l636;Pulau Pisang Cape;calls;;
 l637;All Saints' Bay;calls;;
@@ -697,7 +721,7 @@ l677;with Anglo;calls;;
 l678;Dutch Fleet of Defence from Japan;calls;;
 l679;All Saints5 Bay;calls;;
 l680;burnt in China;calls;;
-l681;Liverpool;calls;-33.91938;150.92588
+l681;Liverpool;calls;53.41058;-2.97794
 l682;Capt Thomas Forrest;calls;;
 l683;burntWhampoa;calls;;
 l684;remained in India, voyages to Bandar Abbas;calls;;
@@ -740,7 +764,7 @@ l720;James Fort, Gambia;calls;;
 l721;Bay of Ayoffe;calls;;
 l722;James Fort;calls;;
 l723;voyage ended To look for survivors of Duke of Cumberland, lost in Bay of Ayoffe;calls;;
-l724;Belfast;calls;46.08341;-62.88197
+l724;Belfast;calls;54.59682;-5.92541
 l725;Taiwan;calls;;
 l726;Pescadores;calls;;
 l727;captured by Dutch in Straits of Banca;calls;;
@@ -761,7 +785,7 @@ l741;Blackwail;calls;;
 l742;stranded on Sogar Bank, Bengal,;calls;;
 l743;bt Helena;calls;;
 l744;captured on her passage to Bengal by the French frigate Piedmontaise;calls;;
-l745;London;calls;42.98339;-81.23304
+l745;London;calls;51.50853;-0.12574
 l746;Hong Kong Bay;calls;;
 l747;Jim Bombay;calls;;
 l748;Ganges;calls;43.93419;3.70797
@@ -786,7 +810,7 @@ l766;Balambang;calls;;
 l767;Tellicherty;calls;;
 l768;˜East Indies;calls;;
 l769;left Madras for Benkulen 1791, not heard of again See;calls;;
-l770;Bristol;calls;30.43247;-84.97702
+l770;Bristol;calls;51.45523;-2.59665
 l771;Sulu Roads;calls;;
 l772;Carrick Roads;calls;;
 l773;Capt Thomas Newsham Portsmouth;calls;;
@@ -906,7 +930,7 @@ l886;â– 51 St Helena;calls;;
 l887;Lintin Roads;calls;;
 l888;"Whampoa "" Second Bar";calls;;
 l889;Karakaul;calls;;
-l890;Dublin;calls;40.09923;-83.11408
+l890;Dublin;calls;53.33306;-6.24889
 l891;fought with French warships, blown upJohanna;calls;;
 l892;Capt Richard Chadsley Downs;calls;;
 l893;Bassein;calls;16.77919;94.73212
@@ -961,7 +985,6 @@ l941;Whampa;calls;;
 l942;Pattern;calls;;
 l943;Scillies;calls;;
 l944;Sierra Leone;calls;;
-l945;Ireland;calls;;
 l946;Downs Broken up in;calls;;
 l947;Tanjayang;calls;;
 l948;Capt John Balchen;calls;;
@@ -1063,7 +1086,6 @@ l1044;Capt William Hambly Portsmouth;calls;;
 l1045;SÃ£o Tiago;calls;;
 l1046;Boeton;calls;-5.4633;122.6024
 l1047;Downs April;calls;;
-l1048;Scilly;calls;;
 l1049;Rogue's River;calls;;
 l1050;M;calls;;
 l1051;Capt Nathamel Horseman;calls;;
@@ -1082,7 +1104,7 @@ l1063;Luanda;calls;0.31354;34.07146
 l1064;Downs * The shipPortsmouth 1804, to remain in India;calls;;
 l1065;Ar St Helena;calls;;
 l1066;wreckedMadras * journal includes minutes of enquiry into the loss;calls;;
-l1067;Dover;calls;40.52062;-81.47401
+l1067;Dover;calls;51.12598;1.31257
 l1068;^ Saugor;calls;;
 l1069;went aground in the Bombay harbour;calls;;
 l1070;lost on Margate Sands;calls;;
@@ -1100,7 +1122,7 @@ l1081;Sao Thome;calls;0.33654;6.72732
 l1082;Bandar;calls;2.05;99.75
 l1083;Capt Roger Paxton;calls;;
 l1084;Frith;calls;;
-l1085;Southampton;calls;40.88427;-72.38953
+l1085;Southampton;calls;50.90395;-1.40428
 l1086;turned pirate after leaving Bombay;calls;;
 l1087;lost in a hurricane;calls;;
 l1088;Burah Bazaar;calls;;
@@ -1110,7 +1132,6 @@ l1091;coasting;calls;;
 l1092;blown upDiamond Point;calls;;
 l1093;joined Fleet of Defence based in Japan;calls;;
 l1094;wrecked in Dover Roads;calls;;
-l1095;Bab el Mandeb;calls;;
 l1096;captured by Algerine pirates;calls;;
 l1097;driven from anchors in a storm and wrecked on 'Fly Island', Holland;calls;;
 l1098;July Madras;calls;;
@@ -1512,7 +1533,7 @@ l1500;Itchenor;ships_built_at;;
 l1501;Whitby;ships_built_at;54.48774;-0.61498
 l1502;the;ships_built_at;-5.08917;-42.80194
 l1503;Culpe'];ships_built_at;;
-l1504;Ipswich;ships_built_at;45.44442;-99.02928
+l1504;Ipswich;ships_built_at;52.05917;1.15545
 l1505;Harwich;ships_built_at;51.94194;1.28437
 l1506;Nov 1805 ten crew injured in skirmish with French ship;voyage_destinations;;
 l1507;Philippines;voyage_destinations;;
@@ -1680,27 +1701,24 @@ l1668;Balambanga;voyage_destinations;;
 l1669;1796;voyage_destinations;;
 l1670;1798 St Helena -17 Mar Downs;voyage_destinations;;
 l1671;China (New Company);voyage_destinations;;
-l1672;Boston;voyage_destinations;30.79186;-83.78989
+l1672;Boston;voyage_destinations;52.97633;-0.02664
 l1673;Batavia (to remain);voyage_destinations;;
 l1674;1830/1 China;voyage_destinations;;
 l1675;ap St Mary's;people_birth;;
 l1676;Mezignac nr Bordeaux;people_birth;;
-l1677;Scotland;people_birth;39.9687;-77.58721
 l1678;Surgeon;people_birth;;
 l1679;Dalgetty;people_birth;;
 l1680;Bowbrickhill;people_birth;;
 l1681;Craigs;people_birth;;
 l1682;purser REGENT 1821/2;people_birth;;
 l1683;commumeed covert Ships Honduras and African trade Aye Tighmente IRAN IENS SY ORO approved Peb Ivehyagad 32);people_birth;;
-l1684;England;people_birth;34.54426;-91.96903
 l1685;1st mate SCALEBY CASTLE 1832/3 m St Luke's;people_birth;;
 l1686;Edinburgh;people_birth;55.95206;-3.19648
 l1687;ap Ealing;people_birth;;
 l1688;Maidenhall;people_birth;;
-l1689;Yorkshire;people_birth;38.79317;-77.44777
 l1690;apptd Surgeon at St Helena;people_birth;;
 l1691;Salemstead;people_birth;;
-l1692;Greenock;people_birth;-34.457;138.92719
+l1692;Greenock;people_birth;55.94838;-4.76121
 l1693;1738;people_birth;;
 l1694;run;people_birth;;
 l1695;Bombay Asst Surgeon;people_birth;;
@@ -1710,7 +1728,7 @@ l1698;Bridgwater;people_birth;51.12837;-3.00356
 l1699;Hurstmonceux;people_birth;;
 l1700;Melton Constable;people_birth;;
 l1701;3rd mate RAVENSWORTH 1785/6 (approved 1786;people_birth;;
-l1702;Glasgow;people_birth;39.22725;-92.84658
+l1702;Glasgow;people_birth;55.86515;-4.25763
 l1703;3rd mate DUKE OF GRAFTON 1775/6;people_birth;;
 l1704;Stogursey;people_birth;;
 l1705;France;people_birth;;
@@ -1741,11 +1759,11 @@ l1730;St Marylebone;people_birth;;
 l1731;Kettle;people_birth;;
 l1732;Sanguhar;people_birth;;
 l1733;Redgrave;people_birth;;
-l1734;Norwich;people_birth;42.53118;-75.52351
+l1734;Norwich;people_birth;52.62783;1.29834
 l1735;Harley St;people_birth;;
-l1736;Banff;people_birth;51.17622;-115.56982
+l1736;Banff;people_birth;57.66477;-2.52964
 l1737;Tenby;people_birth;51.67279;-4.70447
-l1738;& Lee;people_birth;42.30425;-73.24816
+l1738;& Lee;people_birth;51.45556;0.00515
 l1739;d Calcutta m Hammersmith;people_birth;;
 l1740;Lambeth;people_birth;51.49635;-0.11152
 l1741;Stratford-on-Avon;people_birth;;
@@ -1755,7 +1773,7 @@ l1744;South Leith;people_birth;;
 l1745;resigned;people_birth;;
 l1746;St Alphage's pa;people_birth;;
 l1747;d Calcutta;people_birth;;
-l1748;Hertford;people_birth;36.19016;-76.46605
+l1748;Hertford;people_birth;51.79588;-0.07854
 l1749;Kirkaldy;people_birth;;
 l1750;3nd matte MUAIRCEMUOINESS OF ELY 1821/2;people_birth;;
 l1751;Milburn St Andrews;people_birth;;
@@ -1768,16 +1786,15 @@ l1757;St Andrew's pa;people_birth;;
 l1758;St Peter Port;people_birth;49.45981;-2.53527
 l1759;4th mate THISTLEWORTH 1718/9 (to 1720);people_birth;;
 l1760;England senmem LORD CANIN (1) 1771/2;people_birth;;
-l1761;Dysart;people_birth;42.17166;-92.3063
 l1762;d7;people_birth;;
 l1763;Capt EARL OF BALCARRAS 1827/8;people_birth;;
 l1764;Rhynie;people_birth;;
-l1765;Kilmarnock;people_birth;37.71041;-76.37967
+l1765;Kilmarnock;people_birth;55.61171;-4.49581
 l1766;im Rotterdam;people_birth;;
 l1767;Newsom;people_birth;;
 l1768;resigned secvod es sumpeon to ir Eyre Covte the Carnatic;people_birth;;
 l1769;Perthshire;people_birth;;
-l1770;Holbrook;people_birth;34.90225;-110.15818
+l1770;Holbrook;people_birth;51.9834;1.15854
 l1771;(approved 1786;people_birth;;
 l1772;St Martin-in-the-Fields pa;people_birth;;
 l1773;4th mate CARMARTHEN 1805/6 ed as 2nd mate DUBLIN 1787;people_birth;;
@@ -1798,7 +1815,7 @@ l1787;Crieff;people_birth;56.37268;-3.83891
 l1788;Prestwich;people_birth;53.53333;-2.28333
 l1789;ind mate COMDSTRIBART 1811/2 m St Stephen's Coleman Street;people_birth;;
 l1790;Derby;people_birth;52.92277;-1.47663
-l1791;Westbury;people_birth;-41.52914;146.83914
+l1791;Westbury;people_birth;51.26;-2.1875
 l1792;Kirby Stephen;people_birth;;
 l1793;im Wales;people_birth;;
 l1794;ap Pocklington;people_birth;;
@@ -1816,16 +1833,15 @@ l1805;Hickling;people_birth;;
 l1806;Alford;people_birth;53.25943;0.17625
 l1807;it England;people_birth;;
 l1808;Aor Ipswich;people_birth;;
-l1809;Hereford;people_birth;34.81521;-102.39932
+l1809;Hereford;people_birth;52.05684;-2.71482
 l1810;Brechin;people_birth;56.72993;-2.65729
 l1812;St Cuthbert's pa;people_birth;;
 l1813;seaman EAGLE (6) packet 1779-22 when she was captured;people_birth;;
-l1814;Croydon;people_birth;40.08733;-74.9035
+l1814;Croydon;people_birth;51.38333;-0.1
 l1815;p23 Englamd;people_birth;;
 l1816;1st mate ORWELL 1829/30 & 1831/2 m St Helena;people_birth;;
 l1817;‘b;people_birth;;
 l1818;Stilton;people_birth;52.48788;-0.28894
-l1819;Guernsey;people_birth;42.26969;-104.74163
 l1820;volunteer 1st Class;people_birth;;
 l1821;Forkc;people_birth;;
 l1822;Capt & Principal Managing Owner SEVERN (2) 1832/3 m St Luke's;people_birth;;
@@ -1838,7 +1854,7 @@ l1828;Claines;people_birth;;
 l1829;St Botolph's pa;people_birth;;
 l1830;purser LASCELLES 1791/2;people_birth;;
 l1831;Drimnasallie;people_birth;;
-l1832;Monmouth;people_birth;44.84845;-123.23399
+l1832;Monmouth;people_birth;51.81265;-2.71363
 l1833;Moy Lamiasry;people_birth;;
 l1834;Keilmoe;people_birth;;
 l1835;cl767;people_birth;;
@@ -1847,7 +1863,7 @@ l1838;dn Seatlant;people_birth;;
 l1839;Ord untae HILLSBOROUGH (2) 1785/6 (gpproved Peb 1796;people_birth;;
 l1840;6th mate KING WILLIAM (3) 1733/4 Carter;people_birth;;
 l1841;Barton Mere;people_birth;;
-l1842;Dundee;people_birth;-28.16678;30.23371
+l1842;Dundee;people_birth;56.46913;-2.97489
 l1843;Fort George;people_birth;46.18788;-123.83125
 l1844;6th mate b 1? Appr Guisborough;people_birth;;
 l1845;England seaman PLASSEY West Indies ly 6m;people_birth;;
@@ -1857,7 +1873,7 @@ l1848;pa St Olave Hart St;people_birth;;
 l1849;1st mate AENISTON (@ppaoved 1806;people_birth;;
 l1850;l766 Lilley nr Hitchin;people_birth;;
 l1851;Capt THOMAS COUTTS 1821/2;people_birth;;
-l1852;Dumfries;people_birth;38.56762;-77.32804
+l1852;Dumfries;people_birth;55.06959;-3.61139
 l1853;drowned;people_birth;;
 l1854;1st mate KELLIE CASTLE 1832/3 m Walton-on-Thames;people_birth;;
 l1855;Hill House;people_birth;;
@@ -1873,14 +1889,13 @@ l1864;d Bandar Abbas;people_birth;;
 l1865;pa St George's Hanover Sq;people_birth;;
 l1866;Ang & bep St Mary's;people_birth;;
 l1867;4th mate FORDWICH 1728/9 (from 1730);people_birth;;
-l1868;North Berwick;people_birth;43.3037;-70.73339
+l1868;North Berwick;people_birth;56.05825;-2.7229
 l1869;2nd mate Creighton;people_birth;;
 l1870;sick leave home 1806;people_birth;;
-l1871;Dalkeith;people_birth;-31.99517;115.7998
+l1871;Dalkeith;people_birth;55.89317;-3.06806
 l1872;5th mate WARREN HASTINGS (1) 1792/3;people_birth;;
-l1873;Aberdeen;people_birth;42.94408;-112.83833
+l1873;Aberdeen;people_birth;57.14369;-2.09814
 l1874;Turriff;people_birth;57.5384;-2.45932
-l1875;St Andrews;people_birth;-34.02243;150.82958
 l1876;3rd mate WINCHELSEA (3) 1830/1 m3 St James;people_birth;;
 l1877;4th mate LASCELLES 1784/5 (approved 1785;people_birth;;
 l1878;Norfolk;people_birth;44.80089;-74.99103
@@ -1892,7 +1907,7 @@ l1883;North Knabdale;people_birth;;
 l1884;Kilbride Castle;people_birth;;
 l1885;America;people_birth;51.43667;5.97917
 l1886;Brooke;people_birth;52.54175;1.37076
-l1887;Newington;people_birth;38.73845;-77.18498
+l1887;Newington;people_birth;51.35217;0.66768
 l1888;im Bogland;people_birth;;
 l1889;ap Lindfield;people_birth;;
 l1890;Walthamstow;people_birth;51.59067;-0.02077
@@ -1907,18 +1922,17 @@ l1898;Monthrath;people_birth;;
 l1899;Binnington;people_birth;;
 l1900;Berkeley Sq;people_birth;;
 l1901;Cockpen;people_birth;;
-l1902;Perth;people_birth;44.90011;-76.24939
+l1902;Perth;people_birth;56.39522;-3.43139
 l1903;fb hn Englands micishigraam im Royall Navy Sy Soy 5th mate ROWAL SOP 1755/5 (approved 1786;people_birth;;
 l1904;MARQUIS CAMDEN 1823/4;people_birth;;
-l1905;Cove;people_birth;7.22097;2.34017
+l1905;Cove;people_birth;57.1;-2.08333
 l1906;Scotlane;people_birth;;
 l1907;Millan;people_birth;44.09973;3.07848
-l1908;Hadley;people_birth;42.34176;-72.58842
+l1908;Hadley;people_birth;52.7;-2.48333
 l1909;Asst Surgeon;people_birth;;
 l1910;d m Cameron;people_birth;;
 l1911;Newington Green;people_birth;;
 l1912;Trevethin;people_birth;;
-l1913;Lithgow;people_birth;-33.4845;150.14903
 l1914;Bleach Field;people_birth;;
 l1915;1st mate SPEAKER 1771/2 (approved 1772;people_birth;;
 l1916;Ipswiel;people_birth;;
@@ -1933,7 +1947,7 @@ l1924;3rd mate ASIA (3) 1780/1;people_birth;;
 l1925;Bovey Tracey;people_birth;50.59259;-3.67543
 l1926;Newton Bushell;people_birth;;
 l1927;Tiverton;people_birth;53.13333;-2.66667
-l1928;Bath;people_birth;43.91064;-69.8206
+l1928;Bath;people_birth;51.3751;-2.36172
 l1929;ed 1782;people_birth;;
 l1930;3rd mate ROCKINGHAM (1) 1785/6 (approved 1786;people_birth;;
 l1931;1st mate Heater ‘0 Jamaica (approved 1786;people_birth;;
@@ -1945,23 +1959,21 @@ l1936;Ilfracombe;people_birth;51.2093;-4.11344
 l1937;Barnstaple;people_birth;51.08022;-4.05808
 l1938;Hambleton;people_birth;53.76667;-1.16667
 l1939;m7 Walcot;people_birth;;
-l1941;Inverness;people_birth;39.57738;-104.86135
 l1942;Alloa;people_birth;56.11586;-3.78997
 l1943;Toulouse;people_birth;43.60426;1.44367
 l1944;& St George's Bloomsbury;people_birth;;
 l1945;St Giles;people_birth;;
 l1946;1748;people_birth;;
 l1947;dat sea;people_birth;;
-l1949;Wales;people_birth;53.34061;-1.28162
 l1950;Redbridge;people_birth;;
 l1951;Aylesbury;people_birth;51.81665;-0.81458
 l1952;Sid tnate INDIAN TRADER 1794/5;people_birth;;
-l1953;Virginia;people_birth;-28.10391;26.86593
+l1953;Virginia;people_birth;53.83389;-7.07556
 l1954;5th mate KELLIE CASTLE 1828/9;people_birth;;
 l1955;4th mate “RACRIL OL SAND WIGHT F789 (approved 1779;people_birth;;
 l1956;Metz;people_birth;49.11911;6.17269
 l1957;St John's pa;people_birth;;
-l1958;Barnsley;people_birth;-32.93333;151.58333
+l1958;Barnsley;people_birth;53.55;-1.48333
 l1959;Bengal Asst Surgeon;people_birth;;
 l1960;Tneland;people_birth;;
 l1961;Haddington;people_birth;55.95612;-2.78332
@@ -1974,7 +1986,7 @@ l1967;m Llandygwydd;people_birth;;
 l1968;Wick;people_birth;58.43906;-3.09424
 l1969;im Rnglamd;people_birth;;
 l1970;d Bombay;people_birth;;
-l1971;Chatham;people_birth;42.36425;-73.59484
+l1971;Chatham;people_birth;51.37891;0.52786
 l1972;lost overboard m St Dunstan's;people_birth;;
 l1973;Wormley;people_birth;51.13622;-0.64673
 l1974;3rd mate BESSBOROUGH 1785/6 (approved 1786;people_birth;;
@@ -2002,7 +2014,7 @@ l1995;1727;people_birth;;
 l1996;wounded action agst French 1759;people_birth;;
 l1997;Prescot St;people_birth;;
 l1998;“Kb mate LAP WING (1) Lays;people_birth;;
-l1999;1774. Windsor;people_birth;38.54713;-122.81638
+l1999;1774. Windsor;people_birth;51.48333;-0.6
 l2000;Bishopsgate;people_birth;;
 l2001;St Luke's pa;people_birth;;
 l2002;Cumberland;people_birth;41.96677;-71.43284
@@ -2017,7 +2029,7 @@ l2010;Dores;people_birth;;
 l2011;Stepney;people_birth;51.5175;-0.04292
 l2012;seaman & 1st mate Royal Clubb and Adriatic Greenland and Newfoundland trade 7y 9m;people_birth;;
 l2013;Love Lane;people_birth;;
-l2014;Canterbury;people_birth;-33.91192;151.11862
+l2014;Canterbury;people_birth;51.27904;1.07992
 l2015;im Smgtends ome voyswe to indie;people_birth;;
 l2016;Barking;people_birth;51.53333;0.08333
 l2017;run 4th mate LADY RAFFLES 1825/6;people_birth;;
@@ -2025,11 +2037,10 @@ l2018;pa St Chad's;people_birth;;
 l2019;Gerrard or Gerard;people_birth;;
 l2020;midshipman (2y 6m);people_birth;;
 l2021;d b pa Christ Church;people_birth;;
-l2022;Montrose;people_birth;38.47832;-107.87617
+l2022;Montrose;people_birth;56.71683;-2.46695
 l2023;4h mate NEPTUNE (4) 1785/6 (approved 1786;people_birth;;
 l2024;Kirk Oswald;people_birth;;
 l2025;d Macao m St Pancras;people_birth;;
-l2026;Cameron;people_birth;29.79772;-93.32515
 l2027;5th mate GATTON 1777/8;people_birth;;
 l2028;Royal Navy 8y 4m;people_birth;;
 l2029;Inverness-shire;people_birth;;
@@ -2051,7 +2062,7 @@ l2044;Wootton Hall;people_birth;;
 l2045;Blunderston;people_birth;;
 l2046;Great Yarmouth ?;people_birth;52.60831;1.73052
 l2047;Sotheniom;people_birth;;
-l2048;Stirling;people_birth;-31.88343;115.8099
+l2048;Stirling;people_birth;56.11903;-3.93682
 l2049;Msg Camengate;people_birth;;
 l2050;Canongate;people_birth;;
 l2051;‘bap Fores;people_birth;;
@@ -2060,7 +2071,6 @@ l2053;ur;people_birth;;
 l2054;Johnshaven;people_birth;;
 l2055;Haxbourgrace;people_birth;;
 l2056;Chipping Ongar;people_birth;51.70379;0.24548
-l2057;Southwark;people_birth;;
 l2058;4th mate MARQUIS OF WELLINGTON (1) 1814/5 (approved 1814;people_birth;;
 l2059;Pitfern;people_birth;;
 l2060;St Swithin's pa;people_birth;;
@@ -2073,7 +2083,7 @@ l2066;4th mate BELVEDERE 1800/1 (approved 1801;people_birth;;
 l2067;aorington or Marington;people_birth;;
 l2068;& bao  Bermondsey;people_birth;;
 l2069;Spatree;people_birth;;
-l2070;Kensington;people_birth;40.79343;-73.72208
+l2070;Kensington;people_birth;51.50094;-0.19175
 l2071;Weybridge;people_birth;51.37178;-0.45975
 l2072;served im Jen Charnock's war agst the Nawab af Bengal 1636-87;people_birth;;
 l2073;MB 1785;people_birth;;
@@ -2106,7 +2116,7 @@ l2099;Cestieliond;people_birth;;
 l2100;co Durham;people_birth;;
 l2101;4th mate ALNWICK CASTLE 1814/5 (approved 1815;people_birth;;
 l2102;Liskeard;people_birth;50.4545;-4.46517
-l2103;Dunbar;people_birth;38.36065;-81.73735
+l2103;Dunbar;people_birth;56.00062;-2.51418
 l2104;1785;people_birth;;
 l2105;& baw $ Ape Leyton;people_birth;;
 l2106;Illugan;people_birth;;
@@ -2114,7 +2124,7 @@ l2107;3nd mate LORD MIACARTIOSY LPS ud mats BAR OF WiCOMILE Ts6r? (approved 1787
 l2108;Northallerton;people_birth;54.33901;-1.43243
 l2109;Web 17S4 Wells;people_birth;;
 l2110;Musselburgh;people_birth;55.9417;-3.04991
-l2111;Richmond;people_birth;-41.33333;173.18333
+l2111;Richmond;people_birth;51.46171;-0.30633
 l2112;im Buwlend;people_birth;;
 l2113;4th mate UNION (5) 1806/7;people_birth;;
 l2114;Queensferry;people_birth;55.99089;-3.39847
@@ -2124,7 +2134,7 @@ l2117;b Havre de Grace;people_birth;;
 l2118;1st mate DUKE OF YORK (2) 1826/7 & 1828/9;people_birth;;
 l2119;2nd mate MINERVA (7) 1824/5;people_birth;;
 l2120;Grange;people_birth;-27.42251;153.01527
-l2121;Maidstone;people_birth;-37.78035;144.87353
+l2121;Maidstone;people_birth;51.26667;0.51667
 l2122;d Edinburgh active service Third Maratha War 1817-18;people_birth;;
 l2123;b Llanbadarn;people_birth;;
 l2124;midshipman HMS Monmouth;people_birth;;
@@ -2133,7 +2143,7 @@ l2126;North Crescent;people_birth;;
 l2127;& hep St ives;people_birth;;
 l2128;Shorwell;people_birth;;
 l2129;presented as 4th mate LORD MACARTNEY 1795/6;people_birth;;
-l2130;Newport;people_birth;44.86636;-93.00049
+l2130;Newport;people_birth;52.76684;-2.37734
 l2131;Swansea;people_birth;51.62079;-3.94323
 l2132;4th mate HUGH INGLIS 1809/10 (approved 1810;people_birth;;
 l2133;im England;people_birth;;
@@ -2160,7 +2170,7 @@ l2153;d b Barnstaple;people_birth;;
 l2154;Cape ASTELL 1823/4 & 1826/7 ‘ewin;people_birth;;
 l2155;Folkestone;people_birth;51.08169;1.16734
 l2156;4th mate RHODA 1757/8;people_birth;;
-l2157;Newburgh;people_birth;41.50343;-74.01042
+l2157;Newburgh;people_birth;56.35079;-3.2365
 l2158;Carnwath;people_birth;55.70036;-3.62579
 l2159;Clackmannan;people_birth;56.10743;-3.75098
 l2160;British garrison of New York;people_birth;;
@@ -2194,14 +2204,12 @@ l2187;Ll South Bnd;people_birth;;
 l2188;Whitehorn;people_birth;;
 l2189;Kirkgunzion;people_birth;;
 l2190;4b mate COUMLING 1808/3;people_birth;;
-l2191;Applecross;people_birth;-32.01667;115.83333
 l2192;Glenluce;people_birth;;
 l2193;1805;people_birth;;
 l2194;d L761 Cape;people_birth;;
 l2195;4th mate HECTOR (3) 1775/6 (approved 1776;people_birth;;
 l2196;Capt CHARLES GRANT 1/2 oe jut Presents;people_birth;;
-l2197;Alphington;people_birth;-37.78333;145.03333
-l2198;Cullen;people_birth;32.96903;-93.45073
+l2198;Cullen;people_birth;57.69045;-2.81818
 l2199;Dorking;people_birth;51.23228;-0.3338
 l2200;ap Totnes;people_birth;;
 l2201;Sap Reb St Dansten's;people_birth;;
@@ -2210,7 +2218,7 @@ l2203;resigned 1771;people_birth;;
 l2204;Penningham;people_birth;;
 l2205;or Drummagh;people_birth;;
 l2206;Canonbie;people_birth;;
-l2207;Islington;people_birth;-32.91388;151.74739
+l2207;Islington;people_birth;51.53622;-0.10304
 l2208;1G Aberdloons MRCS;people_birth;;
 l2209;Upper Borlunce;people_birth;;
 l2210;approved as 3rd mate LORD MACARTNEY 1782;people_birth;;
@@ -2231,14 +2239,13 @@ l2224;Boleskine & Abertarff pa;people_birth;;
 l2225;Cumnock;people_birth;55.45445;-4.26644
 l2226;West Church pa;people_birth;;
 l2227;Forres;people_birth;57.60997;-3.62115
-l2228;Harris;people_birth;45.58635;-92.97466
 l2229;Seve;people_birth;55.3195;52.06942
 l2230;Abchurch Lane;people_birth;;
 l2231;Ballmascanlon House;people_birth;;
 l2232;St Anne's pa;people_birth;;
 l2233;Frant;people_birth;;
 l2234;Elie;people_birth;;
-l2235;Coldstream;people_birth;-37.7249;145.37804
+l2235;Coldstream;people_birth;55.65111;-2.25295
 l2236;Edward;people_birth;;
 l2237;Edrington;people_birth;;
 l2238;1st mate DUKE OF GRAFTON 1775/6 m Bishopwearmouth;people_birth;;
@@ -2247,12 +2254,12 @@ l2240;Shoddon;people_birth;;
 l2241;1st mate ASIA (1) 1787/8 & 1790/1 m on board WINTERTON;people_birth;;
 l2242;Get Dublia;people_birth;;
 l2243;pa St John's;people_birth;;
-l2244;Exeter;people_birth;-34.83994;138.48902
+l2244;Exeter;people_birth;50.7236;-3.52751
 l2245;pa St Leonard's Shoreditch;people_birth;;
 l2246;West Teignmouth;people_birth;;
 l2247;widow petitioned Poplar Fund m St Mary's;people_birth;;
 l2248;& bap.21 Hawick;people_birth;;
-l2249;Oxford;people_birth;40.80315;-74.98962
+l2249;Oxford;people_birth;51.75222;-1.25596
 l2250;c1733 London;people_birth;;
 l2251;d Bath m Martha dau of James Taylor of Carmarthen;people_birth;;
 l2252;Wrotham;people_birth;51.30856;0.30899
@@ -2263,11 +2270,9 @@ l2256;Wickenford;people_birth;;
 l2257;Wilbraham;people_birth;42.12371;-72.43147
 l2258;Forecross Chancry;people_birth;;
 l2259;Kelins;people_birth;;
-l2260;Kingston;people_birth;42.09975;-88.75898
 l2261;Monifieth;people_birth;56.48227;-2.81732
 l2263;Pitteneern;people_birth;;
 l2264;d Norris;people_birth;;
-l2265;Midlothian;people_birth;32.48236;-96.99445
 l2266;Kirkby-over-Carr;people_birth;;
 l2267;South Ronaldsay;people_birth;;
 l2268;Itheringham;people_birth;;
@@ -2275,14 +2280,14 @@ l2269;Mansfield;people_birth;53.13333;-1.2
 l2270;Tua;people_birth;;
 l2271;Dedham;people_birth;51.95892;0.99336
 l2272;Gib mate CHLARLIES GRANT 1816/7;people_birth;;
-l2273;Northampton;people_birth;40.68621;-75.49685
+l2273;Northampton;people_birth;52.25;-0.88333
 l2274;New Town;people_birth;-42.85758;147.30869
 l2275;3rd mate WINDHAM (2) 1815/6 (approved 1816;people_birth;;
 l2276;3rd mate ROYAL CHARLOTTE (2) 1785/6 (approved 1786;people_birth;;
 l2277;Methil;people_birth;56.18543;-3.02157
 l2278;BELVEDERE 1786/7 (approved 1787;people_birth;;
 l2279;Lichfield;people_birth;52.68154;-1.82549
-l2280;Carlton;people_birth;-37.8;144.96667
+l2280;Carlton;people_birth;54.59004;-1.39117
 l2281;Plumstead;people_birth;51.48333;0.08333
 l2282;1st mate PIGOT (2) 1785/6 (approved 1786;people_birth;;
 l2283;Ballyshannon;people_birth;54.5;-8.18333
@@ -2307,7 +2312,7 @@ l2301;Abercorn;people_birth;;
 l2302;Birlingham;people_birth;;
 l2303;3rd mate ATLAS (1) 1784/5 (approved 1785;people_birth;;
 l2304;Ratho;people_birth;55.92164;-3.38028
-l2305;Carlisle;people_birth;-31.97945;115.91808
+l2305;Carlisle;people_birth;54.8951;-2.9382
 l2306;Capt HARCOURT (2) 1764/5 & 1767/8;people_birth;;
 l2307;3rd mate CARNATIC (3) 1814/5 (approved 1815;people_birth;;
 l2308;Kinnaird;people_birth;;
@@ -2315,7 +2320,7 @@ l2309;hae Baglanc);people_birth;;
 l2310;April Madeira;people_birth;;
 l2311;Heckfield;people_birth;;
 l2312;4th mate WALPOLE (4) 1782/3 (approved 1783;people_birth;;
-l2313;Epsom;people_birth;-36.71667;144.31667
+l2313;Epsom;people_birth;51.3305;-0.27011
 l2314;3rd mate PONSBORNE (2) 1779/80 (approved 1780;people_birth;;
 l2315;Woodside Cottage nr Windsor;people_birth;;
 l2316;Witton-le-Wear;people_birth;;
@@ -2327,7 +2332,7 @@ l2321;ap Nettlestead;people_birth;;
 l2322;net;people_birth;;
 l2323;Kirkcudbright;people_birth;54.8383;-4.04908
 l2324;Daviot;people_birth;;
-l2325;Durham;people_birth;35.99403;-78.89862
+l2325;Durham;people_birth;54.77676;-1.57566
 l2326;Netherley;people_birth;;
 l2327;suageu PALMIOUTIE 1764/5;people_birth;;
 l2328;Auldearn;people_birth;;
@@ -2396,10 +2401,10 @@ l2390;drowned m St Mary;people_birth;;
 l2391;1st mate LOYALIST 1795/6 m Ramsey;people_birth;;
 l2392;Woodford;people_birth;51.11667;-1.83333
 l2393;Avening;people_birth;51.6801;-2.16903
-l2394;Kennington;people_birth;-36.77128;144.30298
+l2394;Kennington;people_birth;51.48796;-0.10566
 l2395;punser ANNES @) 16?a/s Harriet b Ellen b;people_birth;;
 l2396;Lowestoft;people_birth;52.47523;1.75167
-l2397;Bowdon;people_birth;33.53789;-85.25328
+l2397;Bowdon;people_birth;53.37644;-2.36532
 l2398;VY Mint & Ibap Cross St Chapel;people_birth;;
 l2399;Throgmorton St;people_birth;;
 l2400;5th mate LADY BURGES 1803/4;people_birth;;
@@ -2411,7 +2416,6 @@ l2405;Hedon-in-Holderness;people_birth;;
 l2406;went heme on GENERAL ELLIOT 1784;people_birth;;
 l2407;Suptdg Surgeon;people_birth;;
 l2408;Dailly;people_birth;;
-l2409;Cathcart;people_birth;47.84788;-122.09929
 l2410;Member of Medical Board 1808;people_birth;;
 l2411;Pakefield;people_birth;;
 l2412;Ifield Court;people_birth;;
@@ -2430,11 +2434,10 @@ l2424;ap St Nicholas;people_birth;;
 l2425;St Columb;people_birth;50.43163;-4.94336
 l2426;Alrewas;people_birth;52.73278;-1.74968
 l2427;Walberswick;people_birth;;
-l2428;Newcastle;people_birth;47.53899;-122.15568
+l2428;Newcastle;people_birth;53.30111;-6.50222
 l2429;Sidmouth;people_birth;50.69094;-3.2397
 l2430;pa St John the Baptist;people_birth;;
 l2431;examined as 3rd mate DUTTON (2) 1791;people_birth;;
-l2432;Sotterley;people_birth;;
 l2433;Principal Managing Owner EGMONT (2) 1766/7-1772/3 m Elizabeth Webster;people_birth;;
 l2434;pa St Stephen's Walbrook;people_birth;;
 l2435;4th mate MIDDLESEX (2) 1789/9 (approved 1789;people_birth;;
@@ -2454,10 +2457,9 @@ l2448;St Pancras;people_birth;;
 l2449;Great Snoring;people_birth;;
 l2450;St James' pa;people_birth;;
 l2451;Kilconquhar;people_birth;;
-l2452;Preston;people_birth;33.88232;-96.63305
+l2452;Preston;people_birth;52.61264;-0.71437
 l2453;ap St Paul's Covent Garden;people_birth;;
 l2454;d London;people_birth;;
-l2455;Rodborough;people_birth;;
 l2456;Inveresk;people_birth;;
 l2457;ap St Botolph Bishopsgate;people_birth;;
 l2458;St Petersburg;people_birth;59.93863;30.31413
@@ -2470,7 +2472,7 @@ l2464;England apprentice Speedwell Straits trade;people_birth;;
 l2465;surgeon UNION (4) 1810/1;people_birth;;
 l2466;ap Feathard;people_birth;;
 l2467;ap St Luke's;people_birth;;
-l2468;Shrewsbury;people_birth;38.59033;-90.33678
+l2468;Shrewsbury;people_birth;52.71009;-2.75208
 l2469;ap St Botolph Aldgate;people_birth;;
 l2470;3rd mate AIRLY CASTLE 1797/8 (approved 1798;people_birth;;
 l2471;L Oet 196? Norwich;people_birth;;
@@ -2492,7 +2494,7 @@ l2486;Kent;people_baptised;41.72482;-73.47707
 l2487;Hants;people_baptised;;
 l2488;Pembroke;people_baptised;51.67464;-4.91286
 l2489;Banbury;people_baptised;52.0632;-1.34222
-l2490;Colchester;people_baptised;41.57565;-72.33203
+l2490;Colchester;people_baptised;51.88921;0.90421
 l2491;Wakefield;people_baptised;53.68331;-1.49768
 l2492;Salford;people_baptised;53.48771;-2.29042
 l2493;Londen;people_baptised;51.50853;-0.12574
@@ -2512,7 +2514,7 @@ l2506;Essex;people_baptised;42.63204;-70.78283
 l2507;Yorkslulse;people_baptised;;
 l2508;Sussex;people_baptised;41.20982;-74.60766
 l2509;Leics;people_baptised;;
-l2510;Chester;people_baptised;44.54225;-64.23891
+l2510;Chester;people_baptised;53.1905;-2.89189
 l2511;Denbigh;people_baptised;53.18333;-3.41667
 l2512;Bast Lothian;people_baptised;;
 l2513;Blackheath;people_baptised;51.4647;0.0079
@@ -2529,7 +2531,7 @@ l2523;Hunts;people_baptised;;
 l2524;Fife;people_baptised;47.23927;-122.35707
 l2525;Thanet;people_baptised;;
 l2526;Greenwich;people_baptised;41.02649;-73.62846
-l2527;Rochester;people_baptised;39.74949;-89.53176
+l2527;Rochester;people_baptised;55.2752;-2.2649
 l2528;Stockton-on-Tees;people_baptised;;
 l2529;Somerset;people_baptised;-41.04065;145.83055
 l2530;Hythe;people_baptised;50.86004;-1.40162
@@ -2537,7 +2539,7 @@ l2531;Seuthover;people_baptised;;
 l2532;Camberwell;people_baptised;51.4739;-0.09381
 l2533;Doctors' Commons;people_baptised;;
 l2534;Cheshire;people_baptised;41.49899;-72.90066
-l2535;York;people_baptised;40.86807;-97.592
+l2535;York;people_baptised;53.95763;-1.08271
 l2536;IoW;people_baptised;41.66113;-91.53017
 l2537;Bermondsey;people_baptised;;
 l2538;Hull;people_baptised;42.30204;-70.90782
@@ -2545,11 +2547,11 @@ l2539;Staffs;people_baptised;;
 l2540;Yorks;people_baptised;;
 l2541;Clos;people_baptised;;
 l2542;Hanover Sq;people_baptised;;
-l2543;Dorchester;people_baptised;42.98339;-81.06643
+l2543;Dorchester;people_baptised;50.71667;-2.43333
 l2544;Argyle;people_baptised;33.12123;-97.18335
 l2546;Srepacy;people_baptised;;
 l2547;Doncaster;people_baptised;53.52285;-1.13116
-l2548;Chelsea;people_baptised;43.98979;-72.4476
+l2548;Chelsea;people_baptised;51.48755;-0.16936
 l2549;Clerkenwell;people_baptised;51.52438;-0.11022
 l2550;Louden;people_baptised;;
 l2551;Worcs;people_baptised;;
@@ -2572,9 +2574,9 @@ l2567;Worcester;people_baptised;52.18935;-2.22001
 l2568;Gt Berkhamsted;people_baptised;;
 l2569;Rotherhithe;people_baptised;51.5;-0.05
 l2570;Lancs;people_baptised;;
-l2572;Leicester;people_baptised;43.86673;-73.10789
+l2572;Leicester;people_baptised;52.6386;-1.13169
 l2573;Bow;people_baptised;51.52609;-0.01665
-l2574;Cambridge;people_baptised;40.03118;-81.58846
+l2574;Cambridge;people_baptised;52.2;0.11667
 l2575;Otley;people_baptised;53.90553;-1.69383
 l2576;Bormateple;people_baptised;;
 l2577;Holborn;people_baptised;51.51753;-0.12045
@@ -2602,14 +2604,13 @@ l2600;Montego Bay;people_baptised;18.47116;-77.91883
 l2601;Radnor;people_baptised;40.04622;-75.35991
 l2602;Fes Monpbie;people_baptised;;
 l2603;New Ross;people_baptised;52.39667;-6.93667
-l2604;Waltham;people_baptised;42.37649;-71.23561
+l2604;Waltham;people_baptised;53.51667;-0.1
 l2605;Brecon;people_baptised;51.94612;-3.38887
 l2606;Chard;people_baptised;50.8727;-2.96597
 l2607;Penzance;people_baptised;50.11861;-5.53715
 l2608;Lichfield Cathedral;people_baptised;;
 l2609;Gloucs;people_baptised;;
 l2610;Hampstead;people_baptised;39.60483;-76.84998
-l2611;Wapping;people_baptised;;
 l2612;Kimg*s Lymn;people_baptised;;
 l2613;Argyll;people_baptised;;
 l2614;Newmgion;people_baptised;;
@@ -2620,16 +2621,16 @@ l2618;Ayshire;people_baptised;;
 l2619;East Lothian;people_baptised;;
 l2620;Wigtown;people_baptised;;
 l2621;Hawkshead;people_baptised;;
-l2622;Kincardine;people_baptised;44.18339;-81.63307
-l2623;Winchester;people_baptised;38.59033;-90.5279
+l2622;Kincardine;people_baptised;56.06945;-3.71964
+l2623;Winchester;people_baptised;51.06513;-1.3187
 l2624;Guildford;people_baptised;51.23536;-0.57427
 l2625;Stroud;people_baptised;51.75;-2.2
 l2626;Derset;people_baptised;;
 l2627;co Antrim;people_baptised;;
 l2628;Jam Kinnonle;people_baptised;;
 l2629;Oxon;people_baptised;38.80345;-76.9897
-l2630;Brighton;people_baptised;43.14756;-77.55055
-l2631;Selkirk;people_baptised;50.1436;-96.88452
+l2630;Brighton;people_baptised;50.82838;-0.13947
+l2631;Selkirk;people_baptised;55.54738;-2.83911
 l2632;Roxburghs;people_baptised;;
 l2633;Glandwr;people_baptised;51.92833;-4.63333
 l2634;Thirsk;people_baptised;54.23298;-1.34411
@@ -2642,7 +2643,7 @@ l2640;Taunton;people_baptised;51.01494;-3.10293
 l2641;co Cork;people_baptised;;
 l2642;Suftell;people_baptised;;
 l2643;Survey;people_baptised;;
-l2644;Sandwich;people_baptised;41.64586;-88.62174
+l2644;Sandwich;people_baptised;51.27223;1.33776
 l2645;Cockermouth;people_baptised;54.66209;-3.36086
 l2646;Long Buckley;people_baptised;;
-l2647;Huntingdon;people_baptised;40.4848;-78.01028
+l2647;Huntingdon;people_baptised;52.33049;-0.18651

@@ -50,6 +50,37 @@ Fleet St;people_baptised;51.5138;-0.1105
 Soho;people_baptised;51.3046;-0.752
 Bloomsbury;people_baptised;51.5201;-0.1288
 Pembrokeshire;people_baptised;51.5042;-4.5032
+Leith;calls;55.98;-3.17
+Ireland;calls;53.2658;-7.3011
+Scilly;calls;49.55;-6.2
+Bab el Mandeb;calls;12.35;43.2
+Southwark;people_birth;51.4988;-0.0901
+Sotterley;people_birth;52.401;1.61
+Rodborough;people_birth;51.744;-2.215
+Wapping;people_baptised;51.5073;-0.061
+England;people_birth;52.4387;-1.3478
+Scotland;people_birth;56.6549;-4.3368
+Wales;people_birth;52.3965;-3.7382
+Inverness;people_birth;57.4778;-4.2247
+Calcutta;calls;22.3403;88.2212
+Kingston;people_birth;53.444;-0.1957
+Madeira;calls;32.45;-17.0
+Yorkshire;people_birth;54.0;-2.0
+Madras;calls;13.457;80.163
+Cathcart;people_birth;55.8195;-4.2679
+Midlothian;people_birth;55.5339;-3.0407
+Harris;people_birth;57.91;-6.83
+Cameron;people_birth;56.2953;-2.8529
+Guernsey;people_birth;49.45;-2.58
+Dysart;people_birth;56.13;-3.11
+Lithgow;people_birth;55.979;-3.6105
+St Andrews;people_birth;56.3404;-2.7955
+Llandeilo;people_birth;51.885;-3.992
+St Helena;calls;-15.58;-5.42
+Alphington;people_birth;50.42;-3.32
+Applecross;people_birth;57.43304;-5.80958
+Macao;calls;22.10;113.33
+Montreal;people_birth;45.3032;-73.3315
 Bengal;calls;;
 Hugh;calls;;
 Cape;calls;;
@@ -80,7 +111,7 @@ towards England;calls;;
 Moco Moco;calls;;
 Acheh;calls;;
 ;calls;;
-Bantam;calls;;
+Bantam;calls;-6.0233;106.0939
 abandonedMasulipatam;calls;;
 Pring;calls;;
 Rat Island;calls;;
@@ -159,7 +190,7 @@ sent for England;calls;;
 arrived;calls;;
 Bandas;calls;;
 Comoros;calls;;
-Seychelles;calls;;
+Seychelles;calls;-4.35;55.4
 reached Indian coast nr Mahuwa, Kathiawar;calls;;
 sailed for Surat;calls;;
 lost on Malacca Banks;calls;;
@@ -458,7 +489,6 @@ detained by Dutch;calls;;
 subsequently lost;calls;;
 soldMadras;calls;;
 Banjarmassin Tambomeo;calls;;
-Leith;calls;;
 Morandava;calls;;
 Morungary river;calls;;
 Moco Moco Benkulen;calls;;
@@ -782,7 +812,6 @@ Whampa;calls;;
 Pattern;calls;;
 Scillies;calls;;
 Sierra Leone;calls;;
-Ireland;calls;;
 Downs Broken up in;calls;;
 Tanjayang;calls;;
 Capt John Balchen;calls;;
@@ -879,7 +908,6 @@ recaptured by HMS Colossus;calls;;
 Capt William Hambly Portsmouth;calls;;
 SÃ£o Tiago;calls;;
 Downs April;calls;;
-Scilly;calls;;
 Rogue's River;calls;;
 M;calls;;
 Capt Nathamel Horseman;calls;;
@@ -919,7 +947,6 @@ coasting;calls;;
 blown upDiamond Point;calls;;
 joined Fleet of Defence based in Japan;calls;;
 wrecked in Dover Roads;calls;;
-Bab el Mandeb;calls;;
 captured by Algerine pirates;calls;;
 driven from anchors in a storm and wrecked on 'Fly Island', Holland;calls;;
 July Madras;calls;;
@@ -1733,7 +1760,6 @@ Foggymill;people_birth;;
 ur;people_birth;;
 Johnshaven;people_birth;;
 Haxbourgrace;people_birth;;
-Southwark;people_birth;;
 4th mate MARQUIS OF WELLINGTON (1) 1814/5 (approved 1814;people_birth;;
 Pitfern;people_birth;;
 St Swithin's pa;people_birth;;
@@ -2013,7 +2039,6 @@ ap St Nicholas;people_birth;;
 Walberswick;people_birth;;
 pa St John the Baptist;people_birth;;
 examined as 3rd mate DUTTON (2) 1791;people_birth;;
-Sotterley;people_birth;;
 Principal Managing Owner EGMONT (2) 1766/7-1772/3 m Elizabeth Webster;people_birth;;
 pa St Stephen's Walbrook;people_birth;;
 4th mate MIDDLESEX (2) 1789/9 (approved 1789;people_birth;;
@@ -2031,7 +2056,6 @@ St James' pa;people_birth;;
 Kilconquhar;people_birth;;
 ap St Paul's Covent Garden;people_birth;;
 d London;people_birth;;
-Rodborough;people_birth;;
 Inveresk;people_birth;;
 ap St Botolph Bishopsgate;people_birth;;
 Wemyss Castle;people_birth;;
@@ -2120,7 +2144,6 @@ co Durbem;people_baptised;;
 Fes Monpbie;people_baptised;;
 Lichfield Cathedral;people_baptised;;
 Gloucs;people_baptised;;
-Wapping;people_baptised;;
 Kimg*s Lymn;people_baptised;;
 Argyll;people_baptised;;
 Newmgion;people_baptised;;
