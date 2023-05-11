@@ -1,16 +1,16 @@
 location_id;location;category;lat;lon
 l1;Downs;calls;51.1108;1.2923
+l3;Narsipur;calls;12.21;76.906
 l6;East India Dock;calls;51.30292;0.0035
+l28;Anjengo;calls;8.4833;76.9167
 l40;Sao Tiago;calls;15.04;-23.38
+l42;Khanderi;calls;18.7042;72.8131
+l43;Colaba;calls;18.91;72.81
 l47;Reunion;calls;-21.0652;55.3157
+l53;Lintin;calls;22.2446;113.4813
 l75;Fort St David;calls;11.75;79.75
 l76;Mauritius;calls;-20.2;57.5
 l141;Spithead;calls;50.7514;-1.13667
-l3;Narsipur;calls;12.21;76.906
-l28;Anjengo;calls;8.4833;76.9167
-l42;Khanderi;calls;18.7042;72.8131
-l43;Colaba;calls;18.91;72.81
-l53;Lintin;calls;22.2446;113.4813
 l157;Mokha;calls;13.1913;15.0
 l178;Cagayan Sulu;calls;6.5841;118.3047
 l204;Socotra;calls;12.3036;53.5512

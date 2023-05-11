@@ -1,56 +1,8 @@
 location;category;lat;lon
 Downs;calls;51.1108;1.2923
+Bengal;calls;;
 Narsipur;calls;12.21;76.906
 East India Dock;calls;51.30292;0.0035
-Anjengo;calls;8.4833;76.9167
-Sao Tiago;calls;15.04;-23.38
-Khanderi;calls;18.7042;72.8131
-Colaba;calls;18.91;72.81
-Reunion;calls;-21.0652;55.3157
-Lintin;calls;22.2446;113.4813
-Fort St David;calls;11.75;79.75
-Mauritius;calls;-20.2;57.5
-Spithead;calls;50.7514;-1.13667
-Mokha;calls;13.1913;15.0
-Cagayan Sulu;calls;6.5841;118.3047
-Socotra;calls;12.3036;53.5512
-Bocca Tigris;calls;22.7933;113.5979
-River Thames;calls;51.4959;0.514031
-Dungeness;calls;50.55;0.58
-Kedah;calls;6.0742;100.2146
-Point de Galle;calls;6.0158;80.1256
-Hormuz;calls;27.0403;56.2736
-Martinique;calls;14.39;-61.0054
-Mahim;calls;19.035;72.84
-Karrack;calls;29.1528;50.193
-Negrais;calls;16.2;94.12
-Coninga;calls;16.5758;82.1518
-Kidderpore;calls;22.536323;88.316654
-Delagoa Bay;calls;25.59;32.42
-Ryukyu Islands;calls;26.3;127.54
-Orkneys;calls;59.0;-3.0
-Resolution Bay;calls;-41.0731;174.1332
-Tahiti;calls;-17.4;-149.25
-Canton river;calls;22.476411;113.750545
-Great Nanka;calls;-2.25;105.48
-Anjengo Cape;calls;8.4833;76.9167
-All Saints' Bay, Brazil;calls;-12.51;-38.38
-Krakatoa;calls;-6.0607;105.2523
-Cape Verde;calls;15.55;-23.55
-Port Cornwallis;calls;13.17;93.05
-Cape Augustine;calls;-8.1723;-35.0148
-Norfolk Island;calls;-29.02;167.57
-Newcastle-on-Tyne;people_birth;54.98;-1.61
-Tweedmouth;people_birth;55.761;-2.01
-Kilmartin;people_birth;56.133;-5.487
-Crathie;people_birth;57.0225;-3.1255
-Sorbie;people_birth;54.79;4.43
-Berwick-upon-Tweed;people_birth;55.4609;-2.0009
-Fleet St;people_baptised;51.5138;-0.1105
-Soho;people_baptised;51.3046;-0.752
-Bloomsbury;people_baptised;51.5201;-0.1288
-Pembrokeshire;people_baptised;51.5042;-4.5032
-Bengal;calls;;
 Hugh;calls;;
 Cape;calls;;
 Second Bar;calls;;
@@ -59,15 +11,21 @@ voyages to Sumatra 1624, Lagundy 1625, Coromandel;calls;;
 27, Sumatra &;calls;;
 laid up 1631, rotten;calls;;
 Sandy Bay' Guinea;calls;;
+Anjengo;calls;8.4833;76.9167
 voyage ended;calls;;
 Rogues River;calls;;
 Silebar;calls;;
+Sao Tiago;calls;15.04;-23.38
 Johanna;calls;;
+Khanderi;calls;18.7042;72.8131
+Colaba;calls;18.91;72.81
 Vijayadura;calls;;
+Reunion;calls;-21.0652;55.3157
 expedition against Angria;calls;;
 wreckedthe Cape;calls;;
 captured by the French near Mauritius;calls;;
 False Bay;calls;;
+Lintin;calls;22.2446;113.4813
 returned to St Helena;calls;;
 lost on Goodwin SandsSouth Foreland;calls;;
 Moheli;calls;;
@@ -75,6 +33,8 @@ Pangasinan;calls;;
 Da;calls;;
 Tellicheny;calls;;
 Ingeli;calls;;
+Fort St David;calls;11.75;79.75
+Mauritius;calls;-20.2;57.5
 Culpee;calls;;
 towards England;calls;;
 Moco Moco;calls;;
@@ -114,6 +74,7 @@ wrecked north of Goa, in 'the Mallwan's country', survivors imprisoned;calls;;
 Fernando de Noronha;calls;;
 Purfleet;calls;;
 from Bengal;calls;;
+Spithead;calls;50.7514;-1.13667
 not heard of after leaving Bengal about the end of;calls;;
 Coringa;calls;;
 moorings;calls;;
@@ -126,6 +87,7 @@ met pirates and men deserted to them;calls;;
 left Johanna in sloop;calls;;
 reached Indian coast nr Vingula;calls;;
 captured and plundered by Shivaji's forces;calls;;
+Mokha;calls;13.1913;15.0
 Surat 1619, carried Sir Thomas Roe home;calls;;
 Voyage lost, ship 'cast away' between London and Gravesend;calls;;
 buoyed up and towed to Northfleet;calls;;
@@ -141,6 +103,7 @@ Cox's Island;calls;;
 off Cape San Diego, Argentina;calls;;
 off Cape Horn;calls;;
 in Sulu Sea;calls;;
+Cagayan Sulu;calls;6.5841;118.3047
 wrecked Pelew Islands;calls;;
 built a boat, sailed;calls;;
 Macao Seevftt account of the Pelew Islands ... George Keate;calls;;
@@ -160,18 +123,22 @@ arrived;calls;;
 Bandas;calls;;
 Comoros;calls;;
 Seychelles;calls;;
+Socotra;calls;12.3036;53.5512
 reached Indian coast nr Mahuwa, Kathiawar;calls;;
 sailed for Surat;calls;;
 lost on Malacca Banks;calls;;
 crew reached Surat;calls;;
 Capt Elias Clapp;calls;;
+Bocca Tigris;calls;22.7933;113.5979
 Madras Kedgeree;calls;;
 off St Helena took part in capture of seven Dutch ships;calls;;
 Simons Bay;calls;;
 Samkoke' Island;calls;;
 lost 'in the Bengal river;calls;;
 New Anchorage;calls;;
+River Thames;calls;51.4959;0.514031
 Jim Johanna;calls;;
+Dungeness;calls;50.55;0.58
 Diamond Harbour Saugor;calls;;
 Sydney Cove;calls;;
 Wliampoa;calls;;
@@ -181,6 +148,7 @@ made voyages to Jambi, the Bandas and Macassar;calls;;
 captured by the Dutch and taken to Japan;calls;;
 eventually handed back, but abandoned in;calls;;
 Downs captured French ship Baronette;calls;;
+Kedah;calls;6.0742;100.2146
 off Point de Galle;calls;;
 Stokes Bay;calls;;
 Arp Cape;calls;;
@@ -189,6 +157,7 @@ left Bengal;calls;;
 sent for Taiwan &;calls;;
 lostsea during second attempt;calls;;
 sailed for England;calls;;
+Point de Galle;calls;6.0158;80.1256
 off North Island;calls;;
 Capt William Baker;calls;;
 off Persian coast;calls;;
@@ -234,6 +203,7 @@ Narsapore;calls;;
 captured by the FrenchGanjam;calls;;
 Texel;calls;;
 blown upBasra;calls;;
+Hormuz;calls;27.0403;56.2736
 Sumatra;calls;;
 Mozambique Channel;calls;;
 leftGoa in 1639, broken up in;calls;;
@@ -270,10 +240,12 @@ lost 'off the Brazils;calls;;
 Diamond Point;calls;;
 Downs *;calls;;
 captured French ship Le Vengeur;calls;;
+Martinique;calls;14.39;-61.0054
 coastal cruise;calls;;
 lost on the Goodwin Sandsthe South Foreland;calls;;
 Capt Thomas Gilbert;calls;;
 Kamree Roads;calls;;
+Mahim;calls;19.035;72.84
 captured by the FrenchPoint de Galle, ran ashore in Simons Bay, Cape,;calls;;
 Torbar;calls;;
 Capt Richard Glasspoole Downs;calls;;
@@ -285,6 +257,7 @@ laid up in;calls;;
 Porta Nova;calls;;
 wreckedCadargos, Carajos Reefs nr Mauritius,;calls;;
 captain, surgeon's mate and crew drowned;calls;;
+Karrack;calls;29.1528;50.193
 Whampaoa;calls;;
 Fernando Loronho;calls;;
 captured by French Oct, recovered;calls;;
@@ -292,6 +265,7 @@ Carrick Road;calls;;
 Capt Jonathan Andrews;calls;;
 Bentoonan;calls;;
 Scindy;calls;;
+Negrais;calls;16.2;94.12
 parted companyMauritius 1809, not heard of again;calls;;
 First Bar;calls;;
 St Helena Long Reach;calls;;
@@ -304,11 +278,13 @@ Tom Borneo;calls;;
 Malwa;calls;;
 Second bar;calls;;
 Finish Roads, Ireland;calls;;
+Coninga;calls;16.5758;82.1518
 Lantau;calls;;
 Lampagao;calls;;
 captured by piratesJohanna;calls;;
 MadrasBengal;calls;;
 Upper Hope;calls;;
+Kidderpore;calls;22.536323;88.316654
 L/MAR/B/115C Journal;calls;;
 1717, Francis Gostlin, Fourth Mate Lizard;calls;;
 wrecked in Straits of Sunda;calls;;
@@ -342,11 +318,13 @@ Jakatra;calls;;
 sent for Japara, Macassar and the Moluccas;calls;;
 in the Goa fleet;calls;;
 castat sea and sank;calls;;
+Delagoa Bay;calls;25.59;32.42
 Scindy Road;calls;;
 Red Sea;calls;;
 Bachian;calls;;
 Makian;calls;;
 Tidore;calls;;
+Ryukyu Islands;calls;26.3;127.54
 Cocos Keeling Islands;calls;;
 Petapoli;calls;;
 laid up in 1623, rotten;calls;;
@@ -428,6 +406,7 @@ Prawdar;calls;;
 Boyne Harbour;calls;;
 Tuloa;calls;;
 Ratcliffe;calls;;
+Orkneys;calls;59.0;-3.0
 off Greenland;calls;;
 Warwick's Foreland;calls;;
 penetrated Hudson's Strait, driven out and south;calls;;
@@ -468,11 +447,14 @@ Point de Gale;calls;;
 Bali Straits;calls;;
 Gorec, Holland;calls;;
 Jim New Anchorage;calls;;
+Resolution Bay;calls;-41.0731;174.1332
+Tahiti;calls;-17.4;-149.25
 Pisang;calls;;
 lost on Long Sand in the river Hugh 25/26;calls;;
 burnt in Madras Roads;calls;;
 Portsmouth Long Reach;calls;;
 cape;calls;;
+Canton river;calls;22.476411;113.750545
 Ar Mokha;calls;;
 lost in Ayoffe Bay, Cape Verde,;calls;;
 Bombay Surat;calls;;
@@ -812,6 +794,7 @@ Cape Verde Islands;calls;;
 Tristan da Cunha;calls;;
 Kmsale;calls;;
 Indialee;calls;;
+Great Nanka;calls;-2.25;105.48
 Pnng Manna;calls;;
 captured by a French privateerthe Sand Heads;calls;;
 burnt in the Bay of Biscay;calls;;
@@ -1000,12 +983,14 @@ captured by French and taken into Mauritius, prisoners freedBombay;calls;;
 Downs * see 'The voyage of the Pitt;calls;;
 a turning point in the East India navigation', R P Crowhurst, Mariner's Mirror  pp.43;calls;;
 Trinidale;calls;;
+Anjengo Cape;calls;8.4833;76.9167
 Capt Benjamin Fisher Portsmouth;calls;;
 Balasore Calcutta;calls;;
 Hog River Creek, Bengal;calls;;
 wrecked 9/11 Helston Rocks, Mount's Bay, Cornwall;calls;;
 Do Ingeli;calls;;
 returned to Pondicheny;calls;;
+All Saints' Bay, Brazil;calls;-12.51;-38.38
 Manabulle;calls;;
 Lye Road;calls;;
 Bay of Bulls, Newfoundland;calls;;
@@ -1064,6 +1049,7 @@ lost in a storm in Balasore Roads between;calls;;
 off Bengal;calls;;
 Cock Island;calls;;
 Island;calls;;
+Krakatoa;calls;-6.0607;105.2523
 A Downs;calls;;
 Pulo Timan;calls;;
 Capt William Dyke;calls;;
@@ -1164,6 +1150,7 @@ Mary Surat;calls;;
 Scafareen Roads, Ireland;calls;;
 lost in hugli river;calls;;
 captured by the French in 9Â°S 91Â°E, recapturedBourbon;calls;;
+Cape Verde;calls;15.55;-23.55
 Java Head;calls;;
 lost nr St Thomas's Mount;calls;;
 Leith Roads;calls;;
@@ -1181,13 +1168,16 @@ parted company from the Hector after three months, not heard of again;calls;;
 Macassar Batavia;calls;;
 Surat, accidentally fired;calls;;
 Capt John Bell Downs;calls;;
+Port Cornwallis;calls;13.17;93.05
 at Bantam in each year;calls;;
+Cape Augustine;calls;-8.1723;-35.0148
 Trincomale;calls;;
 Balambangam;calls;;
 Downs * inc inventory of stores;calls;;
 Gt Yarmouth;calls;;
 Amsterdam Island;calls;;
 Bass Straits;calls;;
+Norfolk Island;calls;-29.02;167.57
 Sajo Island;calls;;
 off Newfoundland Banks;calls;;
 Benkulen Whampoa;calls;;
@@ -1491,6 +1481,7 @@ Denaticon;people_birth;;
 ap Waltham Lincs;people_birth;;
 Sestland;people_birth;;
 Stale APMERAIL GARDNER 180g/9 m St Mary's;people_birth;;
+Newcastle-on-Tyne;people_birth;54.98;-1.61
 Member Bengal Medical Board & Insp-Gen of Hospitals;people_birth;;
 3rd mate ROYAL BISHOP 1785/6 (approved 1726;people_birth;;
 Milbrooke;people_birth;;
@@ -1561,6 +1552,7 @@ Cupar Angus;people_birth;;
 Hickling;people_birth;;
 it England;people_birth;;
 Aor Ipswich;people_birth;;
+Tweedmouth;people_birth;55.761;-2.01
 St Cuthbert's pa;people_birth;;
 seaman EAGLE (6) packet 1779-22 when she was captured;people_birth;;
 p23 Englamd;people_birth;;
@@ -1579,6 +1571,7 @@ Drimnasallie;people_birth;;
 Moy Lamiasry;people_birth;;
 Keilmoe;people_birth;;
 cl767;people_birth;;
+Kilmartin;people_birth;56.133;-5.487
 St Peter's pa;people_birth;;
 dn Seatlant;people_birth;;
 Ord untae HILLSBOROUGH (2) 1785/6 (gpproved Peb 1796;people_birth;;
@@ -1650,10 +1643,12 @@ ed 1782;people_birth;;
 1st mate Heater ‘0 Jamaica (approved 1786;people_birth;;
 5th mate GENERAL Totlb 1824/5;people_birth;;
 m7 Walcot;people_birth;;
+Crathie;people_birth;57.0225;-3.1255
 & St George's Bloomsbury;people_birth;;
 St Giles;people_birth;;
 1748;people_birth;;
 dat sea;people_birth;;
+Sorbie;people_birth;54.79;4.43
 Redbridge;people_birth;;
 Sid tnate INDIAN TRADER 1794/5;people_birth;;
 5th mate KELLIE CASTLE 1828/9;people_birth;;
@@ -1887,6 +1882,7 @@ Sevenhampton;people_birth;;
 Wickenford;people_birth;;
 Forecross Chancry;people_birth;;
 Kelins;people_birth;;
+Berwick-upon-Tweed;people_birth;55.4609;-2.0009
 Pitteneern;people_birth;;
 d Norris;people_birth;;
 Kirkby-over-Carr;people_birth;;
@@ -2084,6 +2080,7 @@ Staffs;people_baptised;;
 Yorks;people_baptised;;
 Clos;people_baptised;;
 Hanover Sq;people_baptised;;
+Fleet St;people_baptised;51.5138;-0.1105
 Srepacy;people_baptised;;
 Louden;people_baptised;;
 Worcs;people_baptised;;
@@ -2100,10 +2097,12 @@ Warwicks;people_baptised;;
 Roxburgshire;people_baptised;;
 Gt Berkhamsted;people_baptised;;
 Lancs;people_baptised;;
+Soho;people_baptised;51.3046;-0.752
 Bormateple;people_baptised;;
 Lincs;people_baptised;;
 Merioneth;people_baptised;;
 Herts;people_baptised;;
+Bloomsbury;people_baptised;51.5201;-0.1288
 Phillack;people_baptised;;
 Nortel;people_baptised;;
 ‘Kent;people_baptised;;
@@ -2116,6 +2115,7 @@ Old Jewry;people_baptised;;
 Dumtfries;people_baptised;;
 Glamorgan;people_baptised;;
 Northants;people_baptised;;
+Pembrokeshire;people_baptised;51.5042;-4.5032
 co Durbem;people_baptised;;
 Fes Monpbie;people_baptised;;
 Lichfield Cathedral;people_baptised;;
