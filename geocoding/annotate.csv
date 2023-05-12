@@ -11,7 +11,7 @@ Lintin;calls;22.2446;113.4813
 Fort St David;calls;11.75;79.75
 Mauritius;calls;-20.2;57.5
 Spithead;calls;50.7514;-1.13667
-Mokha;calls;13.1913;15.0
+Mokha;calls;13.1913;43.15
 Cagayan Sulu;calls;6.5841;118.3047
 Socotra;calls;12.3036;53.5512
 Bocca Tigris;calls;22.7933;113.5979
@@ -26,7 +26,7 @@ Karrack;calls;29.1528;50.193
 Negrais;calls;16.2;94.12
 Coninga;calls;16.5758;82.1518
 Kidderpore;calls;22.536323;88.316654
-Delagoa Bay;calls;25.59;32.42
+Delagoa Bay;calls;-25.59;32.42
 Ryukyu Islands;calls;26.3;127.54
 Orkneys;calls;59.0;-3.0
 Resolution Bay;calls;-41.0731;174.1332
@@ -44,7 +44,7 @@ Newcastle-on-Tyne;people_birth;54.98;-1.61
 Tweedmouth;people_birth;55.761;-2.01
 Kilmartin;people_birth;56.133;-5.487
 Crathie;people_birth;57.0225;-3.1255
-Sorbie;people_birth;54.79;4.43
+Sorbie;people_birth;54.79;-4.43
 Berwick-upon-Tweed;people_birth;55.4609;-2.0009
 Fleet St;people_baptised;51.5138;-0.1105
 Soho;people_baptised;51.3046;-0.752
@@ -79,13 +79,56 @@ Llandeilo;people_birth;51.885;-3.992
 St Helena;calls;-15.58;-5.42
 Alphington;people_birth;50.42;-3.32
 Applecross;people_birth;57.43304;-5.80958
-Macao;calls;22.10;113.33
+Macao;calls;22.1;113.33
 Montreal;people_birth;45.3032;-73.3315
+Bantam;calls;-6.0233;106.0939
+River Shannon;calls;52.35;-9.18
+Barbados;calls;13.1012;-59.3309
+West India Dock;calls;51.50347;-0.01722
+Porto Praya;calls;14.918;-23.509
+Crookhaven;calls;51.2747;-9.4313
+Nicobars;calls;7.05;93.48
+Comoros;calls;-12.3;43.7
+Seychelles;calls;-4.35;55.4
+Gambia river;calls;13.28;-16.34
+Port Dauphin;calls;-25.0157;46.59
+Masirah;calls;20.2816;58.4855
+Lombok;calls;-8.565;116.351
+Tristan de Cunha;calls;-37.7;-12.18
+St Paul's Island;calls;-38.43;77.31
+Condore;calls;16.4108;80.3445
+Manila Bay;calls;14.31;120.46
+Delagoa;calls;-25.59;32.42
+Tristan da Cunha;calls;-37.7;-12.18
+Bay of Bulls, Newfoundland;calls;47.299;-52.781
+Nootka Sound;calls;49.41;-126.33
+Queen Charlotte's Islands;calls;-11.0;166.15
+Sandwich Islands;calls;20.54;-156.36
+Montague Island;calls;-36.15;150.13
+Cape;calls;-34.2129;18.2832
+Second Bar;calls;22.476411;113.750545
+Kedgeree;calls;12.8575;87.9115
+Johanna;calls;-12.1254;44.253
+False Bay;calls;-34.1347;18.3843
+Moheli;calls;-12.15;43.45
+Port Jackson;calls;-33.513;151.14
+Balambangan;calls;7.1549;116.5321
+Fulta;calls;19.1629;84.4843
+Fernando de Noronha;calls;-3.5118;-32.253
+Purfleet;calls;51.48;0.25
+Coringa;calls;16.48;82.14
+Batavia;calls;-6.129;106.8129
+Ascension;calls;-7.56;-14.22
+Manila;calls;14.3545;120.5838
+Long Reach;calls;51.4415;0.3685
+Saugor;calls;21.6528;88.0753
+Banda;calls;-4.35;129.55
+Sindh;calls;24.5136;67.0036
+Tenerife;calls;28.1607;-16.362
+Coromandel;calls;13.3667;80.3333
+Java;calls;-7.293;110.0016
 Bengal;calls;;
 Hugh;calls;;
-Cape;calls;;
-Second Bar;calls;;
-Kedgeree;calls;;
 voyages to Sumatra 1624, Lagundy 1625, Coromandel;calls;;
 27, Sumatra &;calls;;
 laid up 1631, rotten;calls;;
@@ -93,15 +136,12 @@ Sandy Bay' Guinea;calls;;
 voyage ended;calls;;
 Rogues River;calls;;
 Silebar;calls;;
-Johanna;calls;;
 Vijayadura;calls;;
 expedition against Angria;calls;;
 wreckedthe Cape;calls;;
 captured by the French near Mauritius;calls;;
-False Bay;calls;;
 returned to St Helena;calls;;
 lost on Goodwin SandsSouth Foreland;calls;;
-Moheli;calls;;
 Pangasinan;calls;;
 Da;calls;;
 Tellicheny;calls;;
@@ -111,42 +151,30 @@ towards England;calls;;
 Moco Moco;calls;;
 Acheh;calls;;
 ;calls;;
-Bantam;calls;-6.0233;106.0939
 abandonedMasulipatam;calls;;
 Pring;calls;;
 Rat Island;calls;;
-River Shannon;calls;;
 below Second Bar;calls;;
 Woolwich ff.6;calls;;
 sailing directions for the convoy leaving England;calls;;
-Barbados;calls;;
 St Augustine's Bay;calls;;
 captured by the FrenchScilly;calls;;
 wrecked Polperro, Cornwall;calls;;
 City Canal;calls;;
 Day Downs;calls;;
-West India Dock;calls;;
 From England;calls;;
 captured by the French 9/10;calls;;
-Port Jackson;calls;;
-Porto Praya;calls;;
 Rodrigues;calls;;
 Allas;calls;;
 Saloomah;calls;;
 Madagascar;calls;;
-Crookhaven;calls;;
-Balambangan;calls;;
 Northfleet;calls;;
-Fulta;calls;;
 Down;calls;;
 Guinea;calls;;
 Lizard;calls;;
 wrecked north of Goa, in 'the Mallwan's country', survivors imprisoned;calls;;
-Fernando de Noronha;calls;;
-Purfleet;calls;;
 from Bengal;calls;;
 not heard of after leaving Bengal about the end of;calls;;
-Coringa;calls;;
 moorings;calls;;
 went on shoreBerck nr Boulogne, abandoned;calls;;
 From Bantam;calls;;
@@ -184,13 +212,10 @@ transport;calls;;
 see Asiatic Journal  pp.32;calls;;
 Toibay;calls;;
 Madagascar htor;calls;;
-Nicobars;calls;;
 at capture of San Antonio carrack in Straits of Malacca;calls;;
 sent for England;calls;;
 arrived;calls;;
 Bandas;calls;;
-Comoros;calls;;
-Seychelles;calls;-4.35;55.4
 reached Indian coast nr Mahuwa, Kathiawar;calls;;
 sailed for Surat;calls;;
 lost on Malacca Banks;calls;;
@@ -713,7 +738,6 @@ for a crew list;calls;;
 Maldives;calls;;
 Sheemess;calls;;
 lostFolkestone;calls;;
-Gambia river;calls;;
 captured by the Frenchthe Cape;calls;;
 Gravesend * attacked by piratesJohanna;calls;;
 Managalore;calls;;
@@ -740,15 +764,12 @@ Vizagapatam = Madras;calls;;
 Saugor = Point de Gallc;calls;;
 Downs * pen & ink sketch of the ship;calls;;
 burntCalcutta;calls;;
-Port Dauphin;calls;;
-Masirah;calls;;
 Lagundy;calls;;
 Downs * journal includes sketches;calls;;
 voyage ended by;calls;;
 Bowns;calls;;
 remained in India ?;calls;;
 lostBonavista;calls;;
-Lombok;calls;;
 returned to Benkulen, gale damaged;calls;;
 portsmouth;calls;;
 Malabar coast;calls;;
@@ -782,9 +803,6 @@ lost in the Bengal river;calls;;
 repairedcoast of China;calls;;
 Srat;calls;;
 voyages between Bantam and Surat;calls;;
-Tristan de Cunha;calls;;
-St Paul's Island;calls;;
-Condore;calls;;
 Cochin China;calls;;
 off Teinchin;calls;;
 Capt George Millett Fortmouth;calls;;
@@ -796,7 +814,6 @@ I Journal;calls;;
 St Margaret's Orkney;calls;;
 presumably laid up, rotten;calls;;
 Princes' Island;calls;;
-Manila Bay;calls;;
 captured by the DutchPattani;calls;;
 Gomes Island;calls;;
 Rendezvous Island' Borneo;calls;;
@@ -830,7 +847,6 @@ wrecked Cape Aghulas. South Africa;calls;;
 Downs Muckncll seized the ship on behalf of Charles I;calls;;
 Bandar Abbas ' Surat;calls;;
 left Bantam and not heard of again;calls;;
-Delagoa;calls;;
 voyage ended Bristol;calls;;
 Djapara;calls;;
 Madapollam;calls;;
@@ -838,7 +854,6 @@ Johore river;calls;;
 Lmtin;calls;;
 voyage ended Downs;calls;;
 Cape Verde Islands;calls;;
-Tristan da Cunha;calls;;
 Kmsale;calls;;
 Indialee;calls;;
 Pnng Manna;calls;;
@@ -1035,7 +1050,6 @@ Do Ingeli;calls;;
 returned to Pondicheny;calls;;
 Manabulle;calls;;
 Lye Road;calls;;
-Bay of Bulls, Newfoundland;calls;;
 not heard of after the;calls;;
 King's Channel;calls;;
 Tamborneo;calls;;
@@ -1043,10 +1057,6 @@ Iceland;calls;;
 Gunfleet;calls;;
 Malacca Whampoa;calls;;
 New Year's Island;calls;;
-Nootka Sound;calls;;
-Queen Charlotte's Islands;calls;;
-Sandwich Islands;calls;;
-Montague Island;calls;;
 off Morotai;calls;;
 off Taiwan;calls;;
 left Madras and foundered in a gale;calls;;
