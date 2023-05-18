@@ -5240,7 +5240,7 @@ Extra ship, measured 1798, 3 decks, 4in bottom, length 120fl lO^in, keel 96ft 3i
 1 1795/6 Bengal
 L/MAR/B/347A Journal 25 Mar 1796-8 Mar 1798 
 Capt Benjamin Gowland
-Portsmouth 25 May 1796 - 15 Jun Gibralter - 8 Jul Tenerife -19 Sep Cape -11 Feb 1797 Calcutta - 14 Sep Cape - 21 Oct St Helena - 4 Feb 1798 Long Reach
+Portsmouth 25 May 1796 - 15 Jun Gibraltar - 8 Jul Tenerife -19 Sep Cape -11 Feb 1797 Calcutta - 14 Sep Cape - 21 Oct St Helena - 4 Feb 1798 Long Reach
 2 1798/9 Madras and Bengal
 L/MAR/B/347B Journal 25 Jun 1798-27 Jun 1800 
 Capt Benjamin Gowland
@@ -12508,7 +12508,7 @@ L/MAR/B/225L(2) Pay Book
 Capt George Weltden
 Portsmouth 8 Jun 1814 - 23 Jun Madeira -15 Nov Bombay -10 Jan 1815 Tellicherry - 27 Mar Cape - 25 Apr St Helena - 23 Jun Downs
 INDUSTRY
-1 1699 & 1700 Gibralter
+1 1699 & 1700 Gibraltar
 L/MAR/A/CXIII ff.7v-16 Journal 14 Jun 1699-26 Dec 1700, anon
 Capt Nathaniel Grantham
 Lizard 15 Jul 1699 - 22 Jul Lisbon - Cap Sprat 29 Feb 1700 - 27 Mar Downs - 'from England' 5 Dec -26 Dec Cap Sprat
@@ -16686,7 +16686,7 @@ MINERVA (2)
 1 1795/6 Bengal
 L/MAR/B/14E Journal 15 Apr 1796-16 Mar 1798
 Capt Thomas Blany
-Southampton 22 May 1796 - 14 Jun Gibralter - 8 Jul Santa Cruz -19 Sep Cape - 10 Feb 1797 Diamond Harbour - 25 Apr Calcutta - 3 May Diamond Harbour - 29 Aug Cape - 29 Sep St Helena - 30 Jan 1798 Downs
+Southampton 22 May 1796 - 14 Jun Gibraltar - 8 Jul Santa Cruz -19 Sep Cape - 10 Feb 1797 Diamond Harbour - 25 Apr Calcutta - 3 May Diamond Harbour - 29 Aug Cape - 29 Sep St Helena - 30 Jan 1798 Downs
 MINERVA (3)
 1 1797/8 New South Wales and Bengal
 L/MAR/B/14F Journal 6 Aug 1798-26 May 1801

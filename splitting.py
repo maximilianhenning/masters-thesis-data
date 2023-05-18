@@ -355,13 +355,11 @@ for row in people_df.iterrows():
                 if ",home as" in token:
                     token_split = token.split(",home as")
                     for subtoken in token_split:
-                        job_counter += 1
                         jobs_list.append(job_token_reader(subtoken, job_counter)) 
                 # , - Several journeys, several ships
                 elif "," in token:
                     token_split = token.split(",")
                     for subtoken in token_split:
-                        job_counter += 1
                         jobs_list.append(job_token_reader(subtoken, job_counter))
                 # X & X - One ship, several voyages
                 if re.search(r"\d\s&\s\d", token):
@@ -377,7 +375,6 @@ for row in people_df.iterrows():
                         jobs_list.append(job_token_reader(subtoken, job_counter)) 
                 # Otherwise, add the single one
                 else:
-                    job_counter += 1
                     jobs_list.append(job_token_reader(token, job_counter))
 jobs_df = pd.DataFrame(jobs_list)
 jobs_df.rename(columns = {0: "person_id", 1: "job_id", 2: "job", 3: "voyage_ship", 4: "voyage_start", 5: "voyage_end"}, inplace = True)
@@ -394,11 +391,11 @@ for location in calls_df.loc[calls_df["location"].notna()]["location"].tolist():
         location = location.replace(string, "")
     location = re.sub(r"\([^()]*\)", "", location)
     location = location.strip()
-    if location not in locations_added_list:
+    if location not in locations_added_list and location != "nan":
         locations_added_list.append(location)
         location_list.append([location, "calls"])
 for location in ships_df.loc[ships_df["built_at"].notna()]["built_at"].tolist():
-    if location not in locations_added_list:
+    if location not in locations_added_list and location != "nan":
         locations_added_list.append(location)
         location_list.append([location, "ships_built_at"])
 for location in voyages_df.loc[voyages_df["destination"].notna()]["destination"].tolist():
@@ -407,24 +404,24 @@ for location in voyages_df.loc[voyages_df["destination"].notna()]["destination"]
         location_split = re.split(" and |,|&", location)
         for location in location_split:
             location = location.strip()
-            if location not in locations_added_list:
+            if location not in locations_added_list and location != "nan":
                 locations_added_list.append(location)
                 location_list.append([location, "voyage_destinations"])
-    if location not in locations_added_list:
+    if location not in locations_added_list and location != "nan":
         locations_added_list.append(location)
         location_list.append([location, "voyage_destinations"])
 for location in people_df.loc[people_df["birth_location"].notna()]["birth_location"].tolist():
-    if location not in locations_added_list:
+    if location not in locations_added_list and location != "nan":
         locations_added_list.append(location)
         location_list.append([location, "people_birth"])
 for location in people_df.loc[people_df["baptised_city"].notna()]["baptised_city"].tolist():
-    if location not in locations_added_list:
+    if location not in locations_added_list and location != "nan":
         locations_added_list.append(location)
         location_list.append([location, "people_baptised"])
 
 locations_df = pd.DataFrame(location_list)
 def location_id_creator(index):
-    location_id = "l" + str(index + 1)
+    location_id = "l" + str(int(index) + 1)
     return location_id
 locations_df["location_id"] = locations_df.reset_index()["index"].apply(location_id_creator).drop(columns = ["index"])
 locations_df.rename(columns = {0: "location", 1: "category"}, inplace = True)

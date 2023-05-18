@@ -123,10 +123,31 @@ Manila;calls;14.3545;120.5838
 Long Reach;calls;51.4415;0.3685
 Saugor;calls;21.6528;88.0753
 Banda;calls;-4.35;129.55
-Sindh;calls;24.5136;67.0036
 Tenerife;calls;28.1607;-16.362
 Coromandel;calls;13.3667;80.3333
 Java;calls;-7.293;110.0016
+Colombo;calls;6.5604;79.5034
+Persia;calls;27.2532;53.8998
+China;calls;22.449;113.915
+Deptford;calls;51.478;-0.0265
+Brest;calls;48.23;-4.29
+Onore;calls;14.28;74.4439
+San Salvador;calls;-12.5829;-38.2836
+Brazil;calls;-8.4544;-35.0359
+Bourbon;calls;-21.0652;55.3157
+Moco Moco;calls;-2.5833;101.117
+Acheh;calls;5.3325;95.1934
+Rodrigues;calls;-19.43;63.25
+Newfoundland;calls;48.36;-56.2
+Siam;calls;12.6414;101.021
+Bristol Channel;calls;51.3777;-4.2291
+Tidore;calls;0.41;127.24
+Quedah;calls;6.0742;100.2146
+Kambelu;calls;-3.08;129.3
+Pulo Run;calls;-4.332587;129.4163
+Annabon;calls;-1.2606;5.3815
+Galway Bay;calls;53.1619;-9.0256
+Ratcliffe;calls;51.512054;-0.038946
 Bengal;calls;;
 Hugh;calls;;
 voyages to Sumatra 1624, Lagundy 1625, Coromandel;calls;;
@@ -148,8 +169,6 @@ Tellicheny;calls;;
 Ingeli;calls;;
 Culpee;calls;;
 towards England;calls;;
-Moco Moco;calls;;
-Acheh;calls;;
 ;calls;;
 abandonedMasulipatam;calls;;
 Pring;calls;;
@@ -164,7 +183,6 @@ City Canal;calls;;
 Day Downs;calls;;
 From England;calls;;
 captured by the French 9/10;calls;;
-Rodrigues;calls;;
 Allas;calls;;
 Saloomah;calls;;
 Madagascar;calls;;
@@ -263,8 +281,6 @@ Prince's Island;calls;;
 remained in East Indies;calls;;
 captured by the French;calls;;
 recovered;calls;;
-Newfoundland;calls;;
-Siam;calls;;
 feared lost;calls;;
 Long Reach capturedthe French coast;calls;;
 Barrabulla;calls;;
@@ -374,7 +390,6 @@ Sidney Cove;calls;;
 captured by the French, retakenMauritius;calls;;
 Cochin Calicut;calls;;
 lostthe Cape;calls;;
-Bristol Channel;calls;;
 Surat, accidentally destroyed by fire;calls;;
 Apr/May Maldives;calls;;
 not heard of again;calls;;
@@ -402,7 +417,6 @@ Scindy Road;calls;;
 Red Sea;calls;;
 Bachian;calls;;
 Makian;calls;;
-Tidore;calls;;
 Cocos Keeling Islands;calls;;
 Petapoli;calls;;
 laid up in 1623, rotten;calls;;
@@ -425,7 +439,6 @@ St Laurence;calls;;
 Moluccas;calls;;
 Trinidade;calls;;
 Tumala Punta;calls;;
-Quedah;calls;;
 Capshee Bay;calls;;
 Catherine and Planter lost company;calls;;
 Planter rejoined;calls;;
@@ -444,13 +457,11 @@ Bearhaven;calls;;
 free ship to trade in the country;calls;;
 blockaded Mokha until;calls;;
 Ceram;calls;;
-Kambelu;calls;;
 Pattani, laid up there;calls;;
 expedition agst Angria pirates;calls;;
 lost north of Sadras;calls;;
 Capt Marmaduke Rawdon;calls;;
 lost in the Hugh;calls;;
-Pulo Run;calls;;
 seized by Dutch;calls;;
 in reported laid up as a wreck in the Bandas;calls;;
 left Madras;calls;;
@@ -461,8 +472,6 @@ Tambomeo;calls;;
 burntBenkulen to prevent her capture by the French;calls;;
 Whampoa St Helena;calls;;
 off Ascension;calls;;
-Annabon;calls;;
-Galway Bay;calls;;
 Simon's Bay;calls;;
 Pipli;calls;;
 Westcott Bay;calls;;
@@ -483,7 +492,6 @@ Massaleige;calls;;
 Prawdar;calls;;
 Boyne Harbour;calls;;
 Tuloa;calls;;
-Ratcliffe;calls;;
 off Greenland;calls;;
 Warwick's Foreland;calls;;
 penetrated Hudson's Strait, driven out and south;calls;;
@@ -1412,7 +1420,7 @@ Jun Downs;voyage_destinations;;
 Benga;voyage_destinations;;
 China L/MAM/B/131B Deck Log 19 Dec 1831-15 Jun 1832;voyage_destinations;;
 China L/MAM/B/438H Journal 14 Jan 1755-13 Sep 1757 L/MAM/B/438BB(1) Ledger L/MAM/B/438BB(2) Pay Book;voyage_destinations;;
-1700 Gibralte;voyage_destinations;;
+1700 Gibralta;voyage_destinations;;
 'India';voyage_destinations;;
 Benkulcn;voyage_destinations;;
 Mar 1678 -;voyage_destinations;;
