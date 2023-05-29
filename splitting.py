@@ -381,8 +381,8 @@ jobs_df.rename(columns = {0: "person_id", 1: "job_id", 2: "job", 3: "voyage_ship
 print("Jobs done")
 
 # Location table
-# location_id   longitude   latitude
-# location_id   float       float
+# location_id   longitude   latitude    region
+# location_id   float       float       string
 
 location_list = []
 locations_added_list = []
@@ -580,18 +580,10 @@ if not path.exists(dir + "/geocoding/annotate.csv"):
 else:
     locations_annotated_df = pd.read_csv(path.join(dir, "geocoding/annotate.csv"), encoding = "utf-8", sep = ";")
     locations_annotated_df = locations_annotated_df.loc[locations_annotated_df["lat"].notna()]
-    #print(locations_annotated_df.head())
-    #locations_annotated_df.drop(columns = ["category_x", "category_y"], inplace = True)
     locations_annotated_list = locations_annotated_df["location"].tolist()
     locations_annotate_df = locations_annotate_df.loc[~locations_annotate_df["location"].isin(locations_annotated_list)]
-    #locations_annotate_df = pd.merge(
-    #    locations_annotate_df, locations_df,
-    #    how = "left",
-    #    on = "location"
-    #)
     locations_annotate_combined_df = pd.concat([locations_annotated_df, locations_annotate_df])
     pd.DataFrame.to_csv(locations_annotate_combined_df, path.join(dir, "geocoding/annotate.csv"), encoding = "utf-8", sep = ";", index = False)
-    #locations_annotated_df.drop(columns = ["category_x", "category_y"], inplace = True)
     locations_annotated_df = pd.merge(
         locations_annotated_df, locations_df,
         how = "left",
@@ -599,9 +591,38 @@ else:
     )
     locations_annotated_df = locations_annotated_df[["location_id", "location", "category_x", "lat", "lon"]]
     locations_annotated_df.rename(columns = {"category_x": "category"}, inplace = True)
-    #locations_annotated_df = locations_annotated_df[["location_id_x", "location", "category_x", "lat", "lon"]]
-    #locations_annotated_df.rename(columns = {"location_id_x": "location_id", "category_x": "category"}, inplace = True)
     locations_complete_df = pd.concat([locations_annotated_df, locations_geocoded_df.loc[~locations_geocoded_df["location"].isin(locations_annotated_list)]], ignore_index = True)
+
+# Add region to places
+
+def region_finder(row):
+    if str(row["lat"]) != "nan":
+        lat = float(row["lat"])
+        lon = float(row["lon"])
+        if lat > -10 and lat < 3:
+            if lon > 48 and lon < 63:
+                return "british_isles"
+        if lat > 10 and lat < 30:
+            if lon > 65 and lon < 74.5:
+                return "bombay_presidency"
+        if lat > 0 and lat < 20:
+            if lon > 74.5 and lon < 85:
+                return "madras_presidency"
+        if lat > 15 and lat < 25:
+            if lon > 85 and lon < 95:
+                return "bengal_presidency"
+        if lat > 18 and lat < 45:
+            if lon > 45 and lon < 100:
+                return "china"
+        if lat > -15 and lat < 18:
+            if lon > 90 and lon < 140:
+                return "southeast_asia"
+        if lat > -150 and lat < 18:
+                return "atlantic"
+        if lat > 18 and lat < 150:
+                return "indian_ocean"
+    return "nan"
+locations_complete_df["region"] = locations_complete_df.apply(region_finder, axis = 1)
 
 # Some don't need any changes here
 
