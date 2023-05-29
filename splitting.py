@@ -7,7 +7,7 @@ from unidecode import unidecode
 
 dir = path.dirname(__file__)
 voyages_combined_df = pd.read_csv(path.join(dir, "combined/voyages.csv"), sep = ";")
-people_df_combined = pd.read_csv(path.join(dir, "combined/people.csv"), sep = ";")
+persons_df_combined = pd.read_csv(path.join(dir, "combined/persons.csv"), sep = ";")
 
 # Ships table
 # ship_id   tons    tons_min    tons_max    guns    guns_min    guns_max    crew    crew_min    crew_max
@@ -92,8 +92,8 @@ ships_df = pd.concat([ships_df, ships_expand_df], axis = 1)
 print("Ships done")
 
 # Voyages table
-# voyage_id     ship    start   end     destination reference   captain
-# voyage_id     ship_id string  string  place_id    string      employee_id
+# voyage_id     ship    start   end     destination reference
+# voyage_id     ship_id string  string  place_id    string
 
 voyages_df_list = voyages_combined_df
 voyages_df_list.drop(["name", "info"], axis = 1, inplace = True)
@@ -220,7 +220,7 @@ def call_id_creator(row):
 calls_df["call_id"] = calls_df.apply(call_id_creator, axis = 1)
 print("Calls done")
 
-# People table
+# persons table
 # person_id     last_name   first_name  birth_date  death_date  birth_location  baptised_location   mother_name father_name
 # person_id     string      string      string      string      location_id     location_id         string      string      
 
@@ -308,10 +308,10 @@ def person_info_expander(info):
                     baptised_city = baptised_location
     return pd.Series([birth_location, baptised_parish, baptised_city, mother_name, mother_origin, father_name, father_job])
 
-people_df = people_df_combined
-people_df[["last_name", "first_name", "birth_date", "death_date"]] = people_df["person"].apply(person_line_expander)
-people_df[["birth_location", "baptised_parish", "baptised_city", "mother_name", "mother_origin", "father_name", "father_job"]] = people_df["info"].apply(person_info_expander)
-print("People done")
+persons_df = persons_df_combined
+persons_df[["last_name", "first_name", "birth_date", "death_date"]] = persons_df["person"].apply(person_line_expander)
+persons_df[["birth_location", "baptised_parish", "baptised_city", "mother_name", "mother_origin", "father_name", "father_job"]] = persons_df["info"].apply(person_info_expander)
+print("Persons done")
 
 # Jobs table
 # person_id     job_id      job         voyage_id
@@ -341,7 +341,7 @@ jobs_list = []
 job_list = ["passenger", "apprentice", "seaman", "boatswain", "gunner's mate" "gunner", "midshipman", "capt's servant",
             "6th mate", "5th mate", "4th mate", "3rd mate", "2nd mate", "1st mate", 
             "quarter master", "purser", "surgeon", "surgeon's mate", "master", "lieutenant", "capt"]
-for row in people_df.iterrows():
+for row in persons_df.iterrows():
     person_id = row[1]["person_id"]
     info_tokens = str(row[1]["info"]).split(";")
     job_counter = 1
@@ -410,14 +410,14 @@ for location in voyages_df.loc[voyages_df["destination"].notna()]["destination"]
     if location not in locations_added_list and location != "nan":
         locations_added_list.append(location)
         location_list.append([location, "voyage_destinations"])
-for location in people_df.loc[people_df["birth_location"].notna()]["birth_location"].tolist():
+for location in persons_df.loc[persons_df["birth_location"].notna()]["birth_location"].tolist():
     if location not in locations_added_list and location != "nan":
         locations_added_list.append(location)
-        location_list.append([location, "people_birth"])
-for location in people_df.loc[people_df["baptised_city"].notna()]["baptised_city"].tolist():
+        location_list.append([location, "persons_birth"])
+for location in persons_df.loc[persons_df["baptised_city"].notna()]["baptised_city"].tolist():
     if location not in locations_added_list and location != "nan":
         locations_added_list.append(location)
-        location_list.append([location, "people_baptised"])
+        location_list.append([location, "persons_baptised"])
 
 locations_df = pd.DataFrame(location_list)
 def location_id_creator(index):
@@ -441,38 +441,38 @@ jobs_complete_df = pd.merge(jobs_df, voyages_merged_df,
                             )
 jobs_complete_df = jobs_complete_df[["person_id", "job_id", "job", "voyage_id"]]
 
-# People: birth_location, baptised_city
+# persons: birth_location, baptised_city
 
 def p_remover(person_id):
     number = str(person_id)[1:]
     number = int(number)
     return number
 
-people_complete_df = people_df.sort_values("person_id")
-people_birth_notna_df = people_df.loc[people_df["birth_location"].notna()]
-people_birth_notna_df = pd.merge(people_birth_notna_df, locations_df,
+persons_complete_df = persons_df.sort_values("person_id")
+persons_birth_notna_df = persons_df.loc[persons_df["birth_location"].notna()]
+persons_birth_notna_df = pd.merge(persons_birth_notna_df, locations_df,
                            how = "left",
                            left_on = "birth_location",
                            right_on = "location"
                            )
-people_birth_na_df = people_df.loc[people_df["birth_location"].isna()]
-people_birth_df = pd.concat([people_birth_notna_df, people_birth_na_df])
-people_birth_df["sort"] = people_birth_df["person_id"].apply(p_remover)
-people_birth_df = people_birth_df.sort_values(by = "sort").reset_index()
-people_complete_df["birth_location"] = people_birth_df["location_id"]
+persons_birth_na_df = persons_df.loc[persons_df["birth_location"].isna()]
+persons_birth_df = pd.concat([persons_birth_notna_df, persons_birth_na_df])
+persons_birth_df["sort"] = persons_birth_df["person_id"].apply(p_remover)
+persons_birth_df = persons_birth_df.sort_values(by = "sort").reset_index()
+persons_complete_df["birth_location"] = persons_birth_df["location_id"]
 
-people_baptised_notna_df = people_df.loc[people_df["baptised_city"].notna()]
-people_baptised_notna_df = pd.merge(people_baptised_notna_df, locations_df,
+persons_baptised_notna_df = persons_df.loc[persons_df["baptised_city"].notna()]
+persons_baptised_notna_df = pd.merge(persons_baptised_notna_df, locations_df,
                            how = "left",
                            left_on = "baptised_city",
                            right_on = "location"
                            )
-people_baptised_na_df = people_df.loc[people_df["baptised_city"].isna()]
-people_baptised_df = pd.concat([people_baptised_notna_df, people_baptised_na_df])
-people_baptised_df["sort"] = people_baptised_df["person_id"].apply(p_remover)
-people_baptised_df = people_baptised_df.sort_values(by = "sort").reset_index()
-people_complete_df["baptised_city"] = people_baptised_df["location_id"]
-people_complete_df.sort_index(inplace = True)
+persons_baptised_na_df = persons_df.loc[persons_df["baptised_city"].isna()]
+persons_baptised_df = pd.concat([persons_baptised_notna_df, persons_baptised_na_df])
+persons_baptised_df["sort"] = persons_baptised_df["person_id"].apply(p_remover)
+persons_baptised_df = persons_baptised_df.sort_values(by = "sort").reset_index()
+persons_complete_df["baptised_city"] = persons_baptised_df["location_id"]
+persons_complete_df.sort_index(inplace = True)
 
 # Calls: location
 
@@ -494,9 +494,9 @@ ships_complete_df = pd.merge(ships_df, locations_df,
 ships_complete_df["built_at"] = ships_complete_df["location_id"]
 ships_complete_df.drop(columns = ["location", "location_id", "category"], inplace = True)
 
-# XXXX Add built_by to people
+# XXXX Add built_by to persons
 
-# XXXX Add owner to people
+# XXXX Add owner to persons
 
 print("Referencing done")
 
@@ -599,8 +599,8 @@ def region_finder(row):
     if str(row["lat"]) != "nan":
         lat = float(row["lat"])
         lon = float(row["lon"])
-        if lat > -10 and lat < 3:
-            if lon > 48 and lon < 63:
+        if lat > 48 and lat < 63:
+            if lon > -10 and lon < 3:
                 return "british_isles"
         if lat > 10 and lat < 30:
             if lon > 65 and lon < 74.5:
@@ -612,14 +612,14 @@ def region_finder(row):
             if lon > 85 and lon < 95:
                 return "bengal_presidency"
         if lat > 18 and lat < 45:
-            if lon > 45 and lon < 100:
+            if lon > 100 and lon < 130:
                 return "china"
         if lat > -15 and lat < 18:
             if lon > 90 and lon < 140:
                 return "southeast_asia"
-        if lat > -150 and lat < 18:
+        if lon > -150 and lon < 18:
                 return "atlantic"
-        if lat > 18 and lat < 150:
+        if lon > 18 and lon < 150:
                 return "indian_ocean"
     return "nan"
 locations_complete_df["region"] = locations_complete_df.apply(region_finder, axis = 1)
@@ -633,6 +633,6 @@ voyages_complete_df = voyages_df
 ships_complete_df.to_csv(path.join(dir, "output/ships.csv"), index = False, sep = ";", encoding = "utf-8")
 voyages_complete_df.to_csv(path.join(dir, "output/voyages.csv"), index = False, sep = ";", encoding = "utf-8")
 calls_complete_df.to_csv(path.join(dir, "output/calls.csv"), index = False, sep = ";", encoding = "utf-8")
-people_complete_df.to_csv(path.join(dir, "output/people.csv"), index = False, sep = ";", encoding = "utf-8")
+persons_complete_df.to_csv(path.join(dir, "output/persons.csv"), index = False, sep = ";", encoding = "utf-8")
 jobs_complete_df.to_csv(path.join(dir, "output/jobs.csv"), index = False, sep = ";", encoding = "utf-8")
 locations_complete_df.to_csv(path.join(dir, "output/locations.csv"), index = False, sep = ";", encoding = "utf-8")

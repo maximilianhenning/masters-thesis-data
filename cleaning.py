@@ -136,6 +136,6 @@ for file in ocr_file_list:
         for line in file_lines:
             output.write(line + "\n")
     print(file_title + ": Cleaning done")
-with open(path.join(dir, "combined/people.txt"), "w") as output:
+with open(path.join(dir, "combined/persons.txt"), "w") as output:
     for line in overall_list:
         output.write(line + "\n")

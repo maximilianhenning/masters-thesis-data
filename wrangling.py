@@ -161,23 +161,23 @@ def officer_classify(lines):
     return lines_classed
 
 # Group lines into personal entries
-def people_creator(lines_classed):
-    people = {}
+def persons_creator(lines_classed):
+    persons = {}
     person_counter = 0
     for line in lines_classed:
         # Get person lines
         if line[1] == "person":
             person_counter += 1
             person_line = line[0]
-            people[person_counter] = [person_line, ""]
+            persons[person_counter] = [person_line, ""]
         # Get info lines
         elif line[1] == "info":
-            if person_counter in people.keys():
+            if person_counter in persons.keys():
                 # Append info string to second position in list
-                people[person_counter][1] += line[0] + " "
+                persons[person_counter][1] += line[0] + " "
     # Convert to DataFrame
-    people_df = pd.DataFrame.from_dict(people, orient = "index")
-    return people_df
+    persons_df = pd.DataFrame.from_dict(persons, orient = "index")
+    return persons_df
 
 # Wrangle each file
 clean_file_list = glob(path.join(dir, "officers_clean/*"))
@@ -191,13 +191,13 @@ for file in clean_file_list:
     # Monitoring
     print("\n" + file)
     print(df_line_classes.loc[df_line_classes["class"] == "person"])
-    # Create people from lines
-    people_df = people_creator(lines_classed)
-    print(people_df.head())
+    # Create persons from lines
+    persons_df = persons_creator(lines_classed)
+    print(persons_df.head())
     # Save to CSV
     if not path.exists(path.join(dir, "officers_partial")):
         makedirs(path.join(dir, "officers_partial"))
-    people_df.to_csv(path.join(dir, "officers_partial", file + ".csv"), index = False, sep = ";")
+    persons_df.to_csv(path.join(dir, "officers_partial", file + ".csv"), index = False, sep = ";")
 
 # Combine files
 df_list = []
@@ -212,4 +212,4 @@ df_combined = df_combined.reset_index().drop(columns = ["index"]).reset_index().
 def id_creator(person_id):
     return "p" + str(person_id + 1)
 df_combined["person_id"] = df_combined["person_id"].apply(id_creator)
-df_combined.to_csv(path.join(dir, "combined/people.csv"), index = False, sep = ";", na_rep = "nan")
+df_combined.to_csv(path.join(dir, "combined/persons.csv"), index = False, sep = ";", na_rep = "nan")
