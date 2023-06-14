@@ -11,10 +11,7 @@ dir = path.dirname(__file__)
 def line_classify(lines):
     lines_classed = []
     for line in lines:
-        line_text = ""
-        for char in line:
-            if not char.isnumeric() or char in "()":
-                line_text += char
+        line_text = re.sub(r"\s*\(\d*\)", "", line)
         if line_text.isupper() and not "/" in line:
             line_class = "ship"
         # Either normal itinerary with - in the middle or one where only the end is known
@@ -72,7 +69,7 @@ def ship_creator(lines_classed):
                 voyage_end = voyage_time.split("/")[1]
                 if len(voyage_end) == 1:
                     voyage_end = voyage_start[:3] + voyage_end
-                else:
+                elif len(voyage_end) == 2:
                     voyage_end = voyage_start[:2] + voyage_end
                 voyage_time = [voyage_start, voyage_end]
             # Start or empty dict for voyage

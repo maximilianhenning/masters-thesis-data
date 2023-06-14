@@ -319,8 +319,9 @@ print("Persons done")
 
 # XXXX Add run etc
 # XXXX Add (principal managing) owner
-
-def job_token_reader(token, job_counter):
+def job_token_reader(token):
+    global job_counter
+#def job_token_reader(token, job_counter):
     voyage_ship = "nan"
     voyage_start = "nan"
     voyage_end = "nan"
@@ -355,12 +356,14 @@ for row in persons_df.iterrows():
                 if ",home as" in token:
                     token_split = token.split(",home as")
                     for subtoken in token_split:
-                        jobs_list.append(job_token_reader(subtoken, job_counter)) 
+                        jobs_list.append(job_token_reader(subtoken)) 
+                        #jobs_list.append(job_token_reader(subtoken, job_counter)) 
                 # , - Several journeys, several ships
                 elif "," in token:
                     token_split = token.split(",")
                     for subtoken in token_split:
-                        jobs_list.append(job_token_reader(subtoken, job_counter))
+                        jobs_list.append(job_token_reader(subtoken)) 
+                        #jobs_list.append(job_token_reader(subtoken, job_counter)) 
                 # X & X - One ship, several voyages
                 if re.search(r"\d\s&\s\d", token):
                     token_split = []
@@ -371,11 +374,12 @@ for row in persons_df.iterrows():
                     for year in years_split:
                         token_split.append(non_date_string + " " + year)
                     for subtoken in token_split:
-                        job_counter += 1
-                        jobs_list.append(job_token_reader(subtoken, job_counter)) 
+                        jobs_list.append(job_token_reader(subtoken)) 
+                        #jobs_list.append(job_token_reader(subtoken, job_counter)) 
                 # Otherwise, add the single one
                 else:
-                    jobs_list.append(job_token_reader(token, job_counter))
+                    jobs_list.append(job_token_reader(token)) 
+                    #jobs_list.append(job_token_reader(token, job_counter)) 
 jobs_df = pd.DataFrame(jobs_list)
 jobs_df.rename(columns = {0: "person_id", 1: "job_id", 2: "job", 3: "voyage_ship", 4: "voyage_start", 5: "voyage_end"}, inplace = True)
 print("Jobs done")

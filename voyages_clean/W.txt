@@ -592,7 +592,7 @@ L/MAR/B/585-0(2) Pay Book
 Capt James Dewar
 Portsmouth 7 Mar 1760 - 31 Jul Fort St David -10 Aug Madras - 13 Nov Batavia -13 Apr 1761 Whampoa - Second Bar 30 Jun - 20 Oct Balambangan - 31 Jan 1762 St Helena - 7 Jun Downs
 WATERLOO (1)
-Company's own ship, built by Wigram, launched 21 Oct 1816, 3 decks, 4in bottom, length 166ft lin, keel 133ft S^in, breadth 43ft 2in, hold 17ft, wing transom 26ft, port cell 29ft 3in, waist 1ft 4in, between decks 6ft 33/4in & 6ft 41/2in, roundhouse 6ft 43/4in, ports 14 middle & 13 upper, deck range 97ft 4in, 1325 tons
+Company's own ship, built by Wigram, launched 1816, 3 decks, 4in bottom, length 166ft lin, keel 133ft S^in, breadth 43ft 2in, hold 17ft, wing transom 26ft, port cell 29ft 3in, waist 1ft 4in, between decks 6ft 33/4in & 6ft 41/2in, roundhouse 6ft 43/4in, ports 14 middle & 13 upper, deck range 97ft 4in, 1325 tons
 1 1816/7 China
 L/MAR/B/39A Journal 28 Jan 1817-3 Jun 1818
 L/MAR/B/39K(1) Ledger
@@ -681,7 +681,7 @@ L/MAR/B/276B Journal 8 May 1803-30 Feb 1804, anon
 Capt Peter Gordon
 Madras 20 Aug 1803 - 8 Nov St Helena -13 Jan 1804 Ventry Harbour, Ireland - 7 Feb Carrick Road - 24 Feb Downs
 WENTWORTH
-Built at Blackwall for Sir Henry Johnson and named after his wife, launched 17 Aug 1699, 350 tons, 70 crew, 30 guns
+Built at Blackwall for Sir Henry Johnson and named after his wife, launched 1699, 350 tons, 70 crew, 30 guns
 1 1699/1700 China
 NMM: JOD/4 Narrative Oct 1699-Aug 1701, Edward Barlow, Chief Mate
 Capt Thomas Sax
@@ -1201,7 +1201,7 @@ L/MAR/B/29-I Ledger
 Capt Zachary Tovey
 Downs 29 Oct 1710 - 12 Jun 1711 Mokha - 3 Sep Bombay - 6 Oct Anjengo - 20 Dec Cape - 28 Mar 1712 Bellial, Portugal - Lisbon 31 May - 27 Jun Deptford
 WINDSOR (2)
-Built by Barnard, launched 1 Oct 1818, 3 decks, 4in bottom, length 166ft 41/4in, keel 133ft lOV^in, breadth 43ft 3in, hold 17ft IV^in, wing transom 26ft lin, port cell 29ft 6in, waist 1ft 41/2in, between decks 6ft 73/4in & 6ft 5in, roundhouse 6ft 61Ain, ports 15 middle & 13 upper, deck range 97ft 6in,
+Built by Barnard, launched 1818, 3 decks, 4in bottom, length 166ft 41/4in, keel 133ft lOV^in, breadth 43ft 3in, hold 17ft IV^in, wing transom 26ft lin, port cell 29ft 6in, waist 1ft 41/2in, between decks 6ft 73/4in & 6ft 5in, roundhouse 6ft 61Ain, ports 15 middle & 13 upper, deck range 97ft 6in,
 1332 tons
 Principal Managing Owners: 1 Felix Clay, 2-6 George Clay, 7 William Clay. Sold to William Dallas 13 Nov 1834 for £7950.
 1 1818/9 Madras and China
