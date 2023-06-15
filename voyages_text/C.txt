@@ -60,7 +60,7 @@ L/MAR/B/589B	Journal 29 Feb	1720-28	Aug	1721
 L/MAR/B/589-I(l)	Ledger
 L/MAR/B/589-I(2)	Pay Book
 Capt Josiah Thwaites
-Plymouth 29 Feb 1720 - 22 Aug Whampaoa - 21 Apr 1721 Cape - 29 May St Helena - 28 Aug Erith
+Plymouth 29 Feb 1720 - 22 Aug Whampoa - 21 Apr 1721 Cape - 29 May St Helena - 28 Aug Erith
     3 1722/3	Madras
 L/MAR/B/589C	Journal 30 Oct	1722-21	Apr	1724
 L/MAR/B/589J(1)	Ledger
@@ -1319,7 +1319,7 @@ L/MAR/B/151E	Journal 2 Jan	1809-28	Jan 1811
 L/MAR/B/151K(1)	Ledger
 L/MAR/B/151K(2)	Pay Book
 Capt Joseph Yates
-Portsmouth 28 Apr 1809 - 8 May Madeira -15 Sep Madras - 22 Oct Diamond Harbour -13 Dec Saugor - 31 Dec Vizagapatam - 9 Jan 1810 Masulipatam -13 Jan Madras - 20 Mar Benkulen - 24 Jun Kidderporc - 9 Sep Saugor - voyage ended 2 Oct 1811
+Portsmouth 28 Apr 1809 - 8 May Madeira -15 Sep Madras - 22 Oct Diamond Harbour -13 Dec Saugor - 31 Dec Vizagapatam - 9 Jan 1810 Masulipatam -13 Jan Madras - 20 Mar Benkulen - 24 Jun Kidderpore - 9 Sep Saugor - voyage ended 2 Oct 1811
     6 1811/2	Madras and	Bengal
 L/MAR/B/151F Journal 21 Jan 1812-14 Oct 1813 L/MAR/B/151L(1)	Ledger
 L/MAR/B/151L(2)	Pay Book
@@ -1335,7 +1335,7 @@ Downs 16 Jun 1824 - 23 Oct Calcutta - 2 Jan 1825 Saugor - 26 Jan Madras -12 Apr 
 CLAW
 1	1618/9
 Master William Reekes
-Downs - Apr 1620 Acheh - May Jakatra - sent for Japara, Macassar and the Moluccas - in the Goa fleet 1621 - cast off at sea and sank 1622
+Downs - Apr 1620 Acheh - May Jakarta - sent for Japara, Macassar and the Moluccas - in the Goa fleet 1621 - cast off at sea and sank 1622
 CLINTON
 Rated at 26 guns, 99 crew, 499 tons Principal Managing Owner: James Hallett
     1 1752/3 Madras and China

@@ -751,8 +751,7 @@ L/MAR/B/56C	Journal 26 Jan	1815-13	Aug	1816
 L/MAR/B/56L(1)	Ledger
 L/MAR/B/56L(2)	Pay Book
 Capt John Wood
-Downs 8 Apr 1815 - 20 Jul Madras -19 Aug Diamond Harbour - 9 Nov Saugor - 25 Dec Madras -
-    2 Feb 1816 Colombo -18 Apr Cape - 10 May St Helena - 30 Jun Downs
+Downs 8 Apr 1815 - 20 Jul Madras -19 Aug Diamond Harbour - 9 Nov Saugor - 25 Dec Madras - 2 Feb 1816 Colombo -18 Apr Cape - 10 May St Helena - 30 Jun Downs
     3 1816/7	Madras and Bengal
 L/MAR/B/56D	Journal 6 Jan	1817-12	Jun	1818
 L/MAR/B/56M(1)	Ledger
@@ -813,8 +812,7 @@ L/MAM/B/212B	Journal 7 Dec	1802-7 Sep 1803
 L/MAR/B/212H(1)	Ledger
 L/MAR/B/212H(2)	Pay Book
 Capt Bruce Mitchell
-Portsmouth 5 Mar 1802 - 24 Jun Madras - 4 Jul Diamond Harbour - 8 Sep Kedgeree - 7 Oct Madras -
-    2 Nov Penang -16 Jan 1803 Madras - 13 May St Helena -1 Aug Downs
+Portsmouth 5 Mar 1802 - 24 Jun Madras - 4 Jul Diamond Harbour - 8 Sep Kedgeree - 7 Oct Madras -     2 Nov Penang -16 Jan 1803 Madras - 13 May St Helena -1 Aug Downs
     3 1803/4	Madras	and Bengal
 L/MAR/B/212C	Journal 7 Dec	1803-31	Oct 1805
 L/MAR/B/212-I(1)	Ledger

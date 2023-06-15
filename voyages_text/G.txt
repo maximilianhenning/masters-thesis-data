@@ -428,7 +428,7 @@ Portsmouth 17 Sep 1808 - 28 Sep Madeira - 11 Feb 1809 Madras - 24 Mar Calcutta -
 L/MAR/B/218F Journal 21 Jan 1811-1 Oct 1812 L/MAR/B/218M(1)	Ledger
 L/MAR/B/218M(2)	Pay Book
 Capt James Jameson
-Torbay 12 May 1811-12 Sep Madras - 21 Oct Calcutta - 24 Dec Saugor - 12 May 3812 St Helena - 27 Jul Blackwall
+Torbay 12 May 1811 - 12 Sep Madras - 21 Oct Calcutta - 24 Dec Saugor - 12 May 1812 St Helena - 27 Jul Blackwall
     7 1812/3	Madras	and	Bengal
 L/MAR/B/218G Journal 2 Jan 1813-15 Jul 1814 L/MAR/B/218N(1)	Ledger
 L/M AM/B/218 N (2)	Pay Book
@@ -1078,7 +1078,7 @@ L/MAM/B/603D	Journal 27 Feb	1759-20 Jan	1761
 L/MAM/B/603H(1)	Imprest Book
 L/MAM/B/603H(2)	Absence Book
 Capt Thomas Dethick
-Portsmouth 28 Apr 1759 - 23 Aug Madagascar - 3 Oct Bombay - 9 Nov Goa -12 Dec Calicut -12 Jan 1760 Bombay - 28 Feb Surat - 29 Mar Bombay -16 Apr Tellicheny -15 Jul Whampoa - 9 Dec Second Bar - ship lost Jan 1761 at the ‘island of Zelo’
+Portsmouth 28 Apr 1759 - 23 Aug Madagascar - 3 Oct Bombay - 9 Nov Goa -12 Dec Calicut -12 Jan 1760 Bombay - 28 Feb Surat - 29 Mar Bombay -16 Apr Tellicherry -15 Jul Whampoa - 9 Dec Second Bar - ship lost Jan 1761 at the ‘island of Zelo’
 GROSVENOR (1)
 Built by Wells, launched 1761, 3 decks, 3in bottom, rated at 499 tons, 99 crew, 26 guns Principal Managing Owners: 1-2 John Hallett, 3-5 David Mitchell
 1	1761/2 Madras and China

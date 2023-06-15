@@ -1173,7 +1173,7 @@ L/MAR/B/670A	Journal 31	Dec	1721-13 Jun 1723
 L/MAR/B/670E(1)	Ledger
 L/MAR/B/670E(2)	Pay Book
 Capt Charles Rigby
-Downs 26 Feb 1722 - 28 Mar Sao Tiago - 14 Jul Madras -17 Jan 1723 Cape - 20 Feb St Helena - 13 Jun Gravsend
+Downs 26 Feb 1722 - 28 Mar Sao Tiago - 14 Jul Madras -17 Jan 1723 Cape - 20 Feb St Helena - 13 Jun Gravesend
 2	1724/5	Madras and Bengal
 L/MAR/B/670B	Journal 5 Nov 1724-25 Jul 1726, Thomas Manley, Chief Mate
 L/MAM/B/670F(1)	Ledger

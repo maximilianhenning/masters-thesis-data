@@ -621,9 +621,9 @@ def region_finder(row):
         if lat > -15 and lat < 18:
             if lon > 90 and lon < 140:
                 return "southeast_asia"
-        if lon > -150 and lon < 18:
+        if lon > -130 and lon < 20:
                 return "atlantic"
-        if lon > 18 and lon < 150:
+        if lon > 20 or lon < -130:
                 return "indian_ocean"
     return "nan"
 locations_complete_df["region"] = locations_complete_df.apply(region_finder, axis = 1)

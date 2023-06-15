@@ -586,7 +586,7 @@ New Company, 46 crew 1 1700/1 Mokha
 L/MAR/A/CL	Journal 18 Oct 1700-8 Jul 1702
 L/MAR/B/CL(a)	Ledger
 Capt John Evans
-Downs 24 Oct 1700 - 17 Nov Madeira - 5 Feb 1701 Cape - 20 Mar Madagascar - 15 Apr Johanna - 27 May Mokha 25 Aug - 9 Oct Socotra - 29 Dec Madagascar - 12 Mar 1702 Cape - 19 Apr St Helena - 27 Apr Ascension - 7 Jul Spilhead
+Downs 24 Oct 1700 - 17 Nov Madeira - 5 Feb 1701 Cape - 20 Mar Madagascar - 15 Apr Johanna - 27 May Mokha 25 Aug - 9 Oct Socotra - 29 Dec Madagascar - 12 Mar 1702 Cape - 19 Apr St Helena - 27 Apr Ascension - 7 Jul Spithead
 DISPATCH
 110 tons
 1	1707/8	Madras and Bengal

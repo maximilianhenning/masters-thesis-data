@@ -67,19 +67,19 @@ L/MAR/B/582A Journal 20 Nov 1752 - 16 Nov 1754
 L/MAR/B/582E(1) Ledger
 L/MAR/B/582E(2) Pay Book
 Capt Thomas Field
-Downs 4 May 1753 - 30 May St Augustine's Bay - 25 Jul Madras - 7 Sep Culpee - 5 Dec Calcutta - 19 Jan 1754 Ingeli - 3 Jul St Helena - 7 Oct Downs
+Downs 4 May 1753 - 30 May St Augustine's Bay - 25 Jul Madras - 7 Sep Culpee - 5 Dec Calcutta - 19 Jan 1754 Hughli - 3 Jul St Helena - 7 Oct Downs
 2	1756/7	St Helena and Benkulen
 L/MAR/B/582B	Journal 25	Oct	1756-15	Mav	1759
 L/MAR/B/582F(1)	Ledger
 L/MAR/B/582F(2)	Pay Book
 Capt James Dale
-Downs 30 Jan 1757 - 13 Mar Torbay - 22 Jan St Helena - 29 Sen Bcnkuien - 8 Nov Moco Moco - 25 Jan 1758 Manna - 15 Feb Benkulen - 21 Mar Batavia - 5 Jui St Helena - 3 Aug Fernando Loronho - 6 Nov Clyde - 23 Feb 1659 Cork - 20 Apr Downs
+Downs 30 Jan 1757 - 13 Mar Torbay - 22 Jan St Helena - 29 Sen Benkuien - 8 Nov Moco Moco - 25 Jan 1758 Manna - 15 Feb Benkulen - 21 Mar Batavia - 5 Jui St Helena - 3 Aug Fernando Loronho - 6 Nov Clyde - 23 Feb 1759 Cork - 20 Apr Downs
 3	1759/60	Madras
 L/MAR/E/582C	Journal 23	Nov	1759-21	May	1762
 L/MAR/B/582G(1)	Ledger
 L/MAR/B/582G(2)	Pay Book
 Capt James Dale
-Downs 3 Feb 1760 - 20 Jul Anjengo - 3 Aug Cuddalore - 13 Aug Madras 4 Oct - 12 Dec Madras - 8 Feb 1761 Pondicherry - 18 Feb Madras - 27 Mar Pondicherry' - 20 Apr Madras 6 Oct - 3 Jan 1762 St Helena - 7 Apr Plymouth - 3 May Long Reach
+Downs 3 Feb 1760 - 20 Jul Anjengo - 3 Aug Cuddalore - 13 Aug Madras 4 Oct - 12 Dec Madras - 8 Feb 1761 Pondicherry - 18 Feb Madras - 27 Mar Pondicherry - 20 Apr Madras 6 Oct - 3 Jan 1762 St Helena - 7 Apr Plymouth - 3 May Long Reach
 4	1762/3	Madras and China
 L/MAR/B/582D	Journal 4 Oct 1762-18 Sep	1764
 L/MAJR/B/582H(1)	Ledger
@@ -90,7 +90,7 @@ Portsmouth 12 Jan 1763 - 28 Jun Madras - 15 Oct Whampoa - 9 Jan 1764 Bocca Tigri
 L/MAR/B/582-E(l)	Imprest Book
 L/MAE/B/582-fl(2)	Absence Book
 Capt George Hepburn
-Downs 10 May 3765 - stranded on Sogar Bank, Bengal, 13 Jun 1766
+Downs 10 May 1765 - stranded on Sogar Bank, Bengal, 13 Jun 1766
 FAME (1)
 420 tons, 84 crew , 36 guns
 1	1697/8 Madras
@@ -332,7 +332,7 @@ L/MAR/B/91E	Journal 21 May 1795-27 Jan 1798
 L/MAR/B/91P(1)	Ledger
 L/MAR/B/91P(2)	Pay Book
 Capt George Simson
-Portsmouth 9 Jul 1795 - 7 Sep Rio de Janeior - 16 Dec Madras - 22 Feb 1796 Kedgeree - 27 Apr Saugor - 1 Jul Andamans - 27 Aug Madras - 24 Sep Diamond Harbour - 8 Dec Saugor - 3 Feb 1797 Madras -14 Jul Cape -12 Sep St Helena -19 Dec Long Reach
+Portsmouth 9 Jul 1795 - 7 Sep Rio de Janeiro - 16 Dec Madras - 22 Feb 1796 Kedgeree - 27 Apr Saugor - 1 Jul Andamans - 27 Aug Madras - 24 Sep Diamond Harbour - 8 Dec Saugor - 3 Feb 1797 Madras -14 Jul Cape -12 Sep St Helena -19 Dec Long Reach
 5	1797/8	China
 L/MAR/B/91F	Journal 28 Feb 1798-23 Sep 1799
 L/MAR/B/91Q(1)	Ledger
@@ -344,7 +344,7 @@ L/MAR/B/91G	Journal 1 Jan 1801-21 Jul 1802
 L/MAR/B/91R(1)	Ledger
 L/MAR/B/91R(2)	Pay Book
 Capt Joseph Boulderson
-Portsmouth 31 Mar 1801 -23 Jul Bombay - 13 Oct Surat - 21 Oct Bombay - 23 Nov Tellicherty - 31 Dec Cochin - 3 Jan 1802 Anjengo - 5 Jan Quilon - 5 Apr St Helena -11 Jun Long Reach
+Portsmouth 31 Mar 1801 -23 Jul Bombay - 13 Oct Surat - 21 Oct Bombay - 23 Nov Tellicherry - 31 Dec Cochin - 3 Jan 1802 Anjengo - 5 Jan Quilon - 5 Apr St Helena -11 Jun Long Reach
 FORT WILLIAM (3)
 Built at Calcutta, launched 1806, 3 decks, 4'Ain bottom, length 162ft 6in, keel 132ft, breadth 46ft 3in, hold 16ft Sin, wing transom 25ft Sin, port cell 29ft, waist 1ft lOin, between decks 6ft 6in & 6ft 6%m, roundhouse 6ft Sin, ports 14 middle & 13 upper, deck range 99ft, 1137 tons Principal Managing Owners: Gilmore & Co
 1	From India 1809
