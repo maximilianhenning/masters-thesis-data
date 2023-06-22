@@ -180,7 +180,7 @@ Built by Wells, launched 1758, 3 decks, 3in bottom, rated at 99 crew & 26/30 gun
 L/MAR/B/308A Journal 16 Oct 1758-1 Nov 1760, Pitt Collett, First Mate L/MAR/B/308-O(l)	Ledger
 L/MAR/B/308-O(2)	Pay Book
 Capt George Willson
-Portsmouth 15 Feb 1759 - 11 Mar Madeira -12 Jul Moheli - 25 Aug Madras - 8 Oct Culpee -19 Nov Hugh -14 Dec Kedgeree - left Bengal 9 Jan 1760 - 10 Apr St Helena - 21 Jul Fernando Loronho - 24 Sep Long Reach
+Portsmouth 15 Feb 1759 - 11 Mar Madeira -12 Jul Moheli - 25 Aug Madras - 8 Oct Culpee -19 Nov Hugli -14 Dec Kedgeree - left Bengal 9 Jan 1760 - 10 Apr St Helena - 21 Jul Fernando Loronho - 24 Sep Long Reach
     2 1760/1	Bombay
 L/MAR/B/308B	Journal 11 Feb	1761-2	Apr 1763
 L/MAR/B/308P(1)	Ledger
@@ -227,7 +227,7 @@ Portsmouth 27 Apr 1778 - 25 May Madeira -15 Aug Cape - 9 Dec Kedgeree - 21 Mar 1
 L/MAR/B/308H-I Journal 6 Aug 1781-13 Sep 1785 L/MAR/B/308V(1) Ledger L/MAR/B/308V(2) Pay Book Capt William Thomson
 Portsmouth 6 Feb 1782 - 29 Apr Rio de Janeiro - 5 Sep Bombay -19 Oct Madras - 8 Dec Negrais - 15 Jan 1783 Kedgeree - left Bengal 30 May - 2 Aug Madras -12 Nov Acheh - 28 Dec Bencoolen - 23 Jan 1784 Batavia - 5 Sep Whampoa - 9 Jan 1785 Second Bar - 25 Mar Cape - 30 Apr St Helena - 20 Jul Falmouth - 9 Aug Downs
 CALCUTTA (3)
-Built on the Hugh 1794, 760 tons 1 From Bengal 1799
+Built on the Hugli 1794, 760 tons 1 From Bengal 1799
 L/MAR/B/308J Journal 18 May 1797-30 Apr 1799 Capt John Hassey
 Calcutta 18 May 1797 - left Bengal 20 Jul - 29 Aug Madras -17 Sep Penang -11 Dec Madras - 29 Jan 1798 Calcutta - 8 Dec Kedgeree - left Bengal 20 Jan 1799 - 2 Apr St Helena - Downs
 CALCUTTA (4)
@@ -953,7 +953,7 @@ Frigate, 30 guns, 70 crew, 350 tons
     1 1695/6 Surat
 L/MAR/A/CIII	Journal 25 Nov 1695-7 Jun 1699
 Capt Thomas South
-Downs 7 Dec 1695 - Portsmouth 19 May 1696 - 4 Oct Cape - 27 Jan 1697 Anjengo - 8 Feb Cochin 11 Feb Calicut - 22 Feb Mangalore - 7 Mar Karwar -15 Mar Goa - 1 Apr Bombay - 4 May Surat - 10 May Bombay -12 Aug Madras -17 Sep Hugh -14 Dec Madras - 4 Jan 1698 Bombay - 15 Feb Surat - 23 Apr Mokha - 30 Sep Surat - 28 Nov Bombay -14 Mar 1699 St Helena - 7 Jun Downs
+Downs 7 Dec 1695 - Portsmouth 19 May 1696 - 4 Oct Cape - 27 Jan 1697 Anjengo - 8 Feb Cochin 11 Feb Calicut - 22 Feb Mangalore - 7 Mar Karwar -15 Mar Goa - 1 Apr Bombay - 4 May Surat - 10 May Bombay -12 Aug Madras -17 Sep Hugli -14 Dec Madras - 4 Jan 1698 Bombay - 15 Feb Surat - 23 Apr Mokha - 30 Sep Surat - 28 Nov Bombay -14 Mar 1699 St Helena - 7 Jun Downs
 2 1699/1700 Bengal 
 Capt Thomas South
 Downs 30 Nov 1699 - Portsmouth 4 Jan 1700 - 12 May 1701 Downs

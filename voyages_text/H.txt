@@ -263,18 +263,17 @@ HARMONY
 1	1800/1 Madras and Bengal
 L/MAE/E/362A Journal 15 Dec 1800-16 Mar 1802, William John, Chief Mate Capt James Wickham
 Torbay 8 Jan 1801 - 26 Jan Tenerife ~ 17 Jun Madras - 16 Jul Calcutta - 15 Dec Cape - 21 Feb 1802 Downs
-HARRIET (I)
+HARRIET (1)
 1	From Bengal 1795
 L/MAR/B/275B	Journal 26 Oct 1795-4 Jul 1796
-L/MAR/B/275C	Journal 26 Oct 1795=4 Jul 1796, Alexander Hill, Chief Mate
+L/MAR/B/275C	Journal 26 Oct 1795-4 Jul 1796, Alexander Hill, Chief Mate
 Capt Matthew Sparrow
 Calcutta 30 Dec 1795 = 6 Mar 1796 St Helena - 14 May Falmouth - 14 Jun Downs
 2	1796/7 Madras and Bengal L/MAR/B/2751D) Journal 6 Jul 1796=23 Apr 1797 L/MAM/E/275F Journal 1 Sep 1796=15 Nov 1798 Capt Henry Archer
-Downs 19 Sep 1796 = 8 Dec Cape - 3 Mar 1797 Madras - 12 Jun Trincomalee - 12 Jul Madras =
-15 Aug Pondicheny - 17 Aug Madras = 5 Sep Penang = 11 Dec Calcutta = 23 Feb 1798 Kedgeree - 31 Mar Colombo - 27 Jun Cape - 6 Aug St Helena = 18 Oct Downs
+Downs 19 Sep 1796 = 8 Dec Cape - 3 Mar 1797 Madras - 12 Jun Trincomalee - 12 Jul Madras - 15 Aug Pondicheny - 17 Aug Madras - 5 Sep Penang - 11 Dec Calcutta - 23 Feb 1798 Kedgeree - 31 Mar Colombo - 27 Jun Cape - 6 Aug St Helena = 18 Oct Downs
 3	From Bengal 1801
 L/MAR/E/275G Journal 15 Mar-7 Dec 1801 Capt Alexander Sinclair
-Calcutta 10 Apr 1801 - Saugor 29 Apr - 23 May Achch - 15 Aug St Helena - 1 Nov Downs
+Calcutta 10 Apr 1801 - Saugor 29 Apr - 23 May Aceh - 15 Aug St Helena - 1 Nov Downs
 HARRIET (2)
 1	1795/6 Cape and St Helena
 L/MAWB/275E Journal 25 Jan 1796-30 Mar 1797 Capt Charles Patterson
@@ -531,15 +530,14 @@ Portsmouth 8 Jul 1793 - 3 Jan 1794 Whampoa - 2 Mar Second Bar -18 Jun St Helena 
 4	1794/5	Madras	and Bengal
 L/MAWB/390M Journal 30 Mar 1795-23 Jan 1797 L/MAWB/390BB(1) Ledger L/MAM/B/390BB(2) Pay Book
 Capt Richard Edwards
-Portsmouth 16 Jun 1795 - 29 Oct Diamond Harbour - 4 Dec Saugor -19 Dec Madras - 26 Jan 1796 Saugor - 3 Jul Helena - 26 Nov Crookhaven -11 Dec Downs
+Portsmouth 16 Jun 1795 - 29 Oct Diamond Harbour - 4 Dec Saugor -19 Dec Madras - 26 Jan 1796 Saugor - 3 Jul St Helena - 26 Nov Crookhaven -11 Dec Downs
 5	1796/7	Madras	and Bengal
 L/MAM/B/390N Journal 3 Mar 1797-28 Mar 1799 L/MAR/B/390CC(1) Ledger L/MAK/B/390CC(2) Pay Book
 Capt David Bristow Baker
 Portsmouth 5 Jun 1797 - 2 Dec Madras - 25 Jan 1798 Kedgeree - 6 Mar Saugor - 29 Sep Cape - 17 Nov St Helena - 3 Feb 1799 Downs
 6	1800/1	Madras
 L/MAR/B/390-O Journal 14 Jul 1800-5 Dec 1801 L/MAR/B/390DD(1) Ledger L/MAR/B/390DD(2) Pay Book Capt David Bristow Baker
-Portsmouth 5 Sep 1800 - 24 Sep Madeira - 29 Jan 1801 Madras - 8 Apr Colombo - 5 Aug St Helena -
-31 Oct Downs
+Portsmouth 5 Sep 1800 - 24 Sep Madeira - 29 Jan 1801 Madras - 8 Apr Colombo - 5 Aug St Helena - 31 Oct Downs
 HEATHCOTE (1)
 Rated at 400/430 tons, 80/86 crew, 30 guns
 1	1708/9	Madras and Bengal
@@ -930,7 +928,7 @@ Downs 12 Feb 1704 - 4 Mar 1707 Downs
 2	1707/8	Madras and Bengal
 L/MAR/B/112A	Journal 3 Nov 1707-23 Aug 1710
 Capt John Lane
-Downs 10 Apr 1708 - 23 Nov Nicobars - 5 Feb 1709 Rogues River - 22 Apr Fort St David - 6 May Madras - 28 Jun Hugh - 4 Aug Calcutta - 5 Mar 1710 Cape - 5 Jul Texel - 23 Aug Deptford
+Downs 10 Apr 1708 - 23 Nov Nicobars - 5 Feb 1709 Rogues River - 22 Apr Fort St David - 6 May Madras - 28 Jun Hugli - 4 Aug Calcutta - 5 Mar 1710 Cape - 5 Jul Texel - 23 Aug Deptford
 3	1711/2
 L/MAR/B/112B	Journal 6 Nov 1711-5 Sep 1713
 Plymouth 9 Jan 1712 - 2 Jun Batavia -13 Jul Macao - 3 Aug Whampoa -12 Feb 1713 Batavia - 19 May St Helena - 5 Sep Deptford

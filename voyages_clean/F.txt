@@ -266,14 +266,14 @@ Downs 14 Dec 1724 - 16 Apr 1725 Cape - 2 Jul Madras - 18 Sep Rogues River - 17 J
 4 1728/9 Bengal
 L/MAR/1B/684E(1) Ledger
 L/MAR/B/684E(2) Pay Book
-Capt Richard Gosfright 13 Dec 1728 = 1 Jul 1731
+Capt Richard Gosfright 13 Dec 1728 - 1 Jul 1731
 FORMOSA
 Company's frigate, 200 tons, 20 crew, 8 guns
 1 1675/6 Bantam
-Capt James Mariner 15 Nov 1675 =
+Capt James Mariner 15 Nov 1675 -
 Country voyage
 1680 Tonkin
-L/MAE/A/LXXIV pp.125-53 Journal 21 Jun=10 Dec 1680 Bantam 21 Jun 1680 - 13 Jun Tonkin 14 Nov - 10 Dec Bantam
+L/MAE/A/LXXIV pp.125-53 Journal 21 Jun-10 Dec 1680 Bantam 21 Jun 1680 - 13 Jun Tonkin 14 Nov - 10 Dec Bantam
 FORTITUDE (1)
 Built by Wells, launched 1780, 3 decks. 4in bottom, length 139ft 4,/2in, keel 111ft 9in, breadth 36ft LAin, hold 14ft 9'/2in, wing transom 23ft 9in, port cell 26ft 3 Ain, between decks 6ft lin & 6ft 61/2in, roundhouse 6ft 5 Ain, ports 12 middle & upper, 775 tons
 1 1780/1 Madras and Bengal
@@ -344,7 +344,7 @@ L/MAR/B/91E Journal 21 May 1795-27 Jan 1798
 L/MAR/B/91P(1) Ledger
 L/MAR/B/91P(2) Pay Book
 Capt George Simson
-Portsmouth 9 Jul 1795 - 7 Sep Rio de Janeior - 16 Dec Madras - 22 Feb 1796 Kedgeree - 27 Apr Saugor - 1 Jul Andamans - 27 Aug Madras - 24 Sep Diamond Harbour - 8 Dec Saugor - 3 Feb 1797 Madras -14 Jul Cape -12 Sep St Helena -19 Dec Long Reach
+Portsmouth 9 Jul 1795 - 7 Sep Rio de Janeiro - 16 Dec Madras - 22 Feb 1796 Kedgeree - 27 Apr Saugor - 1 Jul Andamans - 27 Aug Madras - 24 Sep Diamond Harbour - 8 Dec Saugor - 3 Feb 1797 Madras -14 Jul Cape -12 Sep St Helena -19 Dec Long Reach
 5 1797/8 China
 L/MAR/B/91F Journal 28 Feb 1798-23 Sep 1799
 L/MAR/B/91Q(1) Ledger
@@ -356,7 +356,7 @@ L/MAR/B/91G Journal 1 Jan 1801-21 Jul 1802
 L/MAR/B/91R(1) Ledger
 L/MAR/B/91R(2) Pay Book
 Capt Joseph Boulderson
-Portsmouth 31 Mar 1801 -23 Jul Bombay - 13 Oct Surat - 21 Oct Bombay - 23 Nov Tellicherty - 31 Dec Cochin - 3 Jan 1802 Anjengo - 5 Jan Quilon - 5 Apr St Helena -11 Jun Long Reach
+Portsmouth 31 Mar 1801 -23 Jul Bombay - 13 Oct Surat - 21 Oct Bombay - 23 Nov Tellicherry - 31 Dec Cochin - 3 Jan 1802 Anjengo - 5 Jan Quilon - 5 Apr St Helena -11 Jun Long Reach
 FORT WILLIAM (3)
 Built at Calcutta, launched 1806, 3 decks, 4'Ain bottom, length 162ft 6in, keel 132ft, breadth 46ft 3in, hold 16ft Sin, wing transom 25ft Sin, port cell 29ft, waist 1ft lOin, between decks 6ft 6in & 6ft 6%m, roundhouse 6ft Sin, ports 14 middle & 13 upper, deck range 99ft, 1137 tons Principal Managing Owners: Gilmore & Co
 1 From India 1809

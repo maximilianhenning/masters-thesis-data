@@ -148,6 +148,20 @@ Annabon;calls;-1.2606;5.3815
 Galway Bay;calls;53.1619;-9.0256
 Ratcliffe;calls;51.512054;-0.038946
 Bengal;calls;21.3623;88.0932
+Torbay;calls;50.278;-3.3325
+Achen;calls;5.3325;95.1934
+maldives;calls;4.18;73.51
+St Augustine's Bay;calls;-23.3015;43.41
+Red Sea;calls;20.4;38.3
+Persian Gulf;calls;26.7;52.0
+Ceram;calls;-3.08;129.3
+Simon's Bay;calls;-34.1806;18.4326
+Table Bay;calls;-33.51;18.27
+Pulau Run;calls;-4.332587;129.4163
+Madagascar;calls;-18.8707;46.4362
+Guinea;calls;10.0401;-14.0779
+Lizard;calls;49.9588;-5.2076
+Wexford;persons_birth;52.3278;-6.4949
 Hugh;calls;;
 voyages to Sumatra 1624, Lagundy 1625, Coromandel;calls;;
 27, Sumatra &;calls;;
@@ -175,7 +189,6 @@ Rat Island;calls;;
 below Second Bar;calls;;
 Woolwich ff.6;calls;;
 sailing directions for the convoy leaving England;calls;;
-St Augustine's Bay;calls;-23.3015;43.41
 captured by the FrenchScilly;calls;;
 wrecked Polperro, Cornwall;calls;;
 City Canal;calls;;
@@ -356,7 +369,6 @@ laid up in;calls;;
 Porta Nova;calls;;
 wreckedCadargos, Carajos Reefs nr Mauritius,;calls;;
 captain, surgeon's mate and crew drowned;calls;;
-Whampaoa;calls;;
 Fernando Loronho;calls;;
 captured by French Oct, recovered;calls;;
 Carrick Road;calls;;
@@ -407,13 +419,10 @@ Macao islands;calls;;
 Capt Francis Hosier;calls;;
 Bantam, laid up in;calls;;
 Quilton;calls;;
-Kidderporc;calls;;
-Jakatra;calls;;
 sent for Japara, Macassar and the Moluccas;calls;;
 in the Goa fleet;calls;;
 castat sea and sank;calls;;
 Scindy Road;calls;;
-Red Sea;calls;20.4;38.3
 Bachian;calls;;
 Makian;calls;;
 Cocos Keeling Islands;calls;;
@@ -421,7 +430,6 @@ Petapoli;calls;;
 laid up in 1623, rotten;calls;;
 St Paul;calls;;
 Iambi;calls;;
-Persian Gulf;calls;26.7;52.0
 Mew Bay;calls;;
 wrecked Aug, struck a rock entering False Bay;calls;;
 returned to Calcutta;calls;;
@@ -455,7 +463,6 @@ Long Reach * engagement with three French ships;calls;;
 Bearhaven;calls;;
 free ship to trade in the country;calls;;
 blockaded Mokha until;calls;;
-Ceram;calls;-3.08;129.3
 Pattani, laid up there;calls;;
 expedition agst Angria pirates;calls;;
 lost north of Sadras;calls;;
@@ -471,7 +478,6 @@ Tambomeo;calls;;
 burntBenkulen to prevent her capture by the French;calls;;
 Whampoa St Helena;calls;;
 off Ascension;calls;;
-Simon's Bay;calls;-34.1806;18.4326
 Pipli;calls;;
 Westcott Bay;calls;;
 captured by Angria;calls;;
@@ -502,7 +508,6 @@ Surat Cape;calls;;
 Mozamibique Channel;calls;;
 lost on homeward voyage;calls;;
 Left Bantam;calls;;
-Spilhead;calls;;
 cruising;calls;;
 The wreck was located and 'salvaged' in 1977/8;calls;;
 Clive's lost treasure, Geoffrey & David Allen;calls;;
@@ -616,7 +621,6 @@ remained in India, voyages to Bandar Abbas;calls;;
 1647, Pegu 1648, Bantam;calls;;
 Master Edmund Seaman;calls;;
 Master Janus Couchman;calls;;
-Gravsend;calls;;
 Mew Island;calls;;
 Alguarda;calls;;
 Tnncomalee;calls;;
@@ -673,8 +677,8 @@ Hong Kong Bay;calls;;
 Jim Bombay;calls;;
 L/MAM/A/LXXIV pp.52;calls;;
 Journal;calls;;
+Capt Richard Gosfright;calls;;
 L/MAE/A/LXXIV pp.125;calls;;
-Journal Jun=10 Bantam;calls;;
 Tonkin;calls;;
 engagment with FrenchSao Tiago;calls;;
 Cockelee;calls;;
@@ -684,10 +688,8 @@ Tcllicherry;calls;;
 Plymouth * during the voyage there were deaths;calls;;
 Barrabulla, Sumatra;calls;;
 nampoa;calls;;
-Rio de Janeior;calls;;
 Andamans;calls;;
 Balambang;calls;;
-Tellicherty;calls;;
 ˜East Indies;calls;;
 left Madras for Benkulen 1791, not heard of again See;calls;;
 Sulu Roads;calls;;
@@ -762,14 +764,8 @@ Morendavia Bay;calls;;
 Jim Fort St David;calls;;
 Capt Edmund Scott;calls;;
 Tenerife ~ Madras;calls;;
-Calcutta = St Helena;calls;;
 Pondicheny;calls;;
-Madras = Penang = Calcutta = Kedgeree;calls;;
-St Helena = Downs;calls;;
-Achch;calls;;
-Table Bay;calls;-33.51;18.27
-Vizagapatam = Madras;calls;;
-Saugor = Point de Gallc;calls;;
+Aceh;calls;;
 Downs * pen & ink sketch of the ship;calls;;
 burntCalcutta;calls;;
 Lagundy;calls;;
@@ -870,6 +866,7 @@ burnt in the Bay of Biscay;calls;;
 Acension;calls;;
 Cape St Mary, Madagascar;calls;;
 "Erith [""this concludes a long and dangerous voyage""]";calls;;
+Tellicherty;calls;;
 lostMadras;calls;;
 North Island;calls;;
 Coopers Bay;calls;;
@@ -906,7 +903,6 @@ Telhcherry;calls;;
 Portland Bill;calls;;
 Hollis Bay;calls;;
 St Helena, to settle the island;calls;;
-Pulau Run;calls;-4.332587;129.4163
 Downs * includes 'Directions from Bantam to Makassar' by John Edwards;calls;;
 Capt John Privett;calls;;
 Capt Joseph Eaton;calls;;
@@ -1413,7 +1409,6 @@ eb 1713 -12 Mar 1715;voyage_destinations;;
 Bantam Master Gilbert Grimes ?;voyage_destinations;;
 Pay Book;voyage_destinations;;
 China L/MAM/B/390J Journal 8 Dec 1786-28 Aug 1788;voyage_destinations;;
-Oct Downs;voyage_destinations;;
 Australia;voyage_destinations;;
 1832/3 Bombay;voyage_destinations;;
 Jun Downs;voyage_destinations;;

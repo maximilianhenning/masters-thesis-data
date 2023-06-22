@@ -339,7 +339,7 @@ def job_token_reader(token):
     return job_row
 
 jobs_list = []
-job_list = ["passenger", "apprentice", "seaman", "boatswain", "gunner's mate" "gunner", "midshipman", "capt's servant",
+job_list = ["passenger", "apprentice", "seaman", "boatswain", "gunner's mate" "gunner", "midshipman", "coxswain", "capt's servant",
             "6th mate", "5th mate", "4th mate", "3rd mate", "2nd mate", "1st mate", 
             "quarter master", "purser", "surgeon", "surgeon's mate", "master", "lieutenant", "capt"]
 for row in persons_df.iterrows():

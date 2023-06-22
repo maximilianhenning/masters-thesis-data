@@ -682,7 +682,7 @@ AMERICA
 210 tons, 24 guns, 42 crew 
 1	1694/5 Bombay
 L/MAR/A/LXXm Journal 15 Mar 1695-28 Oct 1697, anon Capt Richard Laycock
-Down 24 Mar 1695 - 4 Jun Tenerife - 5 Jan 1696 Calicut - 29 Feb Bombay -16 Dec Cape -16 Feb 1697 St Helena -16 Mar Ascension -13 Jun Cadiz - 28 Oct Downs
+Downs 24 Mar 1695 - 4 Jun Tenerife - 5 Jan 1696 Calicut - 29 Feb Bombay -16 Dec Cape -16 Feb 1697 St Helena -16 Mar Ascension -13 Jun Cadiz - 28 Oct Downs
 AMERICAN (1)
 225 tons
     1 1659/60	Surat

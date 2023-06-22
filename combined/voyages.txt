@@ -3392,7 +3392,7 @@ L/MAR/B/589B Journal 29 Feb 1720-28 Aug 1721
 L/MAR/B/589-I(l) Ledger
 L/MAR/B/589-I(2) Pay Book
 Capt Josiah Thwaites
-Plymouth 29 Feb 1720 - 22 Aug Whampaoa - 21 Apr 1721 Cape - 29 May St Helena - 28 Aug Erith
+Plymouth 29 Feb 1720 - 22 Aug Whampoa - 21 Apr 1721 Cape - 29 May St Helena - 28 Aug Erith
 3 1722/3 Madras
 L/MAR/B/589C Journal 30 Oct 1722-21 Apr 1724
 L/MAR/B/589J(1) Ledger
@@ -4714,7 +4714,7 @@ L/MAR/B/151E Journal 2 Jan 1809-28 Jan 1811
 L/MAR/B/151K(1) Ledger
 L/MAR/B/151K(2) Pay Book
 Capt Joseph Yates
-Portsmouth 28 Apr 1809 - 8 May Madeira -15 Sep Madras - 22 Oct Diamond Harbour -13 Dec Saugor - 31 Dec Vizagapatam - 9 Jan 1810 Masulipatam -13 Jan Madras - 20 Mar Benkulen - 24 Jun Kidderporc - 9 Sep Saugor - voyage ended 2 Oct 1811
+Portsmouth 28 Apr 1809 - 8 May Madeira -15 Sep Madras - 22 Oct Diamond Harbour -13 Dec Saugor - 31 Dec Vizagapatam - 9 Jan 1810 Masulipatam -13 Jan Madras - 20 Mar Benkulen - 24 Jun Kidderpore - 9 Sep Saugor - voyage ended 2 Oct 1811
 6 1811/2 Madras and Bengal
 L/MAR/B/151F Journal 21 Jan 1812-14 Oct 1813 
 L/MAR/B/151L(1) Ledger
@@ -4731,7 +4731,7 @@ Downs 16 Jun 1824 - 23 Oct Calcutta - 2 Jan 1825 Saugor - 26 Jan Madras -12 Apr 
 CLAW
 1 1618/9
 Master William Reekes
-Downs - Apr 1620 Acheh - May Jakatra - sent for Japara, Macassar and the Moluccas - in the Goa fleet 1621 - cast off at sea and sank 1622
+Downs - Apr 1620 Acheh - May Jakarta - sent for Japara, Macassar and the Moluccas - in the Goa fleet 1621 - cast off at sea and sank 1622
 CLINTON
 Rated at 26 guns, 99 crew, 499 tons Principal Managing Owner: James Hallett
 1 1752/3 Madras and China
@@ -6045,7 +6045,7 @@ New Company, 46 crew
 L/MAR/A/CL Journal 18 Oct 1700-8 Jul 1702
 L/MAR/B/CL(a) Ledger
 Capt John Evans
-Downs 24 Oct 1700 - 17 Nov Madeira - 5 Feb 1701 Cape - 20 Mar Madagascar - 15 Apr Johanna - 27 May Mokha 25 Aug - 9 Oct Socotra - 29 Dec Madagascar - 12 Mar 1702 Cape - 19 Apr St Helena - 27 Apr Ascension - 7 Jul Spilhead
+Downs 24 Oct 1700 - 17 Nov Madeira - 5 Feb 1701 Cape - 20 Mar Madagascar - 15 Apr Johanna - 27 May Mokha 25 Aug - 9 Oct Socotra - 29 Dec Madagascar - 12 Mar 1702 Cape - 19 Apr St Helena - 27 Apr Ascension - 7 Jul Spithead
 DISPATCH
 110 tons
 1 1707/8 Madras and Bengal
@@ -7077,7 +7077,7 @@ L/MAR/B/21J(2) Pay Book
 Capt Montgomerie Hamilton
 Downs 6 Mar 1820 - 20 May Johanna - 7 Jun Bombay - 13 Aug New Anchorage - 5 Nov Penang - 21 Nov Singapore - 1 Feb 1821 Whampoa - 5 Mar Second Bar - 12 Jul St Helena - 13 Sep Long Reach
 3 1821/2 Bombay and China
-L/MAR/B/21C(1) Journal 9 Nov 1821=6 Jun 1823
+L/MAR/B/21C(1) Journal 9 Nov 1821-6 Jun 1823
 L/MAR/B/21C(2) duplicate
 L/MAR/B/21K(1) Ledger
 L/MAR/B/21K(2) Pay Book
@@ -8411,7 +8411,7 @@ L/MAR/B/670A Journal 31 Dec 1721-13 Jun 1723
 L/MAR/B/670E(1) Ledger
 L/MAR/B/670E(2) Pay Book
 Capt Charles Rigby
-Downs 26 Feb 1722 - 28 Mar Sao Tiago - 14 Jul Madras -17 Jan 1723 Cape - 20 Feb St Helena - 13 Jun Gravsend
+Downs 26 Feb 1722 - 28 Mar Sao Tiago - 14 Jul Madras -17 Jan 1723 Cape - 20 Feb St Helena - 13 Jun Gravesend
 2 1724/5 Madras and Bengal
 L/MAR/B/670B Journal 5 Nov 1724-25 Jul 1726, Thomas Manley, Chief Mate
 L/MAM/B/670F(1) Ledger
@@ -9229,14 +9229,14 @@ Downs 14 Dec 1724 - 16 Apr 1725 Cape - 2 Jul Madras - 18 Sep Rogues River - 17 J
 4 1728/9 Bengal
 L/MAR/1B/684E(1) Ledger
 L/MAR/B/684E(2) Pay Book
-Capt Richard Gosfright 13 Dec 1728 = 1 Jul 1731
+Capt Richard Gosfright 13 Dec 1728 - 1 Jul 1731
 FORMOSA
 Company's frigate, 200 tons, 20 crew, 8 guns
 1 1675/6 Bantam
-Capt James Mariner 15 Nov 1675 =
+Capt James Mariner 15 Nov 1675 -
 Country voyage
 1680 Tonkin
-L/MAE/A/LXXIV pp.125-53 Journal 21 Jun=10 Dec 1680 Bantam 21 Jun 1680 - 13 Jun Tonkin 14 Nov - 10 Dec Bantam
+L/MAE/A/LXXIV pp.125-53 Journal 21 Jun-10 Dec 1680 Bantam 21 Jun 1680 - 13 Jun Tonkin 14 Nov - 10 Dec Bantam
 FORTITUDE (1)
 Built by Wells, launched 1780, 3 decks. 4in bottom, length 139ft 4,/2in, keel 111ft 9in, breadth 36ft LAin, hold 14ft 9'/2in, wing transom 23ft 9in, port cell 26ft 3 Ain, between decks 6ft lin & 6ft 61/2in, roundhouse 6ft 5 Ain, ports 12 middle & upper, 775 tons
 1 1780/1 Madras and Bengal
@@ -9307,7 +9307,7 @@ L/MAR/B/91E Journal 21 May 1795-27 Jan 1798
 L/MAR/B/91P(1) Ledger
 L/MAR/B/91P(2) Pay Book
 Capt George Simson
-Portsmouth 9 Jul 1795 - 7 Sep Rio de Janeior - 16 Dec Madras - 22 Feb 1796 Kedgeree - 27 Apr Saugor - 1 Jul Andamans - 27 Aug Madras - 24 Sep Diamond Harbour - 8 Dec Saugor - 3 Feb 1797 Madras -14 Jul Cape -12 Sep St Helena -19 Dec Long Reach
+Portsmouth 9 Jul 1795 - 7 Sep Rio de Janeiro - 16 Dec Madras - 22 Feb 1796 Kedgeree - 27 Apr Saugor - 1 Jul Andamans - 27 Aug Madras - 24 Sep Diamond Harbour - 8 Dec Saugor - 3 Feb 1797 Madras -14 Jul Cape -12 Sep St Helena -19 Dec Long Reach
 5 1797/8 China
 L/MAR/B/91F Journal 28 Feb 1798-23 Sep 1799
 L/MAR/B/91Q(1) Ledger
@@ -9319,7 +9319,7 @@ L/MAR/B/91G Journal 1 Jan 1801-21 Jul 1802
 L/MAR/B/91R(1) Ledger
 L/MAR/B/91R(2) Pay Book
 Capt Joseph Boulderson
-Portsmouth 31 Mar 1801 -23 Jul Bombay - 13 Oct Surat - 21 Oct Bombay - 23 Nov Tellicherty - 31 Dec Cochin - 3 Jan 1802 Anjengo - 5 Jan Quilon - 5 Apr St Helena -11 Jun Long Reach
+Portsmouth 31 Mar 1801 -23 Jul Bombay - 13 Oct Surat - 21 Oct Bombay - 23 Nov Tellicherry - 31 Dec Cochin - 3 Jan 1802 Anjengo - 5 Jan Quilon - 5 Apr St Helena -11 Jun Long Reach
 FORT WILLIAM (3)
 Built at Calcutta, launched 1806, 3 decks, 4'Ain bottom, length 162ft 6in, keel 132ft, breadth 46ft 3in, hold 16ft Sin, wing transom 25ft Sin, port cell 29ft, waist 1ft lOin, between decks 6ft 6in & 6ft 6%m, roundhouse 6ft Sin, ports 14 middle & 13 upper, deck range 99ft, 1137 tons Principal Managing Owners: Gilmore & Co
 1 From India 1809
@@ -10674,7 +10674,7 @@ L/MAM/B/603D Journal 27 Feb 1759-20 Jan 1761
 L/MAM/B/603H(1) Imprest Book
 L/MAM/B/603H(2) Absence Book
 Capt Thomas Dethick
-Portsmouth 28 Apr 1759 - 23 Aug Madagascar - 3 Oct Bombay - 9 Nov Goa -12 Dec Calicut -12 Jan 1760 Bombay - 28 Feb Surat - 29 Mar Bombay -16 Apr Tellicheny -15 Jul Whampoa - 9 Dec Second Bar - ship lost Jan 1761 at the 'island of Zelo'
+Portsmouth 28 Apr 1759 - 23 Aug Madagascar - 3 Oct Bombay - 9 Nov Goa -12 Dec Calicut -12 Jan 1760 Bombay - 28 Feb Surat - 29 Mar Bombay -16 Apr Tellicherry -15 Jul Whampoa - 9 Dec Second Bar - ship lost Jan 1761 at the 'island of Zelo'
 GROSVENOR (1)
 Built by Wells, launched 1761, 3 decks, 3in bottom, rated at 499 tons, 99 crew, 26 guns Principal Managing Owners: 1-2 John Hallett, 3-5 David Mitchell
 1 1761/2 Madras and China
@@ -11018,20 +11018,19 @@ HARMONY
 L/MAE/E/362A Journal 15 Dec 1800-16 Mar 1802, William John, Chief Mate 
 Capt James Wickham
 Torbay 8 Jan 1801 - 26 Jan Tenerife ~ 17 Jun Madras - 16 Jul Calcutta - 15 Dec Cape - 21 Feb 1802 Downs
-HARRIET (I)
+HARRIET (1)
 1 From Bengal 1795
 L/MAR/B/275B Journal 26 Oct 1795-4 Jul 1796
-L/MAR/B/275C Journal 26 Oct 1795=4 Jul 1796, Alexander Hill, Chief Mate
+L/MAR/B/275C Journal 26 Oct 1795-4 Jul 1796, Alexander Hill, Chief Mate
 Capt Matthew Sparrow
-Calcutta 30 Dec 1795 = 6 Mar 1796 St Helena - 14 May Falmouth - 14 Jun Downs
+Calcutta 30 Dec 1795 - 6 Mar 1796 St Helena - 14 May Falmouth - 14 Jun Downs
 2 1796/7 Madras and Bengal 
-L/MAR/B/2751D) Journal 6 Jul 1796=23 Apr 1797 L/MAM/E/275F Journal 1 Sep 1796=15 Nov 1798 Capt Henry Archer
-Downs 19 Sep 1796 = 8 Dec Cape - 3 Mar 1797 Madras - 12 Jun Trincomalee - 12 Jul Madras =
-15 Aug Pondicheny - 17 Aug Madras = 5 Sep Penang = 11 Dec Calcutta = 23 Feb 1798 Kedgeree - 31 Mar Colombo - 27 Jun Cape - 6 Aug St Helena = 18 Oct Downs
+L/MAR/B/2751D) Journal 6 Jul 1796-23 Apr 1797 L/MAM/E/275F Journal 1 Sep 1796-15 Nov 1798 Capt Henry Archer
+Downs 19 Sep 1796 - 8 Dec Cape - 3 Mar 1797 Madras - 12 Jun Trincomalee - 12 Jul Madras - 15 Aug Pondicheny - 17 Aug Madras - 5 Sep Penang - 11 Dec Calcutta - 23 Feb 1798 Kedgeree - 31 Mar Colombo - 27 Jun Cape - 6 Aug St Helena - 18 Oct Downs
 3 From Bengal 1801
 L/MAR/E/275G Journal 15 Mar-7 Dec 1801 
 Capt Alexander Sinclair
-Calcutta 10 Apr 1801 - Saugor 29 Apr - 23 May Achch - 15 Aug St Helena - 1 Nov Downs
+Calcutta 10 Apr 1801 - Saugor 29 Apr - 23 May Aceh - 15 Aug St Helena - 1 Nov Downs
 HARRIET (2)
 1 1795/6 Cape and St Helena
 L/MAWB/275E Journal 25 Jan 1796-30 Mar 1797 
@@ -11056,19 +11055,19 @@ L/MAR/B/275J Journal 27 Mar 1806-15 Oct 1807
 L/MAK/B/275Q(1) Ledger
 L/MAM/B/275Q(2) Pay Book
 Capt William Lynch
-Portsmouth 10 Jun 1806 - 21 Nov Calcutta - 31 Jan 1807 Saugor - 15 Mar Point de Gallc = 15 Jun St Helena - 6 Sep Downs
+Portsmouth 10 Jun 1806 - 21 Nov Calcutta - 31 Jan 1807 Saugor - 15 Mar Point de Gallc - 15 Jun St Helena - 6 Sep Downs
 4 1807/8 Madras and Bengal
 L/MAK/B/275K Journal 11 Feb 1808-12 Aug 1809 *
 L/MAR/B/275R(1) Ledger
 L/MAR/B/275 R(2) Pay Book
 Capt William Lynch
-Portsmouth 8 May 1808 - 30 May Madeira - 27 Sep Madras - 1 Nov Calcutta - 24 Dec Saugor = 7 Feb 1809 Point de Gallc - 29 Apr St Helena - 13 Jul Downs * pen & ink sketch of the ship
+Portsmouth 8 May 1808 - 30 May Madeira - 27 Sep Madras - 1 Nov Calcutta - 24 Dec Saugor - 7 Feb 1809 Point de Gallc - 29 Apr St Helena - 13 Jul Downs * pen & ink sketch of the ship
 5 1809/10 Madras and Bengal
 L/MAR/B/275L Journal 5 Mar 1810-5 Oct 1811
 L/MAR/B/275S(1) Ledger
 3L/MAR/B/275S(2) Pay Book
 Capt William Lynch
-Portsmouth 11 May 1810-27 May Madeira - 12 Oct Madras - 9 Nov Calcutta - 21 Dec Saugor - 31 Jan 1811 Vizagapatam = 26 Feb Madras - 17 Jun St Helena - 30 Aug Downs
+Portsmouth 11 May 1810-27 May Madeira - 12 Oct Madras - 9 Nov Calcutta - 21 Dec Saugor - 31 Jan 1811 Vizagapatam - 26 Feb Madras - 17 Jun St Helena - 30 Aug Downs
 6 1811/2 Madras and Bengal
 L/MAR/B/275M Deck Log 13 Jan-14 Oct 1812
 L/MAR/B/275T(1) Imprest Book
@@ -11299,7 +11298,7 @@ Portsmouth 8 Jul 1793 - 3 Jan 1794 Whampoa - 2 Mar Second Bar -18 Jun St Helena 
 4 1794/5 Madras and Bengal
 L/MAWB/390M Journal 30 Mar 1795-23 Jan 1797 L/MAWB/390BB(1) Ledger L/MAM/B/390BB(2) Pay Book
 Capt Richard Edwards
-Portsmouth 16 Jun 1795 - 29 Oct Diamond Harbour - 4 Dec Saugor -19 Dec Madras - 26 Jan 1796 Saugor - 3 Jul Helena - 26 Nov Crookhaven -11 Dec Downs
+Portsmouth 16 Jun 1795 - 29 Oct Diamond Harbour - 4 Dec Saugor -19 Dec Madras - 26 Jan 1796 Saugor - 3 Jul St Helena - 26 Nov Crookhaven -11 Dec Downs
 5 1796/7 Madras and Bengal
 L/MAM/B/390N Journal 3 Mar 1797-28 Mar 1799 
 L/MAR/B/390CC(1) Ledger L/MAK/B/390CC(2) Pay Book
@@ -11309,8 +11308,7 @@ Portsmouth 5 Jun 1797 - 2 Dec Madras - 25 Jan 1798 Kedgeree - 6 Mar Saugor - 29 
 L/MAR/B/390-O Journal 14 Jul 1800-5 Dec 1801 
 L/MAR/B/390DD(1) Ledger 
 L/MAR/B/390DD(2) Pay Book Capt David Bristow Baker
-Portsmouth 5 Sep 1800 - 24 Sep Madeira - 29 Jan 1801 Madras - 8 Apr Colombo - 5 Aug St Helena -
-31 Oct Downs
+Portsmouth 5 Sep 1800 - 24 Sep Madeira - 29 Jan 1801 Madras - 8 Apr Colombo - 5 Aug St Helena - 31 Oct Downs
 HEATHCOTE (1)
 Rated at 400/430 tons, 80/86 crew, 30 guns
 1 1708/9 Madras and Bengal

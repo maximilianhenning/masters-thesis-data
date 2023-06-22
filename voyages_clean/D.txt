@@ -596,7 +596,7 @@ New Company, 46 crew
 L/MAR/A/CL Journal 18 Oct 1700-8 Jul 1702
 L/MAR/B/CL(a) Ledger
 Capt John Evans
-Downs 24 Oct 1700 - 17 Nov Madeira - 5 Feb 1701 Cape - 20 Mar Madagascar - 15 Apr Johanna - 27 May Mokha 25 Aug - 9 Oct Socotra - 29 Dec Madagascar - 12 Mar 1702 Cape - 19 Apr St Helena - 27 Apr Ascension - 7 Jul Spilhead
+Downs 24 Oct 1700 - 17 Nov Madeira - 5 Feb 1701 Cape - 20 Mar Madagascar - 15 Apr Johanna - 27 May Mokha 25 Aug - 9 Oct Socotra - 29 Dec Madagascar - 12 Mar 1702 Cape - 19 Apr St Helena - 27 Apr Ascension - 7 Jul Spithead
 DISPATCH
 110 tons
 1 1707/8 Madras and Bengal
@@ -1628,7 +1628,7 @@ L/MAR/B/21J(2) Pay Book
 Capt Montgomerie Hamilton
 Downs 6 Mar 1820 - 20 May Johanna - 7 Jun Bombay - 13 Aug New Anchorage - 5 Nov Penang - 21 Nov Singapore - 1 Feb 1821 Whampoa - 5 Mar Second Bar - 12 Jul St Helena - 13 Sep Long Reach
 3 1821/2 Bombay and China
-L/MAR/B/21C(1) Journal 9 Nov 1821=6 Jun 1823
+L/MAR/B/21C(1) Journal 9 Nov 1821-6 Jun 1823
 L/MAR/B/21C(2) duplicate
 L/MAR/B/21K(1) Ledger
 L/MAR/B/21K(2) Pay Book

@@ -19,6 +19,7 @@ def cleaner(lines):
         line = line.strip("<")
         line = line.strip("^")
         line = line.strip("â€¢")
+        line = line.replace("=", "-")
         line = line.replace("\t", " ")
         line = line.replace("â€™", "\'")
         line = line.replace("â€˜", "\'")

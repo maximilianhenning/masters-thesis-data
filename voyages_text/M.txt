@@ -420,7 +420,7 @@ Downs 27 Apr 1738 - 6 Dec Benkulen -13 Mar 1739 Borneo - 8 Nov Batavia - 7 Dec B
 L/MAR/B/602F Journal 12 Nov 1741-8 Sep 1743, John Maryatt, Chief Mate L/MAR/B/602-O(l)	Ledger
 L/MAR/B/602-O(2)	Pay Book
 Capt Thomas Smith
-Portsmouth 21 Feb 1742 - 6 Jun Johanna -18 Jul Madras - 26 Aug Balasore - 9 Sep Hugh river - 4 Feb 1743 Ingeli - 6 May St Helena - 6 Aug Downs
+Portsmouth 21 Feb 1742 - 6 Jun Johanna -18 Jul Madras - 26 Aug Balasore - 9 Sep Hugli - 4 Feb 1743 Ingeli - 6 May St Helena - 6 Aug Downs
 MARLBOROUGH (5)
 Rated at 498 tons, 99 crew, 28 guns
     1 1745/6	Bengal
@@ -864,7 +864,7 @@ Extra ship, built by Mestaer, measured 1796, 3 decks, 3in bottom, length 113ft, 
 L/MAR/B/118C(1)	Imprest Book
 L/MAR/B/118C(2)	Receipt Book
 Capt Thomas Barnard
-Portsmouth 25 Oct 1796 - wrecked in the Hugh 10 Aug 1797
+Portsmouth 25 Oct 1796 - wrecked in the Hugli 10 Aug 1797
 MARY (1)
 Built in 1626, rated at 800 tons, 200/210 crew, 36 guns Sold to Henry Young 20 Sep 1648 for £555
     1 1626/7	Surat and Bantam
@@ -1654,7 +1654,7 @@ L/MAR/B/374A Journal 30 Dec 1799-9 Oct 1800 Capt James Camegy
 Calcutta 30 Dec 1799 - 23 Jan 1800 Saugor - 8 Jun St Helena - 9 Sep Downs
     2 From Bengal 1801
 L/MAR/B/374B Journal 19 May 1801-13 Mar 1802 Capt George Kelso
-Hugh river 19 May 1801 - 23 Jun Kedgeree -19 Jul Saugor - 30 Oct Cape - 20 Nov St Helena - 19 Jan 1802 Downs
+Hugli 19 May 1801 - 23 Jun Kedgeree -19 Jul Saugor - 30 Oct Cape - 20 Nov St Helena - 19 Jan 1802 Downs
 MORRIS
 400 tons
 1	1625/6 Surat and Bantam
