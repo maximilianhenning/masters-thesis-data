@@ -1,4 +1,4 @@
-person_id;job_id;job;voyage_id
+person_id;job_id;rank;voyage_id
 p1;p1j1;4th mate;s1137v2
 p2;p2j1;1st mate;s1031v1
 p2;p2j2;1st mate;s364v1
@@ -2033,7 +2033,8 @@ p597;p597j2;3rd mate;s223v5
 p597;p597j3;2nd mate;s223v6
 p598;p598j1;purser;s23v5
 p599;p599j1;midshipman;
-p599;p599j2;4th mate;s225v1
+p599;p599j2;coxswain;
+p599;p599j3;4th mate;s225v1
 p600;p600j1;midshipman;
 p600;p600j2;4th mate;s845v7
 p600;p600j3;3rd mate;s1409v8
@@ -21130,19 +21131,22 @@ p5762;p5762j2;seaman;s630v2
 p5762;p5762j3;seaman;
 p5762;p5762j4;seaman;s630v3
 p5762;p5762j5;seaman;
-p5762;p5762j6;2nd mate;
-p5762;p5762j7;purser;s527v3
-p5762;p5762j8;2nd mate;s527v4
-p5762;p5762j9;capt;
-p5762;p5762j10;capt;
-p5762;p5762j11;capt;
+p5762;p5762j6;coxswain;
+p5762;p5762j7;coxswain;
+p5762;p5762j8;coxswain;
+p5762;p5762j9;2nd mate;
+p5762;p5762j10;purser;s527v3
+p5762;p5762j11;2nd mate;s527v4
 p5762;p5762j12;capt;
 p5762;p5762j13;capt;
-p5762;p5762j14;capt;s676v1
+p5762;p5762j14;capt;
 p5762;p5762j15;capt;
-p5762;p5762j16;capt;s676v1
-p5762;p5762j17;capt;s676v2
-p5762;p5762j18;capt;s676v3
+p5762;p5762j16;capt;
+p5762;p5762j17;capt;s676v1
+p5762;p5762j18;capt;
+p5762;p5762j19;capt;s676v1
+p5762;p5762j20;capt;s676v2
+p5762;p5762j21;capt;s676v3
 p5763;p5763j1;5th mate;s973v2
 p5763;p5763j2;4th mate;s269v1
 p5763;p5763j3;2nd mate;s526v1

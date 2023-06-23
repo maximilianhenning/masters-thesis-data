@@ -381,7 +381,7 @@ for row in persons_df.iterrows():
                     jobs_list.append(job_token_reader(token)) 
                     #jobs_list.append(job_token_reader(token, job_counter)) 
 jobs_df = pd.DataFrame(jobs_list)
-jobs_df.rename(columns = {0: "person_id", 1: "job_id", 2: "job", 3: "voyage_ship", 4: "voyage_start", 5: "voyage_end"}, inplace = True)
+jobs_df.rename(columns = {0: "person_id", 1: "job_id", 2: "rank", 3: "voyage_ship", 4: "voyage_start", 5: "voyage_end"}, inplace = True)
 print("Jobs done")
 
 # Location table
@@ -443,7 +443,7 @@ jobs_complete_df = pd.merge(jobs_df, voyages_merged_df,
                             left_on = ["voyage_ship", "voyage_start", "voyage_end"],
                             right_on = ["name", "start", "end"]
                             )
-jobs_complete_df = jobs_complete_df[["person_id", "job_id", "job", "voyage_id"]]
+jobs_complete_df = jobs_complete_df[["person_id", "job_id", "rank", "voyage_id"]]
 
 # persons: birth_location, baptised_city
 
