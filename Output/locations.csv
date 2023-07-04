@@ -43,43 +43,43 @@ l1376;Norfolk Island;calls;-29.02;167.57;indian_ocean
 l1705;Newcastle-on-Tyne;people_birth;54.98;-1.61;british_isles
 l1800;Tweedmouth;people_birth;55.761;-2.01;british_isles
 l1825;Kilmartin;people_birth;56.133;-5.487;british_isles
-l1929;Crathie;people_birth;57.0225;-3.1255;british_isles
-l1937;Sorbie;people_birth;54.79;-4.43;british_isles
-l2251;Berwick-upon-Tweed;people_birth;55.4609;-2.0009;british_isles
-l2534;Fleet St;people_baptised;51.5138;-0.1105;british_isles
-l2560;Soho;people_baptised;51.3046;-0.752;british_isles
-l2571;Bloomsbury;people_baptised;51.5201;-0.1288;british_isles
-l2587;Pembrokeshire;people_baptised;51.5042;-4.5032;british_isles
+l1927;Crathie;people_birth;57.0225;-3.1255;british_isles
+l1935;Sorbie;people_birth;54.79;-4.43;british_isles
+l2252;Berwick-upon-Tweed;people_birth;55.4609;-2.0009;british_isles
+l2538;Fleet St;people_baptised;51.5138;-0.1105;british_isles
+l2565;Soho;people_baptised;51.3046;-0.752;british_isles
+l2575;Bloomsbury;people_baptised;51.5201;-0.1288;british_isles
+l2591;Pembrokeshire;people_baptised;51.5042;-4.5032;british_isles
 l576;Leith;calls;55.98;-3.17;british_isles
 l933;Ireland;calls;53.2658;-7.3011;british_isles
 l1037;Scilly;calls;49.55;-6.2;british_isles
 l1084;Bab el Mandeb;calls;12.35;43.2;indian_ocean
-l2046;Southwark;people_birth;51.4988;-0.0901;british_isles
-l2421;Sotterley;people_birth;52.401;1.61;british_isles
-l2444;Rodborough;people_birth;51.744;-2.215;british_isles
-l2600;Wapping;people_baptised;51.5073;-0.061;british_isles
+l2045;Southwark;people_birth;51.4988;-0.0901;british_isles
+l2422;Sotterley;people_birth;52.401;1.61;british_isles
+l2445;Rodborough;people_birth;51.744;-2.215;british_isles
+l2604;Wapping;people_baptised;51.5073;-0.061;british_isles
 l1673;England;people_birth;52.4387;-1.3478;british_isles
 l1666;Scotland;people_birth;56.6549;-4.3368;british_isles
-l1938;Wales;people_birth;52.3965;-3.7382;british_isles
-l1930;Inverness;people_birth;57.4778;-4.2247;british_isles
+l1936;Wales;people_birth;52.3965;-3.7382;british_isles
+l1928;Inverness;people_birth;57.4778;-4.2247;british_isles
 l8;Calcutta;calls;22.3403;88.2212;bengal_presidency
-l2249;Kingston;people_birth;53.444;-0.1957;british_isles
+l2250;Kingston;people_birth;53.444;-0.1957;british_isles
 l56;Madeira;calls;32.45;-17.0;atlantic
 l1678;Yorkshire;people_birth;54.0;-2.0;british_isles
 l4;Madras;calls;13.457;80.163;madras_presidency
-l2398;Cathcart;people_birth;55.8195;-4.2679;british_isles
-l2254;Midlothian;people_birth;55.5339;-3.0407;british_isles
-l2217;Harris;people_birth;57.91;-6.83;british_isles
-l2015;Cameron;people_birth;56.2953;-2.8529;british_isles
+l2399;Cathcart;people_birth;55.8195;-4.2679;british_isles
+l2255;Midlothian;people_birth;55.5339;-3.0407;british_isles
+l2218;Harris;people_birth;57.91;-6.83;british_isles
+l2014;Cameron;people_birth;56.2953;-2.8529;british_isles
 l1808;Guernsey;people_birth;49.45;-2.58;british_isles
 l1750;Dysart;people_birth;56.13;-3.11;british_isles
 l1902;Lithgow;people_birth;55.979;-3.6105;british_isles
 l1864;St Andrews;people_birth;56.3404;-2.7955;british_isles
 l5;St Helena;calls;-15.58;-5.42;atlantic
-l2186;Alphington;people_birth;50.42;-3.32;british_isles
-l2180;Applecross;people_birth;57.43304;-5.80958;british_isles
+l2187;Alphington;people_birth;50.42;-3.32;british_isles
+l2181;Applecross;people_birth;57.43304;-5.80958;british_isles
 l16;Macao;calls;22.1;113.33;china
-l2124;Montreal;people_birth;45.3032;-73.3315;atlantic
+l2125;Montreal;people_birth;45.3032;-73.3315;atlantic
 l86;Bantam;calls;-6.0233;106.0939;southeast_asia
 l93;River Shannon;calls;52.35;-9.18;british_isles
 l101;Barbados;calls;13.1012;-59.3309;atlantic
@@ -161,7 +161,7 @@ l1010;Pulau Run;calls;-4.332587;129.4163;southeast_asia
 l121;Madagascar;calls;-18.8707;46.4362;indian_ocean
 l132;Guinea;calls;10.0401;-14.0779;atlantic
 l133;Lizard;calls;49.9588;-5.2076;british_isles
-l1886;Wexford;persons_birth;52.3278;-6.4949;british_isles
+l1885;Wexford;persons_birth;52.3278;-6.4949;british_isles
 l7;Hugh;calls;;;nan
 l10;Blackwall;calls;51.50971;-0.0016;british_isles
 l12;Bombay;calls;19.07283;72.88261;bombay_presidency
@@ -1892,30 +1892,30 @@ l1866;4th mate LASCELLES 1784/5 (approved 1785;persons_birth;;;nan
 l1867;Norfolk;persons_birth;44.80089;-74.99103;atlantic
 l1868;purser WILLIAM PITT (1) 1789/90;persons_birth;;;nan
 l1869;Head Surgeon at Calcutta;persons_birth;;;nan
-l1870;surgeon CASTLE HUNTLEY 1819/20;persons_birth;;;nan
-l1871;Campbeltown;persons_birth;55.42583;-5.60764;british_isles
-l1872;North Knabdale;persons_birth;;;nan
-l1873;Kilbride Castle;persons_birth;;;nan
-l1874;America;persons_birth;51.43667;5.97917;atlantic
-l1875;Brooke;persons_birth;52.54175;1.37076;british_isles
-l1876;Newington;persons_birth;51.35217;0.66768;british_isles
-l1877;im Bogland;persons_birth;;;nan
+l1870;Islay;persons_birth;55.78526;-6.23886;british_isles
+l1871;surgeon CASTLE HUNTLEY 1819/20;persons_birth;;;nan
+l1872;Campbeltown;persons_birth;55.42583;-5.60764;british_isles
+l1873;North Knabdale;persons_birth;;;nan
+l1874;Kilbride Castle;persons_birth;;;nan
+l1875;America;persons_birth;51.43667;5.97917;atlantic
+l1876;Brooke;persons_birth;52.54175;1.37076;british_isles
+l1877;Newington;persons_birth;51.35217;0.66768;british_isles
 l1878;ap Lindfield;persons_birth;;;nan
 l1879;Walthamstow;persons_birth;51.59067;-0.02077;british_isles
 l1880;Hartland;persons_birth;43.10501;-88.34204;atlantic
-l1881;Ih eb & bop Croydon;persons_birth;;;nan
-l1882;1st mate HARTWELL 1786/7;persons_birth;;;nan
-l1883;Capt SIR WILLIAM PULTENEY 1804/5;persons_birth;;;nan
-l1884;retired;persons_birth;;;nan
-l1885;Beb Dumdayell;persons_birth;;;nan
-l1887;Monthrath;persons_birth;;;nan
-l1888;Binnington;persons_birth;;;nan
-l1889;Berkeley Sq;persons_birth;;;nan
-l1890;Cockpen;persons_birth;;;nan
-l1891;Perth;persons_birth;56.39522;-3.43139;british_isles
-l1892;fb hn Englands micishigraam im Royall Navy Sy Soy 5th mate ROWAL SOP 1755/5 (approved 1786;persons_birth;;;nan
-l1893;MARQUIS CAMDEN 1823/4;persons_birth;;;nan
-l1894;Cove;persons_birth;57.1;-2.08333;british_isles
+l1881;1st mate HARTWELL 1786/7;persons_birth;;;nan
+l1882;Capt SIR WILLIAM PULTENEY 1804/5;persons_birth;;;nan
+l1883;retired;persons_birth;;;nan
+l1884;Beb Dumdayell;persons_birth;;;nan
+l1886;Monthrath;persons_birth;;;nan
+l1887;Binnington;persons_birth;;;nan
+l1888;Berkeley Sq;persons_birth;;;nan
+l1889;Cockpen;persons_birth;;;nan
+l1890;Perth;persons_birth;56.39522;-3.43139;british_isles
+l1891;4th mate ROYAL BISHOP 1785/6 (approved 1786;persons_birth;;;nan
+l1892;MARQUIS CAMDEN 1823/4;persons_birth;;;nan
+l1893;Cove;persons_birth;57.1;-2.08333;british_isles
+l1894;Kilmesula;persons_birth;;;nan
 l1895;Scotlane;persons_birth;;;nan
 l1896;Millan;persons_birth;44.09973;3.07848;atlantic
 l1897;Hadley;persons_birth;52.7;-2.48333;british_isles
@@ -1925,714 +1925,717 @@ l1900;Newington Green;persons_birth;;;nan
 l1901;Trevethin;persons_birth;;;nan
 l1903;Bleach Field;persons_birth;;;nan
 l1904;1st mate SPEAKER 1771/2 (approved 1772;persons_birth;;;nan
-l1905;Ipswiel;persons_birth;;;nan
-l1906;Kessingland;persons_birth;52.41987;1.70878;british_isles
-l1907;Gib ome TCE (2) 1797/8;persons_birth;;;nan
-l1908;Member of Wiedicel Board;persons_birth;;;nan
-l1909;tb England;persons_birth;;;nan
-l1910;Shetland Isles;persons_birth;;;nan
-l1911;3rd mate ANTELOPE (4) 1781/2 (approved 1782;persons_birth;;;nan
-l1912;Illan Court;persons_birth;;;nan
-l1913;3rd mate ASIA (3) 1780/1;persons_birth;;;nan
-l1914;Bovey Tracey;persons_birth;50.59259;-3.67543;british_isles
-l1915;Newton Bushell;persons_birth;;;nan
-l1916;Tiverton;persons_birth;53.13333;-2.66667;british_isles
-l1917;Bath;persons_birth;51.3751;-2.36172;british_isles
-l1918;ed 1782;persons_birth;;;nan
-l1919;3rd mate ROCKINGHAM (1) 1785/6 (approved 1786;persons_birth;;;nan
-l1920;1st mate Heater ‘0 Jamaica (approved 1786;persons_birth;;;nan
-l1921;5th mate GENERAL Totlb 1824/5;persons_birth;;;nan
-l1922;Lambourn;persons_birth;51.50805;-1.53105;british_isles
-l1923;Ayr;persons_birth;55.46273;-4.63393;british_isles
-l1924;Whitehaven;persons_birth;54.54897;-3.58412;british_isles
-l1925;Ilfracombe;persons_birth;51.2093;-4.11344;british_isles
-l1926;Barnstaple;persons_birth;51.08022;-4.05808;british_isles
-l1927;Hambleton;persons_birth;53.76667;-1.16667;british_isles
-l1928;m7 Walcot;persons_birth;;;nan
-l1931;Alloa;persons_birth;56.11586;-3.78997;british_isles
-l1932;Toulouse;persons_birth;43.60426;1.44367;atlantic
-l1933;& St George's Bloomsbury;persons_birth;;;nan
-l1934;St Giles;persons_birth;;;nan
-l1935;1748;persons_birth;;;nan
-l1936;dat sea;persons_birth;;;nan
-l1939;Redbridge;persons_birth;;;nan
-l1940;Aylesbury;persons_birth;51.81665;-0.81458;british_isles
-l1941;Sid tnate INDIAN TRADER 1794/5;persons_birth;;;nan
-l1942;Virginia;persons_birth;53.83389;-7.07556;british_isles
-l1943;5th mate KELLIE CASTLE 1828/9;persons_birth;;;nan
-l1944;4th mate “RACRIL OL SAND WIGHT F789 (approved 1779;persons_birth;;;nan
-l1945;Metz;persons_birth;49.11911;6.17269;atlantic
-l1946;St John's pa;persons_birth;;;nan
-l1947;Barnsley;persons_birth;53.55;-1.48333;british_isles
-l1948;Bengal Asst Surgeon;persons_birth;;;nan
-l1949;Tneland;persons_birth;;;nan
-l1950;Haddington;persons_birth;55.95612;-2.78332;british_isles
-l1951;Aberdeenshire;persons_birth;;;nan
-l1952;Brettenham;persons_birth;;;nan
-l1953;Gerloch;persons_birth;;;nan
-l1954;Sicily;persons_birth;;;nan
-l1955;approved as 3rd mate ROCKINGHAM (1) 1786;persons_birth;;;nan
-l1956;m Llandygwydd;persons_birth;;;nan
-l1957;Wick;persons_birth;58.43906;-3.09424;british_isles
-l1958;im Rnglamd;persons_birth;;;nan
-l1959;d Bombay;persons_birth;;;nan
-l1960;Chatham;persons_birth;51.37891;0.52786;british_isles
-l1961;lost overboard m St Dunstan's;persons_birth;;;nan
-l1962;Wormley;persons_birth;51.13622;-0.64673;british_isles
-l1963;3rd mate BESSBOROUGH 1785/6 (approved 1786;persons_birth;;;nan
-l1964;1st mate DUCHESS OF ATHOL 1831/2 m Cork Cathedral;persons_birth;;;nan
-l1965;1740;persons_birth;;;nan
-l1966;4th mate STAFFORD (2) 1777/8 (approved eb 1778;persons_birth;;;nan
-l1967;Neath;persons_birth;51.66317;-3.80443;british_isles
-l1968;Ryton-upon-Dunsmore;persons_birth;;;nan
-l1969;Welshpool;persons_birth;52.65973;-3.1471;british_isles
-l1970;St Mary's pa;persons_birth;;;nan
-l1971;1st mate LORD WALSINGHAM 1786/7 (approved 1787;persons_birth;;;nan
-l1972;Enniskillen;persons_birth;54.34615;-7.64133;british_isles
-l1973;Ross;persons_birth;39.31228;-84.6505;atlantic
-l1974;Selborne;persons_birth;;;nan
-l1975;Capt ST HELENA b St Helen's pa;persons_birth;;;nan
-l1976;surgeon HUDDART 1814/5 b England;persons_birth;;;nan
-l1977;Kirk Newton;persons_birth;;;nan
-l1978;ap Whorlton;persons_birth;;;nan
-l1979;2nd mate MIMVIDLESEX @) 1785/6 (approved autho trade Gun;persons_birth;;;nan
-l1980;at sea;persons_birth;;;nan
-l1981;Cornhill;persons_birth;;;nan
-l1982;Sunderland;persons_birth;54.90465;-1.38222;british_isles
-l1983;lost overboard;persons_birth;;;nan
-l1984;1727;persons_birth;;;nan
-l1985;wounded action agst French 1759;persons_birth;;;nan
-l1986;Prescot St;persons_birth;;;nan
-l1987;“Kb mate LAP WING (1) Lays;persons_birth;;;nan
-l1988;1774. Windsor;persons_birth;51.48333;-0.6;british_isles
-l1989;Bishopsgate;persons_birth;;;nan
-l1990;St Luke's pa;persons_birth;;;nan
-l1991;Cumberland;persons_birth;41.96677;-71.43284;atlantic
-l1992;St Stephen's Walbrook;persons_birth;;;nan
-l1993;& tep St Macy';persons_birth;;;nan
-l1994;appointed Asst Bombay Hospital;persons_birth;;;nan
-l1995;Little Clacton;persons_birth;51.82557;1.14215;british_isles
-l1996;Logie;persons_birth;;;nan
-l1997;midshipman MARQUIS OF ROCKINGHAM (2) 1775/6;persons_birth;;;nan
-l1998;Sweden;persons_birth;;;nan
-l1999;Dores;persons_birth;;;nan
-l2000;Stepney;persons_birth;51.5175;-0.04292;british_isles
-l2001;seaman & 1st mate Royal Clubb and Adriatic Greenland and Newfoundland trade 7y 9m;persons_birth;;;nan
-l2002;Love Lane;persons_birth;;;nan
-l2003;Canterbury;persons_birth;51.27904;1.07992;british_isles
-l2004;im Smgtends ome voyswe to indie;persons_birth;;;nan
-l2005;Barking;persons_birth;51.53333;0.08333;british_isles
-l2006;run 4th mate LADY RAFFLES 1825/6;persons_birth;;;nan
-l2007;pa St Chad's;persons_birth;;;nan
-l2008;Gerrard or Gerard;persons_birth;;;nan
-l2009;midshipman (2y 6m);persons_birth;;;nan
-l2010;d b pa Christ Church;persons_birth;;;nan
-l2011;Montrose;persons_birth;56.71683;-2.46695;british_isles
-l2012;4h mate NEPTUNE (4) 1785/6 (approved 1786;persons_birth;;;nan
-l2013;Kirk Oswald;persons_birth;;;nan
-l2014;d Macao m St Pancras;persons_birth;;;nan
-l2016;5th mate GATTON 1777/8;persons_birth;;;nan
-l2017;Royal Navy 8y 4m;persons_birth;;;nan
-l2018;Inverness-shire;persons_birth;;;nan
-l2019;Portsoy;persons_birth;57.68144;-2.68956;british_isles
-l2020;4th mate EARL OF DARTMOUTH 1779/80 (approved 1780;persons_birth;;;nan
-l2021;ur Ilfracombe;persons_birth;;;nan
-l2022;d 1890;persons_birth;;;nan
-l2023;Bordeaux;persons_birth;44.84044;-0.5805;atlantic
-l2024;ur St Paul's Covent Gdn;persons_birth;;;nan
-l2025;Mount Melick;persons_birth;;;nan
-l2026;Grantham;persons_birth;52.91149;-0.64184;british_isles
-l2027;Dominica;persons_birth;;;nan
-l2028;St Peter's Close;persons_birth;;;nan
-l2029;3rd mate VALENTINE (3) 1793/4 (approved 1794;persons_birth;;;nan
-l2030;1st Lieutenant Achilles cutter (3m) and Job cutter (2m);persons_birth;;;nan
-l2031;Isle of Man;persons_birth;;;nan
-l2032;Carron;persons_birth;56.02611;-3.79251;british_isles
-l2033;Wootton Hall;persons_birth;;;nan
-l2034;Blunderston;persons_birth;;;nan
-l2035;Great Yarmouth ?;persons_birth;52.60831;1.73052;british_isles
-l2036;Sotheniom;persons_birth;;;nan
-l2037;Stirling;persons_birth;56.11903;-3.93682;british_isles
-l2038;Msg Camengate;persons_birth;;;nan
-l2039;Canongate;persons_birth;;;nan
-l2040;‘bap Fores;persons_birth;;;nan
-l2041;Foggymill;persons_birth;;;nan
-l2042;ur;persons_birth;;;nan
-l2043;Johnshaven;persons_birth;;;nan
-l2044;Haxbourgrace;persons_birth;;;nan
-l2045;Chipping Ongar;persons_birth;51.70379;0.24548;british_isles
-l2047;4th mate MARQUIS OF WELLINGTON (1) 1814/5 (approved 1814;persons_birth;;;nan
-l2048;Pitfern;persons_birth;;;nan
-l2049;St Swithin's pa;persons_birth;;;nan
-l2050;1730;persons_birth;;;nan
-l2051;2nd mate SUFFOLK (1) 1758/9;persons_birth;;;nan
-l2052;purser PRINCESS CHARLOTTE OF WALES 1822/3;persons_birth;;;nan
-l2053;Surgeon at Benkulen;persons_birth;;;nan
-l2054;Baghent) seaman CIES @) 1792/3;persons_birth;;;nan
-l2055;4th mate BELVEDERE 1800/1 (approved 1801;persons_birth;;;nan
-l2056;aorington or Marington;persons_birth;;;nan
-l2057;& bao  Bermondsey;persons_birth;;;nan
-l2058;Spatree;persons_birth;;;nan
-l2059;Kensington;persons_birth;51.50094;-0.19175;british_isles
-l2060;Weybridge;persons_birth;51.37178;-0.45975;british_isles
-l2061;served im Jen Charnock's war agst the Nawab af Bengal 1636-87;persons_birth;;;nan
-l2062;MB 1785;persons_birth;;;nan
-l2063;ur Staynton;persons_birth;;;nan
-l2064;Stokesley;persons_birth;54.46998;-1.1933;british_isles
-l2065;Datsham;persons_birth;;;nan
-l2066;4th mate LADY BURGES 1803/4;persons_birth;;;nan
-l2067;Caldecote Hall;persons_birth;;;nan
-l2068;Tilbury Fort;persons_birth;51.46248;0.35856;british_isles
-l2069;Kirkcaldy;persons_birth;56.11683;-3.15999;british_isles
-l2070;St Andrew's;persons_birth;;;nan
-l2071;Nb toate POCOCIS 1258/9;persons_birth;;;nan
-l2072;Westdown;persons_birth;;;nan
-l2073;went home 1757;persons_birth;;;nan
-l2074;4th mate HUGH INGLIS 1815/6 (approved 1816;persons_birth;;;nan
-l2075;reinstated;persons_birth;;;nan
-l2076;4th mate GRENVILLE 1774/5 (approved 1775;persons_birth;;;nan
-l2077;Aweltenndsy;persons_birth;;;nan
-l2078;Gaicbonwugh;persons_birth;;;nan
-l2079;Coylton;persons_birth;55.44528;-4.5195;british_isles
-l2080;Oban;persons_birth;56.41535;-5.47184;british_isles
-l2081;Kiloredtomont;persons_birth;;;nan
-l2082;favo vorages to India;persons_birth;;;nan
-l2083;Wigton;persons_birth;54.82482;-3.16114;british_isles
-l2084;resigned 1819;persons_birth;;;nan
-l2085;ap Basingstoke;persons_birth;;;nan
-l2086;Capt MORLEY 1828/9 orred;persons_birth;;;nan
-l2087;resigned Haskins;persons_birth;;;nan
-l2088;Cestieliond;persons_birth;;;nan
-l2089;co Durham;persons_birth;;;nan
-l2090;4th mate ALNWICK CASTLE 1814/5 (approved 1815;persons_birth;;;nan
-l2091;Liskeard;persons_birth;50.4545;-4.46517;british_isles
-l2092;Dunbar;persons_birth;56.00062;-2.51418;british_isles
-l2093;1785;persons_birth;;;nan
-l2094;& baw $ Ape Leyton;persons_birth;;;nan
-l2095;Illugan;persons_birth;;;nan
-l2096;3nd mate LORD MIACARTIOSY LPS ud mats BAR OF WiCOMILE Ts6r? (approved 1787;persons_birth;;;nan
-l2097;Northallerton;persons_birth;54.33901;-1.43243;british_isles
-l2098;Web 17S4 Wells;persons_birth;;;nan
-l2099;Musselburgh;persons_birth;55.9417;-3.04991;british_isles
-l2100;Richmond;persons_birth;51.46171;-0.30633;british_isles
-l2101;im Buwlend;persons_birth;;;nan
-l2102;4th mate UNION (5) 1806/7;persons_birth;;;nan
-l2103;Queensferry;persons_birth;55.99089;-3.39847;british_isles
-l2104;3rd mate EUROPA (2) 1781/2 (approved 1782;persons_birth;;;nan
-l2105;Battle;persons_birth;50.91732;0.48417;british_isles
-l2106;b Havre de Grace;persons_birth;;;nan
-l2107;1st mate DUKE OF YORK (2) 1826/7 & 1828/9;persons_birth;;;nan
-l2108;2nd mate MINERVA (7) 1824/5;persons_birth;;;nan
-l2109;Grange;persons_birth;-27.42251;153.01527;indian_ocean
-l2110;Maidstone;persons_birth;51.26667;0.51667;british_isles
-l2111;d Edinburgh active service Third Maratha War 1817-18;persons_birth;;;nan
+l1905;Kessingland;persons_birth;52.41987;1.70878;british_isles
+l1906;& hep Shustoke;persons_birth;;;nan
+l1907;Member of Wiedicel Board;persons_birth;;;nan
+l1908;Shetland Isles;persons_birth;;;nan
+l1909;3rd mate ANTELOPE (4) 1781/2 (approved 1782;persons_birth;;;nan
+l1910;Illan Court;persons_birth;;;nan
+l1911;3rd mate ASIA (3) 1780/1;persons_birth;;;nan
+l1912;Bovey Tracey;persons_birth;50.59259;-3.67543;british_isles
+l1913;Newton Bushell;persons_birth;;;nan
+l1914;Tiverton;persons_birth;53.13333;-2.66667;british_isles
+l1915;Bath;persons_birth;51.3751;-2.36172;british_isles
+l1916;ed 1782;persons_birth;;;nan
+l1917;3rd mate ROCKINGHAM (1) 1785/6 (approved 1786;persons_birth;;;nan
+l1918;1st mate Heater ‘0 Jamaica (approved 1786;persons_birth;;;nan
+l1919;5th mate GENERAL Totlb 1824/5;persons_birth;;;nan
+l1920;Lambourn;persons_birth;51.50805;-1.53105;british_isles
+l1921;Ayr;persons_birth;55.46273;-4.63393;british_isles
+l1922;Whitehaven;persons_birth;54.54897;-3.58412;british_isles
+l1923;Ilfracombe;persons_birth;51.2093;-4.11344;british_isles
+l1924;Barnstaple;persons_birth;51.08022;-4.05808;british_isles
+l1925;Hambleton;persons_birth;53.76667;-1.16667;british_isles
+l1926;m7 Walcot;persons_birth;;;nan
+l1929;Alloa;persons_birth;56.11586;-3.78997;british_isles
+l1930;Toulouse;persons_birth;43.60426;1.44367;atlantic
+l1931;& St George's Bloomsbury;persons_birth;;;nan
+l1932;St Giles;persons_birth;;;nan
+l1933;1748;persons_birth;;;nan
+l1934;dat sea;persons_birth;;;nan
+l1937;Redbridge;persons_birth;;;nan
+l1938;Aylesbury;persons_birth;51.81665;-0.81458;british_isles
+l1939;Sid tnate INDIAN TRADER 1794/5;persons_birth;;;nan
+l1940;Virginia;persons_birth;53.83389;-7.07556;british_isles
+l1941;5th mate KELLIE CASTLE 1828/9;persons_birth;;;nan
+l1942;4th mate “RACRIL OL SAND WIGHT F789 (approved 1779;persons_birth;;;nan
+l1943;Metz;persons_birth;49.11911;6.17269;atlantic
+l1944;St John's pa;persons_birth;;;nan
+l1945;Barnsley;persons_birth;53.55;-1.48333;british_isles
+l1946;Bengal Asst Surgeon;persons_birth;;;nan
+l1947;Tneland;persons_birth;;;nan
+l1948;Haddington;persons_birth;55.95612;-2.78332;british_isles
+l1949;Aberdeenshire;persons_birth;;;nan
+l1950;Brettenham;persons_birth;;;nan
+l1951;Gerloch;persons_birth;;;nan
+l1952;Sicily;persons_birth;;;nan
+l1953;approved as 3rd mate ROCKINGHAM (1) 1786;persons_birth;;;nan
+l1954;m Llandygwydd;persons_birth;;;nan
+l1955;Wick;persons_birth;58.43906;-3.09424;british_isles
+l1956;im Rnglamd;persons_birth;;;nan
+l1957;d Bombay;persons_birth;;;nan
+l1958;Chatham;persons_birth;51.37891;0.52786;british_isles
+l1959;lost overboard m St Dunstan's;persons_birth;;;nan
+l1960;Wormley;persons_birth;51.13622;-0.64673;british_isles
+l1961;3rd mate BESSBOROUGH 1785/6 (approved 1786;persons_birth;;;nan
+l1962;1st mate DUCHESS OF ATHOL 1831/2 m Cork Cathedral;persons_birth;;;nan
+l1963;1740;persons_birth;;;nan
+l1964;4th mate STAFFORD (2) 1777/8 (approved eb 1778;persons_birth;;;nan
+l1965;Neath;persons_birth;51.66317;-3.80443;british_isles
+l1966;Ryton-upon-Dunsmore;persons_birth;;;nan
+l1967;Welshpool;persons_birth;52.65973;-3.1471;british_isles
+l1968;St Mary's pa;persons_birth;;;nan
+l1969;1st mate LORD WALSINGHAM 1786/7 (approved 1787;persons_birth;;;nan
+l1970;Enniskillen;persons_birth;54.34615;-7.64133;british_isles
+l1971;Ross;persons_birth;39.31228;-84.6505;atlantic
+l1972;Selborne;persons_birth;;;nan
+l1973;St Altbans;persons_birth;;;nan
+l1974;Capt ST HELENA b St Helen's pa;persons_birth;;;nan
+l1975;surgeon HUDDART 1814/5 b England;persons_birth;;;nan
+l1976;Kirk Newton;persons_birth;;;nan
+l1977;ap Whorlton;persons_birth;;;nan
+l1978;2nd mate MIMVIDLESEX @) 1785/6 (approved autho trade Gun;persons_birth;;;nan
+l1979;at sea;persons_birth;;;nan
+l1980;Cornhill;persons_birth;;;nan
+l1981;Sunderland;persons_birth;54.90465;-1.38222;british_isles
+l1982;lost overboard;persons_birth;;;nan
+l1983;1727;persons_birth;;;nan
+l1984;wounded action agst French 1759;persons_birth;;;nan
+l1985;Prescot St;persons_birth;;;nan
+l1986;“Kb mate LAP WING (1) Lays;persons_birth;;;nan
+l1987;1774. Windsor;persons_birth;51.48333;-0.6;british_isles
+l1988;Bishopsgate;persons_birth;;;nan
+l1989;St Luke's pa;persons_birth;;;nan
+l1990;Cumberland;persons_birth;41.96677;-71.43284;atlantic
+l1991;St Stephen's Walbrook;persons_birth;;;nan
+l1992;& tep St Macy';persons_birth;;;nan
+l1993;appointed Asst Bombay Hospital;persons_birth;;;nan
+l1994;Little Clacton;persons_birth;51.82557;1.14215;british_isles
+l1995;Logie;persons_birth;;;nan
+l1996;midshipman MARQUIS OF ROCKINGHAM (2) 1775/6;persons_birth;;;nan
+l1997;Sweden;persons_birth;;;nan
+l1998;Dores;persons_birth;;;nan
+l1999;Stepney;persons_birth;51.5175;-0.04292;british_isles
+l2000;seaman & 1st mate Royal Clubb and Adriatic Greenland and Newfoundland trade 7y 9m;persons_birth;;;nan
+l2001;Love Lane;persons_birth;;;nan
+l2002;Canterbury;persons_birth;51.27904;1.07992;british_isles
+l2003;im Smgtends ome voyswe to indie;persons_birth;;;nan
+l2004;Barking;persons_birth;51.53333;0.08333;british_isles
+l2005;run 4th mate LADY RAFFLES 1825/6;persons_birth;;;nan
+l2006;pa St Chad's;persons_birth;;;nan
+l2007;Gerrard or Gerard;persons_birth;;;nan
+l2008;midshipman (2y 6m);persons_birth;;;nan
+l2009;d b pa Christ Church;persons_birth;;;nan
+l2010;Montrose;persons_birth;56.71683;-2.46695;british_isles
+l2011;4h mate NEPTUNE (4) 1785/6 (approved 1786;persons_birth;;;nan
+l2012;Kirk Oswald;persons_birth;;;nan
+l2013;d Macao m St Pancras;persons_birth;;;nan
+l2015;5th mate GATTON 1777/8;persons_birth;;;nan
+l2016;Royal Navy 8y 4m;persons_birth;;;nan
+l2017;Inverness-shire;persons_birth;;;nan
+l2018;Portsoy;persons_birth;57.68144;-2.68956;british_isles
+l2019;4th mate EARL OF DARTMOUTH 1779/80 (approved 1780;persons_birth;;;nan
+l2020;ur Ilfracombe;persons_birth;;;nan
+l2021;d 1890;persons_birth;;;nan
+l2022;Bordeaux;persons_birth;44.84044;-0.5805;atlantic
+l2023;ur St Paul's Covent Gdn;persons_birth;;;nan
+l2024;Mount Melick;persons_birth;;;nan
+l2025;Grantham;persons_birth;52.91149;-0.64184;british_isles
+l2026;Dominica;persons_birth;;;nan
+l2027;St Peter's Close;persons_birth;;;nan
+l2028;3rd mate VALENTINE (3) 1793/4 (approved 1794;persons_birth;;;nan
+l2029;1st Lieutenant Achilles cutter (3m) and Job cutter (2m);persons_birth;;;nan
+l2030;Isle of Man;persons_birth;;;nan
+l2031;Carron;persons_birth;56.02611;-3.79251;british_isles
+l2032;Wootton Hall;persons_birth;;;nan
+l2033;Blunderston;persons_birth;;;nan
+l2034;Great Yarmouth ?;persons_birth;52.60831;1.73052;british_isles
+l2035;Sotheniom;persons_birth;;;nan
+l2036;Stirling;persons_birth;56.11903;-3.93682;british_isles
+l2037;Msg Camengate;persons_birth;;;nan
+l2038;Canongate;persons_birth;;;nan
+l2039;‘bap Fores;persons_birth;;;nan
+l2040;Foggymill;persons_birth;;;nan
+l2041;ur;persons_birth;;;nan
+l2042;Johnshaven;persons_birth;;;nan
+l2043;Haxbourgrace;persons_birth;;;nan
+l2044;Chipping Ongar;persons_birth;51.70379;0.24548;british_isles
+l2046;4th mate MARQUIS OF WELLINGTON (1) 1814/5 (approved 1814;persons_birth;;;nan
+l2047;Pitfern;persons_birth;;;nan
+l2048;St Swithin's pa;persons_birth;;;nan
+l2049;1730;persons_birth;;;nan
+l2050;2nd mate SUFFOLK (1) 1758/9;persons_birth;;;nan
+l2051;purser PRINCESS CHARLOTTE OF WALES 1822/3;persons_birth;;;nan
+l2052;Surgeon at Benkulen;persons_birth;;;nan
+l2053;Baghent) seaman CIES @) 1792/3;persons_birth;;;nan
+l2054;4th mate BELVEDERE 1800/1 (approved 1801;persons_birth;;;nan
+l2055;aorington or Marington;persons_birth;;;nan
+l2056;& bao  Bermondsey;persons_birth;;;nan
+l2057;Spatree;persons_birth;;;nan
+l2058;Kensington;persons_birth;51.50094;-0.19175;british_isles
+l2059;Weybridge;persons_birth;51.37178;-0.45975;british_isles
+l2060;served im Jen Charnock's war agst the Nawab af Bengal 1636-87;persons_birth;;;nan
+l2061;MB 1785;persons_birth;;;nan
+l2062;ur Staynton;persons_birth;;;nan
+l2063;Stokesley;persons_birth;54.46998;-1.1933;british_isles
+l2064;Datsham;persons_birth;;;nan
+l2065;4th mate LADY BURGES 1803/4;persons_birth;;;nan
+l2066;Caldecote Hall;persons_birth;;;nan
+l2067;Tilbury Fort;persons_birth;51.46248;0.35856;british_isles
+l2068;Kirkcaldy;persons_birth;56.11683;-3.15999;british_isles
+l2069;St Andrew's;persons_birth;;;nan
+l2070;Nb toate POCOCIS 1258/9;persons_birth;;;nan
+l2071;Westdown;persons_birth;;;nan
+l2072;went home 1757;persons_birth;;;nan
+l2073;4th mate HUGH INGLIS 1815/6 (approved 1816;persons_birth;;;nan
+l2074;reinstated;persons_birth;;;nan
+l2075;4th mate GRENVILLE 1774/5 (approved 1775;persons_birth;;;nan
+l2076;Aweltenndsy;persons_birth;;;nan
+l2077;Gaicbonwugh;persons_birth;;;nan
+l2078;Coylton;persons_birth;55.44528;-4.5195;british_isles
+l2079;Oban;persons_birth;56.41535;-5.47184;british_isles
+l2080;Kiloredtomont;persons_birth;;;nan
+l2081;favo vorages to India;persons_birth;;;nan
+l2082;Wigton;persons_birth;54.82482;-3.16114;british_isles
+l2083;resigned 1819;persons_birth;;;nan
+l2084;ap Basingstoke;persons_birth;;;nan
+l2085;Capt MORLEY 1828/9 orred;persons_birth;;;nan
+l2086;resigned Haskins;persons_birth;;;nan
+l2087;Cestieliond;persons_birth;;;nan
+l2088;co Durham;persons_birth;;;nan
+l2089;4th mate ALNWICK CASTLE 1814/5 (approved 1815;persons_birth;;;nan
+l2090;Liskeard;persons_birth;50.4545;-4.46517;british_isles
+l2091;Dunbar;persons_birth;56.00062;-2.51418;british_isles
+l2092;1785;persons_birth;;;nan
+l2093;& baw $ Ape Leyton;persons_birth;;;nan
+l2094;Illugan;persons_birth;;;nan
+l2095;3nd mate LORD MIACARTIOSY LPS ud mats BAR OF WiCOMILE Ts6r? (approved 1787;persons_birth;;;nan
+l2096;Northallerton;persons_birth;54.33901;-1.43243;british_isles
+l2097;Web 17S4 Wells;persons_birth;;;nan
+l2098;Musselburgh;persons_birth;55.9417;-3.04991;british_isles
+l2099;Richmond;persons_birth;51.46171;-0.30633;british_isles
+l2100;im Buwlend;persons_birth;;;nan
+l2101;4th mate UNION (5) 1806/7;persons_birth;;;nan
+l2102;Queensferry;persons_birth;55.99089;-3.39847;british_isles
+l2103;3rd mate EUROPA (2) 1781/2 (approved 1782;persons_birth;;;nan
+l2104;Battle;persons_birth;50.91732;0.48417;british_isles
+l2105;b Havre de Grace;persons_birth;;;nan
+l2106;1st mate DUKE OF YORK (2) 1826/7 & 1828/9;persons_birth;;;nan
+l2107;2nd mate MINERVA (7) 1824/5;persons_birth;;;nan
+l2108;Grange;persons_birth;-27.42251;153.01527;indian_ocean
+l2109;Maidstone;persons_birth;51.26667;0.51667;british_isles
+l2110;d Edinburgh active service Third Maratha War 1817-18;persons_birth;;;nan
+l2111;Alva;persons_birth;56.15284;-3.80505;british_isles
 l2112;b Llanbadarn;persons_birth;;;nan
-l2113;midshipman HMS Monmouth;persons_birth;;;nan
-l2114;ap Rhayader;persons_birth;;;nan
-l2115;North Crescent;persons_birth;;;nan
-l2116;& hep St ives;persons_birth;;;nan
-l2117;Shorwell;persons_birth;;;nan
-l2118;presented as 4th mate LORD MACARTNEY 1795/6;persons_birth;;;nan
-l2119;Newport;persons_birth;52.76684;-2.37734;british_isles
-l2120;Swansea;persons_birth;51.62079;-3.94323;british_isles
-l2121;4th mate HUGH INGLIS 1809/10 (approved 1810;persons_birth;;;nan
-l2122;im England;persons_birth;;;nan
-l2123;pa St Michael's Cornhill;persons_birth;;;nan
-l2125;Ulverston;persons_birth;54.19594;-3.09626;british_isles
-l2126;Bardsea;persons_birth;;;nan
-l2127;ap Donagh;persons_birth;;;nan
-l2128;Sileby;persons_birth;52.73286;-1.10773;british_isles
-l2129;Madras Asst Surgeon;persons_birth;;;nan
-l2130;4th mate VANSITTART 1772/3 (approved 1773;persons_birth;;;nan
-l2131;Bengal Supernumerary Surgeon;persons_birth;;;nan
-l2132;Harwood;persons_birth;;;nan
-l2133;Burntisland;persons_birth;56.05865;-3.23664;british_isles
-l2134;Hammersmith;persons_birth;51.49384;-0.22882;british_isles
-l2135;y & tap episcopal Chapel;persons_birth;;;nan
-l2136;Dingwall;persons_birth;57.59531;-4.42721;british_isles
-l2137;Seo & tap St Colas;persons_birth;;;nan
-l2138;Whitekirk;persons_birth;;;nan
-l2139;Macias Asst Sunysem Noy 1782;persons_birth;;;nan
-l2140;Eastbourne;persons_birth;50.76871;0.28453;british_isles
-l2141;d LE Si Mathew's Pricey St;persons_birth;;;nan
-l2142;d b Barnstaple;persons_birth;;;nan
-l2143;Cape ASTELL 1823/4 & 1826/7 ‘ewin;persons_birth;;;nan
-l2144;Folkestone;persons_birth;51.08169;1.16734;british_isles
-l2145;4th mate RHODA 1757/8;persons_birth;;;nan
-l2146;Newburgh;persons_birth;56.35079;-3.2365;british_isles
-l2147;Carnwath;persons_birth;55.70036;-3.62579;british_isles
-l2148;Clackmannan;persons_birth;56.10743;-3.75098;british_isles
-l2149;British garrison of New York;persons_birth;;;nan
-l2150;captured by French off Benkulen 794;persons_birth;;;nan
-l2151;run Lyons;persons_birth;;;nan
-l2152;Bengal Surgeon;persons_birth;;;nan
-l2153;cl1554 Basingstoke;persons_birth;;;nan
-l2154;Hunsdon;persons_birth;;;nan
-l2155;North Leith;persons_birth;;;nan
-l2156;1795;persons_birth;;;nan
-l2157;'b Beonsteple;persons_birth;;;nan
-l2158;Thorley;persons_birth;;;nan
-l2159;4th mate PIGOT (2) 1792/3 (approved 1793;persons_birth;;;nan
-l2160;Inch;persons_birth;;;nan
-l2161;1st mate DEVONSHIRE (2) 1771/2 (approved 1772;persons_birth;;;nan
-l2162;m South Mims;persons_birth;;;nan
-l2163;Llanereth Mead;persons_birth;;;nan
-l2164;Cramond;persons_birth;;;nan
-l2165;ap St John's;persons_birth;;;nan
-l2166;purser BOMBAY CASTLE (2) 1804/5;persons_birth;;;nan
-l2167;ret;persons_birth;;;nan
-l2168;6th mate COUTTS 1813/4;persons_birth;;;nan
-l2169;Markhal;persons_birth;;;nan
-l2170;Kelmelir;persons_birth;;;nan
-l2171;Inveraray;persons_birth;;;nan
-l2172;Killea;persons_birth;;;nan
-l2173;Dalrymple;persons_birth;55.39757;-4.59169;british_isles
-l2174;Ardwally;persons_birth;;;nan
-l2175;d19 Fsb ig;persons_birth;;;nan
-l2176;Ll South Bnd;persons_birth;;;nan
-l2177;Whitehorn;persons_birth;;;nan
-l2178;Kirkgunzion;persons_birth;;;nan
-l2179;4b mate COUMLING 1808/3;persons_birth;;;nan
-l2181;Glenluce;persons_birth;;;nan
-l2182;1805;persons_birth;;;nan
-l2183;d L761 Cape;persons_birth;;;nan
-l2184;4th mate HECTOR (3) 1775/6 (approved 1776;persons_birth;;;nan
-l2185;Capt CHARLES GRANT 1/2 oe jut Presents;persons_birth;;;nan
-l2187;Cullen;persons_birth;57.69045;-2.81818;british_isles
-l2188;Dorking;persons_birth;51.23228;-0.3338;british_isles
-l2189;ap Totnes;persons_birth;;;nan
-l2190;Sap Reb St Dansten's;persons_birth;;;nan
-l2191;Leuchars;persons_birth;56.38174;-2.88253;british_isles
-l2192;resigned 1771;persons_birth;;;nan
-l2193;Penningham;persons_birth;;;nan
-l2194;or Drummagh;persons_birth;;;nan
-l2195;Canonbie;persons_birth;;;nan
-l2196;Islington;persons_birth;51.53622;-0.10304;british_isles
-l2197;1G Aberdloons MRCS;persons_birth;;;nan
-l2198;Upper Borlunce;persons_birth;;;nan
-l2199;approved as 3rd mate LORD MACARTNEY 1782;persons_birth;;;nan
-l2200;ur Dittisham;persons_birth;;;nan
-l2201;ap Bavarian Chapel;persons_birth;;;nan
-l2202;Bratton;persons_birth;51.27056;-2.12444;british_isles
-l2203;Twyford;persons_birth;51.47518;-0.86037;british_isles
-l2204;pa St Benet's;persons_birth;;;nan
-l2205;St Paul's pa;persons_birth;;;nan
-l2206;Kilfinan;persons_birth;;;nan
-l2207;Dollerie;persons_birth;;;nan
-l2208;Dee Kelins;persons_birth;;;nan
-l2209;ap St George's;persons_birth;;;nan
-l2210;Anworth;persons_birth;;;nan
-l2211;Lerwick;persons_birth;60.15339;-1.14427;british_isles
-l2212;St Bride;persons_birth;;;nan
-l2213;Boleskine & Abertarff pa;persons_birth;;;nan
-l2214;Cumnock;persons_birth;55.45445;-4.26644;british_isles
-l2215;West Church pa;persons_birth;;;nan
-l2216;Forres;persons_birth;57.60997;-3.62115;british_isles
-l2218;Seve;persons_birth;55.3195;52.06942;indian_ocean
-l2219;Abchurch Lane;persons_birth;;;nan
-l2220;Ballmascanlon House;persons_birth;;;nan
-l2221;St Anne's pa;persons_birth;;;nan
-l2222;Frant;persons_birth;;;nan
-l2223;Elie;persons_birth;;;nan
-l2224;Coldstream;persons_birth;55.65111;-2.25295;british_isles
-l2225;Edward;persons_birth;;;nan
-l2226;Edrington;persons_birth;;;nan
-l2227;1st mate DUKE OF GRAFTON 1775/6 m Bishopwearmouth;persons_birth;;;nan
-l2228;ap Spilsby;persons_birth;;;nan
-l2229;Shoddon;persons_birth;;;nan
-l2230;1st mate ASIA (1) 1787/8 & 1790/1 m on board WINTERTON;persons_birth;;;nan
-l2231;Get Dublia;persons_birth;;;nan
-l2232;pa St John's;persons_birth;;;nan
-l2233;Exeter;persons_birth;50.7236;-3.52751;british_isles
-l2234;pa St Leonard's Shoreditch;persons_birth;;;nan
-l2235;West Teignmouth;persons_birth;;;nan
-l2236;widow petitioned Poplar Fund m St Mary's;persons_birth;;;nan
-l2237;& bap.21 Hawick;persons_birth;;;nan
-l2238;Oxford;persons_birth;51.75222;-1.25596;british_isles
-l2239;c1733 London;persons_birth;;;nan
-l2240;d Bath m Martha dau of James Taylor of Carmarthen;persons_birth;;;nan
-l2241;Wrotham;persons_birth;51.30856;0.30899;british_isles
-l2242;5b Noy Lenidam;persons_birth;;;nan
-l2243;Sevenhampton;persons_birth;;;nan
-l2244;2nd mate EUROPE (2) 1804/5;persons_birth;;;nan
-l2245;Wickenford;persons_birth;;;nan
-l2246;Wilbraham;persons_birth;42.12371;-72.43147;atlantic
-l2247;Forecross Chancry;persons_birth;;;nan
-l2248;Kelins;persons_birth;;;nan
-l2250;Monifieth;persons_birth;56.48227;-2.81732;british_isles
-l2252;Pitteneern;persons_birth;;;nan
-l2253;d Norris;persons_birth;;;nan
-l2255;Kirkby-over-Carr;persons_birth;;;nan
-l2256;South Ronaldsay;persons_birth;;;nan
-l2257;Itheringham;persons_birth;;;nan
-l2258;Mansfield;persons_birth;53.13333;-1.2;british_isles
-l2259;Tua;persons_birth;;;nan
-l2260;Dedham;persons_birth;51.95892;0.99336;british_isles
-l2261;Gib mate CHLARLIES GRANT 1816/7;persons_birth;;;nan
-l2262;Northampton;persons_birth;52.25;-0.88333;british_isles
-l2263;New Town;persons_birth;-42.85758;147.30869;indian_ocean
-l2264;3rd mate WINDHAM (2) 1815/6 (approved 1816;persons_birth;;;nan
-l2265;3rd mate ROYAL CHARLOTTE (2) 1785/6 (approved 1786;persons_birth;;;nan
-l2266;Methil;persons_birth;56.18543;-3.02157;british_isles
-l2267;BELVEDERE 1786/7 (approved 1787;persons_birth;;;nan
-l2268;Lichfield;persons_birth;52.68154;-1.82549;british_isles
-l2269;Carlton;persons_birth;54.59004;-1.39117;british_isles
-l2270;Plumstead;persons_birth;51.48333;0.08333;british_isles
-l2271;1st mate PIGOT (2) 1785/6 (approved 1786;persons_birth;;;nan
-l2272;Ballyshannon;persons_birth;54.5;-8.18333;british_isles
-l2273;Whitburn;persons_birth;55.86667;-3.68333;british_isles
-l2274;d Madras active service Second Mysore War 1780-82;persons_birth;;;nan
-l2275;ap eb 1S Newer;persons_birth;;;nan
-l2276;Leeds;persons_birth;53.79648;-1.54785;british_isles
-l2277;pa St Faith's;persons_birth;;;nan
-l2278;1st mate ROYAL CHARLOTTE (2) 1785/6 (approved 1786;persons_birth;;;nan
-l2279;acig bombay Asst Surgeon 1905;persons_birth;;;nan
-l2280;run Russell;persons_birth;;;nan
-l2281;Kirkliston;persons_birth;55.95364;-3.40288;british_isles
-l2282;Falkirk;persons_birth;56.0021;-3.78535;british_isles
-l2283;Grade;persons_birth;;;nan
-l2284;& Bap Boreham;persons_birth;;;nan
-l2285;Bridewell Hospital;persons_birth;;;nan
-l2286;d Dysart m Lavinia Salmon Elizabeth b Andrew James b John Griffins b Mary b Lavinia b Christian Hunt b 1801/2;persons_birth;;;nan
-l2287;Bowden;persons_birth;;;nan
-l2288;Dean St;persons_birth;;;nan
-l2289;Haverfordwest;persons_birth;51.80169;-4.96914;british_isles
-l2290;Abercorn;persons_birth;;;nan
-l2291;Birlingham;persons_birth;;;nan
-l2292;3rd mate ATLAS (1) 1784/5 (approved 1785;persons_birth;;;nan
-l2293;Ratho;persons_birth;55.92164;-3.38028;british_isles
-l2294;Carlisle;persons_birth;54.8951;-2.9382;british_isles
-l2295;Capt HARCOURT (2) 1764/5 & 1767/8;persons_birth;;;nan
-l2296;3rd mate CARNATIC (3) 1814/5 (approved 1815;persons_birth;;;nan
-l2297;Kinnaird;persons_birth;;;nan
-l2298;hae Baglanc);persons_birth;;;nan
-l2299;April Madeira;persons_birth;;;nan
-l2300;Heckfield;persons_birth;;;nan
-l2301;4th mate WALPOLE (4) 1782/3 (approved 1783;persons_birth;;;nan
-l2302;Epsom;persons_birth;51.3305;-0.27011;british_isles
-l2303;3rd mate PONSBORNE (2) 1779/80 (approved 1780;persons_birth;;;nan
-l2304;Woodside Cottage nr Windsor;persons_birth;;;nan
-l2305;Witton-le-Wear;persons_birth;;;nan
-l2306;Lassuden;persons_birth;;;nan
-l2307;1st mate BENGAL (2) 1807/8;persons_birth;;;nan
-l2308;Ackleby;persons_birth;;;nan
-l2309;2nd mate BOMBAY (3) Laura Louisa b Ellen Susan b;persons_birth;;;nan
-l2310;ap Nettlestead;persons_birth;;;nan
-l2311;net;persons_birth;;;nan
-l2312;Kirkcudbright;persons_birth;54.8383;-4.04908;british_isles
-l2313;Daviot;persons_birth;;;nan
-l2314;Durham;persons_birth;54.77676;-1.57566;british_isles
-l2315;Netherley;persons_birth;;;nan
-l2316;suageu PALMIOUTIE 1764/5;persons_birth;;;nan
-l2317;Auldearn;persons_birth;;;nan
-l2318;3rd mate SCALEBY CASTLE 1815/6 (approved 1816;persons_birth;;;nan
-l2319;invalided;persons_birth;;;nan
-l2320;Walsingham;persons_birth;;;nan
-l2321;m Edmonton;persons_birth;;;nan
-l2322;Linlithgow;persons_birth;55.97639;-3.60364;british_isles
-l2323;Witheridge;persons_birth;50.91743;-3.70351;british_isles
-l2324;3rd mate ATLAS (4) 1816/7 & 1818/9;persons_birth;;;nan
-l2325;4th mate CITY OF LONDON 1808/9;persons_birth;;;nan
-l2326;ap St Mary's Rotherhithe;persons_birth;;;nan
-l2327;Clechpoldich;persons_birth;;;nan
-l2328;Chresenham;persons_birth;;;nan
-l2329;2nd mate BRITANNIA (4) 1780;persons_birth;;;nan
-l2330;Acomb nr Hexham;persons_birth;;;nan
-l2331;St Helen's pa;persons_birth;;;nan
-l2332;Collier Row Lane;persons_birth;;;nan
-l2333;& bep St Jolm's;persons_birth;;;nan
-l2334;Threadneedle St;persons_birth;;;nan
-l2335;midshipman HMS Squirrel;persons_birth;;;nan
-l2336;Kirkpatrick Fleming;persons_birth;;;nan
-l2337;Graveley;persons_birth;;;nan
-l2338;Maw Staithes ar Whithy;persons_birth;;;nan
-l2339;Delville nr Dublin;persons_birth;;;nan
-l2340;mc1615 Anne dau of William Megg;persons_birth;;;nan
-l2341;Damhead;persons_birth;;;nan
-l2342;Inverleithen;persons_birth;;;nan
-l2343;1st mate ROYAL BISHOP 1785/6 (approved 1786;persons_birth;;;nan
-l2344;1st mate RELIANCE 1829/30 & 1831/2 O23 & Many's;persons_birth;;;nan
-l2345;ap Deal;persons_birth;;;nan
-l2346;Blackrock;persons_birth;53.96405;-6.36514;british_isles
-l2347;d Malacca Sheen;persons_birth;;;nan
-l2348;tn Bland;persons_birth;;;nan
-l2349;Tannadice;persons_birth;;;nan
-l2350;1772;persons_birth;;;nan
-l2351;Cumbernauld;persons_birth;55.94685;-3.99051;british_isles
-l2352;d active service Second Maratha War 1802-03;persons_birth;;;nan
-l2353;Sec monte DUNNE OF GIRAITION 1775/6 (approved 1778;persons_birth;;;nan
-l2354;Polmont;persons_birth;55.9905;-3.70737;british_isles
-l2355;Packington;persons_birth;;;nan
-l2356;Burlingham St Andrew;persons_birth;;;nan
-l2357;Ewell;persons_birth;51.34948;-0.2494;british_isles
-l2358;approved as 1st mate ROYAL CHARLOTTE (2) 1786;persons_birth;;;nan
-l2359;Garrock;persons_birth;;;nan
-l2360;Woodford Bridge;persons_birth;;;nan
-l2361;Teddington;persons_birth;51.42233;-0.33053;british_isles
-l2362;Fifeshire;persons_birth;;;nan
-l2363;4th mate EARL CORNWALLIS 1783/4 (approved 1784;persons_birth;;;nan
-l2364;Vellore;persons_birth;12.9184;79.13255;madras_presidency
-l2365;d m  Wolverhampton;persons_birth;;;nan
-l2366;3rd mate LORD WALSINGHAM 1786/7 (approved 1787;persons_birth;;;nan
-l2367;Binny;persons_birth;;;nan
-l2368;suspended 1786;persons_birth;;;nan
-l2369;St Etheldred's pa;persons_birth;;;nan
-l2370;dae;persons_birth;;;nan
-l2371;transf to HMS Hyena;persons_birth;;;nan
-l2372;'b Sectlendl appoenttive Cecalline amele;persons_birth;;;nan
-l2373;approved as 4th mate BRIDGEWATER (3) 1788;persons_birth;;;nan
-l2374;3rd mate LORD MACARTNEY 1782/3 (approved 1783;persons_birth;;;nan
-l2375;dismissed;persons_birth;;;nan
-l2376;Stoke;persons_birth;53.25;-2.86667;british_isles
-l2377;ap St Leonard's;persons_birth;;;nan
-l2378;lo Broughton;persons_birth;;;nan
-l2379;drowned m St Mary;persons_birth;;;nan
-l2380;1st mate LOYALIST 1795/6 m Ramsey;persons_birth;;;nan
-l2381;Woodford;persons_birth;51.11667;-1.83333;british_isles
-l2382;Avening;persons_birth;51.6801;-2.16903;british_isles
-l2383;Kennington;persons_birth;51.48796;-0.10566;british_isles
-l2384;punser ANNES @) 16?a/s Harriet b Ellen b;persons_birth;;;nan
-l2385;Lowestoft;persons_birth;52.47523;1.75167;british_isles
-l2386;Bowdon;persons_birth;53.37644;-2.36532;british_isles
-l2387;VY Mint & Ibap Cross St Chapel;persons_birth;;;nan
-l2388;Throgmorton St;persons_birth;;;nan
-l2389;5th mate LADY BURGES 1803/4;persons_birth;;;nan
-l2390;Denny;persons_birth;56.0235;-3.90812;british_isles
-l2391;ur St Giles-in-the-Fields;persons_birth;;;nan
-l2392;ap Ware;persons_birth;;;nan
-l2393;Hedon;persons_birth;53.73962;-0.19655;british_isles
-l2394;Hedon-in-Holderness;persons_birth;;;nan
-l2395;went heme on GENERAL ELLIOT 1784;persons_birth;;;nan
-l2396;Suptdg Surgeon;persons_birth;;;nan
-l2397;Dailly;persons_birth;;;nan
-l2399;Member of Medical Board 1808;persons_birth;;;nan
-l2400;Pakefield;persons_birth;;;nan
-l2401;Ifield Court;persons_birth;;;nan
-l2402;widow petitioned Poplar Fund m Bombay;persons_birth;;;nan
-l2403;Noy & bop Dee & Hamer Piccadilly;persons_birth;;;nan
-l2404;Llantrissant;persons_birth;;;nan
-l2405;Hailsham;persons_birth;50.8622;0.25775;british_isles
-l2406;Bathford;persons_birth;51.4002;-2.30161;british_isles
-l2407;3rd mate HERCULEAN 1801/2;persons_birth;;;nan
-l2408;Colworth;persons_birth;;;nan
-l2409;Oving;persons_birth;;;nan
-l2410;1766;persons_birth;;;nan
-l2411;1767;persons_birth;;;nan
-l2412;Devynnock;persons_birth;;;nan
-l2413;ap St Nicholas;persons_birth;;;nan
-l2414;St Columb;persons_birth;50.43163;-4.94336;british_isles
-l2415;Alrewas;persons_birth;52.73278;-1.74968;british_isles
-l2416;Walberswick;persons_birth;;;nan
-l2417;Newcastle;persons_birth;53.30111;-6.50222;british_isles
-l2418;Sidmouth;persons_birth;50.69094;-3.2397;british_isles
-l2419;pa St John the Baptist;persons_birth;;;nan
-l2420;examined as 3rd mate DUTTON (2) 1791;persons_birth;;;nan
-l2422;Principal Managing Owner EGMONT (2) 1766/7-1772/3 m Elizabeth Webster;persons_birth;;;nan
-l2423;pa St Stephen's Walbrook;persons_birth;;;nan
-l2424;4th mate MIDDLESEX (2) 1789/9 (approved 1789;persons_birth;;;nan
-l2425;Wareham;persons_birth;50.68792;-2.11058;british_isles
-l2426;Philadelphia;persons_birth;39.95238;-75.16362;atlantic
-l2427;3rd mate MARQUIS OF WELLINGTON (1) 1812/3 Wilkinson;persons_birth;;;nan
-l2428;Langstephan;persons_birth;;;nan
-l2429;1739;persons_birth;;;nan
-l2430;Galashiels;persons_birth;55.61458;-2.80695;british_isles
-l2431;Capt CARNATIC 1785/6 (approved 1786;persons_birth;;;nan
-l2432;Verdun;persons_birth;49.15964;5.3829;atlantic
-l2433;Bishop Wearmouth;persons_birth;;;nan
-l2434;Weller;persons_birth;;;nan
-l2435;Boarhunt;persons_birth;;;nan
-l2436;lost wreck;persons_birth;;;nan
-l2437;St Pancras;persons_birth;;;nan
-l2438;Great Snoring;persons_birth;;;nan
-l2439;St James' pa;persons_birth;;;nan
-l2440;Kilconquhar;persons_birth;;;nan
-l2441;Preston;persons_birth;52.61264;-0.71437;british_isles
-l2442;ap St Paul's Covent Garden;persons_birth;;;nan
-l2443;d London;persons_birth;;;nan
-l2445;Inveresk;persons_birth;;;nan
-l2446;ap St Botolph Bishopsgate;persons_birth;;;nan
-l2447;St Petersburg;persons_birth;59.93863;30.31413;indian_ocean
-l2448;Wemyss Castle;persons_birth;;;nan
-l2449;rejoined at Bombay;persons_birth;;;nan
-l2450;Wellington;persons_birth;52.7;-2.51667;british_isles
-l2451;Ide;persons_birth;34.79965;135.81247;indian_ocean
-l2452;4th mate MARQUIS OF ROCKINGHAM (2) 1775/6 (approved 1776;persons_birth;;;nan
-l2453;England apprentice Speedwell Straits trade;persons_birth;;;nan
-l2454;surgeon UNION (4) 1810/1;persons_birth;;;nan
-l2455;ap Feathard;persons_birth;;;nan
-l2456;ap St Luke's;persons_birth;;;nan
-l2457;Shrewsbury;persons_birth;52.71009;-2.75208;british_isles
-l2458;ap St Botolph Aldgate;persons_birth;;;nan
-l2459;3rd mate AIRLY CASTLE 1797/8 (approved 1798;persons_birth;;;nan
-l2460;L Oet 196? Norwich;persons_birth;;;nan
-l2461;Alnwick;persons_birth;55.41318;-1.70563;british_isles
-l2462;1692;persons_birth;;;nan
-l2463;lb Ape ct Igy St Pauls;persons_birth;;;nan
-l2464;4th mate ROYAL CHARLOTTE 1785/6 (approved 1786;persons_birth;;;nan
-l2465;ap West Ham;persons_birth;;;nan
-l2466;3rd mate PIGOT (2) 1785/6 (approved 1786;persons_birth;;;nan
-l2467;d on board Alfred off Saugor active service China 1840-41;persons_birth;;;nan
-l2468;Asst Surgeon HM 67th Foot 1809;persons_birth;;;nan
-l2469;Horsham;persons_birth;51.06314;-0.32757;british_isles
-l2470;Ironchurch;persons_birth;;;nan
-l2471;Cupar;persons_birth;56.31876;-3.01204;british_isles
-l2472;Strichen;persons_birth;;;nan
-l2473;surgeon of Bombay Marine grab Restoration;persons_birth;;;nan
-l2474;ap Camberwell;persons_birth;;;nan
-l2475;Kent;persons_baptised;41.72482;-73.47707;atlantic
-l2476;Hants;persons_baptised;;;nan
-l2477;Pembroke;persons_baptised;51.67464;-4.91286;british_isles
-l2478;Banbury;persons_baptised;52.0632;-1.34222;british_isles
-l2479;Colchester;persons_baptised;51.88921;0.90421;british_isles
-l2480;Wakefield;persons_baptised;53.68331;-1.49768;british_isles
-l2481;Salford;persons_baptised;53.48771;-2.29042;british_isles
-l2482;Londen;persons_baptised;51.50853;-0.12574;british_isles
-l2483;Stirlingshire;persons_baptised;;;nan
-l2484;Northumberland;persons_baptised;44.56339;-71.5587;atlantic
-l2485;Surrey;persons_baptised;48.2364;-101.13349;atlantic
-l2486;Middx;persons_baptised;;;nan
-l2487;Dorset;persons_baptised;;;nan
-l2488;Devon;persons_baptised;53.36683;-113.73533;atlantic
-l2489;Great Yarmouth;persons_baptised;;;nan
-l2490;Commwvalll;persons_baptised;;;nan
-l2491;London s of Charles;persons_baptised;;;nan
-l2492;Shadwell;persons_baptised;53.8546;-1.4726;british_isles
-l2493;Suffolk;persons_baptised;36.72836;-76.58496;atlantic
-l2494;Berks;persons_baptised;;;nan
-l2495;Essex;persons_baptised;42.63204;-70.78283;atlantic
-l2496;Yorkslulse;persons_baptised;;;nan
-l2497;Sussex;persons_baptised;41.20982;-74.60766;atlantic
-l2498;Leics;persons_baptised;;;nan
-l2499;Chester;persons_baptised;53.1905;-2.89189;british_isles
-l2500;Denbigh;persons_baptised;53.18333;-3.41667;british_isles
-l2501;Bast Lothian;persons_baptised;;;nan
-l2502;Blackheath;persons_baptised;51.4647;0.0079;british_isles
-l2503;Glos;persons_baptised;;;nan
-l2504;Notts;persons_baptised;;;nan
-l2505;Westminster;persons_baptised;30.4138;-91.0876;atlantic
-l2506;Tun Sheerness;persons_baptised;;;nan
-l2507;Tower of London Chapel;persons_baptised;;;nan
-l2508;Kewl;persons_baptised;;;nan
-l2509;St Pater Pon;persons_baptised;;;nan
-l2510;Wilts;persons_baptised;;;nan
-l2511;Herefords;persons_baptised;;;nan
-l2512;Hunts;persons_baptised;;;nan
-l2513;Fife;persons_baptised;47.23927;-122.35707;atlantic
-l2514;Thanet;persons_baptised;;;nan
-l2515;Greenwich;persons_baptised;41.02649;-73.62846;atlantic
-l2516;Rochester;persons_baptised;55.2752;-2.2649;british_isles
-l2517;Stockton-on-Tees;persons_baptised;;;nan
-l2518;Somerset;persons_baptised;-41.04065;145.83055;indian_ocean
-l2519;Hythe;persons_baptised;50.86004;-1.40162;british_isles
-l2520;Seuthover;persons_baptised;;;nan
-l2521;Camberwell;persons_baptised;51.4739;-0.09381;british_isles
-l2522;Doctors' Commons;persons_baptised;;;nan
-l2523;Cheshire;persons_baptised;41.49899;-72.90066;atlantic
-l2524;York;persons_baptised;53.95763;-1.08271;british_isles
-l2525;IoW;persons_baptised;41.66113;-91.53017;atlantic
-l2526;Bermondsey;persons_baptised;;;nan
-l2527;Hull;persons_baptised;42.30204;-70.90782;atlantic
-l2528;Staffs;persons_baptised;;;nan
-l2529;Yorks;persons_baptised;;;nan
-l2530;Clos;persons_baptised;;;nan
-l2531;Hanover Sq;persons_baptised;;;nan
-l2532;Dorchester;persons_baptised;50.71667;-2.43333;british_isles
-l2533;Argyle;persons_baptised;33.12123;-97.18335;atlantic
-l2535;Srepacy;persons_baptised;;;nan
-l2536;Doncaster;persons_baptised;53.52285;-1.13116;british_isles
-l2537;Chelsea;persons_baptised;51.48755;-0.16936;british_isles
-l2538;Clerkenwell;persons_baptised;51.52438;-0.11022;british_isles
-l2539;Louden;persons_baptised;;;nan
-l2540;Worcs;persons_baptised;;;nan
-l2541;Cornwall;persons_baptised;40.2737;-76.40607;atlantic
-l2542;Montgomery;persons_baptised;41.17036;-76.87691;atlantic
-l2543;Nottingham;persons_baptised;52.9536;-1.15047;british_isles
-l2544;Hackney;persons_baptised;51.55;-0.05;british_isles
-l2545;White Row;persons_baptised;;;nan
-l2546;Deptiond;persons_baptised;;;nan
-l2547;Berwick-on-Tweed;persons_baptised;;;nan
-l2548;Fite;persons_baptised;;;nan
-l2549;Cammerthen;persons_baptised;;;nan
-l2550;Stitton. Suffolk;persons_baptised;;;nan
-l2551;Berwickshire;persons_baptised;;;nan
-l2552;Caithness;persons_baptised;;;nan
-l2553;Sneoney;persons_baptised;;;nan
-l2554;Warwicks;persons_baptised;;;nan
-l2555;Roxburgshire;persons_baptised;;;nan
-l2556;Worcester;persons_baptised;52.18935;-2.22001;british_isles
-l2557;Gt Berkhamsted;persons_baptised;;;nan
-l2558;Rotherhithe;persons_baptised;51.5;-0.05;british_isles
-l2559;Lancs;persons_baptised;;;nan
-l2561;Leicester;persons_baptised;52.6386;-1.13169;british_isles
-l2562;Bow;persons_baptised;51.52609;-0.01665;british_isles
-l2563;Cambridge;persons_baptised;52.2;0.11667;british_isles
-l2564;Otley;persons_baptised;53.90553;-1.69383;british_isles
-l2565;Bormateple;persons_baptised;;;nan
-l2566;Holborn;persons_baptised;51.51753;-0.12045;british_isles
-l2567;West Ham;persons_baptised;51.53333;0.01667;british_isles
-l2568;Lincs;persons_baptised;;;nan
-l2569;Merioneth;persons_baptised;;;nan
-l2570;Herts;persons_baptised;;;nan
-l2572;Phillack;persons_baptised;;;nan
-l2573;Nortel;persons_baptised;;;nan
-l2574;‘Kent;persons_baptised;;;nan
-l2575;Lanarks;persons_baptised;;;nan
-l2576;Piccadilly;persons_baptised;-30.7428;121.46418;indian_ocean
-l2577;Essex?;persons_baptised;;;nan
-l2578;Garwald;persons_baptised;;;nan
-l2579;Salop;persons_baptised;;;nan
-l2580;Poplar;persons_baptised;51.51113;-0.01565;british_isles
-l2581;Old Jewry;persons_baptised;;;nan
-l2582;Sul;persons_baptised;50.60911;10.69401;atlantic
-l2583;3rd s of John;persons_baptised;;;nan
-l2584;Dumtfries;persons_baptised;;;nan
-l2585;Glamorgan;persons_baptised;;;nan
-l2586;Northants;persons_baptised;;;nan
-l2588;co Durbem;persons_baptised;;;nan
-l2589;Montego Bay;persons_baptised;18.47116;-77.91883;atlantic
-l2590;Radnor;persons_baptised;40.04622;-75.35991;atlantic
-l2591;Fes Monpbie;persons_baptised;;;nan
-l2592;New Ross;persons_baptised;52.39667;-6.93667;british_isles
-l2593;Waltham;persons_baptised;53.51667;-0.1;british_isles
-l2594;Brecon;persons_baptised;51.94612;-3.38887;british_isles
-l2595;Chard;persons_baptised;50.8727;-2.96597;british_isles
-l2596;Penzance;persons_baptised;50.11861;-5.53715;british_isles
-l2597;Lichfield Cathedral;persons_baptised;;;nan
-l2598;Gloucs;persons_baptised;;;nan
-l2599;Hampstead;persons_baptised;39.60483;-76.84998;atlantic
-l2601;Kimg*s Lymn;persons_baptised;;;nan
-l2602;Argyll;persons_baptised;;;nan
-l2603;Newmgion;persons_baptised;;;nan
-l2604;Tain;persons_baptised;57.81204;-4.05518;british_isles
-l2605;London Wall;persons_baptised;;;nan
-l2606;Haw;persons_baptised;51.80169;-4.96914;british_isles
-l2607;Ayshire;persons_baptised;;;nan
-l2608;East Lothian;persons_baptised;;;nan
-l2609;Wigtown;persons_baptised;;;nan
-l2610;Hawkshead;persons_baptised;;;nan
-l2611;Kincardine;persons_baptised;56.06945;-3.71964;british_isles
-l2612;Winchester;persons_baptised;51.06513;-1.3187;british_isles
-l2613;Guildford;persons_baptised;51.23536;-0.57427;british_isles
-l2614;Stroud;persons_baptised;51.75;-2.2;british_isles
-l2615;Derset;persons_baptised;;;nan
-l2616;co Antrim;persons_baptised;;;nan
-l2617;Jam Kinnonle;persons_baptised;;;nan
-l2618;Oxon;persons_baptised;38.80345;-76.9897;atlantic
-l2619;Brighton;persons_baptised;50.82838;-0.13947;british_isles
-l2620;Selkirk;persons_baptised;55.54738;-2.83911;british_isles
-l2621;Roxburghs;persons_baptised;;;nan
-l2622;Glandwr;persons_baptised;51.92833;-4.63333;british_isles
-l2623;Thirsk;persons_baptised;54.23298;-1.34411;british_isles
-l2624;Kendal;persons_baptised;54.32681;-2.74757;british_isles
-l2625;Cartmel;persons_baptised;;;nan
-l2626;Flints;persons_baptised;;;nan
-l2627;Westmorland;persons_baptised;33.03727;-115.62138;atlantic
-l2628;Evesham;persons_baptised;52.09237;-1.94887;british_isles
-l2629;Taunton;persons_baptised;51.01494;-3.10293;british_isles
-l2630;co Cork;persons_baptised;;;nan
-l2631;Suftell;persons_baptised;;;nan
-l2632;Survey;persons_baptised;;;nan
-l2633;Sandwich;persons_baptised;51.27223;1.33776;british_isles
-l2634;Cockermouth;persons_baptised;54.66209;-3.36086;british_isles
-l2635;Long Buckley;persons_baptised;;;nan
-l2636;Huntingdon;persons_baptised;52.33049;-0.18651;british_isles
+l2113;Lyme Regis;persons_birth;50.72654;-2.93477;british_isles
+l2114;midshipman HMS Monmouth;persons_birth;;;nan
+l2115;ap Rhayader;persons_birth;;;nan
+l2116;North Crescent;persons_birth;;;nan
+l2117;& hep St ives;persons_birth;;;nan
+l2118;Shorwell;persons_birth;;;nan
+l2119;presented as 4th mate LORD MACARTNEY 1795/6;persons_birth;;;nan
+l2120;Newport;persons_birth;52.76684;-2.37734;british_isles
+l2121;Swansea;persons_birth;51.62079;-3.94323;british_isles
+l2122;4th mate HUGH INGLIS 1809/10 (approved 1810;persons_birth;;;nan
+l2123;im England;persons_birth;;;nan
+l2124;pa St Michael's Cornhill;persons_birth;;;nan
+l2126;Ulverston;persons_birth;54.19594;-3.09626;british_isles
+l2127;Bardsea;persons_birth;;;nan
+l2128;ap Donagh;persons_birth;;;nan
+l2129;Sileby;persons_birth;52.73286;-1.10773;british_isles
+l2130;Madras Asst Surgeon;persons_birth;;;nan
+l2131;4th mate VANSITTART 1772/3 (approved 1773;persons_birth;;;nan
+l2132;Bengal Supernumerary Surgeon;persons_birth;;;nan
+l2133;Harwood;persons_birth;;;nan
+l2134;Burntisland;persons_birth;56.05865;-3.23664;british_isles
+l2135;Hammersmith;persons_birth;51.49384;-0.22882;british_isles
+l2136;y & tap episcopal Chapel;persons_birth;;;nan
+l2137;Dingwall;persons_birth;57.59531;-4.42721;british_isles
+l2138;Seo & tap St Colas;persons_birth;;;nan
+l2139;Whitekirk;persons_birth;;;nan
+l2140;Macias Asst Sunysem Noy 1782;persons_birth;;;nan
+l2141;Eastbourne;persons_birth;50.76871;0.28453;british_isles
+l2142;d LE Si Mathew's Pricey St;persons_birth;;;nan
+l2143;d b Barnstaple;persons_birth;;;nan
+l2144;Cape ASTELL 1823/4 & 1826/7 ‘ewin;persons_birth;;;nan
+l2145;Folkestone;persons_birth;51.08169;1.16734;british_isles
+l2146;4th mate RHODA 1757/8;persons_birth;;;nan
+l2147;Newburgh;persons_birth;56.35079;-3.2365;british_isles
+l2148;Carnwath;persons_birth;55.70036;-3.62579;british_isles
+l2149;Clackmannan;persons_birth;56.10743;-3.75098;british_isles
+l2150;British garrison of New York;persons_birth;;;nan
+l2151;captured by French off Benkulen 794;persons_birth;;;nan
+l2152;run Lyons;persons_birth;;;nan
+l2153;Bengal Surgeon;persons_birth;;;nan
+l2154;cl1554 Basingstoke;persons_birth;;;nan
+l2155;Hunsdon;persons_birth;;;nan
+l2156;North Leith;persons_birth;;;nan
+l2157;1795;persons_birth;;;nan
+l2158;'b Beonsteple;persons_birth;;;nan
+l2159;Thorley;persons_birth;;;nan
+l2160;4th mate PIGOT (2) 1792/3 (approved 1793;persons_birth;;;nan
+l2161;Inch;persons_birth;;;nan
+l2162;1st mate DEVONSHIRE (2) 1771/2 (approved 1772;persons_birth;;;nan
+l2163;m South Mims;persons_birth;;;nan
+l2164;Llanereth Mead;persons_birth;;;nan
+l2165;Cramond;persons_birth;;;nan
+l2166;ap St John's;persons_birth;;;nan
+l2167;purser BOMBAY CASTLE (2) 1804/5;persons_birth;;;nan
+l2168;ret;persons_birth;;;nan
+l2169;6th mate COUTTS 1813/4;persons_birth;;;nan
+l2170;Markhal;persons_birth;;;nan
+l2171;Kelmelir;persons_birth;;;nan
+l2172;Inveraray;persons_birth;;;nan
+l2173;Killea;persons_birth;;;nan
+l2174;Dalrymple;persons_birth;55.39757;-4.59169;british_isles
+l2175;Ardwally;persons_birth;;;nan
+l2176;d19 Fsb ig;persons_birth;;;nan
+l2177;Ll South Bnd;persons_birth;;;nan
+l2178;Whitehorn;persons_birth;;;nan
+l2179;Kirkgunzion;persons_birth;;;nan
+l2180;4b mate COUMLING 1808/3;persons_birth;;;nan
+l2182;Glenluce;persons_birth;;;nan
+l2183;1805;persons_birth;;;nan
+l2184;d L761 Cape;persons_birth;;;nan
+l2185;4th mate HECTOR (3) 1775/6 (approved 1776;persons_birth;;;nan
+l2186;Capt CHARLES GRANT 1/2 oe jut Presents;persons_birth;;;nan
+l2188;Cullen;persons_birth;57.69045;-2.81818;british_isles
+l2189;Dorking;persons_birth;51.23228;-0.3338;british_isles
+l2190;ap Totnes;persons_birth;;;nan
+l2191;Sap Reb St Dansten's;persons_birth;;;nan
+l2192;Leuchars;persons_birth;56.38174;-2.88253;british_isles
+l2193;resigned 1771;persons_birth;;;nan
+l2194;Penningham;persons_birth;;;nan
+l2195;or Drummagh;persons_birth;;;nan
+l2196;Canonbie;persons_birth;;;nan
+l2197;Islington;persons_birth;51.53622;-0.10304;british_isles
+l2198;1G Aberdloons MRCS;persons_birth;;;nan
+l2199;Upper Borlunce;persons_birth;;;nan
+l2200;approved as 3rd mate LORD MACARTNEY 1782;persons_birth;;;nan
+l2201;ur Dittisham;persons_birth;;;nan
+l2202;ap Bavarian Chapel;persons_birth;;;nan
+l2203;Bratton;persons_birth;51.27056;-2.12444;british_isles
+l2204;Twyford;persons_birth;51.47518;-0.86037;british_isles
+l2205;pa St Benet's;persons_birth;;;nan
+l2206;St Paul's pa;persons_birth;;;nan
+l2207;Kilfinan;persons_birth;;;nan
+l2208;Dollerie;persons_birth;;;nan
+l2209;Dee Kelins;persons_birth;;;nan
+l2210;ap St George's;persons_birth;;;nan
+l2211;Anworth;persons_birth;;;nan
+l2212;Lerwick;persons_birth;60.15339;-1.14427;british_isles
+l2213;St Bride;persons_birth;;;nan
+l2214;Boleskine & Abertarff pa;persons_birth;;;nan
+l2215;Cumnock;persons_birth;55.45445;-4.26644;british_isles
+l2216;West Church pa;persons_birth;;;nan
+l2217;Forres;persons_birth;57.60997;-3.62115;british_isles
+l2219;Seve;persons_birth;55.3195;52.06942;indian_ocean
+l2220;Abchurch Lane;persons_birth;;;nan
+l2221;Ballmascanlon House;persons_birth;;;nan
+l2222;St Anne's pa;persons_birth;;;nan
+l2223;Frant;persons_birth;;;nan
+l2224;Elie;persons_birth;;;nan
+l2225;Coldstream;persons_birth;55.65111;-2.25295;british_isles
+l2226;Edward;persons_birth;;;nan
+l2227;Edrington;persons_birth;;;nan
+l2228;1st mate DUKE OF GRAFTON 1775/6 m Bishopwearmouth;persons_birth;;;nan
+l2229;ap Spilsby;persons_birth;;;nan
+l2230;Shoddon;persons_birth;;;nan
+l2231;1st mate ASIA (1) 1787/8 & 1790/1 m on board WINTERTON;persons_birth;;;nan
+l2232;Get Dublia;persons_birth;;;nan
+l2233;pa St John's;persons_birth;;;nan
+l2234;Exeter;persons_birth;50.7236;-3.52751;british_isles
+l2235;pa St Leonard's Shoreditch;persons_birth;;;nan
+l2236;West Teignmouth;persons_birth;;;nan
+l2237;widow petitioned Poplar Fund m St Mary's;persons_birth;;;nan
+l2238;& bap.21 Hawick;persons_birth;;;nan
+l2239;Oxford;persons_birth;51.75222;-1.25596;british_isles
+l2240;c1733 London;persons_birth;;;nan
+l2241;d Bath m Martha dau of James Taylor of Carmarthen;persons_birth;;;nan
+l2242;Wrotham;persons_birth;51.30856;0.30899;british_isles
+l2243;5b Noy Lenidam;persons_birth;;;nan
+l2244;Sevenhampton;persons_birth;;;nan
+l2245;2nd mate EUROPE (2) 1804/5;persons_birth;;;nan
+l2246;Wickenford;persons_birth;;;nan
+l2247;Wilbraham;persons_birth;42.12371;-72.43147;atlantic
+l2248;Forecross Chancry;persons_birth;;;nan
+l2249;Kelins;persons_birth;;;nan
+l2251;Monifieth;persons_birth;56.48227;-2.81732;british_isles
+l2253;Pitteneern;persons_birth;;;nan
+l2254;d Norris;persons_birth;;;nan
+l2256;Kirkby-over-Carr;persons_birth;;;nan
+l2257;South Ronaldsay;persons_birth;;;nan
+l2258;Itheringham;persons_birth;;;nan
+l2259;Mansfield;persons_birth;53.13333;-1.2;british_isles
+l2260;Tua;persons_birth;;;nan
+l2261;Dedham;persons_birth;51.95892;0.99336;british_isles
+l2262;Gib mate CHLARLIES GRANT 1816/7;persons_birth;;;nan
+l2263;Northampton;persons_birth;52.25;-0.88333;british_isles
+l2264;New Town;persons_birth;-42.85758;147.30869;indian_ocean
+l2265;3rd mate WINDHAM (2) 1815/6 (approved 1816;persons_birth;;;nan
+l2266;3rd mate ROYAL CHARLOTTE (2) 1785/6 (approved 1786;persons_birth;;;nan
+l2267;Methil;persons_birth;56.18543;-3.02157;british_isles
+l2268;BELVEDERE 1786/7 (approved 1787;persons_birth;;;nan
+l2269;Lichfield;persons_birth;52.68154;-1.82549;british_isles
+l2270;Carlton;persons_birth;54.59004;-1.39117;british_isles
+l2271;Plumstead;persons_birth;51.48333;0.08333;british_isles
+l2272;1st mate PIGOT (2) 1785/6 (approved 1786;persons_birth;;;nan
+l2273;Ballyshannon;persons_birth;54.5;-8.18333;british_isles
+l2274;Whitburn;persons_birth;55.86667;-3.68333;british_isles
+l2275;d Madras active service Second Mysore War 1780-82;persons_birth;;;nan
+l2276;ap eb 1S Newer;persons_birth;;;nan
+l2277;Leeds;persons_birth;53.79648;-1.54785;british_isles
+l2278;pa St Faith's;persons_birth;;;nan
+l2279;1st mate ROYAL CHARLOTTE (2) 1785/6 (approved 1786;persons_birth;;;nan
+l2280;acig bombay Asst Surgeon 1905;persons_birth;;;nan
+l2281;run Russell;persons_birth;;;nan
+l2282;Kirkliston;persons_birth;55.95364;-3.40288;british_isles
+l2283;Falkirk;persons_birth;56.0021;-3.78535;british_isles
+l2284;Grade;persons_birth;;;nan
+l2285;& Bap Boreham;persons_birth;;;nan
+l2286;Bridewell Hospital;persons_birth;;;nan
+l2287;d Dysart m Lavinia Salmon Elizabeth b Andrew James b John Griffins b Mary b Lavinia b Christian Hunt b 1801/2;persons_birth;;;nan
+l2288;Bowden;persons_birth;;;nan
+l2289;Dean St;persons_birth;;;nan
+l2290;Haverfordwest;persons_birth;51.80169;-4.96914;british_isles
+l2291;Abercorn;persons_birth;;;nan
+l2292;Birlingham;persons_birth;;;nan
+l2293;3rd mate ATLAS (1) 1784/5 (approved 1785;persons_birth;;;nan
+l2294;Ratho;persons_birth;55.92164;-3.38028;british_isles
+l2295;Carlisle;persons_birth;54.8951;-2.9382;british_isles
+l2296;Capt HARCOURT (2) 1764/5 & 1767/8;persons_birth;;;nan
+l2297;3rd mate CARNATIC (3) 1814/5 (approved 1815;persons_birth;;;nan
+l2298;Kinnaird;persons_birth;;;nan
+l2299;hae Baglanc);persons_birth;;;nan
+l2300;April Madeira;persons_birth;;;nan
+l2301;Heckfield;persons_birth;;;nan
+l2302;4th mate WALPOLE (4) 1782/3 (approved 1783;persons_birth;;;nan
+l2303;Epsom;persons_birth;51.3305;-0.27011;british_isles
+l2304;3rd mate PONSBORNE (2) 1779/80 (approved 1780;persons_birth;;;nan
+l2305;Woodside Cottage nr Windsor;persons_birth;;;nan
+l2306;Witton-le-Wear;persons_birth;;;nan
+l2307;Lassuden;persons_birth;;;nan
+l2308;1st mate BENGAL (2) 1807/8;persons_birth;;;nan
+l2309;Ackleby;persons_birth;;;nan
+l2310;2nd mate BOMBAY (3) Laura Louisa b Ellen Susan b;persons_birth;;;nan
+l2311;ap Nettlestead;persons_birth;;;nan
+l2312;net;persons_birth;;;nan
+l2313;Kirkcudbright;persons_birth;54.8383;-4.04908;british_isles
+l2314;Daviot;persons_birth;;;nan
+l2315;Durham;persons_birth;54.77676;-1.57566;british_isles
+l2316;Netherley;persons_birth;;;nan
+l2317;suageu PALMIOUTIE 1764/5;persons_birth;;;nan
+l2318;Auldearn;persons_birth;;;nan
+l2319;3rd mate SCALEBY CASTLE 1815/6 (approved 1816;persons_birth;;;nan
+l2320;invalided;persons_birth;;;nan
+l2321;Walsingham;persons_birth;;;nan
+l2322;m Edmonton;persons_birth;;;nan
+l2323;Linlithgow;persons_birth;55.97639;-3.60364;british_isles
+l2324;Witheridge;persons_birth;50.91743;-3.70351;british_isles
+l2325;3rd mate ATLAS (4) 1816/7 & 1818/9;persons_birth;;;nan
+l2326;4th mate CITY OF LONDON 1808/9;persons_birth;;;nan
+l2327;ap St Mary's Rotherhithe;persons_birth;;;nan
+l2328;Clechpoldich;persons_birth;;;nan
+l2329;Chresenham;persons_birth;;;nan
+l2330;2nd mate BRITANNIA (4) 1780;persons_birth;;;nan
+l2331;Acomb nr Hexham;persons_birth;;;nan
+l2332;St Helen's pa;persons_birth;;;nan
+l2333;Collier Row Lane;persons_birth;;;nan
+l2334;& bep St Jolm's;persons_birth;;;nan
+l2335;Threadneedle St;persons_birth;;;nan
+l2336;midshipman HMS Squirrel;persons_birth;;;nan
+l2337;Kirkpatrick Fleming;persons_birth;;;nan
+l2338;Graveley;persons_birth;;;nan
+l2339;Maw Staithes ar Whithy;persons_birth;;;nan
+l2340;Delville nr Dublin;persons_birth;;;nan
+l2341;mc1615 Anne dau of William Megg;persons_birth;;;nan
+l2342;Damhead;persons_birth;;;nan
+l2343;Inverleithen;persons_birth;;;nan
+l2344;1st mate ROYAL BISHOP 1785/6 (approved 1786;persons_birth;;;nan
+l2345;1st mate RELIANCE 1829/30 & 1831/2 O23 & Many's;persons_birth;;;nan
+l2346;ap Deal;persons_birth;;;nan
+l2347;Blackrock;persons_birth;53.96405;-6.36514;british_isles
+l2348;d Malacca Sheen;persons_birth;;;nan
+l2349;tn Bland;persons_birth;;;nan
+l2350;Tannadice;persons_birth;;;nan
+l2351;1772;persons_birth;;;nan
+l2352;Cumbernauld;persons_birth;55.94685;-3.99051;british_isles
+l2353;d active service Second Maratha War 1802-03;persons_birth;;;nan
+l2354;Sec monte DUNNE OF GIRAITION 1775/6 (approved 1778;persons_birth;;;nan
+l2355;Polmont;persons_birth;55.9905;-3.70737;british_isles
+l2356;Packington;persons_birth;;;nan
+l2357;Burlingham St Andrew;persons_birth;;;nan
+l2358;Ewell;persons_birth;51.34948;-0.2494;british_isles
+l2359;approved as 1st mate ROYAL CHARLOTTE (2) 1786;persons_birth;;;nan
+l2360;Garrock;persons_birth;;;nan
+l2361;Woodford Bridge;persons_birth;;;nan
+l2362;Teddington;persons_birth;51.42233;-0.33053;british_isles
+l2363;Fifeshire;persons_birth;;;nan
+l2364;4th mate EARL CORNWALLIS 1783/4 (approved 1784;persons_birth;;;nan
+l2365;Vellore;persons_birth;12.9184;79.13255;madras_presidency
+l2366;d m  Wolverhampton;persons_birth;;;nan
+l2367;3rd mate LORD WALSINGHAM 1786/7 (approved 1787;persons_birth;;;nan
+l2368;Binny;persons_birth;;;nan
+l2369;suspended 1786;persons_birth;;;nan
+l2370;St Etheldred's pa;persons_birth;;;nan
+l2371;dae;persons_birth;;;nan
+l2372;transf to HMS Hyena;persons_birth;;;nan
+l2373;'b Sectlendl appoenttive Cecalline amele;persons_birth;;;nan
+l2374;approved as 4th mate BRIDGEWATER (3) 1788;persons_birth;;;nan
+l2375;3rd mate LORD MACARTNEY 1782/3 (approved 1783;persons_birth;;;nan
+l2376;dismissed;persons_birth;;;nan
+l2377;Stoke;persons_birth;53.25;-2.86667;british_isles
+l2378;ap St Leonard's;persons_birth;;;nan
+l2379;lo Broughton;persons_birth;;;nan
+l2380;drowned m St Mary;persons_birth;;;nan
+l2381;1st mate LOYALIST 1795/6 m Ramsey;persons_birth;;;nan
+l2382;Woodford;persons_birth;51.11667;-1.83333;british_isles
+l2383;Avening;persons_birth;51.6801;-2.16903;british_isles
+l2384;Kennington;persons_birth;51.48796;-0.10566;british_isles
+l2385;punser ANNES @) 16?a/s Harriet b Ellen b;persons_birth;;;nan
+l2386;Lowestoft;persons_birth;52.47523;1.75167;british_isles
+l2387;Bowdon;persons_birth;53.37644;-2.36532;british_isles
+l2388;VY Mint & Ibap Cross St Chapel;persons_birth;;;nan
+l2389;Throgmorton St;persons_birth;;;nan
+l2390;5th mate LADY BURGES 1803/4;persons_birth;;;nan
+l2391;Denny;persons_birth;56.0235;-3.90812;british_isles
+l2392;ur St Giles-in-the-Fields;persons_birth;;;nan
+l2393;ap Ware;persons_birth;;;nan
+l2394;Hedon;persons_birth;53.73962;-0.19655;british_isles
+l2395;Hedon-in-Holderness;persons_birth;;;nan
+l2396;went heme on GENERAL ELLIOT 1784;persons_birth;;;nan
+l2397;Suptdg Surgeon;persons_birth;;;nan
+l2398;Dailly;persons_birth;;;nan
+l2400;Member of Medical Board 1808;persons_birth;;;nan
+l2401;Pakefield;persons_birth;;;nan
+l2402;Ifield Court;persons_birth;;;nan
+l2403;widow petitioned Poplar Fund m Bombay;persons_birth;;;nan
+l2404;Noy & bop Dee & Hamer Piccadilly;persons_birth;;;nan
+l2405;Llantrissant;persons_birth;;;nan
+l2406;Hailsham;persons_birth;50.8622;0.25775;british_isles
+l2407;Bathford;persons_birth;51.4002;-2.30161;british_isles
+l2408;3rd mate HERCULEAN 1801/2;persons_birth;;;nan
+l2409;Colworth;persons_birth;;;nan
+l2410;Oving;persons_birth;;;nan
+l2411;1766;persons_birth;;;nan
+l2412;1767;persons_birth;;;nan
+l2413;Devynnock;persons_birth;;;nan
+l2414;ap St Nicholas;persons_birth;;;nan
+l2415;St Columb;persons_birth;50.43163;-4.94336;british_isles
+l2416;Alrewas;persons_birth;52.73278;-1.74968;british_isles
+l2417;Walberswick;persons_birth;;;nan
+l2418;Newcastle;persons_birth;53.30111;-6.50222;british_isles
+l2419;Sidmouth;persons_birth;50.69094;-3.2397;british_isles
+l2420;pa St John the Baptist;persons_birth;;;nan
+l2421;examined as 3rd mate DUTTON (2) 1791;persons_birth;;;nan
+l2423;Principal Managing Owner EGMONT (2) 1766/7-1772/3 m Elizabeth Webster;persons_birth;;;nan
+l2424;pa St Stephen's Walbrook;persons_birth;;;nan
+l2425;4th mate MIDDLESEX (2) 1789/9 (approved 1789;persons_birth;;;nan
+l2426;Wareham;persons_birth;50.68792;-2.11058;british_isles
+l2427;Philadelphia;persons_birth;39.95238;-75.16362;atlantic
+l2428;3rd mate MARQUIS OF WELLINGTON (1) 1812/3 Wilkinson;persons_birth;;;nan
+l2429;Langstephan;persons_birth;;;nan
+l2430;1739;persons_birth;;;nan
+l2431;Galashiels;persons_birth;55.61458;-2.80695;british_isles
+l2432;Capt CARNATIC 1785/6 (approved 1786;persons_birth;;;nan
+l2433;Verdun;persons_birth;49.15964;5.3829;atlantic
+l2434;Bishop Wearmouth;persons_birth;;;nan
+l2435;Weller;persons_birth;;;nan
+l2436;Boarhunt;persons_birth;;;nan
+l2437;lost wreck;persons_birth;;;nan
+l2438;St Pancras;persons_birth;;;nan
+l2439;Great Snoring;persons_birth;;;nan
+l2440;St James' pa;persons_birth;;;nan
+l2441;Kilconquhar;persons_birth;;;nan
+l2442;Preston;persons_birth;52.61264;-0.71437;british_isles
+l2443;ap St Paul's Covent Garden;persons_birth;;;nan
+l2444;d London;persons_birth;;;nan
+l2446;Inveresk;persons_birth;;;nan
+l2447;ap St Botolph Bishopsgate;persons_birth;;;nan
+l2448;St Petersburg;persons_birth;59.93863;30.31413;indian_ocean
+l2449;Wemyss Castle;persons_birth;;;nan
+l2450;rejoined at Bombay;persons_birth;;;nan
+l2451;Wellington;persons_birth;52.7;-2.51667;british_isles
+l2452;Ide;persons_birth;34.79965;135.81247;indian_ocean
+l2453;4th mate MARQUIS OF ROCKINGHAM (2) 1775/6 (approved 1776;persons_birth;;;nan
+l2454;England apprentice Speedwell Straits trade;persons_birth;;;nan
+l2455;surgeon UNION (4) 1810/1;persons_birth;;;nan
+l2456;ap Feathard;persons_birth;;;nan
+l2457;ap St Luke's;persons_birth;;;nan
+l2458;Shrewsbury;persons_birth;52.71009;-2.75208;british_isles
+l2459;ap St Botolph Aldgate;persons_birth;;;nan
+l2460;3rd mate AIRLY CASTLE 1797/8 (approved 1798;persons_birth;;;nan
+l2461;L Oet 196? Norwich;persons_birth;;;nan
+l2462;Alnwick;persons_birth;55.41318;-1.70563;british_isles
+l2463;1692;persons_birth;;;nan
+l2464;lb Ape ct Igy St Pauls;persons_birth;;;nan
+l2465;4th mate ROYAL CHARLOTTE 1785/6 (approved 1786;persons_birth;;;nan
+l2466;ap West Ham;persons_birth;;;nan
+l2467;3rd mate PIGOT (2) 1785/6 (approved 1786;persons_birth;;;nan
+l2468;d on board Alfred off Saugor active service China 1840-41;persons_birth;;;nan
+l2469;Asst Surgeon HM 67th Foot 1809;persons_birth;;;nan
+l2470;Horsham;persons_birth;51.06314;-0.32757;british_isles
+l2471;Ironchurch;persons_birth;;;nan
+l2472;Cupar;persons_birth;56.31876;-3.01204;british_isles
+l2473;Strichen;persons_birth;;;nan
+l2474;surgeon of Bombay Marine grab Restoration;persons_birth;;;nan
+l2475;ap Camberwell;persons_birth;;;nan
+l2476;Kent;persons_baptised;41.72482;-73.47707;atlantic
+l2477;Hants;persons_baptised;;;nan
+l2478;Pembroke;persons_baptised;51.67464;-4.91286;british_isles
+l2479;Banbury;persons_baptised;52.0632;-1.34222;british_isles
+l2480;Colchester;persons_baptised;51.88921;0.90421;british_isles
+l2481;Wakefield;persons_baptised;53.68331;-1.49768;british_isles
+l2482;Salford;persons_baptised;53.48771;-2.29042;british_isles
+l2483;Londen;persons_baptised;51.50853;-0.12574;british_isles
+l2484;Stirlingshire;persons_baptised;;;nan
+l2485;Northumberland;persons_baptised;44.56339;-71.5587;atlantic
+l2486;Surrey;persons_baptised;48.2364;-101.13349;atlantic
+l2487;Middx;persons_baptised;;;nan
+l2488;Dorset;persons_baptised;;;nan
+l2489;Devon;persons_baptised;53.36683;-113.73533;atlantic
+l2490;Great Yarmouth;persons_baptised;;;nan
+l2491;Commwvalll;persons_baptised;;;nan
+l2492;London s of Charles;persons_baptised;;;nan
+l2493;Shadwell;persons_baptised;53.8546;-1.4726;british_isles
+l2494;Suffolk;persons_baptised;36.72836;-76.58496;atlantic
+l2495;Berks;persons_baptised;;;nan
+l2496;Essex;persons_baptised;42.63204;-70.78283;atlantic
+l2497;Yorkslulse;persons_baptised;;;nan
+l2498;Sussex;persons_baptised;41.20982;-74.60766;atlantic
+l2499;Leics;persons_baptised;;;nan
+l2500;Chester;persons_baptised;53.1905;-2.89189;british_isles
+l2501;Denbigh;persons_baptised;53.18333;-3.41667;british_isles
+l2502;Bast Lothian;persons_baptised;;;nan
+l2503;Blackheath;persons_baptised;51.4647;0.0079;british_isles
+l2504;Glos;persons_baptised;;;nan
+l2505;Notts;persons_baptised;;;nan
+l2506;Westminster;persons_baptised;30.4138;-91.0876;atlantic
+l2507;Tun Sheerness;persons_baptised;;;nan
+l2508;Tower of London Chapel;persons_baptised;;;nan
+l2509;Kewl;persons_baptised;;;nan
+l2510;St Pater Pon;persons_baptised;;;nan
+l2511;Wilts;persons_baptised;;;nan
+l2512;Herefords;persons_baptised;;;nan
+l2513;Hunts;persons_baptised;;;nan
+l2514;Fife;persons_baptised;47.23927;-122.35707;atlantic
+l2515;Thanet;persons_baptised;;;nan
+l2516;Greenwich;persons_baptised;41.02649;-73.62846;atlantic
+l2517;Rochester;persons_baptised;55.2752;-2.2649;british_isles
+l2518;Stockton-on-Tees;persons_baptised;;;nan
+l2519;Somerset;persons_baptised;-41.04065;145.83055;indian_ocean
+l2520;Hythe;persons_baptised;50.86004;-1.40162;british_isles
+l2521;Seuthover;persons_baptised;;;nan
+l2522;Camberwell;persons_baptised;51.4739;-0.09381;british_isles
+l2523;Doctors' Commons;persons_baptised;;;nan
+l2524;Cheshire;persons_baptised;41.49899;-72.90066;atlantic
+l2525;York;persons_baptised;53.95763;-1.08271;british_isles
+l2526;IoW;persons_baptised;41.66113;-91.53017;atlantic
+l2527;Bermondsey;persons_baptised;;;nan
+l2528;Hull;persons_baptised;42.30204;-70.90782;atlantic
+l2529;Staffs;persons_baptised;;;nan
+l2530;Yorks;persons_baptised;;;nan
+l2531;Clos;persons_baptised;;;nan
+l2532;Hanover Sq;persons_baptised;;;nan
+l2533;Dorchester;persons_baptised;50.71667;-2.43333;british_isles
+l2534;Argyle;persons_baptised;33.12123;-97.18335;atlantic
+l2535;Survey;persons_baptised;;;nan
+l2536;Lancs;persons_baptised;;;nan
+l2537;Herts;persons_baptised;;;nan
+l2539;Srepacy;persons_baptised;;;nan
+l2540;Doncaster;persons_baptised;53.52285;-1.13116;british_isles
+l2541;Chelsea;persons_baptised;51.48755;-0.16936;british_isles
+l2542;Clerkenwell;persons_baptised;51.52438;-0.11022;british_isles
+l2543;Louden;persons_baptised;;;nan
+l2544;Worcs;persons_baptised;;;nan
+l2545;Cornwall;persons_baptised;40.2737;-76.40607;atlantic
+l2546;Montgomery;persons_baptised;41.17036;-76.87691;atlantic
+l2547;Nottingham;persons_baptised;52.9536;-1.15047;british_isles
+l2548;Hackney;persons_baptised;51.55;-0.05;british_isles
+l2549;White Row;persons_baptised;;;nan
+l2550;Deptiond;persons_baptised;;;nan
+l2551;Berwick-on-Tweed;persons_baptised;;;nan
+l2552;Fite;persons_baptised;;;nan
+l2553;Cammerthen;persons_baptised;;;nan
+l2554;Stitton. Suffolk;persons_baptised;;;nan
+l2555;Berwickshire;persons_baptised;;;nan
+l2556;Caithness;persons_baptised;;;nan
+l2557;Sneoney;persons_baptised;;;nan
+l2558;Warwicks;persons_baptised;;;nan
+l2559;Roxburgshire;persons_baptised;;;nan
+l2560;Ferefoncs;persons_baptised;;;nan
+l2561;Derbyshive;persons_baptised;;;nan
+l2562;Worcester;persons_baptised;52.18935;-2.22001;british_isles
+l2563;Gt Berkhamsted;persons_baptised;;;nan
+l2564;Rotherhithe;persons_baptised;51.5;-0.05;british_isles
+l2566;Leicester;persons_baptised;52.6386;-1.13169;british_isles
+l2567;Bow;persons_baptised;51.52609;-0.01665;british_isles
+l2568;Cambridge;persons_baptised;52.2;0.11667;british_isles
+l2569;Otley;persons_baptised;53.90553;-1.69383;british_isles
+l2570;Bormateple;persons_baptised;;;nan
+l2571;Holborn;persons_baptised;51.51753;-0.12045;british_isles
+l2572;West Ham;persons_baptised;51.53333;0.01667;british_isles
+l2573;Lincs;persons_baptised;;;nan
+l2574;Merioneth;persons_baptised;;;nan
+l2576;Phillack;persons_baptised;;;nan
+l2577;Nortel;persons_baptised;;;nan
+l2578;‘Kent;persons_baptised;;;nan
+l2579;Lanarks;persons_baptised;;;nan
+l2580;Piccadilly;persons_baptised;-30.7428;121.46418;indian_ocean
+l2581;Essex?;persons_baptised;;;nan
+l2582;Garwald;persons_baptised;;;nan
+l2583;Salop;persons_baptised;;;nan
+l2584;Poplar;persons_baptised;51.51113;-0.01565;british_isles
+l2585;Old Jewry;persons_baptised;;;nan
+l2586;Sul;persons_baptised;50.60911;10.69401;atlantic
+l2587;3rd s of John;persons_baptised;;;nan
+l2588;Dumtfries;persons_baptised;;;nan
+l2589;Glamorgan;persons_baptised;;;nan
+l2590;Northants;persons_baptised;;;nan
+l2592;co Durbem;persons_baptised;;;nan
+l2593;Montego Bay;persons_baptised;18.47116;-77.91883;atlantic
+l2594;Radnor;persons_baptised;40.04622;-75.35991;atlantic
+l2595;Fes Monpbie;persons_baptised;;;nan
+l2596;New Ross;persons_baptised;52.39667;-6.93667;british_isles
+l2597;Waltham;persons_baptised;53.51667;-0.1;british_isles
+l2598;Brecon;persons_baptised;51.94612;-3.38887;british_isles
+l2599;Chard;persons_baptised;50.8727;-2.96597;british_isles
+l2600;Penzance;persons_baptised;50.11861;-5.53715;british_isles
+l2601;Lichfield Cathedral;persons_baptised;;;nan
+l2602;Gloucs;persons_baptised;;;nan
+l2603;Hampstead;persons_baptised;39.60483;-76.84998;atlantic
+l2605;Kimg*s Lymn;persons_baptised;;;nan
+l2606;Argyll;persons_baptised;;;nan
+l2607;Newmgion;persons_baptised;;;nan
+l2608;Tain;persons_baptised;57.81204;-4.05518;british_isles
+l2609;London Wall;persons_baptised;;;nan
+l2610;Haw;persons_baptised;51.80169;-4.96914;british_isles
+l2611;Ayshire;persons_baptised;;;nan
+l2612;East Lothian;persons_baptised;;;nan
+l2613;Wigtown;persons_baptised;;;nan
+l2614;Hawkshead;persons_baptised;;;nan
+l2615;Kincardine;persons_baptised;56.06945;-3.71964;british_isles
+l2616;Winchester;persons_baptised;51.06513;-1.3187;british_isles
+l2617;Guildford;persons_baptised;51.23536;-0.57427;british_isles
+l2618;Stroud;persons_baptised;51.75;-2.2;british_isles
+l2619;Derset;persons_baptised;;;nan
+l2620;co Antrim;persons_baptised;;;nan
+l2621;Jam Kinnonle;persons_baptised;;;nan
+l2622;Oxon;persons_baptised;38.80345;-76.9897;atlantic
+l2623;Brighton;persons_baptised;50.82838;-0.13947;british_isles
+l2624;Selkirk;persons_baptised;55.54738;-2.83911;british_isles
+l2625;Roxburghs;persons_baptised;;;nan
+l2626;Glandwr;persons_baptised;51.92833;-4.63333;british_isles
+l2627;Thirsk;persons_baptised;54.23298;-1.34411;british_isles
+l2628;Kendal;persons_baptised;54.32681;-2.74757;british_isles
+l2629;Cartmel;persons_baptised;;;nan
+l2630;Flints;persons_baptised;;;nan
+l2631;Westmorland;persons_baptised;33.03727;-115.62138;atlantic
+l2632;Evesham;persons_baptised;52.09237;-1.94887;british_isles
+l2633;Taunton;persons_baptised;51.01494;-3.10293;british_isles
+l2634;co Cork;persons_baptised;;;nan
+l2635;Suftell;persons_baptised;;;nan
+l2636;Sandwich;persons_baptised;51.27223;1.33776;british_isles
+l2637;Cockermouth;persons_baptised;54.66209;-3.36086;british_isles
+l2638;Long Buckley;persons_baptised;;;nan
+l2639;Huntingdon;persons_baptised;52.33049;-0.18651;british_isles
