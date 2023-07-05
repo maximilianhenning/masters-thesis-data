@@ -162,6 +162,12 @@ Madagascar;calls;-18.8707;46.4362
 Guinea;calls;10.0401;-14.0779
 Lizard;calls;49.9588;-5.2076
 Wexford;persons_birth;52.3278;-6.4949
+Goa;calls;15.50;73.83
+Bonavista;calls;16.6;-22.48
+Sydney;calls;-33.5204;151.12236
+Isle of Wight;calls;50.4;-1.16
+Eddystone;calls;50.108;-4.159
+Bahia;calls;-12.977;-38.5004
 Hugh;calls;;
 voyages to Sumatra 1624, Lagundy 1625, Coromandel;calls;;
 27, Sumatra &;calls;;
@@ -264,7 +270,7 @@ captured by the Dutch and taken to Japan;calls;;
 eventually handed back, but abandoned in;calls;;
 Downs captured French ship Baronette;calls;;
 off Point de Galle;calls;;
-Stokes Bay;calls;;
+Stokes Bay;calls;50.779;-1.164
 Arp Cape;calls;;
 Bantal;calls;;
 left Bengal;calls;;
@@ -643,7 +649,7 @@ BL: Sloane Ms Journal;calls;;
 1682, Thomas Crompton Cape;calls;;
 Botun;calls;;
 voyage ended summer;calls;;
-Dhufar;calls;;
+Dhufar;calls;17.011;54.0523
 landed Sir Robert Sherleymouth of Indus;calls;;
 Downs late;calls;;
 broken up;calls;;
@@ -651,7 +657,7 @@ James Fort, Gambia;calls;;
 Bay of Ayoffe;calls;;
 James Fort;calls;;
 voyage ended To look for survivors of Duke of Cumberland, lost in Bay of Ayoffe;calls;;
-Taiwan;calls;;
+Taiwan;calls;25.04;121.31
 Pescadores;calls;;
 captured by Dutch in Straits of Banca;calls;;
 Anjengo St Helena;calls;;
@@ -1520,7 +1526,7 @@ Melton Constable;persons_birth;;
 3rd mate RAVENSWORTH 1785/6 (approved 1786;persons_birth;;
 3rd mate DUKE OF GRAFTON 1775/6;persons_birth;;
 Stogursey;persons_birth;;
-France;persons_birth;;
+France;persons_birth;47;2
 Saxthorpe;persons_birth;;
 1765/6 b England;persons_birth;;
 4th mate AIRLEY CASTLE 1787/8 (approved 1788;persons_birth;;
@@ -1582,7 +1588,7 @@ d St Helena;persons_birth;;
 apptd Bengal Asst Surgeon (in absentia);persons_birth;;
 Newbyth;persons_birth;;
 Walcot;persons_birth;;
-Leadhills;persons_birth;;
+Leadhills;persons_birth;55.4162;-3.7629
 retired active service Nepal War 1815-16;persons_birth;;
 ind mate COMDSTRIBART 1811/2 m St Stephen's Coleman Street;persons_birth;;
 Kirby Stephen;persons_birth;;
@@ -1594,7 +1600,7 @@ St Saviour's pa;persons_birth;;
 4th mate WARREN HASTINGS (1) 1784/5 (approved 1785;persons_birth;;
 ap St Margaret Moses;persons_birth;;
 Shadbrook;persons_birth;;
-Isle of Skye;persons_birth;;
+Isle of Skye;persons_birth;57.307;-6.23
 Cupar Angus;persons_birth;;
 Hickling;persons_birth;;
 it England;persons_birth;;
@@ -1660,7 +1666,7 @@ Capt SIR WILLIAM PULTENEY 1804/5;persons_birth;;
 retired;persons_birth;;
 Beb Dumdayell;persons_birth;;
 Monthrath;persons_birth;;
-Binnington;persons_birth;;
+Binnington;persons_birth;54.1981;-0.4459
 Berkeley Sq;persons_birth;;
 Cockpen;persons_birth;;
 4th mate ROYAL BISHOP 1785/6 (approved 1786;persons_birth;;
@@ -1699,7 +1705,7 @@ Tneland;persons_birth;;
 Aberdeenshire;persons_birth;;
 Brettenham;persons_birth;;
 Gerloch;persons_birth;;
-Sicily;persons_birth;;
+Sicily;persons_birth;37.3;14
 approved as 3rd mate ROCKINGHAM (1) 1786;persons_birth;;
 m Llandygwydd;persons_birth;;
 im Rnglamd;persons_birth;;
@@ -1712,7 +1718,7 @@ lost overboard m St Dunstan's;persons_birth;;
 Ryton-upon-Dunsmore;persons_birth;;
 St Mary's pa;persons_birth;;
 1st mate LORD WALSINGHAM 1786/7 (approved 1787;persons_birth;;
-Selborne;persons_birth;;
+Selborne;persons_birth;51.097;0.942
 St Altbans;persons_birth;;
 Capt ST HELENA b St Helen's pa;persons_birth;;
 surgeon HUDDART 1814/5 b England;persons_birth;;
@@ -1733,7 +1739,7 @@ St Stephen's Walbrook;persons_birth;;
 appointed Asst Bombay Hospital;persons_birth;;
 Logie;persons_birth;;
 midshipman MARQUIS OF ROCKINGHAM (2) 1775/6;persons_birth;;
-Sweden;persons_birth;;
+Sweden;persons_birth;63;16
 Dores;persons_birth;;
 seaman & 1st mate Royal Clubb and Adriatic Greenland and Newfoundland trade 7y 9m;persons_birth;;
 Love Lane;persons_birth;;
@@ -1758,12 +1764,12 @@ Dominica;persons_birth;;
 St Peter's Close;persons_birth;;
 3rd mate VALENTINE (3) 1793/4 (approved 1794;persons_birth;;
 1st Lieutenant Achilles cutter (3m) and Job cutter (2m);persons_birth;;
-Isle of Man;persons_birth;;
+Isle of Man;persons_birth;54.1406;-4.313
 Wootton Hall;persons_birth;;
 Blunderston;persons_birth;;
 Sotheniom;persons_birth;;
 Msg Camengate;persons_birth;;
-Canongate;persons_birth;;
+Canongate;persons_birth;55.951;-3.1799
 ‘bap Fores;persons_birth;;
 Foggymill;persons_birth;;
 ur;persons_birth;;
@@ -1789,7 +1795,7 @@ Datsham;persons_birth;;
 Caldecote Hall;persons_birth;;
 St Andrew's;persons_birth;;
 Nb toate POCOCIS 1258/9;persons_birth;;
-Westdown;persons_birth;;
+Westdown;persons_birth;50.6121;-4.7443
 went home 1757;persons_birth;;
 4th mate HUGH INGLIS 1815/6 (approved 1816;persons_birth;;
 reinstated;persons_birth;;
@@ -1957,7 +1963,7 @@ Heckfield;persons_birth;;
 4th mate WALPOLE (4) 1782/3 (approved 1783;persons_birth;;
 3rd mate PONSBORNE (2) 1779/80 (approved 1780;persons_birth;;
 Woodside Cottage nr Windsor;persons_birth;;
-Witton-le-Wear;persons_birth;;
+Witton-le-Wear;persons_birth;54.6767;-1.773
 Lassuden;persons_birth;;
 1st mate BENGAL (2) 1807/8;persons_birth;;
 Ackleby;persons_birth;;
@@ -2000,12 +2006,12 @@ Tannadice;persons_birth;;
 1772;persons_birth;;
 d active service Second Maratha War 1802-03;persons_birth;;
 Sec monte DUNNE OF GIRAITION 1775/6 (approved 1778;persons_birth;;
-Packington;persons_birth;;
+Packington;persons_birth;52.728;-1.466
 Burlingham St Andrew;persons_birth;;
 approved as 1st mate ROYAL CHARLOTTE (2) 1786;persons_birth;;
 Garrock;persons_birth;;
 Woodford Bridge;persons_birth;;
-Fifeshire;persons_birth;;
+Fifeshire;persons_birth;56.15;-3.12
 4th mate EARL CORNWALLIS 1783/4 (approved 1784;persons_birth;;
 d m  Wolverhampton;persons_birth;;
 3rd mate LORD WALSINGHAM 1786/7 (approved 1787;persons_birth;;
@@ -2028,12 +2034,12 @@ Throgmorton St;persons_birth;;
 5th mate LADY BURGES 1803/4;persons_birth;;
 ur St Giles-in-the-Fields;persons_birth;;
 ap Ware;persons_birth;;
-Hedon-in-Holderness;persons_birth;;
+Hedon-in-Holderness;persons_birth;53.7395;-0.1948
 went heme on GENERAL ELLIOT 1784;persons_birth;;
 Suptdg Surgeon;persons_birth;;
-Dailly;persons_birth;;
+Dailly;persons_birth;55.276;-4.724
 Member of Medical Board 1808;persons_birth;;
-Pakefield;persons_birth;;
+Pakefield;persons_birth;52.451;1.728
 Ifield Court;persons_birth;;
 widow petitioned Poplar Fund m Bombay;persons_birth;;
 Noy & bop Dee & Hamer Piccadilly;persons_birth;;
@@ -2125,11 +2131,11 @@ Louden;persons_baptised;;
 Worcs;persons_baptised;;
 White Row;persons_baptised;;
 Deptiond;persons_baptised;;
-Berwick-on-Tweed;persons_baptised;;
+Berwick-on-Tweed;persons_baptised;55.461;-2.0009
 Fite;persons_baptised;;
 Cammerthen;persons_baptised;;
 Stitton. Suffolk;persons_baptised;;
-Berwickshire;persons_baptised;;
+Berwickshire;persons_baptised;55.45;-2.3
 Caithness;persons_baptised;;
 Sneoney;persons_baptised;;
 Warwicks;persons_baptised;;
@@ -2161,8 +2167,8 @@ Argyll;persons_baptised;;
 Newmgion;persons_baptised;;
 London Wall;persons_baptised;;
 Ayshire;persons_baptised;;
-East Lothian;persons_baptised;;
-Wigtown;persons_baptised;;
+East Lothian;persons_baptised;55.55;-2.45
+Wigtown;persons_baptised;54.87;-4.439
 Hawkshead;persons_baptised;;
 Derset;persons_baptised;;
 co Antrim;persons_baptised;;
