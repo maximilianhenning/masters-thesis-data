@@ -10,11 +10,13 @@ pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tessera
 
 # Voyages
 
+# Line cleaner function
 def cleaner(lines):
     lines_cleaned = []
+    # Iterate through lines
     for line in lines:
+        # Clean lines
         line = line.strip()
-        # Clean characters: dot to line etc.
         line = line.strip(">")
         line = line.strip("<")
         line = line.strip("^")
@@ -23,7 +25,7 @@ def cleaner(lines):
         line = line.replace("\t", " ")
         line = line.replace("â€™", "\'")
         line = line.replace("â€˜", "\'")
-        # Line break before L/MAR
+        # Add line breaks before L/MAR, which is always at the start of lines
         if "L/MAR" in line[5:]:
             line_split = line.split("L/MAR")
             # If there was something in front of L/MAR, add that back in
@@ -32,12 +34,12 @@ def cleaner(lines):
             # Add in L/MAR line
             for line_broken in line_split[1:]:
                 lines_cleaned.append("L/MAR" + line_broken)
-        # Line break before Capt
+        # Add line break before Capt
         elif "Capt" in line[5:]:
             line_split = line.split("Capt")
             lines_cleaned.append(line_split[0])
             lines_cleaned.append("Capt" + line_split[-1])
-        # Line break before voyage ID
+        # Add line break before voyage ID
         elif "1 1" in line[5:]:
             line_split = line.split("1 1")
             line_split[1] = "1 1" + line_split[1]
@@ -49,9 +51,9 @@ def cleaner(lines):
             line_split[1] = "1 From" + line_split[1]
             lines_cleaned.append(line_split[0])
             lines_cleaned.append(line_split[1])
-        # Remove XXXX see XXXX lines
+        # Remove lines which refer to another ship entry
         elif " see " in line:
-            # Check if everything but XXXX and XXXX are ship names
+            # Check if everything but "see" is ship names
             if not line.replace(" see ", "").isupper():
                 lines_cleaned.append(line)                
         # Finally add working lines with content
@@ -59,14 +61,17 @@ def cleaner(lines):
             lines_cleaned.append(line)
     return lines_cleaned
 
+# Get files to be cleaned
 voyage_file_list = glob(path.join(dir, "voyages_text/*"))
 overall_list = []
+# Apply function
 for file in voyage_file_list:
     file_title = file.split("\\")[-1].split(".")[0]
     with open(file, "r") as input:
         text = input.read()
     lines = text.split("\n")
     lines_cleaned = cleaner(lines)
+    # Monitoring
     overall_list += lines_cleaned
     line_counter = 0
     for line in lines:
@@ -74,21 +79,25 @@ for file in voyage_file_list:
     line_cleaned_counter = 0
     for line in lines_cleaned:
         line_cleaned_counter += 1
+    # Save files
     print(file_title + "\nOriginal lines:", str(line_counter) + "\nCleaned lines:", str(line_cleaned_counter))
     if not path.exists(path.join(dir, "voyages_clean")):
         makedirs(path.join(dir, "voyages_clean"))
     with open(path.join(dir, "voyages_clean", file_title + ".txt"), "w") as output:
         for line in lines_cleaned:
             output.write(line + "\n")
+# Save combined file for debugging
 with open(path.join(dir, "combined/voyages.txt"), "w") as output:
     for line in overall_list:
         output.write(line + "\n")
 
 # Officers
 
+# Officer line cleaner function
 def officer_clean(file_ocr):
     lines = file_ocr.split("\n")
     file_lines = []
+    # Iterate through lines
     for line in lines:
         # Clean line
         line = re.sub(r"\||\[|\]|\{|\}»", "", line)
@@ -108,10 +117,12 @@ def officer_clean(file_ocr):
             file_lines.append(line)
     return file_lines
 
+# Glob files to be OCR's
 officer_folder_list = glob(path.join(dir, "officers_png/*"))
 overall_list = []
 if not path.exists(path.join(dir, "officers_text")):
     makedirs(path.join(dir, "officers_text"))
+# OCR files
 for folder in officer_folder_list: 
     folder_title = folder.split("\\")[-1].split(".")[0]
     if not path.exists(path.join(dir, "officers_text", folder_title + ".txt")):
@@ -123,7 +134,9 @@ for folder in officer_folder_list:
         with open(path.join(dir, "officers_text", folder_title + ".txt"), "w") as output:
             for char in folder_ocr:
                 output.write(char)
+    # Monitoring
     print(folder_title + ": OCR done")
+# Clean files
 ocr_file_list = glob(path.join(dir, "officers_text/*"))
 if not path.exists(path.join(dir, "officers_clean")):
     makedirs(path.join(dir, "officers_clean"))
@@ -133,10 +146,13 @@ for file in ocr_file_list:
         file_content = input.read()
     file_lines = officer_clean(file_content)
     overall_list += file_lines
+    # Save files
     with open(path.join(dir, "officers_clean", file_title + ".txt"), "w") as output:
         for line in file_lines:
             output.write(line + "\n")
+    # Monitoring
     print(file_title + ": Cleaning done")
+# Save combined file for debugging
 with open(path.join(dir, "combined/persons.txt"), "w") as output:
     for line in overall_list:
         output.write(line + "\n")

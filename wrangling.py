@@ -10,6 +10,7 @@ dir = path.dirname(__file__)
 # Classify lines
 def line_classify(lines):
     lines_classed = []
+    # Iterate through lines
     for line in lines:
         line_text = re.sub(r"\s*\(\d*\)", "", line)
         if line_text.isupper() and not "/" in line:
@@ -39,6 +40,7 @@ def line_classify(lines):
 # Group lines into ship entries
 def ship_creator(lines_classed):
     ships = {}
+    # Iterate through lines
     for line in lines_classed:
         # If line is a ship's name, add to ships dict as key
         if line[1] == "ship":
@@ -64,6 +66,7 @@ def ship_creator(lines_classed):
                 voyage_time = voyage_info.split(" ")[0]
                 voyage_destination = voyage_info.split(" ")[1:]
                 voyage_destination = " ".join(voyage_destination)
+            # Reconstruct start and end year
             if "/" in voyage_time:
                 voyage_start = voyage_time[:4]
                 voyage_end = voyage_time.split("/")[1]
@@ -104,7 +107,7 @@ for file in clean_file_list:
     # Create ships from lines
     df_ships = ship_creator(lines_classed)
     df_ships = df_ships.reset_index().rename(columns = {"index": "name"})
-    # Save to CSV
+    # Save files
     if not path.exists(path.join(dir, "voyages_partial")):
         makedirs(path.join(dir, "voyages_partial"))
     df_ships.to_csv(path.join(dir, "voyages_partial", file + ".csv"), index = False, sep = ";")
@@ -131,7 +134,9 @@ df_combined.to_csv(path.join(dir, "combined/voyages.csv"), index = False, sep = 
 # Classify lines
 def officer_classify(lines):
     lines_classed = []
+    # Iterate through lines
     for line in lines:
+        # Classify lines
         if "approved" in line or "aged" in line or ";" in line:
             line_class = "info"
         elif re.search(r"\([^()]{4,}\)", line):
