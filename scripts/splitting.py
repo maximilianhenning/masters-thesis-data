@@ -92,6 +92,7 @@ ships_expand_df.rename(columns = {0: "tons",
                                   11: "built_year", 
                                   12: "built_at"}, inplace = True)
 ships_df = pd.concat([ships_df, ships_expand_df], axis = 1)
+ships_df.rename(columns = {"info": "raw"}, inplace = True)
 print("Split ships")
 
 # Voyages table
@@ -320,6 +321,7 @@ def person_info_expander(info):
 persons_df = persons_df_combined
 persons_df[["last_name", "first_name", "birth_date", "death_date"]] = persons_df["person"].apply(person_line_expander)
 persons_df[["birth_location", "baptised_parish", "baptised_city", "mother_name", "mother_origin", "father_name", "father_job"]] = persons_df["info"].apply(person_info_expander)
+persons_df.rename(columns = {"info": "raw"}, inplace = True)
 print("Split persons")
 
 # Jobs table
@@ -355,9 +357,9 @@ job_list = ["passenger", "apprentice", "seaman", "boatswain", "gunner's mate" "g
 # Iterate through persons rows
 for row in persons_df.iterrows():
     person_id = row[1]["person_id"]
-    info_tokens = str(row[1]["info"]).split(";")
+    raw_tokens = str(row[1]["raw"]).split(";")
     job_counter = 1
-    for token in info_tokens:
+    for token in raw_tokens:
         for job in job_list:
             job_string = job + " "
             if job_string in token.lower():
@@ -636,9 +638,9 @@ def region_finder(row):
     return "nan"
 locations_complete_df["region"] = locations_complete_df.apply(region_finder, axis = 1)
 
-# Some datasets don't need any changes
+# Drop raw columns in voyages
 
-voyages_complete_df = voyages_df
+voyages_complete_df = voyages_df.drop(columns = ["raw"])
 
 # Save datasets
 
