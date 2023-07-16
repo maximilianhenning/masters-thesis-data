@@ -1,0 +1,6 @@
+location_id;count;location;category;lat;lon;region
+l1671;271;England;people_birth;52.4387;-1.3478;british_isles
+l1664;107;Scotland;people_birth;56.6549;-4.3368;british_isles
+l931;26;Ireland;calls;53.2658;-7.3011;british_isles
+l1934;8;Wales;people_birth;52.3965;-3.7382;british_isles
+l1873;3;America;persons_birth;51.43667;5.97917;atlantic
