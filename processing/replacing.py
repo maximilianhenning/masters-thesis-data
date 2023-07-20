@@ -9,8 +9,8 @@ for file in file_list:
     file = file.split("\\")[-1].split(".")[0]
     with open(path.join(dir, "voyages_text", file + ".txt"), "r") as input:
         string = input.read()
-    str_to_replace = " LSaugor "
-    str_new = " Saugor "
+    str_to_replace = " Starits of Sunda "
+    str_new = " Straits of Sunda "
     occurences_list = re.findall(str_to_replace, string)
     occurences += len(occurences_list)
     string = string.replace(str_to_replace, str_new)

@@ -92,7 +92,7 @@ Downs 11 Sep 1681 - Hugli 14 Nov 1683 - Balasore - Madras 21 Jan 1684 - 8 Apr St
 2 1684/5 Surat
 NMM. JOD/4 Narrative Dec 1684-Jul 1687, Barlow
 Capt Thomas Rawlings
-Downs 12 Dec 1684 - Cape Verde Islands - Tristan da Cunha - 22 Jun 1685 Karwar - Aug Goa - Bombay - 2 Sep Swally - Calicut - Tellicherry - Swally 12 Jan 1686 - Tellicherry - Bandar Abbas - Swally 9 Jan 1687 - Bombay - Tellicherry - Calicut 6 Feb - St Helena - Ascension - 28 Jul Downs
+Downs 12 Dec 1684 - Cape Verde - Tristan da Cunha - 22 Jun 1685 Karwar - Aug Goa - Bombay - 2 Sep Swally - Calicut - Tellicherry - Swally 12 Jan 1686 - Tellicherry - Bandar Abbas - Swally 9 Jan 1687 - Bombay - Tellicherry - Calicut 6 Feb - St Helena - Ascension - 28 Jul Downs
 See Barlow's Journal, ed Basil Lubbock (London, 1934) vol 2 pp.361-85
 KENT (2)
 Rated at 350 tons, 70 crew, 26/30 guns
@@ -130,7 +130,7 @@ L/MAM/B/317E Journal 14 Nov 1749-12 Jul 1752, George Willson, Second Mate
 L/MAR/B/317P(1) Ledger
 L/MAR/B/317P(2) Pay Book
 Capt William Robson
-Downs 1 Mar 1750 - 24 Jul Johanna -1 Sep Fort St David - 7 Oct Culpee - 21 Feb 1751 Colombo - 6 Mar Calicut - 28 Mar Tellicheny - 8 May Bombay - 20 Oct Calcutta -14 Dec Kedgeree - 8 Apr 1752 St Helena -17 Jun Downs
+Downs 1 Mar 1750 - 24 Jul Johanna -1 Sep Fort St David - 7 Oct Culpee - 21 Feb 1751 Colombo - 6 Mar Calicut - 28 Mar Tellicherry - 8 May Bombay - 20 Oct Calcutta -14 Dec Kedgeree - 8 Apr 1752 St Helena -17 Jun Downs
 4 1753/4 Madras, Bengal and China
 L/MAR/B/317F Journal 21 Jan 1754-8 Jul 1756
 L/MAR/B/317G Deck Log 21 Jan 1754-16 Aug 1756
@@ -145,13 +145,13 @@ L/MAR/B/317H Journal 20 Mar 1764-20 Oct 1766
 L/MAR/B/317R(1) Ledger
 L/MAR/B/317R(2) Pay Book
 Capt John Milles
-Portsmouth 4 Jun 1764 - 7 Oct Rio de Janeiro -19 Dec Cape -11 Apr 1765 Madras - 5 May Kedgeree - 23 Dec Ingeli -11 Jun 1766 St Helena -13 Sep Downs
+Portsmouth 4 Jun 1764 - 7 Oct Rio de Janeiro -19 Dec Cape -11 Apr 1765 Madras - 5 May Kedgeree - 23 Dec Hugli -11 Jun 1766 St Helena -13 Sep Downs
 2 1767/8 Madras and Bengal
 L/MAR/B/317-I Journal 7 Oct 1767-25 Jun 1769
 L/MAR/B/317S(1) Ledger
 L/MAR/B/317S(2) Pay Book
 Capt John Milles
-Downs 20 Dec 1767 - 12 Jan 1768 Madeira -15 May Johanna - 20 Jun Madras - 9 Jul Culpee - 5 Nov Ingeli - 7 Feb 1769 Cape - 9 Mar St Helena - 28 May Downs
+Downs 20 Dec 1767 - 12 Jan 1768 Madeira -15 May Johanna - 20 Jun Madras - 9 Jul Culpee - 5 Nov Hugli - 7 Feb 1769 Cape - 9 Mar St Helena - 28 May Downs
 3 1769/70 China
 L/MAR/B/317J Journal 13 Dec 1769-24 Aug 1771
 L/MAR/B/317T(1) Ledger
@@ -171,7 +171,7 @@ L/MAR/B/41A-B Journal 24 Aug 1781-22 Jun 1785, Edward Williamson, Second Mate
 L/MAR/B/41J(1) Ledger
 L/MAR/B/41 J(2) Pay Book
 Capt Peter Stoakes
-Portsmouth 6 Feb 1782 - 29 Apr Rio de Janeiro - 6 Sep Bombay -19 Oct Madras - 9 Dec Diamond Harbour -15 Jan 1783 Kedgeree - 21 May Ingeli -13 Sep Madras -19 Nov Batavia - 20 Feb 1784 Whampoa - 7 Apr Second Bar-31 Jul Great Nanka - 29 Aug Mew Bay -12 Nov St Helena - 7 Apr 1785 Kinsale -18 May Downs
+Portsmouth 6 Feb 1782 - 29 Apr Rio de Janeiro - 6 Sep Bombay -19 Oct Madras - 9 Dec Diamond Harbour -15 Jan 1783 Kedgeree - 21 May Hugli -13 Sep Madras -19 Nov Batavia - 20 Feb 1784 Whampoa - 7 Apr Second Bar-31 Jul Great Nanka - 29 Aug Mew Bay -12 Nov St Helena - 7 Apr 1785 Kinsale -18 May Downs
 2 1785/6 St Helena and Benkulen
 L/MAR/B/41C Journal 18 Oct 1785-20 Jul 1787
 L/MAR/B/41K(1) Ledger
@@ -235,7 +235,7 @@ Rated at 450/460 tons, 90/92 crew, 30 guns
 L/MAR/B/402A Journal 26 Jan 1716-3 Jul 1717
 L/MAR/B/402L Ledger
 Capt Samuel Lewis
-Downs 23 Mar 1716 -15 Apr Sao Tiago -14 Aug Madras - 23 Sep Rogues River - 8 Dec Madras - 21 Mar 1717 Cape - 22 Apr St Helena - 5 May Acension - 3 Jul Erith
+Downs 23 Mar 1716 -15 Apr Sao Tiago -14 Aug Madras - 23 Sep Rogues River - 8 Dec Madras - 21 Mar 1717 Cape - 22 Apr St Helena - 5 May Ascension - 3 Jul Erith
 2 1717/8 Madras and Bengal
 L/MAR/B/402B Journal 8 Nov 1717-24 Mar 1720
 L/MAR/B/402M(1) Ledger
@@ -371,7 +371,7 @@ L/MAR/B/635F Journal 24 Nov 1741-12 Nov 1742, Joseph Phillips, Chief Mate
 L/MAR/B/635N(1) Ledger
 L/MAR/B/635N(2) Pay Book
 Capt James Sanders
-Portsmouth 20 Feb 1741 -19 Jul Madras - 9 Sep Rogues River - 21 Nov Ingeli -12 Jan 1742 Madras - 13 Apr Cape - 26 May St Helena -19 Sep Downs
+Portsmouth 20 Feb 1741 -19 Jul Madras - 9 Sep Rogues River - 21 Nov Hugli -12 Jan 1742 Madras - 13 Apr Cape - 26 May St Helena -19 Sep Downs
 4 1743/4 Bombay
 L/MAR/B/635G Journal 20 Jan 1744-17 Feb 1746
 L/MAR/B/635-O(l) Ledger

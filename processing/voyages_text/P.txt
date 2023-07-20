@@ -37,7 +37,7 @@ Capt John Hall
 Downs Mar 1631 - Bantam 28 Dec - 4 Mar 1632 Cape -1 Apr St Helena - 30 Jun Downs
     4 1632/3	Surat and Bantam
 Capt Richard Allnutt
-Downs 10 Apr 1633 - 22 Jul St Augustine’s Bay - 12 Aug Johanna -10 Sep Jask - 21 Sep Bandar Abbas - 5 Nov Surat Apr 1634 - Mozambique Chanel - Surat - Jan 1635 Goa - Bantam -
+Downs 10 Apr 1633 - 22 Jul St Augustine’s Bay - 12 Aug Johanna -10 Sep Jask - 21 Sep Bandar Abbas - 5 Nov Surat Apr 1634 - Mozambique Channel - Surat - Jan 1635 Goa - Bantam -
 PANTHER
 Rated at 350 tons, 70 crew, 30 guns
     1 1699/1700 Borneo (New Company)
@@ -118,7 +118,7 @@ L/MAM/A/X Journal kept on the Trade’s Increase and Peppercorn by Thomas Love 4
 Capt Nicholas Downton/Sir Henry Middleton
 Downs 1 Apr 1610 - Jul Cape - 25 Oct Socotra - 7 Nov Aden - Mokha 19 Jun 1611 - 26 Sep Surat 9 Feb 1612 - blockade off Aden -19 Oct Tiku - Bantam 8 Feb 1613 -13 Nov Downs
     2 1614/5 Surat and Bantam Capt Christopher Harris
-Downs 23 Feb 1615 - 5 Jun Cape - 22 Jul Moheli - 24 Aug Socotra -18 Sep Surat 19 Feb 1616 - 25 Apr Acheh - Jul Tiku - Bantam - Starits of Sunda 28 Feb 1617 -16 May Cape - 25 Aug Plymouth
+Downs 23 Feb 1615 - 5 Jun Cape - 22 Jul Moheli - 24 Aug Socotra -18 Sep Surat 19 Feb 1616 - 25 Apr Acheh - Jul Tiku - Bantam - Straits of Sunda 28 Feb 1617 -16 May Cape - 25 Aug Plymouth
     3 1617/8 Bantam 
 Master Matthew Morton
 Downs Mar 1618 -19 Nov Bantam - Jul 1619 Masulipatam - Oct 1620 Batavia - joined Anglo-Dutch Fleet of Defence based in Japan 1621-22 - laid up in Java 1623 as a careening hulk
@@ -499,7 +499,7 @@ Built by Wells, launched 1760, 3 decks, 3in bottom, 663 tons Principal Managing 
 L/MAR/B/567A	Journal 11	Nov 1760-24 Jul 1762
 L/MAR/B/567E(1) Ledger L/MAR/B/567E(2) Pay Book
 Capt James Ward
-Portsmouth 30 Mar 1761 - 29 Jun Mozamibique - 6 Aug Vizagapatam - 17 Aug Hugli - 31 Aug Culpee - 4 Dec Hugli - 26 Mar 1762 St Helena - 4 Jun Leith - 27 Jun Downs
+Portsmouth 30 Mar 1761 - 29 Jun Mozambique - 6 Aug Vizagapatam - 17 Aug Hugli - 31 Aug Culpee - 4 Dec Hugli - 26 Mar 1762 St Helena - 4 Jun Leith - 27 Jun Downs
     2 1762/3	Madras
 L/MAR/B/567B	Journal 25	Sep 1762-2 Jun 1764
 L/MAR/B/567F(1)	Ledger
@@ -567,7 +567,7 @@ L/MAR/B/462-O(1) Ledger
 L/MAR/B/462-O(2) Pay Book 
 L/MAR/B/462-O(3) Imprest Book 
 L/MAR/B/462-O(4) Absence Book
-Torbay 3 Apr 1780 - 6 Jun Trinidale - 3 Sep Madras - 22 Sep Masulipatam -11 Oct Madras - 27 Nov Tellicherry - 4 Jan 1781 Mahe - 13 Jan Tellicherry -16 Mar Goa - 7 Apr Bombay - 5 Aug Madras - 1 Oct Whampoa -11 Jan 1782 Second Bar - 15 Jul St Helena - 24 Oct Downs
+Torbay 3 Apr 1780 - 6 Jun Trinidade - 3 Sep Madras - 22 Sep Masulipatam -11 Oct Madras - 27 Nov Tellicherry - 4 Jan 1781 Mahe - 13 Jan Tellicherry -16 Mar Goa - 7 Apr Bombay - 5 Aug Madras - 1 Oct Whampoa -11 Jan 1782 Second Bar - 15 Jul St Helena - 24 Oct Downs
     2 1783/4 Madras and China
 L/MAR/B/462F	Journal 26 Sep 1783-6 Jul	1785
 L/MAR/B/462P(1)	Ledger

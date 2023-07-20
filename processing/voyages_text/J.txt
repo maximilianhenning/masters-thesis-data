@@ -123,7 +123,7 @@ L/MAR/B/299A	Journal 24 Jan	1803-22 Jun	1807
 L/MAR/B/299B(1)	Ledger
 L/MAIR/B/299B(2)	Pay Book
 Capt John Cameron
-Portsmouth 10 Aug 1803 - 14 Aug Cork - 29 Sep Madeira - 10 Nov St Salvadorc - 4 Jan 1806 Cape - 17 Apr Madras - 21 Jun Diamond Harbour - 4 Sep Saugor - 9 Oct Madras - 30 Dec Cape - 23 Jan 1807 St Helena - 32 Apr Downs
+Portsmouth 10 Aug 1803 - 14 Aug Cork - 29 Sep Madeira - 10 Nov St Salvadore - 4 Jan 1806 Cape - 17 Apr Madras - 21 Jun Diamond Harbour - 4 Sep Saugor - 9 Oct Madras - 30 Dec Cape - 23 Jan 1807 St Helena - 32 Apr Downs
 2	1807/8	Ceylon and Bengal
 L/MAR/B/299C(1)	Imprest Book
 L/MAR/B/299C(2)	Absence Book

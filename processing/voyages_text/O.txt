@@ -135,7 +135,7 @@ L/MAR/B/164C	Deck Log 23 Nov 1740-21 Oct 1743
 L/MAR/B/164D Journal 23 Nov 1740-21 Oct 1743, Ralph Congreve, Chief Mate L/MAR/B/164L(1)	Ledger
 L/MAM/B/164L(2)	Pay Book
 Capt John Balchen
-Downs 27 Jan 1741 - Portsmouth 20 Feb -1 Jun St Augustine’s Bay - 8 Sep Bomay - 3 Nov Goa - 21 Dec Mangalore - 8 Jan 1742 Bombay - 5 Feb Tellicherry -19 Mar Bombay - 21 Apr Tellicherry - 15 Jun Malacca - 17 Jul Whampoa -19 Dec Second Bar - 6 Apr 1743 Cape - 8 May St Helena - 7 Sep Downs
+Downs 27 Jan 1741 - Portsmouth 20 Feb -1 Jun St Augustine’s Bay - 8 Sep Bombay - 3 Nov Goa - 21 Dec Mangalore - 8 Jan 1742 Bombay - 5 Feb Tellicherry -19 Mar Bombay - 21 Apr Tellicherry - 15 Jun Malacca - 17 Jul Whampoa -19 Dec Second Bar - 6 Apr 1743 Cape - 8 May St Helena - 7 Sep Downs
     4 Borneo and China
 L/MAR/B/164E Journal 22 Apr 1745-16 Aug 1748, Thomas Hinde, Chief Mate L/MAR/B/164M(1)	Ledger
 L/MAR/B/164M(2)	Pay Book
@@ -386,5 +386,5 @@ L/MAM/B/588D	Journal 4 Oct 1758-20 Nov 1761
 L/MAR/B/588H(1)	Ledger
 L/MAR/B/588H(2)	Pay Book
 Capt William Webber jun
-Portsmouth 15 Feb 1759 - 10 Jun Mozamibique -15 Jul Trincomalee - 29 Jun Negapatam - 25 Aug Madras - 21 Sep Masulipatam -12 Oct Madras - 26 Nov Culpee - 30 Jan 1760 Hugli - 26 Mar Madras -18 Jul Manila - 27 Sep Whampoa - 26 Dec Second Bar - 6 Jun 1761 St Helena - 20 Sep Downs
+Portsmouth 15 Feb 1759 - 10 Jun Mozambique -15 Jul Trincomalee - 29 Jun Negapatam - 25 Aug Madras - 21 Sep Masulipatam -12 Oct Madras - 26 Nov Culpee - 30 Jan 1760 Hugli - 26 Mar Madras -18 Jul Manila - 27 Sep Whampoa - 26 Dec Second Bar - 6 Jun 1761 St Helena - 20 Sep Downs
 * 26 Nov 1759 engaged in capture of three Dutch ships and two sloops

@@ -10,8 +10,8 @@ surgeon SOMERSET 1741/2
 Keen, William
 purser BRITANNIA (1) 1741/2
 Keene, George Benjamin (1785-)
-b9 Mar 1795 Benybridlgs, Yorks; midshigmean MIMS Colleth Sy, midshipman EXETER 1Sh2e5;
-midshipman CHARLTON 1804/5, home as ei mate EARL HOWE; Ind mate DEVAN
+b 9 Mar 1795 Ferrybridge, Yorks; midshipman HMS Goliath 5y, midshipman EXETER 1802/3;
+midshipman CHARLTON 1804/5, home as 4th mate EARL HOWE; 2nd mate DEVAYNES
 1805/6 (from Dec 1806); 4th mate GLATTON (4) 1808/9; 2nd mate OCEAN (6) 1810/1;
 2nd mate GENERAL KYD 1813 & 1814/5
 Keene, William
@@ -24,10 +24,10 @@ Keigwin, Roger
 GREENWICH (1) 1723/4; 2nd mate MONTAGU (2) 1726/7; 2nd mate BARRINGTON
 1729/30; 1st mate LETHIEULLIER 1732/3
 Keir, Archibald
-surgeon GODOLEIUN (8) IVS 2; ésnmiy Surgeon, Madras, 20 Apr 1753; accompanied force
-under Clive te Bengal im 1796; Liowenant, Bengal ingimeny 1797; Captain 175%; resigned 27 Aug
+surgeon GODOLPHIN (3) 1751/2; Army Surgeon, Madras, 20 Apr 1753; accompanied force
+under Clive te Bengal im 1796; Lieutenant, Bengal Infrantry 1757; Captain 1758; resigned 27 Aug
 1758 and went to England; returned as a free merchant and settled at Patna; rejoined Bengal
-Aun as Captain 1766; resigaed 1 Sep Thee, applied to rejoin as a Sumgeom 1785 but not accepted
+Army as Captain 1766; resigned 1 Sep Thee, applied to rejoin as a Surgeon 1785 but not accepted
 active service in the Carnatic 1753-56, recapture of Calcutta 2 Jan 1757, probably at Plassey
 author of Thoughts on the affairs of Bengal (London, 1772)
 Keir, William
@@ -35,7 +35,7 @@ purser YORK (1) 1746/7, COLCHESTER (2) 1751/2
 Keir, William
 1st mate GABRIEL 1796
 Keir, William (1811-)
-y 22 Feb & tap 22 Mar 1811 episcopal Chapel, Blackfriars Wynd, Edinburgh, s of William, Esq,
+b 22 Feb & bap 22 Mar 1811 episcopal Chapel, Blackfriars Wynd, Edinburgh, s of William, Esq,
 & Frances Barbara Lindesay, of St John's Street; midshipman Charles Kerr to India 1827, 11m
 6th mate GENERAL KYD 1828/9; 5th mate GENERAL KYD 1830/1; 4th mate MINERVA
 (7) 1832/3
@@ -50,7 +50,7 @@ Kelly, Samuel
 Kelly, William
 5th mate GENERAL ELIOTT 1784/5
 Kelsall, John
-poser COLCHESTER Ge) 1739/80
+purser COLCHESTER (2) 1739/40
 Kelsick, Richard
 6th mate EARL OF SANDWICH 1771/2
 Kemball, John
@@ -63,7 +63,7 @@ Kemp, George
 purser DUKE OF BUCCLEUGH (4) 1798/9
 Kemp, Henry (1777-)
 b 14 Feb 1777 Ramsgate, Kent, s of Henry, salesman, & Ann (dissenters), one voyage to India;
-“id niste SIELTON CASTLE 17OVI1SMO, Indl mate CULLLANIDS GROVE 1801/2; 3rd mate
+3rd mate SKELTON CASTLE 1799/1800; 2nd mate CULLANDS GROVE 1801/2; 3rd mate
 BENGAL (2) 1803/4; 1st mate ALEXANDER (3) 1805/6; 1st mate NORTHUMBERLAND (5)
 1807/8, 1809/10 & 1812/3; 2nd mate GENERAL HARRIS 1814/5, 1816/7, 1818/9 & 1820/1;
 petitioned Poplar Fund 1825
@@ -77,7 +77,7 @@ Kemp, Robert
 purser DIANA (2) 1811/2, SIR WILLIAM PULTENEY 1814/5
 Kempt, Francis (1756-) ;
 b 31 Oct 1756 Leith, Midlothian; seaman in Russia, Portugal, West Indies and coasting trades 4y
-Suns onidipecwe RIMES 1722/5, mudsvomen, nw), mate Oy Tn) & Lientemant Gy) a Royal
+Suns midshipman PRIME 1722/5, midshipman (8m), mate (2y 7m) & Lieutenant (3y) in Royal
 Navy; 2nd mate MARS 1785/6, 3rd mate SWALLOW (3) 1787/8, home as 1st mate
 BUSBRIDGE; 1st mate BUSBRIDGE 1791/2; Capt LASCELLES 1793/4 & 1795/6
 Kempt, Francis
@@ -91,7 +91,7 @@ servant DUKE OF BUCCLEUGH (1) 1795/6; 5th mate ROYAL CHARLOTTE (5) 1798/9;
 Kenner, John
 3rd mate DEFENCE (4) 1738/9
 Kennett, Benjamin
-Sain mate CLA RILIFON 1St4/S; Quel mamits LAIR SPECIES (2) 1805/6; 2nd mate TRAVERS
+5th mate CHARLTON 1804/5; 3rd mate EARL SPENCER (2) 1805/6; 2nd mate TRAVERS
 1807/8
 Kennon, William
 purser LOYAL MERCHANT (1) 1660/1 & 1662/3
@@ -109,7 +109,7 @@ Kent, Henry
 2nd mate SOMERSET 1738/9; 1st mate SOMERSET 1741/2; Capt DRAGON (5) 1745/6,
 1748/9, 1750/1 & 1752/3
 Kent, Henry (-1823)
-Sh mats PLASSEY 1762/3; Bnd mate MIBCTOR (2) 1265S, 26 Aug ISS Bolton-by-the-
+2nd mate PLASSEY 1762/3; 3rd mate HECTOR (2) 1764/5, d 26 Aug Bolton-by-the-
 Sands, Lancs; wid Anna petitioned Poplar Fund 1823
 Kent, Isaac
 purser GRANTHAM (1) 1717/8, MORICE 1720/1
@@ -146,10 +146,10 @@ purser BOMBAY (3) 1816/7
 Key, Thomas
 5th mate RUSSELL 1694/5
 Keymer, Christopher (c1768-)
-5 in Englond; seamem & mane % Giloralter and Aumeriea 4y; coasting tm Jackal cutter 5m; seaman
+b in England; seaman & mate to Gibraltar and America 4y; coasting in Jackal cutter 5m; seaman
 ATLAS (1) 1784/5 & 1786/7; midshipman EARL OF CHESTERFIELD 1788/9; 6th mate
 EARL OF ABERGAVENNY (1) 1792/3; 3rd mate OSTERLEY (3) 1794/5; 2nd mate DOVER
-CASTILE 17978 Gaoeroved 11 Tan 1799, aged 20); Capt ROSE (5) ISOOM; Capt LORD
+CASTLE 1797/8 (approved 11 Jan 1798, aged 20); Capt ROSE (5) 1800/1; Capt LORD
 CASTLEREAGH (1) 1805/6, 1807/8, 1810/1 & 1814/5
 Kidd, Charles
 4th mate CAMBRIDGE (2) 1824/5
@@ -158,7 +158,7 @@ Kidd, John (c1731-)
 2nd mate LORD ANSON 1763/4; 1st mate HOUGHTON (4) 1766/7; st mate PRINCE OF
 WALES (4) 1768/9; 1st mate DUKE OF KINGSTON (2) 1772/3 (approved 6 Nov 1772, aged
 Kidd, John (c1744-)
-bin Scotland; zoorentios Cy), 2nd mate @y), 1st mate (ly Im) &c commenter C ly) in West
+b in Scotland; apprentice (7y), 2nd mate (2y), 1st mate (1y 1m) & commander (11y) in West
 Indies trade; 3rd mate HALSEWELL 1782/3 (approved 11 Dec 1782, aged 38)
 Kilham, Thomas
 5th mate HARRISON 1736/7; 3rd mate RICHMOND 1738/9; 2nd mate NORTHAMPTON (1)
@@ -250,7 +250,7 @@ surgeon SOMERS 1699/1700
 Kirwan, Stephen
 1st mate LONDON (6) 1710/1
 Kirwan, Stephen
-4n€ mae NEW CASILE 1932/3; 3rd mute ANN (1) 1735/6; 2nd mate DUKE OF
+3rd mate NEW CASTLE 1932/3; 3rd mate ANN (1) 1735/6; 2nd mate DUKE OF
 CUMBERLAND (1) 1737/8; 1st mate LYNN (2) 1738/9; 1st mate LONDON (8) 1740/1;
 1st mate LAPWING (1) 1743/4; Capt HECTOR (2) 1750/1
 Kitchin, Henry
@@ -296,14 +296,14 @@ Knox, Robert
 Knox, Robert
 1st mate PACIFIC 1767/8
 Knox, William (1781-)
-b 1 Mar & bap 20 May 1721 Taidington, Middx, s at Thomas & Barbara; midshipman EARL
-EU EZGWULLIAM 17967, home from Bengal as seaman WORCESTUOR @); St mate
+b 11 Mar & bap 20 May 1721 Teddington, Middx, s of Thomas & Barbara; midshipman EARL
+EU EZGWULLIAM 17967, home from Bengal as seaman WORCESTER (4); 6th mate
 PHOENIX (3) 1799/1800; 4th mate ROYAL GEORGE (4) 1802/3; 3rd mate CASTLE EDEN
 1804/5; 2nd mate SURREY (1) 1806/7; Capt CATHERINE (3) 1818/9
 Knox, Willis Frederic (1782-)
-b& Jul & bep 18 Aug 1782 & Sume's Soha, Lonéon, s of William, Esq, & Letitia, midshipman
+b 8 Jul & bap 18 Aug 1782 St Anne's Sogo, London, s of William, Esq, & Letitia, midshipman
 THAMES (2) 1795/6 & 1798/9; 4th mate THAMES (2) 1801/2; 3rd mate THAMES (2) 1803/4;
-Indl mate TELANIES (2) 1805/6
+2nd mate THAMES (2) 1805/6
 Knuitson, A
 surgeon BOYNE 1809
 Knutton, Thomas

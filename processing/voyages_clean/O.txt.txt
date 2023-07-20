@@ -134,7 +134,7 @@ L/MAR/B/164A Journal 17 Oct 1734-6 Sep 1736
 L/MAM/B/164J(1) Ledger
 L/MAR/B/164J(2) Pay Book
 Capt John Balchen
-Downs 23 Jan 1735 - 12 Feb Madeira - 26 Aug Madras - 9 Sep Rogues River - 4 Dec Calcutta - 26 Jan 1736 Ingeli - 6 Jun St Helena - 31 Aug Downs
+Downs 23 Jan 1735 - 12 Feb Madeira - 26 Aug Madras - 9 Sep Rogues River - 4 Dec Calcutta - 26 Jan 1736 Hugli - 6 Jun St Helena - 31 Aug Downs
 2 1737/8 Bombay
 L/MAR/B/164B Journal 8 Feb 1738-26 Jun 1739
 L/MAR/B/164K(1) Ledger
@@ -147,7 +147,7 @@ L/MAR/B/164D Journal 23 Nov 1740-21 Oct 1743, Ralph Congreve, Chief Mate
 L/MAR/B/164L(1) Ledger
 L/MAM/B/164L(2) Pay Book
 Capt John Balchen
-Downs 27 Jan 1741 - Portsmouth 20 Feb -1 Jun St Augustine's Bay - 8 Sep Bomay - 3 Nov Goa - 21 Dec Mangalore - 8 Jan 1742 Bombay - 5 Feb Tellicheny -19 Mar Bombay - 21 Apr Tellicheny - 15 Jun Malacca - 17 Jul Whampoa -19 Dec Second Bar - 6 Apr 1743 Cape - 8 May St Helena - 7 Sep Downs
+Downs 27 Jan 1741 - Portsmouth 20 Feb -1 Jun St Augustine's Bay - 8 Sep Bombay - 3 Nov Goa - 21 Dec Mangalore - 8 Jan 1742 Bombay - 5 Feb Tellicherry -19 Mar Bombay - 21 Apr Tellicherry - 15 Jun Malacca - 17 Jul Whampoa -19 Dec Second Bar - 6 Apr 1743 Cape - 8 May St Helena - 7 Sep Downs
 4 Borneo and China
 L/MAR/B/164E Journal 22 Apr 1745-16 Aug 1748, Thomas Hinde, Chief Mate 
 L/MAR/B/164M(1) Ledger
@@ -180,7 +180,7 @@ L/MAR/B/164-1 Journal 22 Sep 1759-2 Nov 1761
 L/MAR/B/164 Q(l) Ledger
 L/MAR/B/164Q(2) Pay Book
 Capt Thomas Hinde
-Portsmouth 16 Dec 1759 - Plymouth 28 Feb 1760 - 10 Jun Johanna - 26 Jul Madras -11 Oct Culpee - 16 Dec Ingeli - 23 Jan 1761 Madras -13 Jun St Helena - 20 Sep Downs
+Portsmouth 16 Dec 1759 - Plymouth 28 Feb 1760 - 10 Jun Johanna - 26 Jul Madras -11 Oct Culpee - 16 Dec Hugli - 23 Jan 1761 Madras -13 Jun St Helena - 20 Sep Downs
 ORANGE
 Rated at 350 tons, 70 crew, 30 guns
 1 1689/90 Benkulen and Madras
@@ -199,7 +199,7 @@ L/MAR/B/630B Journal 22 Dec 1747-26 Aug 1749
 L/MAR/B/630D(1) Ledger
 L/MAR/B/630D(2) Pay Book
 Capt Philip Jodrell
-Portsmouth 9 Mar 1748 - 11 Jul Johanna -18 Aug Bandar Abbas -10 Sep Persian Gulf -13 Oct Bombay - 4 Dec Tellicheny -15 Dec Anjengo - 8 May 1749 St Helena - 3 Aug Downs
+Portsmouth 9 Mar 1748 - 11 Jul Johanna -18 Aug Bandar Abbas -10 Sep Persian Gulf -13 Oct Bombay - 4 Dec Tellicherry -15 Dec Anjengo - 8 May 1749 St Helena - 3 Aug Downs
 ORIENT
 Chartered ship, 596 tons
 Principal Managing Owners: 1-2 Stewart Maijoribanks, 3-4 Thomas White
@@ -305,7 +305,7 @@ L/MAR/B/400B-C Journal 23 Nov 1760-2 Jul 1764, John White, Chief Mate
 L/MAR/B/400Q(1) Ledger
 L/MAR/B/400Q(2) Pay Book
 Capt Frederick Vincent
-Plymouth 15 Mar 1761 - 22 Jun Benkulen - 1 Nov Madras - 26 Feb 1762 Benkulen - 17 Apr Manna - 2 May Benkulen - 5 Jul Madras - 21 Aug Malacca - 25 Sep Manila - 7 Dec Malacca - 8 Jan 1763 Madras - 24 Jan Cuddalore - 4 Feb Madras - 24 Feb Balassore - 3 Mar Ingeli - 26 May Calcutta - 29 Nov Fultah - 9 Mar 1764 Cape - 4 Apr St Helena - 13 Jun Downs
+Plymouth 15 Mar 1761 - 22 Jun Benkulen - 1 Nov Madras - 26 Feb 1762 Benkulen - 17 Apr Manna - 2 May Benkulen - 5 Jul Madras - 21 Aug Malacca - 25 Sep Manila - 7 Dec Malacca - 8 Jan 1763 Madras - 24 Jan Cuddalore - 4 Feb Madras - 24 Feb Balassore - 3 Mar Hugli - 26 May Calcutta - 29 Nov Fultah - 9 Mar 1764 Cape - 4 Apr St Helena - 13 Jun Downs
 3 1765/6 Bombay and China
 L/MAR/B/400D Journal 10 Jan 1766-31 May 1768
 L/MAR/B/400R(1) Ledger
@@ -387,7 +387,7 @@ L/MAR/B/588E(1) Ledger
 L/MAR/B/588E(2) Pay Book
 Capt Thomas Stevens
 Portsmouth 2 Mar 1747 - 13 Mar Madeira - 30 Aug Vizagapatam - 18 Sep Fultah - 6 Oct Kedgeree -
-16 Jan 1748 Fort St David - 29 Mar Benkulen - 21 May Batavia - 16 Aug Fort St David - 23 Oct Point de Galle - 3 Jan 1749 Anjengo - 24 Jan Tellicheny -13 Feb Anjengo -10 Jun St Helena -
+16 Jan 1748 Fort St David - 29 Mar Benkulen - 21 May Batavia - 16 Aug Fort St David - 23 Oct Point de Galle - 3 Jan 1749 Anjengo - 24 Jan Tellicherry -13 Feb Anjengo -10 Jun St Helena -
 17 Sep Downs
 2 1751/2 Madras and Bengal
 L/MAM/B/588B Journal 9 Oct 1751-19 Mar 1754
@@ -406,5 +406,5 @@ L/MAM/B/588D Journal 4 Oct 1758-20 Nov 1761
 L/MAR/B/588H(1) Ledger
 L/MAR/B/588H(2) Pay Book
 Capt William Webber jun
-Portsmouth 15 Feb 1759 - 10 Jun Mozamibique -15 Jul Trincomalee - 29 Jun Negapatam - 25 Aug Madras - 21 Sep Masulipatam -12 Oct Madras - 26 Nov Culpee - 30 Jan 1760 Ingeli - 26 Mar Madras -18 Jul Manila - 27 Sep Whampoa - 26 Dec Second Bar - 6 Jun 1761 St Helena - 20 Sep Downs
+Portsmouth 15 Feb 1759 - 10 Jun Mozambique -15 Jul Trincomalee - 29 Jun Negapatam - 25 Aug Madras - 21 Sep Masulipatam -12 Oct Madras - 26 Nov Culpee - 30 Jan 1760 Hugli - 26 Mar Madras -18 Jul Manila - 27 Sep Whampoa - 26 Dec Second Bar - 6 Jun 1761 St Helena - 20 Sep Downs
 * 26 Nov 1759 engaged in capture of three Dutch ships and two sloops
