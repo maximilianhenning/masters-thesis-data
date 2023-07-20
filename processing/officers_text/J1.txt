@@ -17,7 +17,7 @@ Jackson, Andrew
 3rd mate BRIDGEWATER (2) 1779/80; run 30 Jul 1780
 
 Jackson, Edward
-Sad mists NOR MAMPTON (1) 1783/4
+3rd mate NORTHAMPTON (1) 1743/4
 
 Jackson, Edward (-1802)
 5th mate BENGAL (2) 1801/2; d 20 Aug 1802
@@ -44,10 +44,10 @@ b in England; seaman in coasting trade 2y; midshipman LASCELLES 1779/80; midship
 Jackson, Isaac
 purser MARTHA (1) 1703/4
 
-Taclsson, lisa (-1734)
+Jackson, Isaac (-1734)
 Purser LETHIEULLIER 1726/7 & 1729/30, BEDFORD (2) 1731/2; d 8 May 1734
 
-Teclesom, ys;
+Jackson, Thomas;
 Capt SINCLAIR 1807
 
 Jackson, Thomas
@@ -79,7 +79,7 @@ surgeon PORTSEA 1810/1
 Jacobs, Chapman (1754-)
 bap 25 Apr 1754 Manningtree, Essex, s of John & Elizabeth; in Industry sloop in coasting trade
 6m; 2nd mate Betsey to Quebec 9m; seaman ROYAL CAPTAIN (2) 1772/3; quarter master &
-coxsawin HMS Swallow sloop at Madras, home in HMS Dolphin man-of-war; mate two voyages
+coxswain HMS Swallow sloop at Madras, home in HMS Dolphin man-of-war; mate two voyages
 to Lisbon 6m; mate & Lieutenant in Royal Navy 9y; 2nd mate LORD WALSINGHAM 1786/7;
 1st mate QUEEN (4) 1789/90
 
@@ -152,18 +152,17 @@ WILLIAM (2) 1792/3 (approved 28 Mar 1793, aged 20); 2nd mate ARNISTON 1794/5 &
 1816, ISITE & SLO
 
 Jameson, James
-
 Bate CANNING 1823/4; 5th mate LONDON (14) 1825/6; 4th mate LONDON (14) 1827/8
 29/30
 
 Jameson, Peter
 6th mate SUCCESS (5) 1763/4
 
-Famesem, Thomas
+Jameson, Thomas
 Purser BOMBAY (3) 1809/10
 
 Jameson, William
-Ist mate UNION (3) 1795/6 (from 5 May 1797)
+1st mate UNION (3) 1795/6 (from 5 May 1797)
 
 Jay, John
 master SWALLOW 1631/2
@@ -213,14 +212,15 @@ Jellard, George
 
 Jellicoe, George
 3rd mate COLDSTREAM 1813/4 (from Jan 1815)
+
 Jenkins, Benjamin
-Ist mate TAVISTOCK (2) 1752/3; Capt TAVISTOCK (2) 1756/7
+1st mate TAVISTOCK (2) 1752/3; Capt TAVISTOCK (2) 1756/7
 
 Jenkins, Edward Francis
 4th mate BARING (2) 1810/1
 
-Feasting, Jeremiah
-Surgeon TRAVERS 1799/1800; pressed to Royal Navy 17 May 1801
+Jenkins, Jeremiah
+surgeon TRAVERS 1799/1800; pressed to Royal Navy 17 May 1801
 
 Jerman, John
 3rd mate BRITANNIA (1) 1741/2
@@ -383,7 +383,7 @@ volunteer to Oporto; 6th mate MARQUIS OF WELLINGTON (1) 1822/3; 5th mate HYTHE
 1824/5; 4th mate HYTHE 1826/7; 3rd mate HYTHE 1828/9; 2nd mate HYTHE 1830/1; Capt
 CASTELE HUNTLEY 1832/3
 
-Ishnstone, George
+Johnstone, George
 4th mate DELWARE 1747/8
 
 Jones, David
@@ -435,10 +435,10 @@ Jones, James
 EARL OF LINCOLN 1768/9
 
 Jones, Lenikin
-Surgeon HARRIOT 1793/4
+surgeon HARRIOT 1793/4
 
 Jones, John
-Surgeon RICHMOND (1) 1734/5
+surgeon RICHMOND (1) 1734/5
 
 Jones, John
 5th mate CRUTTENDEN 1770/1

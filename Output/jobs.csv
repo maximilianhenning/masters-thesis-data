@@ -21636,107 +21636,96 @@ p5890;p5890j1;2nd mate;s621v1
 p5891;p5891j1;4th mate;
 p5892;p5892j1;2nd mate;s1016v3
 p5893;p5893j1;4th mate;s338v6
-p5894;p5894j1;capt;
+p5894;p5894j1;capt;s1295v2
 p5894;p5894j2;capt;
 p5894;p5894j3;capt;
-p5896;p5896j1;midshipman;s374v2
-p5896;p5896j2;midshipman;
-p5896;p5896j3;4th mate;
-p5896;p5896j4;4th mate;
-p5896;p5896j5;4th mate;
-p5896;p5896j6;surgeon;
-p5896;p5896j7;surgeon;
-p5896;p5896j8;surgeon;
-p5897;p5897j1;6th mate;s487v2
-p5898;p5898j1;capt's servant;s407v2
-p5898;p5898j2;seaman;
-p5898;p5898j3;6th mate;
-p5898;p5898j4;4th mate;
-p5898;p5898j5;4th mate;
-p5898;p5898j6;4th mate;
-p5898;p5898j7;4th mate;
-p5899;p5899j1;5th mate;s1454v3
-p5902;p5902j1;surgeon;s1075v2
-p5902;p5902j2;surgeon;s1075v3
-p5903;p5903j1;capt;
-p5907;p5907j1;capt;s80v1
-p5909;p5909j1;purser;
-p5909;p5909j2;purser;
-p5909;p5909j3;purser;s990v6
-p5909;p5909j4;purser;s11v3
-p5909;p5909j5;purser;
-p5909;p5909j6;purser;
-p5909;p5909j7;purser;
-p5909;p5909j8;purser;
-p5909;p5909j9;purser;
-p5909;p5909j10;purser;
-p5909;p5909j11;purser;
-p5909;p5909j12;purser;
-p5909;p5909j13;surgeon;s1086v2
-p5909;p5909j14;surgeon;
-p5909;p5909j15;surgeon;s990v6
-p5909;p5909j16;surgeon;s11v3
-p5909;p5909j17;surgeon;
-p5909;p5909j18;surgeon;
-p5909;p5909j19;surgeon;
-p5909;p5909j20;surgeon;
-p5909;p5909j21;surgeon;
-p5909;p5909j22;surgeon;
-p5909;p5909j23;surgeon;
-p5909;p5909j24;surgeon;
-p5909;p5909j25;surgeon;
-p5909;p5909j26;surgeon;
-p5909;p5909j27;surgeon;s392v2
-p5909;p5909j28;surgeon;
-p5909;p5909j29;surgeon;
-p5909;p5909j30;surgeon;
-p5909;p5909j31;2nd mate;
-p5909;p5909j32;1st mate;s809v2
-p5909;p5909j33;capt;
-p5910;p5910j1;surgeon's mate;s1134v5
-p5910;p5910j2;surgeon;
-p5911;p5911j1;4th mate;s1274v3
-p5912;p5912j1;surgeon;s416v3
-p5913;p5913j1;surgeon;s1295v2
-p5914;p5914j1;purser;
-p5915;p5915j1;seaman;
-p5915;p5915j2;seaman;
-p5915;p5915j3;seaman;s974v2
-p5915;p5915j4;midshipman;s608v1
-p5915;p5915j5;3rd mate;
-p5915;p5915j6;2nd mate;s813v3
-p5916;p5916j1;5th mate;s435v2
-p5916;p5916j2;3rd mate;
-p5916;p5916j3;3rd mate;s76v6
-p5916;p5916j4;2nd mate;
-p5916;p5916j5;1st mate;
-p5917;p5917j1;surgeon;
-p5918;p5918j1;purser;
-p5918;p5918j2;purser;s430v3
-p5918;p5918j3;purser;
-p5918;p5918j4;purser;
-p5918;p5918j5;purser;
-p5918;p5918j6;purser;
-p5919;p5919j1;surgeon;s1451v4
-p5920;p5920j1;midshipman;s884v3
-p5920;p5920j2;midshipman;
-p5920;p5920j3;midshipman;
-p5920;p5920j4;4th mate;s1348v4
-p5920;p5920j5;3rd mate;s1139v4
-p5920;p5920j6;3rd mate;
+p5895;p5895j1;midshipman;s374v2
+p5895;p5895j2;midshipman;
+p5895;p5895j3;4th mate;
+p5895;p5895j4;4th mate;
+p5895;p5895j5;4th mate;
+p5895;p5895j6;surgeon;
+p5895;p5895j7;surgeon;
+p5895;p5895j8;surgeon;
+p5896;p5896j1;6th mate;s487v2
+p5897;p5897j1;capt's servant;s407v2
+p5897;p5897j2;seaman;
+p5897;p5897j3;6th mate;
+p5897;p5897j4;2nd mate;
+p5897;p5897j5;4th mate;
+p5897;p5897j6;4th mate;
+p5897;p5897j7;4th mate;
+p5897;p5897j8;4th mate;
+p5898;p5898j1;5th mate;s1454v3
+p5899;p5899j1;purser;s1160v6
+p5899;p5899j2;purser;s990v6
+p5899;p5899j3;purser;s11v3
+p5899;p5899j4;purser;s822v4
+p5899;p5899j5;purser;
+p5901;p5901j1;surgeon;s1075v2
+p5901;p5901j2;surgeon;s1075v3
+p5902;p5902j1;capt;
+p5903;p5903j1;surgeon;s817v1
+p5903;p5903j2;surgeon;
+p5904;p5904j1;surgeon;s833v4
+p5904;p5904j2;surgeon;s392v2
+p5904;p5904j3;surgeon;
+p5904;p5904j4;surgeon;
+p5904;p5904j5;surgeon;
+p5905;p5905j1;surgeon;s1086v2
+p5905;p5905j2;surgeon;
+p5905;p5905j3;surgeon;
+p5905;p5905j4;surgeon;
+p5905;p5905j5;surgeon;
+p5906;p5906j1;2nd mate;s809v1
+p5906;p5906j2;1st mate;s809v2
+p5906;p5906j3;capt;s1230v3
+p5906;p5906j4;capt;s80v1
+p5909;p5909j1;surgeon's mate;s1134v5
+p5909;p5909j2;surgeon;
+p5910;p5910j1;4th mate;s1274v3
+p5911;p5911j1;surgeon;s416v3
+p5912;p5912j1;surgeon;s1295v2
+p5913;p5913j1;purser;
+p5914;p5914j1;seaman;
+p5914;p5914j2;seaman;
+p5914;p5914j3;seaman;s974v2
+p5914;p5914j4;midshipman;s608v1
+p5914;p5914j5;3rd mate;
+p5914;p5914j6;2nd mate;s813v3
+p5915;p5915j1;5th mate;s435v2
+p5915;p5915j2;3rd mate;
+p5915;p5915j3;3rd mate;s76v6
+p5915;p5915j4;2nd mate;
+p5915;p5915j5;1st mate;s718v3
+p5916;p5916j1;surgeon;
+p5917;p5917j1;purser;
+p5917;p5917j2;purser;s430v3
+p5917;p5917j3;purser;
+p5917;p5917j4;purser;
+p5917;p5917j5;purser;
+p5917;p5917j6;purser;
+p5918;p5918j1;surgeon;s1451v4
+p5919;p5919j1;midshipman;s884v3
+p5919;p5919j2;midshipman;
+p5919;p5919j3;midshipman;
+p5919;p5919j4;4th mate;s1348v4
+p5919;p5919j5;3rd mate;s1139v4
+p5919;p5919j6;3rd mate;s1162v2
+p5919;p5919j7;1st mate;
+p5919;p5919j8;capt;
+p5919;p5919j9;1st mate;s930v5
+p5920;p5920j1;midshipman;
+p5920;p5920j2;6th mate;s1335v2
+p5920;p5920j3;5th mate;s403v3
+p5920;p5920j4;3rd mate;s403v4
+p5920;p5920j5;2nd mate;s403v5
+p5920;p5920j6;1st mate;s403v6
 p5920;p5920j7;1st mate;
-p5920;p5920j8;capt;
-p5920;p5920j9;1st mate;s930v5
-p5921;p5921j1;midshipman;
-p5921;p5921j2;6th mate;s1335v2
-p5921;p5921j3;5th mate;
-p5921;p5921j4;3rd mate;s403v4
-p5921;p5921j5;2nd mate;s403v5
-p5921;p5921j6;1st mate;
-p5921;p5921j7;1st mate;
-p5921;p5921j8;1st mate;s696v6
-p5922;p5922j1;4th mate;
-p5922;p5922j2;5th mate;
+p5920;p5920j8;1st mate;s696v6
+p5921;p5921j1;4th mate;
+p5922;p5922j1;5th mate;s442v1
+p5923;p5923j1;3rd mate;s940v1
 p5924;p5924j1;4th mate;s1409v7
 p5925;p5925j1;surgeon;s527v4
 p5926;p5926j1;seaman;s311v7
@@ -21777,10 +21766,11 @@ p5932;p5932j4;surgeon;s809v3
 p5932;p5932j5;surgeon;s454v3
 p5932;p5932j6;surgeon;
 p5933;p5933j1;purser;s150v4
-p5934;p5934j1;3rd mate;s281v5
-p5934;p5934j2;2nd mate;
+p5934;p5934j1;2nd mate;s773v1
+p5934;p5934j2;3rd mate;s281v5
 p5934;p5934j3;2nd mate;
 p5934;p5934j4;2nd mate;
+p5934;p5934j5;2nd mate;
 p5935;p5935j1;6th mate;
 p5936;p5936j1;surgeon;
 p5936;p5936j2;surgeon;
@@ -21789,6 +21779,7 @@ p5936;p5936j4;surgeon;
 p5936;p5936j5;surgeon;
 p5936;p5936j6;surgeon;
 p5936;p5936j7;surgeon;
+p5936;p5936j8;surgeon;
 p5937;p5937j1;5th mate;s1058v2
 p5937;p5937j2;4th mate;
 p5937;p5937j3;4th mate;
@@ -21878,6 +21869,7 @@ p5951;p5951j6;midshipman;
 p5951;p5951j7;midshipman;
 p5951;p5951j8;midshipman;
 p5951;p5951j9;midshipman;
+p5952;p5952j1;5th mate;
 p5953;p5953j1;6th mate;
 p5953;p5953j2;6th mate;
 p5953;p5953j3;6th mate;
@@ -21886,6 +21878,7 @@ p5953;p5953j5;3rd mate;s297v1
 p5953;p5953j6;3rd mate;
 p5953;p5953j7;3rd mate;
 p5953;p5953j8;3rd mate;
+p5954;p5954j1;1st mate;
 p5955;p5955j1;4th mate;s1230v2
 p5956;p5956j1;surgeon;s385v2
 p5956;p5956j2;surgeon;
@@ -21924,6 +21917,7 @@ p5969;p5969j1;capt;s71v1
 p5969;p5969j2;capt;s71v2
 p5970;p5970j1;4th mate;s723v6
 p5971;p5971j1;3rd mate;s170v4
+p5972;p5972j1;3rd mate;s978v2
 p5973;p5973j1;5th mate;s128v2
 p5974;p5974j1;5th mate;s1229v3
 p5974;p5974j2;3rd mate;s15v2
@@ -21994,15 +21988,18 @@ p5985;p5985j24;surgeon;
 p5985;p5985j25;surgeon;
 p5986;p5986j1;2nd mate;
 p5986;p5986j2;seaman;s1168v1
-p5986;p5986j3;quarter master;
-p5986;p5986j4;quarter master;
-p5986;p5986j5;quarter master;
-p5986;p5986j6;master;
-p5986;p5986j7;master;
-p5986;p5986j8;master;
-p5986;p5986j9;lieutenant;
-p5986;p5986j10;2nd mate;s841v1
-p5986;p5986j11;1st mate;s1109v2
+p5986;p5986j3;coxswain;
+p5986;p5986j4;coxswain;
+p5986;p5986j5;coxswain;
+p5986;p5986j6;quarter master;
+p5986;p5986j7;quarter master;
+p5986;p5986j8;quarter master;
+p5986;p5986j9;master;
+p5986;p5986j10;master;
+p5986;p5986j11;master;
+p5986;p5986j12;lieutenant;
+p5986;p5986j13;2nd mate;s841v1
+p5986;p5986j14;1st mate;s1109v2
 p5987;p5987j1;4th mate;s481v1
 p5988;p5988j1;3rd mate;s375v3
 p5989;p5989j1;surgeon;s710v1
@@ -22470,6 +22467,7 @@ p6138;p6138j5;1st mate;s622v6
 p6139;p6139j1;purser;
 p6139;p6139j2;purser;
 p6140;p6140j1;1st mate;s71v2
+p6141;p6141j1;4th mate;
 p6142;p6142j1;1st mate;s1152v1
 p6142;p6142j2;1st mate;
 p6142;p6142j3;1st mate;
@@ -22522,12 +22520,14 @@ p6151;p6151j11;4th mate;
 p6151;p6151j12;3rd mate;
 p6151;p6151j13;3rd mate;
 p6151;p6151j14;3rd mate;
-p6152;p6152j1;5th mate;s1108v3
-p6152;p6152j2;4th mate;
-p6152;p6152j3;2nd mate;s1108v5
-p6152;p6152j4;2nd mate;s1109v1
-p6152;p6152j5;2nd mate;s125v3
-p6152;p6152j6;2nd mate;
+p6152;p6152j1;midshipman;s1108v2
+p6152;p6152j2;seaman;
+p6152;p6152j3;5th mate;s1108v3
+p6152;p6152j4;4th mate;
+p6152;p6152j5;2nd mate;s1108v5
+p6152;p6152j6;2nd mate;s1109v1
+p6152;p6152j7;2nd mate;s125v3
+p6152;p6152j8;2nd mate;
 p6153;p6153j1;midshipman;s881v6
 p6153;p6153j2;midshipman;s141v3
 p6153;p6153j3;5th mate;s1240v4
@@ -22536,7 +22536,7 @@ p6153;p6153j5;4th mate;s1240v6
 p6154;p6154j1;surgeon;
 p6155;p6155j1;3rd mate;s132v3
 p6156;p6156j1;surgeon;
-p6157;p6157j1;midshipman;
+p6157;p6157j1;midshipman;s1439v4
 p6157;p6157j2;6th mate;s129v1
 p6157;p6157j3;5th mate;s234v2
 p6157;p6157j4;3rd mate;s871v7
@@ -22561,14 +22561,20 @@ p6162;p6162j6;capt;s623v3
 p6162;p6162j7;capt;s623v4
 p6163;p6163j1;purser;s1010v3
 p6164;p6164j1;capt's servant;s990v4
-p6164;p6164j2;4th mate;s487v4
-p6164;p6164j3;2nd mate;
-p6164;p6164j4;1st mate;
-p6164;p6164j5;1st mate;
-p6164;p6164j6;1st mate;
-p6164;p6164j7;2nd mate;s266v4
-p6164;p6164j8;2nd mate;
-p6164;p6164j9;capt;s266v6
+p6164;p6164j2;midshipman;s990v5
+p6164;p6164j3;midshipman;
+p6164;p6164j4;midshipman;
+p6164;p6164j5;2nd mate;
+p6164;p6164j6;2nd mate;
+p6164;p6164j7;2nd mate;
+p6164;p6164j8;4th mate;s487v4
+p6164;p6164j9;2nd mate;
+p6164;p6164j10;1st mate;
+p6164;p6164j11;1st mate;
+p6164;p6164j12;1st mate;
+p6164;p6164j13;2nd mate;s266v4
+p6164;p6164j14;2nd mate;
+p6164;p6164j15;capt;s266v6
 p6165;p6165j1;seaman;s432v3
 p6165;p6165j2;midshipman;s244v2
 p6165;p6165j3;3rd mate;s81v4
@@ -22581,9 +22587,10 @@ p6165;p6165j9;1st mate;s1330v6
 p6165;p6165j10;1st mate;
 p6165;p6165j11;1st mate;
 p6166;p6166j1;surgeon;s1216v3
-p6167;p6167j1;purser;s890v8
-p6167;p6167j2;purser;s1444v6
-p6167;p6167j3;purser;
+p6167;p6167j1;midshipman;s1444v4
+p6167;p6167j2;purser;s890v8
+p6167;p6167j3;purser;s1444v6
+p6167;p6167j4;purser;
 p6168;p6168j1;surgeon;s130v2
 p6168;p6168j2;surgeon;
 p6168;p6168j3;surgeon;s130v2
@@ -22606,6 +22613,7 @@ p6177;p6177j1;3rd mate;s991v1
 p6178;p6178j1;1st mate;s619v1
 p6179;p6179j1;surgeon;s1324v3
 p6180;p6180j1;6th mate;
+p6181;p6181j1;2nd mate;
 p6182;p6182j1;surgeon;s81v5
 p6182;p6182j2;surgeon;s81v6
 p6183;p6183j1;2nd mate;s636v2
@@ -22631,9 +22639,11 @@ p6192;p6192j1;surgeon;s1407v5
 p6192;p6192j2;surgeon;s1407v6
 p6193;p6193j1;capt;
 p6194;p6194j1;6th mate;s870v6
-p6195;p6195j1;2nd mate;s687v1
-p6195;p6195j2;2nd mate;s1170v3
-p6195;p6195j3;1st mate;s1171v1
+p6195;p6195j1;4th mate;s1399v3
+p6195;p6195j2;1st mate;
+p6195;p6195j3;2nd mate;s687v1
+p6195;p6195j4;2nd mate;s1170v3
+p6195;p6195j5;1st mate;s1171v1
 p6196;p6196j1;surgeon;s1167v2
 p6197;p6197j1;purser;s1166v1
 p6198;p6198j1;3rd mate;s88v1
@@ -22650,6 +22660,9 @@ p6203;p6203j1;midshipman;s812v2
 p6203;p6203j2;midshipman;s207v3
 p6203;p6203j3;2nd mate;s423v2
 p6203;p6203j4;2nd mate;s423v3
+p6204;p6204j1;surgeon;
+p6204;p6204j2;surgeon;
+p6204;p6204j3;surgeon;
 p6205;p6205j1;6th mate;s583v1
 p6206;p6206j1;5th mate;s870v8
 p6206;p6206j2;5th mate;s546v8
@@ -22686,9 +22699,10 @@ p6210;p6210j5;midshipman;
 p6210;p6210j6;lieutenant;
 p6210;p6210j7;lieutenant;
 p6210;p6210j8;lieutenant;
-p6210;p6210j9;3rd mate;
-p6210;p6210j10;3rd mate;
-p6210;p6210j11;3rd mate;
+p6210;p6210j9;3rd mate;s1309v3
+p6210;p6210j10;1st mate;s1115v2
+p6210;p6210j11;2nd mate;s1242v2
+p6210;p6210j12;2nd mate;s1242v3
 p6211;p6211j1;1st mate;
 p6212;p6212j1;6th mate;s36v2
 p6212;p6212j2;2nd mate;s895v1
@@ -22710,16 +22724,19 @@ p6217;p6217j3;3rd mate;
 p6217;p6217j4;2nd mate;s1008v8
 p6218;p6218j1;2nd mate;s512v5
 p6219;p6219j1;4th mate;s1052v5
-p6220;p6220j1;5th mate;
-p6220;p6220j2;3rd mate;
-p6220;p6220j3;1st mate;
-p6220;p6220j4;1st mate;s49v1
-p6220;p6220j5;1st mate;
-p6220;p6220j6;capt;s1236v1
-p6220;p6220j7;capt;
-p6220;p6220j8;capt;s1236v1
-p6220;p6220j9;capt;s1236v2
-p6220;p6220j10;capt;s1236v3
+p6220;p6220j1;5th mate;s1413v3
+p6220;p6220j2;3rd mate;s686v3
+p6220;p6220j3;2nd mate;s270v1
+p6220;p6220j4;2nd mate;
+p6220;p6220j5;2nd mate;
+p6220;p6220j6;1st mate;
+p6220;p6220j7;1st mate;s49v1
+p6220;p6220j8;1st mate;
+p6220;p6220j9;capt;s1236v1
+p6220;p6220j10;capt;
+p6220;p6220j11;capt;s1236v1
+p6220;p6220j12;capt;s1236v2
+p6220;p6220j13;capt;s1236v3
 p6221;p6221j1;seaman;s170v1
 p6221;p6221j2;midshipman;s540v1
 p6221;p6221j3;midshipman;s983v4
@@ -22774,51 +22791,60 @@ p6233;p6233j5;purser;s813v1
 p6233;p6233j6;purser;
 p6233;p6233j7;purser;
 p6234;p6234j1;5th mate;s1389v4
-p6237;p6237j1;2nd mate;
-p6237;p6237j2;2nd mate;s1236v3
-p6238;p6238j1;midshipman;
+p6237;p6237j1;seaman;s49v1
+p6237;p6237j2;6th mate;
+p6237;p6237j3;4th mate;s1236v2
+p6237;p6237j4;2nd mate;
+p6237;p6237j5;2nd mate;s1236v3
+p6238;p6238j1;midshipman;s1236v2
 p6238;p6238j2;2nd mate;
-p6238;p6238j3;2nd mate;
-p6238;p6238j4;2nd mate;
-p6238;p6238j5;midshipman;s1236v3
-p6238;p6238j6;midshipman;
-p6238;p6238j7;midshipman;
+p6238;p6238j3;midshipman;s1236v3
+p6238;p6238j4;midshipman;
+p6238;p6238j5;midshipman;
+p6238;p6238j6;4th mate;
+p6238;p6238j7;4th mate;s1236v4
 p6238;p6238j8;4th mate;
-p6238;p6238j9;4th mate;s1236v4
-p6238;p6238j10;4th mate;
 p6239;p6239j1;1st mate;s1303v1
-p6240;p6240j1;5th mate;
-p6240;p6240j2;4th mate;s1390v2
-p6240;p6240j3;3rd mate;
-p6240;p6240j4;2nd mate;
-p6240;p6240j5;5th mate;
-p6240;p6240j6;5th mate;
+p6240;p6240j1;midshipman;s311v4
+p6240;p6240j2;midshipman;s676v7
+p6240;p6240j3;5th mate;
+p6240;p6240j4;4th mate;s1390v2
+p6240;p6240j5;3rd mate;s1390v3
+p6240;p6240j6;3rd mate;
 p6240;p6240j7;5th mate;
 p6240;p6240j8;5th mate;
 p6240;p6240j9;5th mate;
-p6240;p6240j10;2nd mate;
-p6240;p6240j11;2nd mate;
+p6240;p6240j10;5th mate;
+p6240;p6240j11;5th mate;
 p6240;p6240j12;2nd mate;
 p6240;p6240j13;2nd mate;
 p6240;p6240j14;2nd mate;
-p6240;p6240j15;1st mate;
-p6240;p6240j16;1st mate;
+p6240;p6240j15;2nd mate;
+p6240;p6240j16;2nd mate;
 p6240;p6240j17;1st mate;
 p6240;p6240j18;1st mate;
 p6240;p6240j19;1st mate;
+p6240;p6240j20;1st mate;
+p6240;p6240j21;1st mate;
 p6241;p6241j1;1st mate;
 p6242;p6242j1;3rd mate;s24v2
 p6242;p6242j2;2nd mate;s24v3
 p6243;p6243j1;5th mate;s590v6
-p6244;p6244j1;5th mate;s1457v2
-p6244;p6244j2;1st mate;
-p6244;p6244j3;1st mate;
-p6244;p6244j4;1st mate;s174v1
-p6244;p6244j5;1st mate;
-p6244;p6244j6;master;
-p6244;p6244j7;master;
-p6244;p6244j8;master;
-p6244;p6244j9;master;
+p6244;p6244j1;apprentice;
+p6244;p6244j2;apprentice;
+p6244;p6244j3;apprentice;
+p6244;p6244j4;midshipman;
+p6244;p6244j5;midshipman;s1108v3
+p6244;p6244j6;midshipman;
+p6244;p6244j7;5th mate;s1457v2
+p6244;p6244j8;1st mate;
+p6244;p6244j9;1st mate;
+p6244;p6244j10;1st mate;s174v1
+p6244;p6244j11;1st mate;
+p6244;p6244j12;master;
+p6244;p6244j13;master;
+p6244;p6244j14;master;
+p6244;p6244j15;master;
 p6245;p6245j1;surgeon;s327v1
 p6246;p6246j1;seaman;
 p6246;p6246j2;seaman;
