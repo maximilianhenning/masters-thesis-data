@@ -38,11 +38,11 @@ Keble, Page (-1713)
 4th mate NEPTUNE (1) 1700/1; 2nd mate NEPTUNE (1) 1703/4; 2nd mate ABINGDON
 1707/8; Capt SUCCESS (4) 1711/2; d 13 May 1713
 
-4 Keble, William (-1721)
-q 4th mate CARDONNEL 1714/5; 4th mate HERTFORD (1) 1719/20; d 1 Mar 1721
+Keble, William (-1721)
+4th mate CARDONNEL 1714/5; 4th mate HERTFORD (1) 1719/20; d 1 Mar 1721
 
-q Keching, William (-1689)
-: 4th mate ROYAL JAMES 1688/9; d 20 Feb 1689
+Keching, William (-1689)
+4th mate ROYAL JAMES 1688/9; d 20 Feb 1689
 
 Kedick, Thomas
 2nd mate LAWRELL 1682/3
@@ -57,7 +57,6 @@ Keeling, Edward
 Keith, George
 surgeon LORD DUNCAN 1811/2; actg Asst Surgeon Bombay 31 Oct 1812, appointment not
 confirmed; d 11 Sep 1815 Dhural, Kathiawar
-
 active service in Gujarat and Kathia War 1815
 
 Kekewich, John (-1709)
@@ -71,7 +70,7 @@ surgeon INDISPENSABLE 1795
 
 Kellaway, James (1789-)
 bap 7 Oct 1789 Winterborne, Dorset; midshipman PHOENIX (5) 1804/5; 5th mate PHOENIX
-(S) 1807/8; 4th mate PHOENIX (5) 1809/10; 3rd mate PRINCESS AMELIA (4) 1812/3 &
+(5) 1807/8; 4th mate PHOENIX (5) 1809/10; 3rd mate PRINCESS AMELIA (4) 1812/3 &
 1814/5; 2nd mate PRINCESS AMELIA (4) 1815/6 & 1817/8; 1st mate PRINCESS AMELIA
 (4) 1819/20, 1821/2 & 1823/4; Capt PRINCESS AMELIA (4) 1825/6; Capt BOMBAY (3)
 1830/1 & 1832/3
@@ -100,24 +99,21 @@ Kellwick, William Cotton
 6th mate ESSEX (2) 1747/8; 1st mate GUARDIAN 1751/2
 
 Kelso, George
-Ist mate MORNINGTON 1798/9; Capt MORNINGTON 1800/1
+1st mate MORNINGTON 1798/9; Capt MORNINGTON 1800/1
 
 Kelly, Charles
 2nd mate ROYAL CHARLOTTE (1) 1763/4; 1st mate SHREWSBURY (3) 1767/8
 
 Kelly, Ellis
-Mae NAW LONDON 167g9
+Mate NEW LONDON 1678/9
 
-Kelly, John (¢1765-)
-
-RAY England; seaman in govt pocket te New Vouk Jy; seamen ttn Annerican trade 3y; seamen
-
-ve OF MANSFIELD 1783/4; 4th mate EARL CORNWALLIS 1785/6 (approved 3 Jan
+Kelly, John (1765-)
+b in England; seaman in govt packet te New York 3y; seamen in American trade 3y; seaman
+EARL OF MANSFIELD 1783/4; 4th mate EARL CORNWALLIS 1785/6 (approved 3 Jan
 6, aged 20); run 23 Dec 1786
 
 Kempt, Rodney
 6th mate WALTHAMSTOW 1801/2; Capt WILLIAM (3) 1809; 1st mate JAMES SIBBALD
-
 1810
 
 Kempthorne, John
@@ -161,16 +157,15 @@ surgeon ANN (1) 1809/10, HARRIET (3) 1811/2; offcg Asst Surgeon Bengal 2 Jan 181
 confirmed 10 Nov 1813; d 17 Jun 1824 Patna
 
 Kennedy, John (1784-)
-015 Ang 1984 Traquatr, Pedblles; meidehtpmem BOMBAY CASTILE @) 1799/1900; Sth mate
+b 15 Aug 1984 Traquair, Peebles; midshipman BOMBAY CASTLE (2) 1799/1900; 5th mate
 BOMBAY CASTLE (2) 1802/3; 4th mate BOMBAY CASTLE (2) 1804/5; 3rd mate DUKE
-
 OF MONTROSE 1806/7
 
-Sennedy, Patrick
+Kennedy, Patrick
 4th mate DELAWARE 1751/2
 
 Kennedy, Patrick
-Sth mate WILLIAM PITT (1) 1795/6
+5th mate WILLIAM PITT (1) 1795/6
 
 Kennedy, Thomas
 6th mate PONSBORNE (1) 1772/3
@@ -216,26 +211,21 @@ Kerr, Mark
 purser PIGOT (1) 1762/3 & 1765/6
 
 Kerr, Robert
-oth mists DUCHESTIOR 1/Sa/4: 4th mate GRANTIEAML (3) 1756/7; 2nd mate WARWICK (2)
-
+5th mate ILCHESTER 1753/4: 4th mate GRANTHAM (3) 1756/7; 2nd mate WARWICK (2)
 1759/60; 2nd mate PRINCESS AUGUSTA 1763/4; 1st mate VALENTINE (2) 1767/8; Capt
 PRINCESS ROYAL (2) 1769/70, 1772/3, 1776/7 & 1778/9
 
 Kerr, Thomas
-ee LORD WALSINGHAM 1789/90, EARL TALBOT (1) 1791/2, ESSEX (4) 1793/4 &
-6
+surgeon LORD WALSINGHAM 1789/90, EARL TALBOT (1) 1791/2, ESSEX (4) 1793/4 &
+1795/6
+
 Serr, Thomas Cairns
 Purser MALABAR 1795/6 & 1797/8, LADY CASTLEREAGH 1802/3
 
-Xen, William (c1760-)
-in Scotland; clerk Falstaff to Africa, promoted to 3rd mate, 9m; 3rd mate Favourite to Africa,
-
-home as 2nd
-
-x mate 11m; Ist mate Mermaid to Africa ly 1m; examined as 4th mate BRILLIANT
-2 Nov 1781
-
-» aged 21, not qualified
+Kerr, William (1760-)
+b in Scotland; clerk Falstaff to Africa, promoted to 3rd mate, 9m; 3rd mate Favourite to Africa,
+home as 2nd mate 11m; 1st mate Mermaid to Africa 1y 1m; examined as 4th mate BRILLIANT
+2 Nov 1781 aged 21, not qualified
 
 Kidd, Thomas
 Capt LOWJEE FAMILY 1803
@@ -254,7 +244,7 @@ Kidsdale, George W H
 5th mate MARQUIS CAMDEN 1814/5
 
 Kieffer, Adolphus (1811-)
-ba? Peo Leul isin, Germmmy, s of Jeo Milne! Dawid, menelnams, & Miria Charity Nack:
+b 27 Feb 1811 Mainz, Germany, s of John Michael David, merchant, & Maria Charity Nack:
 midshipman KELLIE CASTLE 1828/9; 5th mate MARQUIS CAMDEN 1831/2
 
 Kiernan, Francis
@@ -271,10 +261,10 @@ surgeon’s mate ELPHINSTONE 1815/6, LONDON (14) 1817/8 & 1819/20, CANNING 1821/2
 & 1823/4; surgeon CANNING 1825/6, 1827/8 & 1829/30, LONDON (14) 1831/2
 
 Kiernander, Charles
-“it thats NOIRTELAMIPTON () US1G; eum 12 Oct 1S1S New Sawth Welles
+3rd mate NORTHAMPTON (3) 1816; run 12 Oct 1815 New South Wales
 
 Kiggell, Kentish
-Sth mate EYLES 1731/2
+5th mate EYLES 1731/2
 
 Kiggell, Kentish
 6th mate LYNN (2) 1745/6; Sth mate LYNN (2) 1749/50
@@ -283,24 +273,18 @@ Kilgour, Edward (-1811)
 purser BATAVIA 1809/10; d 27 Jun 1811
 
 Kilgour, James
-
 Surgeon EARL HOWE 1800/1 & 1802/3, SURREY (1) 1804/5 & 1806/7; run 10 Feb 1808
-Kilham, Leonard
 
-[st mate BOUVERIE 1721/2; 1st mate STANHOPE 1725/6
+Kilham, Leonard
+1st mate BOUVERIE 1721/2; 1st mate STANHOPE 1725/6
 
 Kilham, Thomas
-
-Sth mate BRI
-
-ITANNIA (1) 1735/6; 3 17 ;
-PRINCESS () ; 3rd mate PRINCESS ROYAL 1737/8; 2nd mate
-
-AMELIA 1739/40; Ist mate SEVERN (4) 1741/2
+5th mate BRITANNIA (1) 1735/6; 3rd mate PRINCESS ROYAL 1737/8; 2nd mate
+PRINCESS AMELIA 1739/40; 1st mate SEVERN (1) 1741/2
 
 King, Henry (1769-)
 b 19 Mar & bap 16 Apr 1769 St Mary the Virgin, Dover, s of Thomas & Elizabeth; midshipman
-in Royal Navy ly 6m; mate in Baltic trade ly; mate in Amsterdam trade 9m; seaman GENERAL
+in Royal Navy 1y 6m; mate in Baltic trade ly; mate in Amsterdam trade 9m; seaman GENERAL
 ELIOTT 1784/5; mate in Straits trade ly 6m; 5th mate BELLMONT 1787/8; mate & master in
 ‘Roan’ trade 6m, 3rd mate BELLMONT 1789/90 & 1791/2
 
@@ -311,7 +295,7 @@ ROCKINGHAM (1) 1795/6
 
 King, John
 4th mate HARRISON 1733/4; 3rd mate WINDHAM (1) 1735/6; 2nd mate MARLBOROUGH
-@ ws
+(4) 1737/8
 
 King, John
 4th mate TAVISTOCK (2) 1748/9
@@ -329,7 +313,7 @@ King, Jonathan (-1738)
 surgeon PRINCESS MARY (1) 1737/8; d 19 Jun 1738
 
 King, Martin (-1742)
-Sth mate PRINCESS MARY (1) 1740/1; d 22 Aug 1742
+5th mate PRINCESS MARY (1) 1740/1; d 22 Aug 1742
 
 King, Nathaniel Edward
 surgeon CONTRACTOR 1797/8, LORD CASTLEREAGH (1) 1802/3
@@ -351,8 +335,9 @@ purser HUDDART 1807/8, 1809/10 & 1812/3
 
 King, Thomas
 5th mate HENRY ADDINGTON (2) 1813/4
+
 King, William
-Sth mate WAGER (2) 1743/4; 4th mate ANSON 1746/7
+5th mate WAGER (2) 1743/4; 4th mate ANSON 1746/7
 
 Kippen, James
 surgeon PRINCESS CHARLOTTE OF WALES 1811/2
@@ -394,23 +379,22 @@ Kirkby, Samuel
 3rd mate ADMIRAL GAMBIER 1812
 
 Kirke, John
-ans! mate LONDON (GS) 16080
+2nd mate LONDON (5) 1698/9
 
 Kirkhouse, Patrick (-1716)
-
-at AVERILLA 1710/1, AURENGZEBE 1713/4, PRINCESS ANNE 1716/7; d 15 Dec
-7
+surgeon AVERILLA 1710/1, AURENGZEBE 1713/4, PRINCESS ANNE 1716/7; d 15 Dec
+1717
 
 Kirkland, Nugent
 Surgeon EARL CORNWALLIS 1790/1, PRINCE WILLIAM HENRY 1792/3
 
 Kirkpatrick, George
-Sth mate BERWICKSHIRE 1829/30
+5th mate BERWICKSHIRE 1829/30
 
-“irkpatrick, John (1766-)
-reed 1766 Scotland; midshipman NEPTUNE (4) 1783/4 & 1785/6; 4th mate EARL TALBOT
-1793/4. mate in Royal Navy 2y; 3rd mate LASCELLES 1791/2; 2nd mate ALBION (2)
-WENA: Ist mate ALBION (2) 1795/6; Ist mate HENRY ADDINGTON (2) 1800/1; Capt
+Kirkpatrick, John (1766-)
+b Dec 1766 Scotland; midshipman NEPTUNE (4) 1783/4 & 1785/6; 4th mate EARL TALBOT
+1793/4; mate in Royal Navy 2y; 3rd mate LASCELLES 1791/2; 2nd mate ALBION (2)
+1793/4; 1st mate ALBION (2) 1795/6; 1st mate HENRY ADDINGTON (2) 1800/1; Capt
 ADDINGTON (2) 1802/3, 1804/5, 1806/7, 1808/9, 1810/1 & 1813/4
 
 Knight, Nicholas
@@ -418,7 +402,7 @@ Knight, Nicholas
 
 Knight, Richard Chalmers (1804-)
 b 26 Mar 1804 Dundee, s of David, sailor, & Alison Chalmers; surgeon’s mate GENERAL KYD
-S289; suigeon GENERAL If) IS0yl; offeg Bombay Asst Surgeon 27 Aug 1841; Bengal
+1828/9; surgeon GENERAL KYD 1830/1; offcg Bombay Asst Surgeon 27 Aug 1841; Bengal
 Uncovenanted Medical Service 1850-53; Bengal Asst Surgeon 4 Feb 1853; d 14 Jun 1860 Bijnor
 active service in Afghanistan 1840, Sind Field Force 1841, Indian Mutiny 1857-58
 
@@ -454,21 +438,23 @@ Snowles, Wilieea
 purser MIDDLESEX (1) 1729/30, DRAKE (1) 1733/4
 
 Knowles, William (1780-)
-
 b 10 Mar 1780 Harwood, Yorks; 4th mate DEVAYNES 1801/2; 3rd mate LORD KEITH
 1803/4; 2nd mate LORD KEITH 1805/6
 
 Knowling, William
 3rd mate BENJAMIN (1) 1746/7
+
 Knox, Alexander
 Surgeon LAPWING (1) 1749/50, PROTECTOR (1) 1751/2
+
 Knox, George
 Purser HARLESTON 1810/1
+
 Knox, John
 Surgeon COMPTON 1735/6
 
 Kynnier, John (c1739-)
-Sth mate LATHAM (1) 1759/60; 3rd mate LATHAM (1) 1762/3; 2nd mate LATHAM 69)
+5th mate LATHAM (1) 1759/60; 3rd mate LATHAM (1) 1762/3; 2nd mate LATHAM 69)
 1766/7; 1st mate LATHAM (2) 1769/70; 1st mate STORMONT (2) 1772/3 (approved 21 Oct
 1772, aged 33); Ist mate VALENTINE (2) 1776/7
 
@@ -480,7 +466,7 @@ BARING 1808/9; 2nd mate BARING 1810/1 & 1812/3
 Kynnier, William
 purser BARING 1808/9 & 1810/1
 
-eve, Robert 1773-)
+Kyte, Robert 1773-)
 b 13 May 1773 Hammersmith, Middx, 4th s of Rev Joshua; Capt’s servant BUSBRIDGE 1786/7;
 midshipman PIGOT (2) 1788/9; midshipman WOODFORD (1) 1790/1; 5th mate
 HILLSBOROUGH (2) 1792/3; 4th mate LORD THURLOW 1794/5; 3rd mate MARQUIS OF
@@ -488,4 +474,3 @@ LANSDOWN 1796/7; run 4 Oct 1797
 
 Kyte, Samuel (-1764)
 surgeon NORTHUMBERLAND (2) 1763/4; d 11 Jun 1764
-

@@ -181,6 +181,8 @@ for row in voyages_df.iterrows():
             call_id = 0
             for call in calls:
                 call_id += 1
+                for word in ["left", "off", "in"]:
+                    call = call.strip(word)
                 call = call.strip()
                 call_parts = call.split(" ")
                 month = "nan"

@@ -667,7 +667,7 @@ L/MAR/B/551C	Journal 26	Sep	1763-1 Dec	1766
 L/MAR/B/551G(1)	Ledger
 L/MAM/B/551 G(2)	Pay Book
 Capt Roger Mainwaring
-Downs 6 1764 - 22 Jan 1765 Madeira - 4 May Johnna - 5 Jul Madras - 11 Oct Whampoa - Second I 11 Feb 1766 - 23 Mar Bantam - 9 Jul St Helena - 27 Oct Downs
+Downs 6 1764 - 22 Jan 1765 Madeira - 4 May Johanna - 5 Jul Madras - 11 Oct Whampoa - Second Bar 11 Feb 1766 - 23 Mar Bantam - 9 Jul St Helena - 27 Oct Downs
 4	1767/8	St Helena and China
 L/MAR/B/551D	Journal 2 Nov 1767-10 Aug 1769
 L/MAR/B/551H(1)	Ledger
@@ -1017,7 +1017,7 @@ L/MAR/B/297D	Journal 24 Feb	1761-7 Sep 1763
 L/MAR/B/297U(1)	Ledger
 L/MAR/B/297U(2)	Pay Book
 Capt Thomas Crichton
-Portsmouth 26 May 1761 - 15 Aug Rio dc Janeiro - 12 Dec Anjengo - 15 Dec Cochin - 20 Dec Tellicherry - 11 Jan 1762 Bombay - 9 Mar Surat - 18 Mar Bombay - 1 Apr Surat - 26 Apr Bombay - 13 May Tellicheny - 30 May Madras - 19 Jul Malacca -19 Aug Whampoa - 21 Jan 1763 ‘Pulo Auroe’ - 14 Apr St Helena -15 Jul Downs
+Portsmouth 26 May 1761 - 15 Aug Rio de Janeiro - 12 Dec Anjengo - 15 Dec Cochin - 20 Dec Tellicherry - 11 Jan 1762 Bombay - 9 Mar Surat - 18 Mar Bombay - 1 Apr Surat - 26 Apr Bombay - 13 May Tellicheny - 30 May Madras - 19 Jul Malacca -19 Aug Whampoa - 21 Jan 1763 ‘Pulo Auroe’ - 14 Apr St Helena -15 Jul Downs
 2	1764/5	Madras and Bombay
 L/MAR/B/297E	Journal 6 Jan 1765-27 Oct 1766
 L/MAR/B/297V(1)	Ledger
