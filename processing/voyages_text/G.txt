@@ -244,7 +244,7 @@ L/MAR/B/32C	Journal 24	Oct	1816-8	Oct	1818
 L/MAR/B/32L(1)	Ledger
 L/MAK/B/32L(2)	Pay Book
 Capt George Welstead
-Downs 7 Jan 1817 - 31 Mar Cape - 31 May Bombay - 22 Dec Batavia - 22 Feb 1818 Whmpoa - 16 Mar Second Bar - 27 Apr Penang -10 Aug St Helena - 6 Oct Downs
+Downs 7 Jan 1817 - 31 Mar Cape - 31 May Bombay - 22 Dec Batavia - 22 Feb 1818 Whampoa - 16 Mar Second Bar - 27 Apr Penang -10 Aug St Helena - 6 Oct Downs
     4 1818/9	China
 L/MAM/B/32D	Journal 25	Jan	1819-31	Jul	1820
 L/MAR/B/32M(1)	Ledger
@@ -708,7 +708,7 @@ L/MAR/B/464C	Journal 17 Dec	1774-25 Sep 1776
 L/MAR/B/464H(1)	Ledger
 L/MAR/B/464H(2)	Pay Book
 Capt Francis Reed
-Portsmouth 23 Mar 1775 - 22 Jul Madagascar -17 Sep Madras - 9 Nov Ingeli - left Bengal 1 Feb 1776 - 17 May St Helena -17 Aug Downs
+Portsmouth 23 Mar 1775 - 22 Jul Madagascar -17 Sep Madras - 9 Nov Hugli - left Bengal 1 Feb 1776 - 17 May St Helena -17 Aug Downs
     3 1777/8	Madras and Bengal
 L/MAR/B/464D	Journal 31 Oct	1777-3 Mar 1780
 L/MAR/B/464-I(l)	Ledger
@@ -732,7 +732,7 @@ L/MAR/B/594B	Journal 30	Sep 1734-17 Jul 1736
 L/MAR/B/594L(1)	Ledger
 L/MAR/B/594L(2)	Pay Book
 Capt Francis Steward
-Downs 20 Jan 1735 - 7 Apr Cape - 16 Jun Madras - 6 Jul Rogues River -13 Oct Ingeli - 17 Dec Madras - 9 Mar 1736 Cape - 27 Mar St Helena - 6 Jul Downs
+Downs 20 Jan 1735 - 7 Apr Cape - 16 Jun Madras - 6 Jul Rogues River -13 Oct Hugli - 17 Dec Madras - 9 Mar 1736 Cape - 27 Mar St Helena - 6 Jul Downs
     2 1737/8	Madras and China
 L/MAM/B/594C Journal 2 Aug 1737-8 Aug 1739 L/MAM/B/594M(1)	Ledger
 L/MAR/B/594M(2)	Pay Book
@@ -749,7 +749,7 @@ L/MAM/B/594E	Journal 19 Dec	1743-25	Mar	1746
 L/MAR/B/594-0(l)	Ledger
 L/MAR/B/594-O(2)	Pay Book
 Capt John Stevens
-Downs 31 Mar 1744 - 29 Aug Benkulen -17 Dec Ryapore -14 Feb 1745 Ingeli -17 Jun St Helena - 17 Sep Galway - 20 Dec Downs
+Downs 31 Mar 1744 - 29 Aug Benkulen -17 Dec Ryapore -14 Feb 1745 Hugli -17 Jun St Helena - 17 Sep Galway - 20 Dec Downs
 GODOLPHIN (3)
 Rated at 499 tons, 99 crew, 30 guns
     1 1747/8	St Helena and Benkulen
@@ -761,7 +761,7 @@ Downs 9 Mar 1748 - 30 May St Helena - 24 Sep Benkulen -15 Oct Moco Moco - 29 Oct
     2 1751/2	Madras and Bengal
 L/MAR/B/594G Journal 22 Nov 1751-20 May 1753, John White, Chief Mate L/MAM/B/594Q(1)	Ledger
 L/MAR/B/594Q(2) Pay Book Capt William Hutchinson
-Downs 1 Feb 1752 - 11	Jun Fort St David -13 Jun Madras - 24	Jul	Calcutta - 30 Jan 1753	Ingeli -
+Downs 1 Feb 1752 - 11	Jun Fort St David -13 Jun Madras - 24	Jul	Calcutta - 30 Jan 1753	Hugli -
     2 Mar Madras - 28 Mar	Fort St David - 2 Apr Madras - 26 May	Benkulen - 26 Jun Batavia -	27	Nov
 Cape - 23 Dec St Helena -16 Apr 1754 Downs
     3 1755/6	Madras and China
@@ -775,8 +775,8 @@ L/MAR/B/594I-J	Journal 27	Feb	1759-23	Jul	1763,	Collingwood Roddam, Second Mate
 L/MAR/B/594S(1)	Ledger
 L/MAR/B/594S(2)	Pay Book
 Capt William Hutchinson
-Downs 23 Apr 1759 - 27 Aug Moheli - 26 Sep Bombay - 28 Jan 1760 Muscat -12 Feb Bandar Abbas -17 Apr Bombay - 24 May Tellicherry -17 Jun Madras - 28 Jul Culpee -13 Jan 1761 Ingeli -13 Feb Madras - 3 Apr Mokha - 8 May Jiddah -17 Aug Mokha - 8 Sep Bombay - 25 Nov Tellicherry - 21 Jan
-    1762 Masulipatam - 20 Feb Kedgeree - 30 Apr Calcutta - 30 Aug Culpee -13 Sep Ingeli -15 Jan
+Downs 23 Apr 1759 - 27 Aug Moheli - 26 Sep Bombay - 28 Jan 1760 Muscat -12 Feb Bandar Abbas -17 Apr Bombay - 24 May Tellicherry -17 Jun Madras - 28 Jul Culpee -13 Jan 1761 Hugli -13 Feb Madras - 3 Apr Mokha - 8 May Jiddah -17 Aug Mokha - 8 Sep Bombay - 25 Nov Tellicherry - 21 Jan
+    1762 Masulipatam - 20 Feb Kedgeree - 30 Apr Calcutta - 30 Aug Culpee -13 Sep Hugli -15 Jan
     1763 St Helena - 2 Jul Downs
 GODSPEED
 Pinnace, 60 tons
@@ -912,7 +912,7 @@ Downs 4 Feb 1725 - 4 Jul St Helena -18 Nov Benkulen - 24 Jan 1726 Moco Moco - 7 
     2 1728/9	Madras and Bengal
 L/MAR/B/617E Journal 9 Jan 1729-10 Sep 1730, John Aston, Chief Mate L/MAR/B/617M(1) Ledger L/MAM/B/617M(2)	Pay Book
 Capt Timothy Field
-Downs 6 Mar 1729 - 20 Jul Maldives -1 Aug Fort St David - 7 Aug Madras -12 Sep Calcutta - 18 Jan 1730 Ingeli -16 Jun St Helena - 10 Sep Sheemess
+Downs 6 Mar 1729 - 20 Jul Maldives -1 Aug Fort St David - 7 Aug Madras -12 Sep Calcutta - 18 Jan 1730 Hugli -16 Jun St Helena - 10 Sep Sheemess
     3 1731/2	Madras and Bengal
 L/MAR/B/617F	Journal 7 Sep 1731-9 Aug 1733, Roger Hale, Chief Mate
 L/MAR/B/617N	Ledger
@@ -929,7 +929,7 @@ L/MAWB/617H	Journal 15 Feb	1739-18 Sep 1740
 L/MAR/B/617P(1)	Ledger
 L/MAR/B/617P(2) Pay Book
 Capt Roger Hale
-Portsmouth 11 Mar 1739 - 20 Jul Madras - 28 Sep Calcutta - 28 Nov Ingeli - 23 Mar 1740 St Helena - 17 Sep Downs
+Portsmouth 11 Mar 1739 - 20 Jul Madras - 28 Sep Calcutta - 28 Nov Hugli - 23 Mar 1740 St Helena - 17 Sep Downs
     6 1741/2	Bengal and Benkulen
 L/MAWB/617-I	Journal 18 Jan	1742-28 Feb 1744
 L/MAR/B/617Q(1)	Imprest Book
@@ -973,7 +973,7 @@ L/MAR/B/488D	Journal 29 Oct	1728-8	Sep	1730, anon
 L/MAR/B/488J (1)	Ledger
 L/MAR/B/488J(2)	Pay Book
 Capt Richard Lasinby
-Downs 14 Dec 1728 - 23 May 1729 Madras - 4 Jul Vizagapatam -18 Jul Calcutta -19 Dec Ingeli - 6 Jan 1730 Vizagapatam - 20 Jan Madras - 21 Jun St Helena -10 Sep Downs
+Downs 14 Dec 1728 - 23 May 1729 Madras - 4 Jul Vizagapatam -18 Jul Calcutta -19 Dec Hugli - 6 Jan 1730 Vizagapatam - 20 Jan Madras - 21 Jun St Helena -10 Sep Downs
     4 1731/2	Bombay
 L/MAR/B/488E	Journal 18 Jan	1732-12	Sep	1733
 L/MAR/B/488K	Ledger
@@ -999,12 +999,12 @@ L/MAM/B/488H	Journal 23	Oct	1771-27	Jun	1773
 L/MAM/B/488N(1)	Ledger
 L/MAR/B/488N(2) Pay Book
 Capt Robert Carr
-Portsmouth 31 Dec 1771 -15 Jan 1772 Madeira - 5 May Cape -18 Jun Johanna -16 Jul Madras - 22 Aug Culpee - 21 Nov Ingeli - 28 Feb 1773 Cape - 8 Apr St Helena - 24 Apr Ascension - 21 Jun Downs
+Portsmouth 31 Dec 1771 -15 Jan 1772 Madeira - 5 May Cape -18 Jun Johanna -16 Jul Madras - 22 Aug Culpee - 21 Nov Hugli - 28 Feb 1773 Cape - 8 Apr St Helena - 24 Apr Ascension - 21 Jun Downs
     4 1775/6	Madras and Bengal
 L/MAM/B/488-I Journal 9 Oct 1775-20 Aug 1777 L/MAR/B/488-0(l)	Ledger
 L/MAR/B/488-0(2)	Pay Book
 Capt Robert Carr
-Falmouth 7 Jan 1776 - 1 Apr Cape - 2 Jun Madras - 2 Jul Culpee - 25 Aug Ingeli - 20 Sep Madras - 3 Dec Mauritius - 8 Dec Reunion -17 Jan 1777 Cape -11 Mar St Helena - 23 Jul Downs
+Falmouth 7 Jan 1776 - 1 Apr Cape - 2 Jun Madras - 2 Jul Culpee - 25 Aug Hugli - 20 Sep Madras - 3 Dec Mauritius - 8 Dec Reunion -17 Jan 1777 Cape -11 Mar St Helena - 23 Jul Downs
 GRENVILLE
 Built by Wells, launched 1764, 3 decks, 3in bottom, rated at 499 tons, 99 crew, 26 guns Principal Managing Owners: 1-3 John Durand, 4 William Nixon
 1	1764/5 Madras and Bengal
@@ -1012,7 +1012,7 @@ L/MAM/B/467A	Journal 11 Dec 1764-23	Sep 1766
 L/MAR/B/467F(1)	Ledger
 L/MAR/B/467F(2)	Pay Book
 Capt Parson Fenner
-Downs 4 Mar 1765 - 29 Sao Tiago - 5 Jul Cape - 5 Sep Madras -15 Oct Kedgeree - 8 Dec Ingeli - 30 May 1766 St Helena - 21 Aug Downs
+Downs 4 Mar 1765 - 29 Sao Tiago - 5 Jul Cape - 5 Sep Madras -15 Oct Kedgeree - 8 Dec Hugli - 30 May 1766 St Helena - 21 Aug Downs
 2	1767/8 Madras and Bombay
 L/MAR/B/467B	Journal 21	Jan 1768-1 Dec 1769
 L/MAM/B/467G(1)	Ledger
@@ -1091,7 +1091,7 @@ L/MAR/B/495B	Journal 11 Nov 1764-18 Oct	1766
 L/MAM/B/495H(1)	Ledger
 L/MAR/B/495H(2)	Pay Book
 Capt David Saunders
-Downs 1 Feb 1765 - 1 Mar Sao Tiago - 4 May Benkulen - 29 Aug Whampo - 8 Jan 1766 Second Bar - 30 Mar Benkulen - 7 Jul St Helena -19 Sep Downs
+Downs 1 Feb 1765 - 1 Mar Sao Tiago - 4 May Benkulen - 29 Aug Whampoa - 8 Jan 1766 Second Bar - 30 Mar Benkulen - 7 Jul St Helena -19 Sep Downs
     3 1767/8	Madras and China
 L/MAR/B/495C	Journal 21 Oct 1767-11 Jul 1769
 L/MAR/B/495-I(l)	Ledger
@@ -1117,7 +1117,7 @@ L/MAM/B/495F	Journal 31 Oct 1777-16 Nov 1779
 L/MAR/B/495L(1)	Ledger
 L/MAR/B/495L(2)	Pay Book
 Capt John Coxon
-Plymouth 9 Feb 1778 - 15 May Johanna -12 Jun Madras - 15 Jul Culpee - 27 Oct Ingeli - 26 Nov Barrabulla - 8 Mar 1779 St Helena - 4 Sep Shannon -16 Nov Downs
+Plymouth 9 Feb 1778 - 15 May Johanna -12 Jun Madras - 15 Jul Culpee - 27 Oct Hugli - 26 Nov Barrabulla - 8 Mar 1779 St Helena - 4 Sep Shannon -16 Nov Downs
     2 1779/80 Madras and Bengal
 L/MAR/B/495M(1)	Imprest Book
 L/MAR/B/495M(2)	Absence Book

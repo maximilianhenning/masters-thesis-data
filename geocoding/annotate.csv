@@ -193,6 +193,7 @@ East Lothian;persons_baptised;55.55;-2.45
 Wigtown;persons_baptised;54.87;-4.439
 Hobart;calls;-42.525;147.193
 Gogha;calls;21.68;72.28
+Hugli;calls;21.9746, 88.1305
 Hugh;calls;;
 voyages to Sumatra 1624, Lagundy 1625, Coromandel;calls;;
 27, Sumatra &;calls;;
@@ -768,7 +769,7 @@ off Dungeness;calls;;
 Sillebar;calls;;
 Downs See D/99 ff.5;calls;;
 for a crew list;calls;;
-Maldives;calls;;
+Maldives;calls;4.18;73.51
 Sheemess;calls;;
 lostFolkestone;calls;;
 captured by the Frenchthe Cape;calls;;
@@ -1081,7 +1082,7 @@ Lye Road;calls;;
 not heard of after the;calls;;
 King's Channel;calls;;
 Tamborneo;calls;;
-Iceland;calls;;
+Iceland;calls;64.1238;-21.9553
 Gunfleet;calls;;
 Malacca Whampoa;calls;;
 New Year's Island;calls;;
@@ -1107,7 +1108,7 @@ off Java Head;calls;;
 captured by the FrenchAnger Point;calls;;
 Croce;calls;;
 Geriah;calls;;
-East India Docks;calls;;
+East India Docks;calls;51.30292;0.00035
 taken by the FrenchSt Helena;calls;;
 burntSan Salvadore;calls;;
 along Sumatra coast;calls;;

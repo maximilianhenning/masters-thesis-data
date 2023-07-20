@@ -23,7 +23,7 @@ L/MAR/B/356C	Journal 7 Nov 1767-4 Aug	1769
 L/MAR/B/356-0(l)	Ledger
 L/MAM/B/356-0(2)	Pay Book
 Capt George Stainforth
-Torbay 29 Jan 1768 - 13 Jul Madras - 22 Aug Culpee -12 Dec Ingeli -18 Jan 1769 Barrabulla - 29 Mar Cape - 24 Apr St Helena - 3 Jul Downs
+Torbay 29 Jan 1768 - 13 Jul Madras - 22 Aug Culpee -12 Dec Hugli -18 Jan 1769 Barrabulla - 29 Mar Cape - 24 Apr St Helena - 3 Jul Downs
 2	1770/1	Madras and China
 L/MAR/B/356D	Journal 7 Sep 1770-26 Oct	1772
 L/MAM/B/356P(1)	Ledger
@@ -57,13 +57,13 @@ L/MAR/B/356H	Journal 16	Nov 1785-1	Oct	1788
 L/MAR/B/356T(1)	Ledger
 L/MAR/B/356T(2)	Pay Book
 Capt Peter Douglas
-Downs 20 Feb 1786 - 16 Mar Madeira -1 Jul Johanna - 23 Jul Bombay - 28 Oct Tellicherry - 4 Dec Kedgeree -13 Mar 1787 Saugor - 25 Apr Tellicheny - 8 May Bombay - 25 Aug Malacca - 2 Oct Whampoa - 31 Jan 1788 Second Bar -12 Jun St Helena - 25 Aug Downs
+Downs 20 Feb 1786 - 16 Mar Madeira -1 Jul Johanna - 23 Jul Bombay - 28 Oct Tellicherry - 4 Dec Kedgeree -13 Mar 1787 Saugor - 25 Apr Tellicherry - 8 May Bombay - 25 Aug Malacca - 2 Oct Whampoa - 31 Jan 1788 Second Bar -12 Jun St Helena - 25 Aug Downs
 2	1789/90 Madras, Bengal and Bombay
 L/MAR/B/356-I	Journal 31	Jan 1790-21	Jun	1792
 L/MAR/B/356U(1)	Ledger
 L/MAR/B/356U(2)	Pay Book
 Capt Peter Douglas
-Downs 5 Apr 1790 - 20 Apr Madeira - 5 Sep Madras - 25 Sep Masulipatam - 1 Nov Culpee - 26 Dec Diamond Harbour -15 Jan 1791 Ingeli - 2 Feb Madras - 23 Mar Cannanore - 25 Mar Tellicheny - 11 Apr Anjengo - 24 Apr Cochin -26 Apr Tellicherry -13 May Bombay - 25 Sep Diamond Harbour - 4 Nov Saugor -15 Feb 1792 Cape - 6 Mar St Helena - 17 May Downs
+Downs 5 Apr 1790 - 20 Apr Madeira - 5 Sep Madras - 25 Sep Masulipatam - 1 Nov Culpee - 26 Dec Diamond Harbour -15 Jan 1791 Hugli - 2 Feb Madras - 23 Mar Cannanore - 25 Mar Tellicherry - 11 Apr Anjengo - 24 Apr Cochin -26 Apr Tellicherry -13 May Bombay - 25 Sep Diamond Harbour - 4 Nov Saugor -15 Feb 1792 Cape - 6 Mar St Helena - 17 May Downs
 3	1793/4	Madras and Bengal
 L/MAR/B/412A	Journal 25 Nov 1793-11 Jan 1796
 L/MAR/B/356Y(1)	Ledger
@@ -110,7 +110,7 @@ L/MAR/B/631B	Journal 20 Jan	1741-16	Nov	1742
 L/MAR/B/631F(1)	Ledger
 L/MAR/B/631F(2)	Pay Book
 Capt Charles Birkhead
-Downs 16 Apr 1741 - 7 Aug Johanna - 29 Sep Bombay - 22 Nov Surat - 2 Jan 1742 Bombay - 1 Feb Tellicheny -10 Feb Cochin - 2 May Cape - 30 May St Helena - 23 Sep Downs
+Downs 16 Apr 1741 - 7 Aug Johanna - 29 Sep Bombay - 22 Nov Surat - 2 Jan 1742 Bombay - 1 Feb Tellicherry -10 Feb Cochin - 2 May Cape - 30 May St Helena - 23 Sep Downs
 
 
 

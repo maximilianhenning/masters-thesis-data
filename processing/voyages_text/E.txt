@@ -413,7 +413,7 @@ L/MAR/B/559C	Journal 16 Dec	1766-24 Sep 1768
 L/MAM/B/559G(1)	Ledger
 L/MAM/B/559G(2)	Pay Book
 Capt Thomas Cooke
-Downs 8 Mar 1767 - 21 Jul Madras - 5 Aug Kedgeree - 5 Sep Ingeli -10 Oct Vizagapatam - 29 Nov Kedgeree - 20 May 1768 St Helena - 7 Jun Ascension - 23 Aug Downs
+Downs 8 Mar 1767 - 21 Jul Madras - 5 Aug Kedgeree - 5 Sep Hugli -10 Oct Vizagapatam - 29 Nov Kedgeree - 20 May 1768 St Helena - 7 Jun Ascension - 23 Aug Downs
 4	1769/70	Madras and China
 L/MAR/B/559D	Journal 17 Oct	1769-1 Oct 1772, Matthew Wilkinson, Chief Mate
 L/MAM/B/559H(1)	Ledger
@@ -506,7 +506,7 @@ Second Bar -17 Mar 1790 St Helena - 23
 Downs
 EARL OF MIDDLESEX
 Built by Perry, launched 1763, 3 decks, 3in bottom, 26 guns, 657 tons Principal Managing Owners; 1-2 Andrew Moffatt, 3 Charles Raymond
-Downs 7 Apr 1763 - -21 Jul St Augustine’s Bay - 27 Aug Bombay - 22 Oct Tellicherry - 31 Dec Ingeli -	24 May 1764 Mauritius - 7 Jul Bourbon - 30 Aug Batavia - 10 Nov Prince’s Island - 27 Dec Batavia -	13 Feb 1765 Onroot - 26 Mar Batavia - 29 Apr Benkulen - 27 May Madras -1 Sep Cuddalore - 18 Sep Madras - 14 Dec Mauritius -15 Feb 1766 St Helena - 28 May Downs
+Downs 7 Apr 1763 - -21 Jul St Augustine’s Bay - 27 Aug Bombay - 22 Oct Tellicherry - 31 Dec Hugli -	24 May 1764 Mauritius - 7 Jul Bourbon - 30 Aug Batavia - 10 Nov Prince’s Island - 27 Dec Batavia -	13 Feb 1765 Onroot - 26 Mar Batavia - 29 Apr Benkulen - 27 May Madras -1 Sep Cuddalore - 18 Sep Madras - 14 Dec Mauritius -15 Feb 1766 St Helena - 28 May Downs
 2	1766/7 St Helena and Benkulen 
 L/MAR/B/579B	Journal 4 Oct 1766-20 Aug	1768
 L/MAR/B/579E(1)	Ledger
@@ -707,7 +707,7 @@ L/MAR/B/227F	Journal 9 Apr 1808-23	Feb	1810
 L/MAR/B/227M(1)	Ledger
 L/MAR/B/227M(2)	Pay Book
 Capt George Heming
-Portsmouth 10 Jun 1808 - 24 Jun Madeira - 16 Nov Diamond Harbour - 2 Jan 1809 Calcutta -14 Mar saugor - 4 Jun Penang - 14 Nov St Helena -19 Jan 1810 Downs
+Portsmouth 10 Jun 1808 - 24 Jun Madeira - 16 Nov Diamond Harbour - 2 Jan 1809 Calcutta -14 Mar Saugor - 4 Jun Penang - 14 Nov St Helena -19 Jan 1810 Downs
 6	1809/10	Bengal
 L/MAR/B/227G	Journal 9 Apr 1810-22	Oct	1811
 L/MAR/B/227N(1)	Ledger
@@ -786,19 +786,19 @@ L/MAR/B/586B Deck Log 31 Jan 1751-19 Sep 1752
 L/MAR/B/586F(1) Ledger
 L/MAR/B/586F(2) Pay Book
 Capt William Earl Benson
-Downs 20 Mar 1751-5 Jul Johanna - 2 Aug Bombay - 25 Sep Sural - 24 Oct Bombay - 17 Nov Sural - 19 Jan 1752 Bombay - 29 Feb Karwar - 10 Mar Teilicherry - 18 Mar Anjengo - 11 Jun St Helena - 19 Aug Long Reach
+Downs 20 Mar 1751-5 Jul Johanna - 2 Aug Bombay - 25 Sep Surat - 24 Oct Bombay - 17 Nov Surat - 19 Jan 1752 Bombay - 29 Feb Karwar - 10 Mar Tellicherry - 18 Mar Anjengo - 11 Jun St Helena - 19 Aug Long Reach
 3	1754/5	Madras and Bengal
 L/MAR/B/586C	Journal 3 Dec	1754-24 Dec	1756
 L/MAR/B/586G(1)	Ledger
 L/MAR/B/586G(2)	Pay Book
 Capt Arthur Evans
-Downs 17 Feb 1755 - 13 May Sao Tiago - 2 Jul Madras - 9 Aug Vizagapatam - 26 Aug Culpce - 30 Dec Ingcli - 28 Jan 1756 Madras - 10 Jun St Helena - 4 Sep Galway - 10 Nov Long Reach
+Downs 17 Feb 1755 - 13 May Sao Tiago - 2 Jul Madras - 9 Aug Vizagapatam - 26 Aug Culpce - 30 Dec Hugli - 28 Jan 1756 Madras - 10 Jun St Helena - 4 Sep Galway - 10 Nov Long Reach
 4	1757/8	Bombay
 L/MAR/B/5861D)	Journal 25 Mar 1758-1 Apr	1760, Richard Hall, Chief Male
 L/MAR/B/586H(1)	Ledger
 L/MAR/B/586H(2)	Pay Book
 Capt Arthur Evans
-Downs 3 Jul 1758 - 22 Oct Cape - 30 Jan 1759 Anjengo - 3 Feb Cochin - 11 Feb Tellicheny - 1 Mar Bombay - 26 Aug St Helena - 15 Nov Cork - 12 Jan 1760 Kinsaie - 12 Feb Downs
+Downs 3 Jul 1758 - 22 Oct Cape - 30 Jan 1759 Anjengo - 3 Feb Cochin - 11 Feb Tellicherry - 1 Mar Bombay - 26 Aug St Helena - 15 Nov Cork - 12 Jan 1760 Kinsaie - 12 Feb Downs
 EAST INDIA MERCHANT (1)
 2 decks, rated at 300/430 tons, 70 crew
 1	1649/50	Bantam
@@ -890,7 +890,7 @@ Downs 13 Nov 1743 - 14 Feb 1744 Cape - 3 May Mokha - 2 Sep Bombay -12 Dec Tellic
 L/MAR/B/622D Journal 13 Aug 1747-11 Oct 1750, Edward Tiddeman, Chief Mate 
 L/MAR/B/622H(1) Ledger 
 L/MAR/B/622H(2) Pay Book Capt John Hereford
-Downs 5 Oct 1747 - 13 Dec Madeira -15 Jan 1748 Porto Praya - 15 Apr Cape - 24 Jun Mauritius - 28 Jul Fort St David -12 Aug Pondicherry - 8 Oct Fort St David - 4 Nov Madras - 13 Nov Trincomalee -17 Mar 1749 Fort St David -19 Apr Connimere - 20 May Calcutta - 10 Jan 1750 Ingeli - 24 Jan St Helena - 22 Sep Downs
+Downs 5 Oct 1747 - 13 Dec Madeira -15 Jan 1748 Porto Praya - 15 Apr Cape - 24 Jun Mauritius - 28 Jul Fort St David -12 Aug Pondicherry - 8 Oct Fort St David - 4 Nov Madras - 13 Nov Trincomalee -17 Mar 1749 Fort St David -19 Apr Connimere - 20 May Calcutta - 10 Jan 1750 Hugli - 24 Jan St Helena - 22 Sep Downs
 4	1752/3 Madras and China
 L/MAR/B/622E	Journal 23	Oct 1752-16 Jul 1754
 L/MAR/B/622-I(l)	Ledger
@@ -987,13 +987,13 @@ Built by Wells, launched 1766, 3 decks, 3in bottom, length 138115in, keel 11211 
 L/MAR/B/535E Journal 3 Dec 1766-9 Jan 1769 L/MAM/B/535M(1)	Ledger
 L/MAM/B/535M(2)	Pay Book
 Capt Charles Mears
-Downs 4 Mar 1767 - 20 Jun Johanna - 26 Jul Madras - 2 Sep Kedgeree -1 Dec Ingeli - 9 Jan 1768 Masulipatam - 25 Jan Madras -1 Jul Port Louis -1 Aug St Helena - 20 Nov Downs
+Downs 4 Mar 1767 - 20 Jun Johanna - 26 Jul Madras - 2 Sep Kedgeree -1 Dec Hugli - 9 Jan 1768 Masulipatam - 25 Jan Madras -1 Jul Port Louis -1 Aug St Helena - 20 Nov Downs
 2	1769/70	Madras and Bengal
 L/MAM/B/535F	Journal 13 Nov	1769-15 Oct 1771
 L/MAM/B/535N(1)	Ledger
 L/MAM/B/535N(2)	Pay Book
 Capt Charles Mears
-Downs 21 Feb 1770 - 10 Mar Tenerife - 23 Apr Ascension - 24 Jun Johanna - 25 Jul Madras - 25 Aug Masulipatam -15 Oct Culpee -12 Feb 1771 Ingeli - 2 Mar Madras - 30 Jul St Helena -11 Sep Downs
+Downs 21 Feb 1770 - 10 Mar Tenerife - 23 Apr Ascension - 24 Jun Johanna - 25 Jul Madras - 25 Aug Masulipatam -15 Oct Culpee -12 Feb 1771 Hugli - 2 Mar Madras - 30 Jul St Helena -11 Sep Downs
 3	1772/3	Madras and Bengal
 L/MAM/B/535G	Journal 24 Nov	1772-24 Aug 1774
 L/MAM/B/535-0(l)	Ledger
@@ -1056,18 +1056,18 @@ Rated at 499 tons, 99 crew, 30 guns
 1	1743/4	Bombay
 L/MAR/B/102A	Journal 20 Jan 1744-26 Aug 1746, Charles Mason, Second Mate
 L/MAR/B/102H(1) Ledger L/MAM/B/102H(2) Pay Book Capt Richard Pinnell
-Portsmouth 28 Apr 1744 - 25 Sep Cape - 22 Jan 1745 Anjengo -1 Mar Tellicheny - 24 Mar Bombay - 23 Oct Goa - 7 Nov Tellicherry - 30 Nov Cochin - 5 Dec Anjengo -21 Feb 1746 Cape -11 Jun Galway - 25 Jul Downs
+Portsmouth 28 Apr 1744 - 25 Sep Cape - 22 Jan 1745 Anjengo -1 Mar Tellicherry - 24 Mar Bombay - 23 Oct Goa - 7 Nov Tellicherry - 30 Nov Cochin - 5 Dec Anjengo -21 Feb 1746 Cape -11 Jun Galway - 25 Jul Downs
 2	1747/8	Fort St David
 L/MAR/B/102B-C Journal 29 Jul 1747-3 Jun 1751, Edward Wills, Chief Mate L/MAR/B/102-I(1)	Ledger
 L/MAR/B/102-I(2)	Pay Book
 Capt Ambrose Laurence
-Portsmouth 9 Oct 1747 - 15 Dec Madeira -12 Jan 1748 Sao Tiago - 28 Mar Cape - 24 Jun Mauritius - 28 Jul Fort St David -10 Aug Pondicherry - 8 Oct Fort St David - 28 Nov Anjengo -13 Dec Tellicherry - 4 Jan 1749 Bombay - 30 Apr Calicut - 7 May Anjengo - 21 May Fort St David - 2 Jul Rogues River - 2 Aug Ingeli - 21 Sep Madras - 6 Oct Fort St David - 24 Nov Acheh - 26 Dec Fort St David -19 Jul 1750 Delagoa Bay -11 Dec Cape -11 Feb 1751 St Helena - 8 May Downs
+Portsmouth 9 Oct 1747 - 15 Dec Madeira -12 Jan 1748 Sao Tiago - 28 Mar Cape - 24 Jun Mauritius - 28 Jul Fort St David -10 Aug Pondicherry - 8 Oct Fort St David - 28 Nov Anjengo -13 Dec Tellicherry - 4 Jan 1749 Bombay - 30 Apr Calicut - 7 May Anjengo - 21 May Fort St David - 2 Jul Rogues River - 2 Aug Hugli - 21 Sep Madras - 6 Oct Fort St David - 24 Nov Acheh - 26 Dec Fort St David -19 Jul 1750 Delagoa Bay -11 Dec Cape -11 Feb 1751 St Helena - 8 May Downs
 3	1752/3	Madras and Bengal
 L/MAR/B/102D	Journal 5 Dec 1752-3 Oct 1755, George Hayter, Second Mate
 L/MAR/B/102J(1)	Ledger
 L/MAR/B/102J(2)	Pay Book
 Capt Edward Wills
-Downs 1 Feb 1753 - 16 Mar Sao Tiago -12 Jun Johanna - 30 Jul Madras -1 Sep Rogues River - 15 Jan 1754 Ingeli - 25 Feb Anjengo - 3 Mar Cochin - 3 May Bombay -15 Sep Anjengo -17 Oct Culpee - 25 Dec Ingeli - 8 Feb 1755	Benkulen - 22 Feb Manna - 2 May St Helena - 23 Aug Downs
+Downs 1 Feb 1753 - 16 Mar Sao Tiago -12 Jun Johanna - 30 Jul Madras -1 Sep Rogues River - 15 Jan 1754 Hugli - 25 Feb Anjengo - 3 Mar Cochin - 3 May Bombay -15 Sep Anjengo -17 Oct Culpee - 25 Dec Hugli - 8 Feb 1755	Benkulen - 22 Feb Manna - 2 May St Helena - 23 Aug Downs
 L/MAR/B/102E Journal 23 Jan 1757 - 27 Mar 1759
 L/MAR/B/102K(1) Ledger
 L/MAR/B/102K(2) Pay Book
@@ -1353,13 +1353,13 @@ L/MAM/B/425A	Journal 18	Dec 1766-3	Aug	1768
 L/MAM/B/425K(1)	Ledger
 L/MAM/B/425K(2)	Pay Book
 Capt Henry Hinde Pelly
-Downs 8 Mar 1767 - 8 Apr Sao Tiago - 29 Jul Johanna - 7 Oct Ingeli - 2 Nov Culpee -14 Apr 1768 St Helena -11 Jul Blackwall
+Downs 8 Mar 1767 - 8 Apr Sao Tiago - 29 Jul Johanna - 7 Oct Hugli - 2 Nov Culpee -14 Apr 1768 St Helena -11 Jul Blackwall
 2	1769/70	Madras and Bengal
 L/MAR/B/425B	Journal 30	Sep 1769-10 Aug	1771
 L/MAM/B/425L(1)	Ledger
 L/MAM/B/425L(2)	Pay Book
 Capt Henry Hinde Pelly
-Torbay 31 Dec 1769 - 13 Jan Madeira -16 Apr Cape - 29 Jun Madras - 24 Jul Culpee - 23 Nov Ingeli - 8 Apr 1771 Cape -1 May St Helena - 9 Jul Downs
+Torbay 31 Dec 1769 - 13 Jan Madeira -16 Apr Cape - 29 Jun Madras - 24 Jul Culpee - 23 Nov Hugli - 8 Apr 1771 Cape -1 May St Helena - 9 Jul Downs
 3	1772/3	Bombay and Mokha
 L/MAM/B/425C	Journal 24	Dec	1772-2 Jun 1775
 L/MAM/B/425M(1)	Ledger
@@ -1371,7 +1371,7 @@ L/MAR/B/425D	Journal 13	Nov	1776-19 Jun 1778
 L/MAM/B/425N(1)	Ledger
 L/MAM/B/425N(2)	Pay Book
 Capt William Applegath
-Portsmouth 9 Feb 1777 - 15 May Simons Bay - 15 Jul Madras - 27 Jul Culpee -12 Oct Ingeli - 29 Jan 1778 Cape - 26 Feb St Helena -16 Mar Ascension - 20 May Downs
+Portsmouth 9 Feb 1777 - 15 May Simons Bay - 15 Jul Madras - 27 Jul Culpee -12 Oct Hugli - 29 Jan 1778 Cape - 26 Feb St Helena -16 Mar Ascension - 20 May Downs
 EUROPA (2)
 Built by Perry, launched 1781, 3 decks, 4in bottom, length 143ft 9in, keel 116ft 8in, breadth 35ft 3/2in, hold 14ft lOin, wing transom 23ft Sin, port cell 26ft 6in, between decks 6ft & 6ft 4in, 773 tons Principal Managing Owner: Henry Hinde Pelly
  Journal 28 Feb 1782-6 Aug 1785, Charles Gardyne, Chief Mate
@@ -1507,7 +1507,7 @@ Portsmouth Feb 1743 - 12 Mar Madeira - 30 Aug Madras - 4 Oct Balasore - 27 Jan 1
 L/MAR/B/138B	Journal 26 Mar 1746-13 Oct 1749
 L/MAR/B/138P(1)	Ledger
 L/MAWB/138P(2)	Pay Book
-Torbay 12 Jul 1746 - 12 Nov Cape - 9 May 1747 Calcutta - 16 Dec Ingeli - 16 Jan 1748 Fort St David -13 Mar Pondicherry - 24 Apr Fort St David - 20 May Negapatam - 11 Jun Fort St David - 29 Aug Vizagapatam - 9 Sep Balasore -11 Oct Calcutta -16 Jan 1749 Ingeli -18 May Cape -15 Jun St Helena -16 Sep Downs
+Torbay 12 Jul 1746 - 12 Nov Cape - 9 May 1747 Calcutta - 16 Dec Hugli - 16 Jan 1748 Fort St David -13 Mar Pondicherry - 24 Apr Fort St David - 20 May Negapatam - 11 Jun Fort St David - 29 Aug Vizagapatam - 9 Sep Balasore -11 Oct Calcutta -16 Jan 1749 Hugli -18 May Cape -15 Jun St Helena -16 Sep Downs
 3	1751/2 St Helena and Benkulen
 L/MAR/B/138C	Journal 7 Oct 1751-4 Jul 1753
 L/MAR/B/138Q(1)	Ledger
@@ -1686,7 +1686,7 @@ L/MAR/B/661D	Journal 14 Feb 1729-5 Sep 1730
 L/MAR/B/661G(1)	Ledger
 L/MAR/B/661G(2)	Pay Book
 Capt Ralph Farr Winter
-Downs 5 Mar 1729 - 27 Mar Sao Tiago - 2 Jul Madras -13 Aug Balasore -11 Sep Calcutta - 23 Jan 1730 Ingeli -16 Jun St Helena - 5 Sep Erith
+Downs 5 Mar 1729 - 27 Mar Sao Tiago - 2 Jul Madras -13 Aug Balasore -11 Sep Calcutta - 23 Jan 1730 Hugli -16 Jun St Helena - 5 Sep Erith
 4	1731/2	Madras and Bengal
 L/MAR/B/661H(1)	Imprest Book
 L/MAR/B/661H(2)	Receipt Book

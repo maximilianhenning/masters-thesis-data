@@ -35,7 +35,7 @@ Downs Mar 1625 - 2 Aug Madagascar - 16 Aug Johanna - 19 Nov Surat - Bandar Abbas
 FALCON (2)
 1	1644/5 Surat, to remain
 L/MAR/A/LXV	Rough journal 25 Sep 1645-16 Oct 1649, William Makins
-Downs Apr 1645 - 22 Jui St Augustine’s Bay - 12 Aug Johanna - 25 Sep Sural - voyages to Mokha
+Downs Apr 1645 - 22 Jui St Augustine’s Bay - 12 Aug Johanna - 25 Sep Surat - voyages to Mokha
 1646. 1647 & 1648, to Bandar Abbas 1649 (twice)
 FALCON (3)
 380/430 tons, 76 crew, 30 guns
@@ -67,7 +67,7 @@ L/MAR/B/582A Journal 20 Nov 1752 - 16 Nov 1754
 L/MAR/B/582E(1) Ledger
 L/MAR/B/582E(2) Pay Book
 Capt Thomas Field
-Downs 4 May 1753 - 30 May St Augustine's Bay - 25 Jul Madras - 7 Sep Culpee - 5 Dec Calcutta - 19 Jan 1754 Hughli - 3 Jul St Helena - 7 Oct Downs
+Downs 4 May 1753 - 30 May St Augustine's Bay - 25 Jul Madras - 7 Sep Culpee - 5 Dec Calcutta - 19 Jan 1754 Hugli - 3 Jul St Helena - 7 Oct Downs
 2	1756/7	St Helena and Benkulen
 L/MAR/B/582B	Journal 25	Oct	1756-15	Mav	1759
 L/MAR/B/582F(1)	Ledger
@@ -314,7 +314,7 @@ L/MAR/B/91B	Journal 17 Nov	1785-19 Sep 1787
 L/i'd AR/B/91 M(l)	Ledger
 L/MAR/B/91M(2)	Pay Book
 Capt George Simson
-Downs 16 Jan 1786 - 10 Feb Madeira - 22 Jun Madras -14 Aug Penang - 28 Aug Malacca - 29 Sep nampoa - 6 Feb 1787 Second Bar -14 Jun St Helena - 21 Aug Long Reach
+Downs 16 Jan 1786 - 10 Feb Madeira - 22 Jun Madras -14 Aug Penang - 28 Aug Malacca - 29 Sep Whampoa - 6 Feb 1787 Second Bar -14 Jun St Helena - 21 Aug Long Reach
 2	1788/9 Bombay and China
 L/MAR/B/91C	Journal 15	Oct	1788-20 Sep 1790
 L/MAR/B/91N(1)	Ledger
@@ -388,12 +388,12 @@ Rated at 499 tons, 99 crew, 26 guns Principal Managing Owner: Abraham Hume
 L/MAR/B/456A	Journal 21 Jan 1757-28 Apr 1760
 L/MAR/B/456M(1) Ledger
 L/MAR/B/456M(2) Pay Book Capt Alexander Hume
-Downs 18 Apr 1757 - 30 Jan 1758 Balasore - 7 Feb Culpee - 30 Mar Ingeli - 5 Jul Madras - 22 Oct Whampoa - 27 Jan 1759 Second Bar - 27 Dec Cork - 4 Feb 1760 Plymouth - 23 Mar Downs
+Downs 18 Apr 1757 - 30 Jan 1758 Balasore - 7 Feb Culpee - 30 Mar Hugli - 5 Jul Madras - 22 Oct Whampoa - 27 Jan 1759 Second Bar - 27 Dec Cork - 4 Feb 1760 Plymouth - 23 Mar Downs
 2	1760/1	Madras, Bengal and Benkulen
 L/MAR/B/456B-C Journal 21 Dec 1760-29 Jul 1763 L/MAR/B/456N(1)	Ledger
 L/MAR/B/456N(2)	Pay Book
 Capt Alexander Hume
-Portsmouth 30 Mar 1761 -11 Jul Delagoa Bay - 2 Oct Madras - 11 Dec Ingeli -15 Feb 1762 Madras - 13 Apr Benkulen - 8 May Batavia - 27 Jul Madras - 23 Feb 1763 St Helena -10 Jul Plymouth - 2 Jul Downs
+Portsmouth 30 Mar 1761 -11 Jul Delagoa Bay - 2 Oct Madras - 11 Dec Hugli -15 Feb 1762 Madras - 13 Apr Benkulen - 8 May Batavia - 27 Jul Madras - 23 Feb 1763 St Helena -10 Jul Plymouth - 2 Jul Downs
 3	1764/5	Madras, Bombay and China
 L/MAM/B/456D	Journal 7 Jan 1765-3 Sep	1767
 L/MAR/B/456-0(l)	Ledger
@@ -441,7 +441,7 @@ L/MAR/B/456-1-J	Journal 25 Jul	1781-20	Jul	1783
 L/MAR/B/456T(1)	Ledger
 L/MAR/B/456T(2)	Pay Book
 Capt Jonathan Court
-Bristol 22 Jul 1781 - 12 Oct St Helena - 9 Mar 1782 Macao - 8 May Sulu Roads -12 Aug Ingeli 13 Feb 1783 - 8 May St Helena - 20 Jul Downs
+Bristol 22 Jul 1781 - 12 Oct St Helena - 9 Mar 1782 Macao - 8 May Sulu Roads -12 Aug Hugli 13 Feb 1783 - 8 May St Helena - 20 Jul Downs
 2	1783/4 Madras and Bengal
 L/MAR/B/456L	Journal 27 Oct	1783-31	Aug	1786
 L/MAR/B/456V(1)	Ledger

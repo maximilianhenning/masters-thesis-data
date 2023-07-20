@@ -18,7 +18,7 @@ Built by Peny, launched 1767, 3 decks, 3in bottom, length 135ft 11 in, keel 110f
     1 1767/8	Bengal
 L/MAR/B/452C Journal 17 Dec 1767-10 Jun 1769 L/MAR/B/452-0(l) Ledger L/MAR/B/452-O(2)	Pay Book
 Capt Charles Purvis
-Downs 3 Jan 1768 - 27 Mar Cape - 24 Jun Culpee - 3 Sep Ingeli - 11 Jan 1769 Cape - 9 Feb St Helena - 8 May Downs
+Downs 3 Jan 1768 - 27 Mar Cape - 24 Jun Culpee - 3 Sep Hugli - 11 Jan 1769 Cape - 9 Feb St Helena - 8 May Downs
     2 1769/70	Madras	and China
 L/MAR/B/452D	Journal 17 Oct 1769-24 Aug 1771
 L/MAR/B/452P(1)	Ledger
@@ -34,7 +34,7 @@ Portsmouth 3 Feb 1773 - 30 Jun Batavia -31 Aug Whampoa - Second Bar 23 Dec - 28 
     4 1776/7	Madras,	Bengal and Bombay
 L/MAR/B/452F	Journal 15 Oct 1776-13 Nov 1779
 Capt James Ogilvie
-Portsmouth 1 Jan 1777 - 18 Jan Madeira - 17 Apr Cape - 25 Jun Madras - 24 Jul Masulipatam - 7 Aug Culpee - Ingeli 23 Dec - 8 Jan 1778 Madras - 10 Feb Tranquebar - 22 Mar Bombay 7 Jun - 2 Jun Madras 29 Jul - 9 Sep Madras - 8 Feb 1779 St Helena 25 Jun - 2 Sep River Shannon - lost on He de Merchant off Sark 16 Nov [wreck discovered Jan 1976]
+Portsmouth 1 Jan 1777 - 18 Jan Madeira - 17 Apr Cape - 25 Jun Madras - 24 Jul Masulipatam - 7 Aug Culpee - Hugli 23 Dec - 8 Jan 1778 Madras - 10 Feb Tranquebar - 22 Mar Bombay 7 Jun - 2 Jun Madras 29 Jul - 9 Sep Madras - 8 Feb 1779 St Helena 25 Jun - 2 Sep River Shannon - lost on He de Merchant off Sark 16 Nov [wreck discovered Jan 1976]
 VALENTINE (3)
 Built by Randall, launched 1780, 3 decks, 4in bottom, length 143ft Sin, keel 116ft 7in, breadth 35ft 8Vain, hold 14ft 7in, wing transom 22ft 7in, port cell 26ft, between decks 6ft & 6ft SViin, roundhouse 6ft 21/4in, ports 13 middle & upper, 790 tons Principal Managing Owner: Donald Cameron
     1 1780/1 Madras and Bengal
@@ -85,7 +85,7 @@ L/MAR/B/46A	Journal 23 Dec	1763-13 Sep 1765
 L/MAR/B/46T(1)	Ledger
 L/MAR/B/46T(2)	Pay Book
 Capt Richard Lewin
-Downs 5 Mar 1764 - 18 Mar Madeira - 8 Jul Johanna - 7 Aug Madras - 20 Sep Ingeli - 17 Oct Fultah - 20 Dec Ingeli 12 Feb 1765 - 14 Jun St Helena - 29 Aug Falmouth - 14 Sep Downs
+Downs 5 Mar 1764 - 18 Mar Madeira - 8 Jul Johanna - 7 Aug Madras - 20 Sep Hugli - 17 Oct Fultah - 20 Dec Hugli 12 Feb 1765 - 14 Jun St Helena - 29 Aug Falmouth - 14 Sep Downs
     2 1766/7	China
 L/MAR/B/46B	Journal 19 Nov 1766-8 Oct 1768
 L/MAR/B/46U(1)	Ledger
@@ -97,7 +97,7 @@ L/MAR/B/46C	Journal 13 Nov 1769-3 Sep 1771
 L/MAR/B/46V (1)	Ledger
 L/MAR/B/46V(2)	Pay Book
 Capt Richard Lewin
-Portsmouth 22 Feb 1770 - 16 May Cape - 22 Jun Johanna - 23 Jul Madras - 3 Aug Ingeli -17 Aug Culpee - 7 Dec Ingeli 1 Jan 1771 -18 Jan Madras 8 Feb -10 May Cape - 6 Jun St Helena - 2 Aug Downs
+Portsmouth 22 Feb 1770 - 16 May Cape - 22 Jun Johanna - 23 Jul Madras - 3 Aug Hugli -17 Aug Culpee - 7 Dec Hugli 1 Jan 1771 -18 Jan Madras 8 Feb -10 May Cape - 6 Jun St Helena - 2 Aug Downs
     4 1772/3	Bombay
 L/MAR/B/46D	Journal 24 Dec 1772-7 Jan 1775
 L/MAR/B/46W (1)	Ledger

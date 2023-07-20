@@ -5,13 +5,13 @@ L/MAR/B/474A	Journal 14 Feb	1763-23 Aug 1766
 L/MAM/B/474E(1)	Ledger
 L/MAM/B/474E(2)	Pay Book
 Capt Thomas Dethick
-Downs 19 Apr 1763 - 15 Aug Moheli - 17 Sep Bombay - 20 Nov Tellicheny - 1 Dec Calicut - 11 Dec Cochin - 24 Dec Calicut - 8 Jan 1764 Tellicherry - 4 Feb Bombay - 23 Feb Surat - 25 Apr Mokha - 13 Sep Bombay -10 Nov Surat - 22 Nov Bombay - 1 Jan 1765 Mangalore - 6 Jan Tellicheny -15 Jan Calicut - 30 Jan Tellicheny -11 Feb Onore - 2 Mar Bombay -15 Apr Onore -19 Apr Tellicherry - 4 Jun Malacca - 13 Jul Whampoa - 29 Dec Second Bar -19 Apr 1766 St Helena - 7 Jul Downs
+Downs 19 Apr 1763 - 15 Aug Moheli - 17 Sep Bombay - 20 Nov Tellicherry - 1 Dec Calicut - 11 Dec Cochin - 24 Dec Calicut - 8 Jan 1764 Tellicherry - 4 Feb Bombay - 23 Feb Surat - 25 Apr Mokha - 13 Sep Bombay -10 Nov Surat - 22 Nov Bombay - 1 Jan 1765 Mangalore - 6 Jan Tellicherry -15 Jan Calicut - 30 Jan Tellicherry -11 Feb Onore - 2 Mar Bombay -15 Apr Onore -19 Apr Tellicherry - 4 Jun Malacca - 13 Jul Whampoa - 29 Dec Second Bar -19 Apr 1766 St Helena - 7 Jul Downs
 2	1767/8	Bengal
 L/MAR/B/474B	Journal 8 Dec 1767-8 Mar 1770
 L/MAM/B/474F(1)	Ledger
 L/MAR/B/474F(2)	Pay Book
 Capt Sir Charles Hodson
-Downs 21 Mar 1768 - 1 Jul Madagascar - 19 Aug Balasore - 30 Aug Culpee -31 Jan 1769 Ingeli - 1 Aug Madagascar - 19 Oct St Helena -15 Jan 1770 Downs
+Downs 21 Mar 1768 - 1 Jul Madagascar - 19 Aug Balasore - 30 Aug Culpee -31 Jan 1769 Hugli - 1 Aug Madagascar - 19 Oct St Helena -15 Jan 1770 Downs
 3	1770/1	Madras and China
 L/MAM/B/474C	Journal 4 Nov 1770-21 Oct 1772
 L/MAM/B/474G(1)	Ledger
@@ -23,7 +23,7 @@ L/MAR/B/474D	Journal 14 Mar 1775-24 Dec 1776
 L/MAR/B/474H(1)	Ledger
 L/MAR/B/474H(2)	Pay Book
 Capt Raymond Snow
-Plymouth 19 Mar 1775 - 14 Apr Sao Tiago - 30 Jun Cape - 27 Aug Bombay -12 Nov Tellicheny - 17 Nov Cochin -14 Jan 1776 Madras -10 Feb Kedgeree -13 Mar Ingeli - 20 Mar Barrabulla - 19 Jul Cape - 13 Aug St Helena - 15 Oct Cork - 4 Nov Downs
+Plymouth 19 Mar 1775 - 14 Apr Sao Tiago - 30 Jun Cape - 27 Aug Bombay -12 Nov Tellicherry - 17 Nov Cochin -14 Jan 1776 Madras -10 Feb Kedgeree -13 Mar Hugli - 20 Mar Barrabulla - 19 Jul Cape - 13 Aug St Helena - 15 Oct Cork - 4 Nov Downs
 TANKERVILLE
 425 tons, 85 crew, 32 guns
 1	1699/1700 Bengal (New Company)
@@ -139,7 +139,7 @@ Downs 26 Jan 1749 - 24 Feb Madeira - 9 Jul Vizagapatam - 22 Jul Hugli 8 Mar 1750
 L/MAR/B/593E Journal 6 Jan 1753-23 Nov 1754, Benjamin Jenkins, Chief Mate L/MAR/B/593-I(l)	Ledger
 L/MAR/B/593-I(2)	Pay Book
 Capt Nathaniel Cush
-Downs 29 Mar 1753 - 6 Aug Bombay 26 Oct -11 Nov Bombay 26 Nov -11 Dec Bombay 19 Dec - 2 Jan 1754 Bombay 4 Feb - 7 Feb Goa -13 Feb Onore - 21 Feb Tellicheny - 6 Mar Cochin - 9 Mar Anjengo - 28 Jun St Helena - 7 Oct Downs
+Downs 29 Mar 1753 - 6 Aug Bombay 26 Oct -11 Nov Bombay 26 Nov -11 Dec Bombay 19 Dec - 2 Jan 1754 Bombay 4 Feb - 7 Feb Goa -13 Feb Onore - 21 Feb Tellicherry - 6 Mar Cochin - 9 Mar Anjengo - 28 Jun St Helena - 7 Oct Downs
 4	1756/7	Madras, Bombay and China
 L/MAR/B/593F	Journal 26 Oct 1756-21 Jun 1760
 L/MAR/B/593J(1)	Ledger
@@ -661,7 +661,7 @@ L/MAR/B/551B	Journal 8 Oct 1761-8 Aug 1763
 L/MAR/B/551F(1)	Ledger
 L/MAR/B/551F(2)	Pay Book
 Capt Roger Mainwaring
-Portsmouth 5 Feb 1762 - 25 Jun Madras 23 Aug - 7 Sep Culpee - Ingeli 27 Dec - 28 Mar 1763 St Helena - 8 Jul Downs
+Portsmouth 5 Feb 1762 - 25 Jun Madras 23 Aug - 7 Sep Culpee - Hugli 27 Dec - 28 Mar 1763 St Helena - 8 Jul Downs
 3	1764/5	Madras and China
 L/MAR/B/551C	Journal 26	Sep	1763-1 Dec	1766
 L/MAR/B/551G(1)	Ledger
@@ -757,7 +757,7 @@ Downs 29 Dec 1716 - 30 Mar 1717 Cape - 18 Jun Macao -12 Jul Whampoa 8 Jan 1718 -
 L/MAR/B/660B Journal 21 Feb 1719-13 Sep 1720 L/MAR/B/660E(1)	Ledger
 L/MAR/B/660E(2)	Pay Book
 Capt Philip Worth
-Downs 8 Mar 1719 -13 Jul Madras -26 Oct Point de Galle - 8 Nov Anjengo -17 Nov Cochin - 23 Nov Calicut -19 Dec Bombay - 25 Jan 1720 Goa - 1 Feb Tellicheny - 6 Mar Cochin - 9 Mar Anjengo -15 Jun St Helena -13 Sep Downs
+Downs 8 Mar 1719 -13 Jul Madras -26 Oct Point de Galle - 8 Nov Anjengo -17 Nov Cochin - 23 Nov Calicut -19 Dec Bombay - 25 Jan 1720 Goa - 1 Feb Tellicherry - 6 Mar Cochin - 9 Mar Anjengo -15 Jun St Helena -13 Sep Downs
 3	1721/2	Mokha
 L/MAR/B/660C	Journal 9 Oct	1721-23	Jul	1723
 L/MAR/B/660F(1)	Ledger
@@ -914,7 +914,7 @@ L/MAR/B/366D	Journal 23	Sep	1759-6 Nov 1762, Charles Barclay, Chief Mate
 L/MAM/B/366S(1)	Ledger
 L/MAR/B/366S(2)	Pay Book
 Capt Francis Harris
-Downs 3 Dec 1759 - 28 Mar 1760 St Helena - 15 Jul Straits of Sunda - course changed on news of French warships off Bantam - 21 Aug Culpee - left Bengal 30 Nov - 28 Dec Tellicheny - 24 Feb 1761 Bombay - 15 Mar Rajapore - 26 Mar Bombay - 2 May Tellicheny - 8 Jun Madras - 30 Sep Whampoa . Second Bar 19 Dec - 14 Jan 1762 Malacca - 24 Apr St Helena - 5 Sep Downs
+Downs 3 Dec 1759 - 28 Mar 1760 St Helena - 15 Jul Straits of Sunda - course changed on news of French warships off Bantam - 21 Aug Culpee - left Bengal 30 Nov - 28 Dec Tellicherry - 24 Feb 1761 Bombay - 15 Mar Rajapore - 26 Mar Bombay - 2 May Tellicherry - 8 Jun Madras - 30 Sep Whampoa . Second Bar 19 Dec - 14 Jan 1762 Malacca - 24 Apr St Helena - 5 Sep Downs
 TRITON (2)
 Built by Wells, launched 1766, 3 decks, 3in bottom, 637 tons Principal Managing Owner: Gilbert Slater
 1	1766/7	Madras and China
@@ -990,14 +990,14 @@ L/MAR/B/297A	Journal 31	Jan 1747-16 Sep 1749
 L/MAR/B/297Q(1)	Ledger
 L/MAR/B/297Q(2)	Pay Book
 Capt Hemy Broadley
-Downs 26 Apr 1747 - Portsmouth 7 Aug - 5 Nov Cape - 29 Jan 1748 Point de Galle - 31 Mar Fort St David - 29 Apr Vizagapatam -11 May Calcutta - 23 Dec Ingeli -15 Jan 1749 Fort St David - 19 Feb Tellicherry - 5 Jun St Helena - 24 Aug Downs
+Downs 26 Apr 1747 - Portsmouth 7 Aug - 5 Nov Cape - 29 Jan 1748 Point de Galle - 31 Mar Fort St David - 29 Apr Vizagapatam -11 May Calcutta - 23 Dec Hugli -15 Jan 1749 Fort St David - 19 Feb Tellicherry - 5 Jun St Helena - 24 Aug Downs
 2	1749/50	China and Bombay
 NMM: Ms 9813	Journal 1 Mar 1750-25 Apr 1752, William Abdy, Sixth Mate
 L/MAR/B/297R(1)	Ledger
 L/MAR/B/297R(2)	Pay Book
 Capt Hemy Broadley
-Downs 5 Apr 1750 - 20 Sep Whampoa - 27 Dec Calicut - 29 Dec Tellicheny - 28 Jan 1751 Bombay -
-3	Mar ‘Dunderogipore’ - 9 Mar Bombay - 25 Mar Surat - 5 Apr Bombay - 20 Apr Karwar - 26 Apr Tellicheny - 4 Jul Whampoa -12 Dec Straits of Banca - 13 Mar 1752 St Helena - 21 May Downs
+Downs 5 Apr 1750 - 20 Sep Whampoa - 27 Dec Calicut - 29 Dec Tellicherry - 28 Jan 1751 Bombay -
+3	Mar ‘Dunderogipore’ - 9 Mar Bombay - 25 Mar Surat - 5 Apr Bombay - 20 Apr Karwar - 26 Apr Tellicherry - 4 Jul Whampoa -12 Dec Straits of Banca - 13 Mar 1752 St Helena - 21 May Downs
 3	1753/4	Madras and China
 L/MAR/B/297B	Journal 26 Oct	1753-2 Oct 1755
 L/MAR/B/297S(1)	Ledger
@@ -1017,7 +1017,7 @@ L/MAR/B/297D	Journal 24 Feb	1761-7 Sep 1763
 L/MAR/B/297U(1)	Ledger
 L/MAR/B/297U(2)	Pay Book
 Capt Thomas Crichton
-Portsmouth 26 May 1761 - 15 Aug Rio de Janeiro - 12 Dec Anjengo - 15 Dec Cochin - 20 Dec Tellicherry - 11 Jan 1762 Bombay - 9 Mar Surat - 18 Mar Bombay - 1 Apr Surat - 26 Apr Bombay - 13 May Tellicheny - 30 May Madras - 19 Jul Malacca -19 Aug Whampoa - 21 Jan 1763 ‘Pulo Auroe’ - 14 Apr St Helena -15 Jul Downs
+Portsmouth 26 May 1761 - 15 Aug Rio de Janeiro - 12 Dec Anjengo - 15 Dec Cochin - 20 Dec Tellicherry - 11 Jan 1762 Bombay - 9 Mar Surat - 18 Mar Bombay - 1 Apr Surat - 26 Apr Bombay - 13 May Tellicherry - 30 May Madras - 19 Jul Malacca -19 Aug Whampoa - 21 Jan 1763 ‘Pulo Auroe’ - 14 Apr St Helena -15 Jul Downs
 2	1764/5	Madras and Bombay
 L/MAR/B/297E	Journal 6 Jan 1765-27 Oct 1766
 L/MAR/B/297V(1)	Ledger
@@ -1035,7 +1035,7 @@ L/MAR/B/297G	Journal 26	Jan	1770-7	Jan	1772
 L/MAR/B/297X(1)	Ledger
 L/MAR/B/297X(2)	Pay Book
 Capt John Broadley
-Downs 19 Apr 1770 - 13 Jul Rio de Janeiro -13 Dec Cochin - 26 Dec Tellicheny - 12 Jan 1771 Onore - 18 Jan Goa - 29 Jan Bombay 17 Apr - 19 Apr Goa - 24 Apr Onore - 1 May Tellicheny - 12 May Anjengo - 20 Aug St Helena - 15 Sep Ascension - 16 Nov Downs
+Downs 19 Apr 1770 - 13 Jul Rio de Janeiro -13 Dec Cochin - 26 Dec Tellicherry - 12 Jan 1771 Onore - 18 Jan Goa - 29 Jan Bombay 17 Apr - 19 Apr Goa - 24 Apr Onore - 1 May Tellicherry - 12 May Anjengo - 20 Aug St Helena - 15 Sep Ascension - 16 Nov Downs
 TRUE BRITON	(3)
 Built by Wells, launched 1773, 3 decks, 4in bottom, length 139ft, keel 116ft 6in, breadth 36ft 3in, hold 14ft 4in, wing transom 23ft, between decks 6ft, 761 tons Principal Managing Owner; Henry Broadley
 1	1773/4	Madras and China
