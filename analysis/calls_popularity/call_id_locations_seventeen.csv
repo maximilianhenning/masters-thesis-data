@@ -2,241 +2,240 @@
 0;l1;2248;Downs;calls;51.1108;1.2923;british_isles
 1;l5;1939;St Helena;calls;-15.58;-5.42;atlantic
 2;l4;1353;Madras;calls;13.457;80.163;madras_presidency
-3;l11;982;Cape;calls;-34.2129;18.2832;atlantic
+3;l11;978;Cape;calls;-34.2129;18.2832;atlantic
 4;l12;859;Bombay;calls;19.07283;72.88261;bombay_presidency
 5;l18;757;Portsmouth;calls;50.79899;-1.09125;british_isles
 6;l14;709;Whampoa;calls;23.11037;113.4418;china
 7;l19;583;Second Bar;calls;22.476411;113.750545;china
-8;l15;300;Malacca;calls;2.196;102.2405;southeast_asia
-9;l22;300;Batavia;calls;-6.129;106.8129;southeast_asia
-10;l37;295;Benkulen;calls;-3.80044;102.26554;southeast_asia
+8;l22;300;Batavia;calls;-6.129;106.8129;southeast_asia
+9;l15;300;Malacca;calls;2.196;102.2405;southeast_asia
+10;l37;291;Benkulen;calls;-3.80044;102.26554;southeast_asia
 11;l30;290;Tellicherry;calls;11.74811;75.4929;madras_presidency
 12;l8;289;Calcutta;calls;22.3403;88.2212;bengal_presidency
 13;l41;269;Johanna;calls;-12.1254;44.253;indian_ocean
 14;l28;250;Anjengo;calls;8.4833;76.9167;madras_presidency
-15;l20;249;Kedgeree;calls;12.8575;87.9115;indian_ocean
-17;l56;200;Madeira;calls;32.45;-17.0;atlantic
-18;l33;197;Surat;calls;21.19594;72.83023;bombay_presidency
+15;l20;247;Kedgeree;calls;12.8575;87.9115;indian_ocean
+17;l57;200;Madeira;calls;32.45;-17.0;atlantic
+18;l33;196;Surat;calls;21.19594;72.83023;bombay_presidency
 19;l46;193;Cochin;calls;9.93988;76.26022;madras_presidency
 20;l9;190;Saugor;calls;21.6528;88.0753;bengal_presidency
-21;l75;187;Fort St David;calls;11.75;79.75;madras_presidency
+21;l76;187;Fort St David;calls;11.75;79.75;madras_presidency
 22;l40;185;Sao Tiago;calls;15.04;-23.38;atlantic
-23;l57;182;Diamond Harbour;calls;22.19101;88.19047;bengal_presidency
-24;l106;175;Long Reach;calls;51.4415;0.3685;british_isles
-26;l84;138;Plymouth;calls;50.37153;-4.14305;british_isles
-28;l29;117;Calicut;calls;11.24802;75.7804;madras_presidency
-30;l105;99;Penang;calls;5.41123;100.33543;southeast_asia
+23;l58;182;Diamond Harbour;calls;22.19101;88.19047;bengal_presidency
+24;l108;175;Long Reach;calls;51.4415;0.3685;british_isles
+26;l85;138;Plymouth;calls;50.37153;-4.14305;british_isles
+28;l29;116;Calicut;calls;11.24802;75.7804;madras_presidency
+30;l107;99;Penang;calls;5.41123;100.33543;southeast_asia
 31;l44;90;Goa;calls;15.5;73.83;bombay_presidency
 32;l35;90;Balasore;calls;21.49266;86.93348;bengal_presidency
-33;l77;89;Vizagapatam;calls;17.68009;83.20161;madras_presidency
-34;l50;89;Deptford;calls;51.478;-0.0265;british_isles
-35;l155;80;Mokha;calls;13.1913;43.15;indian_ocean
-36;l102;78;St Augustine's Bay;calls;-23.3015;43.41;indian_ocean
-37;l67;77;Rio de Janeiro;calls;-22.90642;-43.18223;atlantic
-38;l71;70;Ascension;calls;-7.56;-14.22;atlantic
-39;l129;67;Cork;calls;51.89797;-8.47061;british_isles
-40;l10;64;Blackwall;calls;51.50971;-0.0016;british_isles
-41;l54;62;Torbay;calls;50.278;-3.3325;british_isles
-42;l96;60;Woolwich;calls;51.491;0.0648;british_isles
-43;l58;58;Colombo;calls;6.5604;79.5034;madras_presidency
-44;l74;58;Erith;calls;51.48315;0.17484;british_isles
-45;l31;53;Karwar;calls;14.81361;74.12972;bombay_presidency
-46;l79;53;Bandar Abbas;calls;27.1865;56.2808;indian_ocean
+33;l78;89;Vizagapatam;calls;17.68009;83.20161;madras_presidency
+34;l51;89;Deptford;calls;51.478;-0.0265;british_isles
+35;l157;80;Mokha;calls;13.1913;43.15;indian_ocean
+36;l103;78;St Augustine's Bay;calls;-23.3015;43.41;indian_ocean
+37;l68;76;Rio de Janeiro;calls;-22.90642;-43.18223;atlantic
+38;l72;70;Ascension;calls;-7.56;-14.22;atlantic
+39;l131;67;Cork;calls;51.89797;-8.47061;british_isles
+41;l55;62;Torbay;calls;50.278;-3.3325;british_isles
+42;l97;60;Woolwich;calls;51.491;0.0648;british_isles
+43;l59;58;Colombo;calls;6.5604;79.5034;madras_presidency
+44;l75;58;Erith;calls;51.48315;0.17484;british_isles
+45;l80;53;Bandar Abbas;calls;27.1865;56.2808;indian_ocean
+46;l31;53;Karwar;calls;14.81361;74.12972;bombay_presidency
 47;l16;51;Macao;calls;22.1;113.33;china
-48;l94;50;Trincomalee;calls;8.5778;81.2289;madras_presidency
-49;l21;50;Falmouth;calls;50.15441;-5.07113;british_isles
+48;l21;50;Falmouth;calls;50.15441;-5.07113;british_isles
+49;l95;50;Trincomalee;calls;8.5778;81.2289;madras_presidency
 50;l32;47;Mangalore;calls;12.91723;74.85603;madras_presidency
-51;l82;45;Moco Moco;calls;-2.5833;101.117;southeast_asia
-53;l168;44;Kinsale;calls;51.7075;-8.53056;british_isles
-55;l90;42;Masulipatam;calls;16.18747;81.13888;madras_presidency
-56;l288;41;Onore;calls;14.28;74.4439;bombay_presidency
-57;l290;39;Negapatam;calls;10.76377;79.84313;madras_presidency
-58;l127;39;Lisbon;calls;38.71667;-9.13333;atlantic
-59;l69;39;Gravesend;calls;51.44206;0.37106;british_isles
-60;l76;39;Mauritius;calls;-20.2;57.5;indian_ocean
-62;l242;35;Point de Galle;calls;6.0158;80.1256;madras_presidency
-64;l251;30;Galway;calls;53.27245;-9.05095;british_isles
-67;l93;26;River Shannon;calls;52.35;-9.18;british_isles
-68;l121;26;Madagascar;calls;-18.8707;46.4362;indian_ocean
-69;l337;26;Ipoh;calls;4.5841;101.0829;southeast_asia
-70;l331;25;Manna;calls;-4.4651;102.90386;southeast_asia
-71;l52;25;False Bay;calls;-34.1347;18.3843;atlantic
-72;l275;23;Pondicherry;calls;11.93381;79.82979;madras_presidency
-73;l122;22;Crookhaven;calls;51.2747;-9.4313;british_isles
-76;l83;22;Acheh;calls;5.3325;95.1934;southeast_asia
-77;l124;21;Balambangan;calls;7.1549;116.5321;southeast_asia
-78;l62;20;Manila;calls;14.3545;120.5838;southeast_asia
+51;l83;45;Moco Moco;calls;-2.5833;101.117;southeast_asia
+54;l170;44;Kinsale;calls;51.7075;-8.53056;british_isles
+55;l91;42;Masulipatam;calls;16.18747;81.13888;madras_presidency
+56;l290;41;Onore;calls;14.28;74.4439;bombay_presidency
+57;l70;39;Gravesend;calls;51.44206;0.37106;british_isles
+58;l77;39;Mauritius;calls;-20.2;57.5;indian_ocean
+59;l129;39;Lisbon;calls;38.71667;-9.13333;atlantic
+60;l292;39;Negapatam;calls;10.76377;79.84313;madras_presidency
+61;l244;35;Point de Galle;calls;6.0158;80.1256;madras_presidency
+64;l253;30;Galway;calls;53.27245;-9.05095;british_isles
+67;l123;26;Madagascar;calls;-18.8707;46.4362;indian_ocean
+68;l339;26;Ipoh;calls;4.5841;101.0829;southeast_asia
+69;l94;26;River Shannon;calls;52.35;-9.18;british_isles
+70;l53;25;False Bay;calls;-34.1347;18.3843;atlantic
+71;l333;25;Manna;calls;-4.4651;102.90386;southeast_asia
+72;l277;23;Pondicherry;calls;11.93381;79.82979;madras_presidency
+73;l84;22;Acheh;calls;5.3325;95.1934;southeast_asia
+74;l124;22;Crookhaven;calls;51.2747;-9.4313;british_isles
+77;l126;21;Balambangan;calls;7.1549;116.5321;southeast_asia
+78;l63;20;Manila;calls;14.3545;120.5838;southeast_asia
 79;l2;19;Bengal;calls;21.3623;88.0932;bengal_presidency
-80;l277;18;Cannanore;calls;11.86752;75.35763;madras_presidency
-82;l415;17;Cuddalore;calls;11.75617;79.76693;madras_presidency
-83;l293;16;Muscat;calls;23.58413;58.40778;indian_ocean
-84;l576;16;Leith;calls;55.98;-3.17;british_isles
-85;l386;14;Amoy;calls;24.47979;118.08187;china
-88;l519;13;Galway Bay;calls;53.1619;-9.0256;british_isles
-90;l211;12;Padang;calls;-0.94924;100.35427;southeast_asia
-91;l139;12;Spithead;calls;50.7514;-1.13667;british_isles
-92;l123;12;Amboina;calls;-3.69583;128.18333;southeast_asia
-93;l370;11;Basra;calls;30.50852;47.7804;indian_ocean
-94;l233;11;Kedah;calls;6.0742;100.2146;southeast_asia
-96;l86;11;Bantam;calls;-6.0233;106.0939;southeast_asia
-97;l248;10;Mozambique;calls;-15.03466;40.73447;indian_ocean
-98;l126;10;Tenerife;calls;28.1607;-16.362;atlantic
-99;l97;10;Quilon;calls;8.88113;76.58469;madras_presidency
-100;l60;10;Moheli;calls;-12.15;43.45;indian_ocean
-101;l208;10;Bocca Tigris;calls;22.7933;113.5979;china
-103;l321;10;San Salvador;calls;-12.5829;-38.2836;atlantic
-104;l136;10;Purfleet;calls;51.48;0.25;british_isles
-105;l392;10;Bahia;calls;-12.977;-38.5004;atlantic
-106;l296;9;Tranquebar;calls;11.02764;79.85425;madras_presidency
-107;l630;9;Shannon;calls;52.70389;-8.86417;british_isles
-110;l441;8;Delagoa Bay;calls;-25.59;32.42;indian_ocean
-112;l47;8;Reunion;calls;-21.0652;55.3157;indian_ocean
-113;l64;8;Sulu;calls;6.05222;121.00222;southeast_asia
-114;l535;8;Limerick;calls;52.66472;-8.62306;british_isles
-116;l53;7;Lintin;calls;22.2446;113.4813;china
-118;l101;7;Barbados;calls;13.1012;-59.3309;atlantic
-122;l322;7;Bourbon;calls;-21.0652;55.3157;indian_ocean
-124;l171;7;Hugli;calls;22.90877;88.39674;bengal_presidency
-125;l691;7;Bushire;calls;28.96887;50.83657;indian_ocean
-126;l115;7;Port Jackson;calls;-33.513;151.14;indian_ocean
-127;l192;7;Nicobars;calls;7.05;93.48;southeast_asia
-128;l142;7;Yarmouth;calls;50.70529;-1.49929;british_isles
-131;l214;6;Mahe;calls;11.70172;75.53474;madras_presidency
-133;l575;6;Madura;calls;9.919;78.11953;madras_presidency
-137;l81;6;Limehouse;calls;51.51412;-0.03282;british_isles
-138;l141;6;Coringa;calls;16.48;82.14;madras_presidency
-140;l221;5;Santa Cruz;calls;15.30815;120.85318;southeast_asia
-142;l202;5;Socotra;calls;12.3036;53.5512;indian_ocean
-143;l379;5;Negrais;calls;16.2;94.12;bengal_presidency
-146;l520;5;Simon's Bay;calls;-34.1806;18.4326;atlantic
-150;l98;5;Ganjam;calls;19.38705;85.05079;bengal_presidency
-152;l518;5;Diamond Creek;calls;-37.66667;145.15;indian_ocean
-153;l517;4;Annabon;calls;-1.2606;5.3815;atlantic
-157;l668;4;Pernambuco;calls;-8.05389;-34.88111;atlantic
-158;l1187;4;Isle of Wight;calls;50.4;-1.16;british_isles
-159;l763;4;Bristol;calls;51.45523;-2.59665;british_isles
-161;l390;4;Semarang;calls;-6.99306;110.42083;southeast_asia
-162;l375;4;Milford Haven;calls;51.71278;-5.0341;british_isles
-164;l39;4;Nore;calls;45.24159;7.56983;atlantic
-165;l461;4;Jiddah;calls;21.49012;39.18624;indian_ocean
-169;l130;3;Cadiz;calls;36.52672;-6.2891;atlantic
-172;l218;3;River Thames;calls;51.4959;0.514031;british_isles
-175;l128;3;Fulta;calls;19.1629;84.4843;madras_presidency
-179;l133;3;Lizard;calls;49.9588;-5.2076;british_isles
-180;l1035;3;Scilly;calls;49.55;-6.2;british_isles
-181;l1183;3;Teignmouth;calls;50.54581;-3.49671;british_isles
-183;l509;3;China;calls;22.449;113.915;china
-184;l901;3;Anger;calls;47.27422;15.69139;atlantic
-190;l727;3;Samarang;calls;-6.99306;110.42083;southeast_asia
-191;l486;3;Gibraltar;calls;36.14474;-5.35257;atlantic
-200;l1068;2;Sao Thome;calls;0.33654;6.72732;atlantic
-205;l586;2;Matavai;calls;-14.03208;-171.64768;indian_ocean
-207;l859;2;Lombok;calls;-8.565;116.351;southeast_asia
-210;l265;2;Jeddah;calls;21.49012;39.18624;indian_ocean
-217;l210;2;Qishm;calls;26.9492;56.2691;indian_ocean
-218;l587;2;Tonga;calls;4.96667;10.7;atlantic
-220;l135;2;Fernando de Noronha;calls;-3.5118;-32.253;atlantic
-222;l1168;2;Batticaloa;calls;7.7102;81.6924;madras_presidency
-226;l343;2;Achen;calls;5.3325;95.1934;southeast_asia
-229;l111;2;Cape Coast Castle;calls;5.10535;-1.2466;atlantic
-232;l403;2;Port Louis;calls;-20.16194;57.49889;indian_ocean
-234;l201;2;Aden;calls;12.77944;45.03667;indian_ocean
-239;l453;2;Persian Gulf;calls;26.7;52.0;indian_ocean
-241;l405;2;Pulo Condore;calls;8.68641;106.60824;southeast_asia
-242;l346;2;Martinique;calls;14.39;-61.0054;atlantic
-243;l1301;2;Genoa;calls;41.51811;-83.35909;atlantic
-244;l323;2;Portland;calls;50.56748;-2.44472;british_isles
-250;l43;2;Colaba;calls;18.91;72.81;bombay_presidency
-251;l338;2;Laye;calls;12.53118;-1.77684;atlantic
-252;l353;2;Mahim;calls;19.035;72.84;bombay_presidency
-254;l911;2;Manila Bay;calls;14.31;120.46;southeast_asia
-267;l470;1;Buton;calls;-5.4633;122.6024;southeast_asia
-278;l1450;1;Java;calls;-7.293;110.0016;southeast_asia
-310;l1050;1;Luanda;calls;0.31354;34.07146;indian_ocean
-314;l198;1;Comoros;calls;-12.3;43.7;indian_ocean
-330;l1033;1;Boeton;calls;-5.4633;122.6024;southeast_asia
-350;l1082;1;Bab el Mandeb;calls;12.35;43.2;indian_ocean
-353;l915;1;Brazil;calls;-8.4544;-35.0359;atlantic
-355;l1072;1;Southampton;calls;50.90395;-1.40428;british_isles
-365;l1365;1;Port Cornwallis;calls;13.17;93.05;southeast_asia
-374;l677;1;Liverpool;calls;53.41058;-2.97794;british_isles
-380;l326;1;Benguela;calls;-12.57626;13.40547;atlantic
-391;l1401;1;Sao Paulo;calls;-23.5475;-46.63611;atlantic
-400;l1302;1;Leghorn;calls;43.54427;10.32615;atlantic
-401;l1054;1;Dover;calls;51.12598;1.31257;british_isles
-407;l460;1;Rangoon;calls;16.80528;96.15611;southeast_asia
-410;l1347;1;Cape Verde;calls;15.55;-23.55;atlantic
-413;l1367;1;Cape Augustine;calls;-8.1723;-35.0148;atlantic
-425;l879;1;Bassein;calls;16.77919;94.73212;bengal_presidency
-426;l1332;1;Trengganu;calls;5.3302;103.1408;southeast_asia
-427;l1331;1;Brest;calls;48.23;-4.29;british_isles
-428;l1330;1;Dewas;calls;22.96585;76.05526;indian_ocean
-431;l224;1;Waterford;calls;52.25833;-7.11194;british_isles
-435;l1180;1;Tynemouth;calls;55.01788;-1.42559;british_isles
-436;l1192;1;Montague Island;calls;-36.15;150.13;indian_ocean
-437;l1191;1;Sandwich Islands;calls;20.54;-156.36;indian_ocean
-438;l1190;1;Queen Charlotte's Islands;calls;-11.0;166.15;indian_ocean
-439;l1189;1;Nootka Sound;calls;49.41;-126.33;atlantic
-452;l1178;1;Bay of Bulls, Newfoundland;calls;47.299;-52.781;atlantic
-454;l1176;1;Natal;calls;0.5632;99.1099;southeast_asia
-456;l1174;1;All Saints' Bay, Brazil;calls;-12.51;-38.38;atlantic
-457;l740;1;London;calls;51.50853;-0.12574;british_isles
-460;l1171;1;Porto Novo;calls;17.01969;-25.06471;atlantic
-464;l1165;1;Anjengo Cape;calls;8.4833;76.9167;madras_presidency
-477;l720;1;Taiwan;calls;25.04;121.31;china
-479;l1240;1;Krakatoa;calls;-6.0607;105.2523;southeast_asia
-482;l1236;1;gap;calls;44.55858;6.07868;atlantic
-488;l117;1;Porto Praya;calls;14.918;-23.509;atlantic
-497;l1203;1;Pearl River;calls;32.78347;-89.22784;atlantic
-505;l474;1;Quedah;calls;6.0742;100.2146;southeast_asia
-506;l471;1;Dartmouth;calls;50.3522;-3.5794;british_isles
-507;l499;1;Thames;calls;-37.13832;175.54011;indian_ocean
-509;l420;1;Tuticorin;calls;8.76735;78.13425;madras_presidency
-515;l522;1;the Gore;calls;41.96677;-71.43284;atlantic
-519;l416;1;Bristol Channel;calls;51.3777;-4.2291;british_isles
-526;l404;1;Ramsgate;calls;51.33568;1.41797;british_isles
-531;l13;1;Singapore;calls;1.28967;103.85007;southeast_asia
-536;l376;1;Tilbury;calls;51.46248;0.35856;british_isles
-540;l596;1;Canton river;calls;22.476411;113.750545;china
-548;l196;1;Maio;calls;15.13823;-23.21158;atlantic
-550;l618;1;Londonderry;calls;43.22646;-72.80649;atlantic
-552;l593;1;Bonavista;calls;16.6;-22.48;atlantic
-555;l589;1;Tahiti;calls;-17.4;-149.25;indian_ocean
-556;l588;1;Resolution Bay;calls;-41.0731;174.1332;indian_ocean
-569;l190;1;Canaries;calls;13.90224;-61.06459;atlantic
-573;l113;1;Ouidah;calls;6.36307;2.08506;atlantic
-581;l176;1;Cagayan Sulu;calls;6.5841;118.3047;southeast_asia
-587;l112;1;Accra;calls;5.55602;-0.1969;atlantic
-593;l73;1;Scarborough;calls;54.27966;-0.40443;british_isles
-594;l72;1;Belem;calls;19.63334;-98.79664;atlantic
-595;l66;1;nang;calls;29.04701;93.08795;indian_ocean
-598;l61;1;Cavite;calls;15.67785;120.76978;southeast_asia
-602;l42;1;Khanderi;calls;18.7042;72.8131;bombay_presidency
-605;l222;1;Dungeness;calls;50.55;0.58;british_isles
-606;l369;1;Karrack;calls;29.1528;50.193;indian_ocean
-618;l347;1;St Lucia;calls;-28.37622;32.41181;indian_ocean
-619;l348;1;St Pierre;calls;46.77914;-56.1773;atlantic
-626;l274;1;Reach;calls;43.91064;-69.8206;atlantic
-629;l266;1;Newfoundland;calls;48.36;-56.2;atlantic
-634;l247;1;Margate;calls;51.38132;1.38617;british_isles
-636;l235;1;Stokes Bay;calls;50.779;-1.164;british_isles
-645;l845;1;Table Bay;calls;-33.51;18.27;atlantic
-646;l848;1;Port Dauphin;calls;-25.0157;46.59;indian_ocean
-647;l267;1;Jask;calls;25.64533;57.77552;indian_ocean
-660;l825;1;Gambia river;calls;13.28;-16.34;atlantic
-673;l381;1;Greenhithe;calls;51.45026;0.28539;british_isles
-675;l542;1;Ratcliffe;calls;51.512054;-0.038946;british_isles
-678;l952;1;Cascais;calls;38.69681;-9.42147;atlantic
-682;l963;1;Great Nanka;calls;-2.25;105.48;southeast_asia
-695;l924;1;Hamburg;calls;42.71589;-78.82948;atlantic
-696;l923;1;New York;calls;42.55779;-88.86511;atlantic
-706;l897;1;Condore;calls;16.4108;80.3445;madras_presidency
-707;l896;1;St Paul's Island;calls;-38.43;77.31;indian_ocean
-708;l895;1;Tristan de Cunha;calls;-37.7;-12.18;atlantic
-709;l786;1;Poole;calls;50.71429;-1.98458;british_isles
-718;l666;1;Banjarmasin;calls;-3.31987;114.59075;southeast_asia
-726;l692;1;Bar;calls;49.07362;27.67404;indian_ocean
-728;l656;1;Eddystone;calls;50.108;-4.159;british_isles
-766;l743;1;Ganges;calls;43.93419;3.70797;atlantic
-769;l736;1;Clyde;calls;41.30422;-82.97519;atlantic
-774;l719;1;Belfast;calls;54.59682;-5.92541;british_isles
+80;l279;18;Cannanore;calls;11.86752;75.35763;madras_presidency
+81;l301;18;Texel;calls;53.3;4.48;atlantic
+82;l421;17;Cuddalore;calls;11.75617;79.76693;madras_presidency
+83;l586;16;Leith;calls;55.98;-3.17;british_isles
+84;l295;16;Muscat;calls;23.58413;58.40778;indian_ocean
+85;l390;14;Amoy;calls;24.47979;118.08187;china
+88;l525;13;Galway Bay;calls;53.1619;-9.0256;british_isles
+89;l125;12;Amboina;calls;-3.69583;128.18333;southeast_asia
+90;l141;12;Spithead;calls;50.7514;-1.13667;british_isles
+91;l213;12;Padang;calls;-0.94924;100.35427;southeast_asia
+93;l235;11;Kedah;calls;6.0742;100.2146;southeast_asia
+94;l87;11;Bantam;calls;-6.0233;106.0939;southeast_asia
+96;l373;11;Basra;calls;30.50852;47.7804;indian_ocean
+98;l210;10;Bocca Tigris;calls;22.7933;113.5979;china
+99;l128;10;Tenerife;calls;28.1607;-16.362;atlantic
+100;l250;10;Mozambique;calls;-15.03466;40.73447;indian_ocean
+101;l61;10;Moheli;calls;-12.15;43.45;indian_ocean
+102;l323;10;San Salvador;calls;-12.5829;-38.2836;atlantic
+103;l397;10;Bahia;calls;-12.977;-38.5004;atlantic
+104;l98;10;Quilon;calls;8.88113;76.58469;madras_presidency
+106;l641;9;Shannon;calls;52.70389;-8.86417;british_isles
+107;l298;9;Tranquebar;calls;11.02764;79.85425;madras_presidency
+109;l447;8;Delagoa Bay;calls;-25.59;32.42;indian_ocean
+110;l65;8;Sulu;calls;6.05222;121.00222;southeast_asia
+114;l541;8;Limerick;calls;52.66472;-8.62306;british_isles
+115;l47;8;Reunion;calls;-21.0652;55.3157;indian_ocean
+116;l144;7;Yarmouth;calls;50.70529;-1.49929;british_isles
+117;l117;7;Port Jackson;calls;-33.513;151.14;indian_ocean
+118;l173;7;Hugli;calls;21.9746;88.1305;bengal_presidency
+119;l703;7;Bushire;calls;28.96887;50.83657;indian_ocean
+121;l194;7;Nicobars;calls;7.05;93.48;southeast_asia
+124;l324;7;Bourbon;calls;-21.0652;55.3157;indian_ocean
+126;l54;7;Lintin;calls;22.2446;113.4813;china
+127;l102;7;Barbados;calls;13.1012;-59.3309;atlantic
+133;l216;6;Mahe;calls;11.70172;75.53474;madras_presidency
+135;l143;6;Coringa;calls;16.48;82.14;madras_presidency
+136;l585;6;Madura;calls;9.919;78.11953;madras_presidency
+140;l99;5;Ganjam;calls;19.38705;85.05079;bengal_presidency
+142;l526;5;Simon's Bay;calls;-34.1806;18.4326;atlantic
+143;l127;5;North;calls;40.84856;-111.90688;atlantic
+144;l524;5;Diamond Creek;calls;-37.66667;145.15;indian_ocean
+145;l223;5;Santa Cruz;calls;15.30815;120.85318;southeast_asia
+147;l204;5;Socotra;calls;12.3036;53.5512;indian_ocean
+150;l382;5;Negrais;calls;16.2;94.12;bengal_presidency
+154;l395;4;Semarang;calls;-6.99306;110.42083;southeast_asia
+155;l543;4;Milford Haven;calls;51.71278;-5.0341;british_isles
+156;l679;4;Pernambuco;calls;-8.05389;-34.88111;atlantic
+160;l1211;4;Isle of Wight;calls;50.4;-1.16;british_isles
+161;l467;4;Jiddah;calls;21.49012;39.18624;indian_ocean
+166;l523;4;Annabon;calls;-1.2606;5.3815;atlantic
+167;l515;3;China;calls;22.449;113.915;china
+169;l492;3;Gibraltar;calls;36.14474;-5.35257;atlantic
+176;l130;3;Fulta;calls;19.1629;84.4843;madras_presidency
+179;l478;3;Trinidade;calls;-20.313;-29.193;atlantic
+181;l1053;3;Scilly;calls;49.55;-6.2;british_isles
+182;l220;3;River Thames;calls;51.4959;0.514031;british_isles
+184;l775;3;Bristol;calls;51.45523;-2.59665;british_isles
+185;l135;3;Lizard;calls;49.9588;-5.2076;british_isles
+186;l48;3;Nore;calls;45.24159;7.56983;atlantic
+188;l916;3;Anger;calls;47.27422;15.69139;atlantic
+189;l1207;3;Teignmouth;calls;50.54581;-3.49671;british_isles
+191;l740;3;Samarang;calls;-6.99306;110.42083;southeast_asia
+194;l132;3;Cadiz;calls;36.52672;-6.2891;atlantic
+197;l459;2;Persian Gulf;calls;26.7;52.0;indian_ocean
+202;l1331;2;Genoa;calls;41.51811;-83.35909;atlantic
+204;l137;2;Fernando de Noronha;calls;-3.5118;-32.253;atlantic
+205;l1192;2;Batticaloa;calls;7.7102;81.6924;madras_presidency
+208;l409;2;Port Louis;calls;-20.16194;57.49889;indian_ocean
+217;l43;2;Colaba;calls;18.91;72.81;bombay_presidency
+219;l596;2;Matavai;calls;-14.03208;-171.64768;indian_ocean
+222;l597;2;Tonga;calls;4.96667;10.7;atlantic
+226;l203;2;Aden;calls;12.77944;45.03667;indian_ocean
+228;l411;2;Pulo Condore;calls;8.68641;106.60824;southeast_asia
+230;l348;2;Martinique;calls;14.39;-61.0054;atlantic
+233;l267;2;Jeddah;calls;21.49012;39.18624;indian_ocean
+234;l873;2;Lombok;calls;-8.565;116.351;southeast_asia
+236;l345;2;Achen;calls;5.3325;95.1934;southeast_asia
+238;l1087;2;Sao Thome;calls;0.33654;6.72732;atlantic
+239;l340;2;Laye;calls;12.53118;-1.77684;atlantic
+240;l106;2;Blackwall;calls;51.50971;-0.0016;british_isles
+241;l113;2;Cape Coast Castle;calls;5.10535;-1.2466;atlantic
+242;l325;2;Portland;calls;50.56748;-2.44472;british_isles
+251;l355;2;Mahim;calls;19.035;72.84;bombay_presidency
+256;l212;2;Qishm;calls;26.9492;56.2691;indian_ocean
+258;l836;2;Maldives;calls;4.18;73.51;indian_ocean
+260;l926;2;Manila Bay;calls;14.31;120.46;southeast_asia
+277;l1198;1;All Saints' Bay, Brazil;calls;-12.51;-38.38;atlantic
+290;l567;1;Sura;calls;53.88786;45.74192;indian_ocean
+297;l1051;1;Boeton;calls;-5.4633;122.6024;southeast_asia
+298;l1195;1;Porto Novo;calls;17.01969;-25.06471;atlantic
+305;l1069;1;Luanda;calls;0.31354;34.07146;indian_ocean
+312;l1101;1;Bab el Mandeb;calls;12.35;43.2;indian_ocean
+343;l200;1;Comoros;calls;-12.3;43.7;indian_ocean
+355;l1091;1;Southampton;calls;50.90395;-1.40428;british_isles
+357;l689;1;Liverpool;calls;53.41058;-2.97794;british_isles
+358;l1200;1;Natal;calls;0.5632;99.1099;southeast_asia
+360;l226;1;Waterford;calls;52.25833;-7.11194;british_isles
+373;l1436;1;Sao Paulo;calls;-23.5475;-46.63611;atlantic
+384;l1379;1;Cape Verde;calls;15.55;-23.55;atlantic
+391;l1397;1;Port Cornwallis;calls;13.17;93.05;southeast_asia
+393;l466;1;Rangoon;calls;16.80528;96.15611;southeast_asia
+394;l1401;1;Cape Augustine;calls;-8.1723;-35.0148;atlantic
+401;l1486;1;Java;calls;-7.293;110.0016;southeast_asia
+409;l930;1;Brazil;calls;-8.4544;-35.0359;atlantic
+426;l1460;1;London;calls;51.50853;-0.12574;british_isles
+432;l476;1;Buton;calls;-5.4633;122.6024;southeast_asia
+445;l119;1;Porto Praya;calls;14.918;-23.509;atlantic
+452;l1228;1;Pearl River;calls;32.78347;-89.22784;atlantic
+456;l1202;1;Bay of Bulls, Newfoundland;calls;47.299;-52.781;atlantic
+458;l1204;1;Tynemouth;calls;55.01788;-1.42559;british_isles
+461;l1208;1;Iceland;calls;64.1238;-21.9553;atlantic
+465;l1213;1;Nootka Sound;calls;49.41;-126.33;atlantic
+466;l1214;1;Queen Charlotte's Islands;calls;-11.0;166.15;indian_ocean
+467;l1215;1;Sandwich Islands;calls;20.54;-156.36;indian_ocean
+468;l1216;1;Montague Island;calls;-36.15;150.13;indian_ocean
+471;l1264;1;gap;calls;44.55858;6.07868;atlantic
+472;l1268;1;Krakatoa;calls;-6.0607;105.2523;southeast_asia
+479;l1332;1;Leghorn;calls;43.54427;10.32615;atlantic
+480;l1073;1;Dover;calls;51.12598;1.31257;british_isles
+484;l1361;1;Dewas;calls;22.96585;76.05526;indian_ocean
+486;l1363;1;Brest;calls;48.23;-4.29;british_isles
+487;l1364;1;Trengganu;calls;5.3302;103.1408;southeast_asia
+488;l893;1;Bassein;calls;16.77919;94.73212;bengal_presidency
+491;l328;1;Benguela;calls;-12.57626;13.40547;atlantic
+494;l733;1;Taiwan;calls;25.04;121.31;china
+512;l426;1;Tuticorin;calls;8.76735;78.13425;madras_presidency
+514;l480;1;Quedah;calls;6.0742;100.2146;southeast_asia
+515;l477;1;Dartmouth;calls;50.3522;-3.5794;british_isles
+516;l505;1;Thames;calls;-37.13832;175.54011;indian_ocean
+529;l379;1;Tilbury;calls;51.46248;0.35856;british_isles
+533;l13;1;Singapore;calls;1.28967;103.85007;southeast_asia
+538;l422;1;Bristol Channel;calls;51.3777;-4.2291;british_isles
+550;l606;1;Canton river;calls;22.476411;113.750545;china
+558;l198;1;Maio;calls;15.13823;-23.21158;atlantic
+560;l629;1;Londonderry;calls;43.22646;-72.80649;atlantic
+564;l603;1;Bonavista;calls;16.6;-22.48;atlantic
+567;l599;1;Tahiti;calls;-17.4;-149.25;indian_ocean
+568;l598;1;Resolution Bay;calls;-41.0731;174.1332;indian_ocean
+580;l192;1;Canaries;calls;13.90224;-61.06459;atlantic
+584;l115;1;Ouidah;calls;6.36307;2.08506;atlantic
+592;l178;1;Cagayan Sulu;calls;6.5841;118.3047;southeast_asia
+595;l183;1;Gogha;calls;21.68;72.28;bombay_presidency
+598;l114;1;Accra;calls;5.55602;-0.1969;atlantic
+600;l372;1;Karrack;calls;29.1528;50.193;indian_ocean
+601;l62;1;Cavite;calls;15.67785;120.76978;southeast_asia
+604;l42;1;Khanderi;calls;18.7042;72.8131;bombay_presidency
+612;l73;1;Belem;calls;19.63334;-98.79664;atlantic
+613;l74;1;Scarborough;calls;54.27966;-0.40443;british_isles
+618;l224;1;Dungeness;calls;50.55;0.58;british_isles
+630;l349;1;St Lucia;calls;-28.37622;32.41181;indian_ocean
+631;l350;1;St Pierre;calls;46.77914;-56.1773;atlantic
+638;l276;1;Reach;calls;43.91064;-69.8206;atlantic
+641;l268;1;Newfoundland;calls;48.36;-56.2;atlantic
+646;l249;1;Marga;calls;45.5;22.51667;indian_ocean
+648;l237;1;Stokes Bay;calls;50.779;-1.164;british_isles
+655;l269;1;Jask;calls;25.64533;57.77552;indian_ocean
+662;l859;1;Table Bay;calls;-33.51;18.27;atlantic
+669;l862;1;Port Dauphin;calls;-25.0157;46.59;indian_ocean
+674;l813;1;los;calls;45.50719;105.75594;indian_ocean
+683;l839;1;Gambia river;calls;13.28;-16.34;atlantic
+687;l910;1;Tristan de Cunha;calls;-37.7;-12.18;atlantic
+688;l911;1;St Paul's Island;calls;-38.43;77.31;indian_ocean
+689;l912;1;Condore;calls;16.4108;80.3445;madras_presidency
+691;l979;1;Great Nanka;calls;-2.25;105.48;southeast_asia
+708;l968;1;Cascais;calls;38.69681;-9.42147;atlantic
+712;l939;1;Hamburg;calls;42.71589;-78.82948;atlantic
+713;l938;1;New York;calls;42.55779;-88.86511;atlantic
+729;l677;1;Banjarmasin;calls;-3.31987;114.59075;southeast_asia
+737;l704;1;Bar;calls;49.07362;27.67404;indian_ocean
+742;l798;1;Poole;calls;50.71429;-1.98458;british_isles
+751;l667;1;Eddystone;calls;50.108;-4.159;british_isles
+783;l754;1;Ganges;calls;43.93419;3.70797;atlantic
+785;l748;1;Clyde;calls;41.30422;-82.97519;atlantic

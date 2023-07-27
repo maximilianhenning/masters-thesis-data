@@ -3,11 +3,11 @@ from glob import glob
 import re
 
 dir = path.dirname(__file__)
-file_list = glob(path.join(dir, "voyages_text", "*"))
+file_list = glob(path.join(dir, "..", "processing", "voyages_text", "*"))
 occurences = 0
 for file in file_list:
     file = file.split("\\")[-1].split(".")[0]
-    with open(path.join(dir, "voyages_text", file + ".txt"), "r") as input:
+    with open(path.join(dir, "..", "processing", "voyages_text", file + ".txt"), "r") as input:
         string = input.read()
     str_to_replace = " Starits of Sunda "
     str_new = " Straits of Sunda "
