@@ -43,7 +43,7 @@
 223;s14;s14v1;s14v1c4;30 Dec Cape;1765;12.0;30.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 224;s14;s14v1;s14v1c5;23 Jan 1766 St Helena;1766;1.0;23.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 225;s14;s14v1;s14v1c6;10 Feb Ascension;1766;2.0;10.0;l72;False;l72;Ascension;calls;-7.56;-14.22;atlantic
-226;s14;s14v1;s14v1c7;31 Mar Belem;1766;3.0;31.0;l73;False;l73;Belem;calls;19.63334;-98.79664;atlantic
+226;s14;s14v1;s14v1c7;31 Mar Belem;1766;3.0;31.0;l73;False;l73;Belem;calls;-1.2721;-48.3014;atlantic
 229;s15;s15v1;s15v1c2;14 Aug Cape;1741;8.0;14.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 231;s15;s15v1;s15v1c4;24 Dec 1742 Cape;1742;12.0;24.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 235;s15;s15v2;s15v2c2;27 Apr Madeira;1745;4.0;27.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
@@ -140,17 +140,13 @@
 677;s36;s36v3;s36v3c8;2 Dec Cape;1797;12.0;2.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 678;s36;s36v3;s36v3c9;3 Jan 1793 St Helena;1793;1.0;3.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 688;s36;s36v4;s36v4c9;15 Jul St Helena;1800;7.0;15.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-689;s36;s36v4;s36v4c10;30 Sep North;1800;9.0;30.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 691;s36;s36v5;s36v5c2;31 Jul Rio de Janeiro;1801;7.0;31.0;l68;True;l68;Rio de Janeiro;calls;-22.90642;-43.18223;atlantic
 696;s36;s36v5;s36v5c7;10 Jul St Helena;1802;7.0;10.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-697;s36;s36v5;s36v5c8;17 Sep North;1802;9.0;17.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 703;s36;s36v6;s36v6c6;9 Jun St Helena;1804;6.0;9.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-704;s36;s36v6;s36v6c7;16 Aug North;1804;8.0;16.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 706;s36;s36v7;s36v7c2;15 May St Helena;1807;5.0;15.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 712;s36;s36v7;s36v7c8;8 Jul St Helena;1808;7.0;8.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 715;s36;s36v8;s36v8c2;18 Mar Tenerife;1810;3.0;18.0;l128;False;l128;Tenerife;calls;28.1607;-16.362;atlantic
 721;s36;s36v8;s36v8c8;26 May 1811 St Helena;1811;5.0;26.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-722;s36;s36v8;s36v8c9;13 Aug North;1811;8.0;13.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 725;s37;s37v1;s37v1c3;28 Dec St Helena;1827;12.0;28.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 728;s38;s38v1;s38v1c2;28 Sep Lisbon;1798;9.0;28.0;l129;False;l129;Lisbon;calls;38.71667;-9.13333;atlantic
 729;s38;s38v1;s38v1c3;30 Dec Cape;1798;12.0;30.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
@@ -196,7 +192,6 @@
 896;s48;s48v8;s48v8c2;31 May Madeira;1816;5.0;31.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 899;s48;s48v8;s48v8c5;19 Feb 1817 Cape;1817;2.0;19.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 900;s48;s48v8;s48v8c6;14 Mar St Helena;1817;3.0;14.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-901;s48;s48v8;s48v8c7;29 May North;1817;5.0;29.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 905;s49;s49v1;s49v1c4;26 May St Helena;1766;5.0;26.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 917;s49;s49v2;s49v2c11;12 Jan 1770 Cape;1770;1.0;12.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 918;s49;s49v2;s49v2c12;11 Feb St Helena;1770;2.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -381,7 +376,6 @@
 1941;s106;s106v1;s106v1c7;11 Sep St Helena;1812;9.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 1944;s107;s107v1;s107v1c2;10 Jun St Helena;1816;6.0;10.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 1948;s107;s107v1;s107v1c6;7 Jun St Helena;1815;6.0;7.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-1949;s107;s107v1;s107v1c7;11 Aug North;1815;8.0;11.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 1958;s108;s108v4;s108v4c3;4 Nov St Helena;1681;11.0;4.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 1963;s108;s108v6;s108v6c2;23 May Sao Tiago;1684;5.0;23.0;l40;False;l40;Sao Tiago;calls;15.04;-23.38;atlantic
 1969;s109;s109v1;s109v1c2;28 Mar 1724 Cape;1724;3.0;28.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
@@ -552,7 +546,6 @@
 2972;s156;s156v6;s156v6c7;26 Jul St Helena;1820;7.0;26.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 2977;s156;s156v7;s156v7c4;3 Feb 1822 Cape;1822;2.0;3.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 2978;s156;s156v7;s156v7c5;22 Feb St Helena;1822;2.0;22.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-2979;s156;s156v7;s156v7c6;22 Apr North;1822;4.0;22.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 2983;s156;s156v8;s156v8c4;2 Feb 1824 St Helena;1824;2.0;2.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 2988;s156;s156v9;s156v9c4;10 Apr 1826 St Helena;1826;4.0;10.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 2995;s158;s158v1;s158v1c2;19 Dec Cape;1746;12.0;19.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
@@ -617,7 +610,6 @@
 3358;s171;s171v2;s171v2c9;28 Jun St Helena;1789;6.0;28.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 3373;s171;s171v3;s171v3c15;19 Feb 1793 St Helena;1793;2.0;19.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 3381;s171;s171v4;s171v4c7;16 Oct St Helena;1795;10.0;16.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-3382;s171;s171v4;s171v4c8;26 Dec North;1795;12.0;26.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 3389;s171;s171v5;s171v5c7;12 Jul Cape;1797;7.0;12.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 3390;s171;s171v5;s171v5c8;11 Sep St Helena;1797;9.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 3393;s171;s171v6;s171v6c2;6 Jul Rio de Janeiro;1798;7.0;6.0;l68;True;l68;Rio de Janeiro;calls;-22.90642;-43.18223;atlantic
@@ -844,7 +836,6 @@
 4577;s219;s219v7;s219v7c2;31 May Cape;1808;5.0;31.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 4584;s219;s219v7;s219v7c9;11 Jul St Helena;1809;7.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 4591;s219;s219v8;s219v8c6;11 Jul St Helena;1811;7.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-4593;s219;s219v8;s219v8c8;29 Sep North;1811;9.0;29.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 4611;s220;s220v1;s220v1c18;29 Oct Cape;1715;10.0;29.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 4612;s220;s220v1;s220v1c19;12 Dec St Helena;1715;12.0;12.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 4619;s220;s220v2;s220v2c6;26 Jun St Helena;1718;6.0;26.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -899,7 +890,6 @@
 4809;s226;s226v4;s226v4c7;21 Apr St Helena;1816;4.0;21.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 4815;s226;s226v5;s226v5c5;27 Mar 1818 St Helena;1818;3.0;27.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 4820;s226;s226v6;s226v6c4;29 Mar St Helena;1820;3.0;29.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-4821;s226;s226v6;s226v6c5;31 May North;1820;5.0;31.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 4823;s227;s227v1;s227v1c2;22 Nov Sao Tiago;1682;11.0;22.0;l40;False;l40;Sao Tiago;calls;15.04;-23.38;atlantic
 4834;s228;s228v1;s228v1c4;6 Jan 1812 Cape;1812;1.0;6.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 4835;s228;s228v1;s228v1c5;14 Feb St Helena;1812;2.0;14.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -975,7 +965,6 @@
 5194;s246;s246v9;s246v9c2;28 May St Helena;1815;5.0;28.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 5199;s246;s246v9;s246v9c7;25 Mar 1816 St Helena;1816;3.0;25.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 5209;s247;s247v1;s247v1c9;28 Jun St Helena;1804;6.0;28.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-5210;s247;s247v1;s247v1c10;15 Oct North;1804;10.0;15.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 5223;s247;s247v2;s247v2c13;14 May St Helena;1806;5.0;14.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 5234;s247;s247v3;s247v3c10;19 Jan 1809 Cape;1809;1.0;19.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 5235;s247;s247v3;s247v3c11;7 Mar St Helena;1809;3.0;7.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -1041,7 +1030,6 @@
 5633;s265;s265v3;s265v3c7;15 Apr 1801 St Helena;1801;4.0;15.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 5636;s265;s265v4;s265v4c2;23 Feb 1803 St Helena;1803;2.0;23.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 5645;s265;s265v5;s265v5c8;2 Apr St Helena;1805;4.0;2.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-5646;s265;s265v5;s265v5c9;15 Sep North;1805;9.0;15.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 5648;s265;s265v6;s265v6c2;7 Aug Cape;1806;8.0;7.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 5653;s265;s265v7;s265v7c2;9 Jul St Helena;1810;7.0;9.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 5658;s265;s265v7;s265v7c7;11 Jul St Helena;1811;7.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -1302,7 +1290,6 @@
 7067;s337;s337v1;s337v1c2;19 Feb Madeira;1723;2.0;19.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 7073;s337;s337v1;s337v1c8;20 Apr 1724 St Helena;1724;4.0;20.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 7079;s337;s337v2;s337v2c5;9 May St Helena;1727;5.0;9.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-7080;s337;s337v2;s337v2c6;26 Aug North;1727;8.0;26.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 7082;s337;s337v3;s337v3c2;20 Jan Madeira;1730;1.0;20.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 7090;s337;s337v3;s337v3c10;21 Nov Cape;1732;11.0;21.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 7091;s337;s337v3;s337v3c11;10 Jan 1733 St Helena;1733;1.0;10.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -1336,7 +1323,6 @@
 7254;s341;s341v3;s341v3c2;8 May Madeira;1809;5.0;8.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 7260;s341;s341v3;s341v3c8;3 May St Helena;1810;5.0;3.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 7269;s341;s341v4;s341v4c8;11 May St Helena;1812;5.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-7270;s341;s341v4;s341v4c9;23 Jul North;1812;7.0;23.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 7295;s345;s345v1;s345v1c2;21 Oct Sao Tiago;1805;10.0;21.0;l40;False;l40;Sao Tiago;calls;15.04;-23.38;atlantic
 7302;s345;s345v1;s345v1c9;31 Dec Cape;1806;12.0;31.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 7303;s345;s345v1;s345v1c10;23 Jan 1807 St Helena;1807;1.0;23.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -1447,7 +1433,6 @@
 8000;s376;s376v1;s376v1c8;8 Apr St Helena;1823;4.0;8.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8007;s376;s376v2;s376v2c6;5 Feb 1825 Cape;1825;2.0;5.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 8008;s376;s376v2;s376v2c7;26 Feb St Helena;1825;2.0;26.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-8009;s376;s376v2;s376v2c8;17 Apr North;1825;4.0;17.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 8015;s376;s376v3;s376v3c6;28 Jan 1827 St Helena;1827;1.0;28.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8022;s376;s376v4;s376v4c6;16 Jan 1829 Cape;1829;1.0;16.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 8030;s376;s376v5;s376v5c7;30 Jan 1831 St Helena;1831;1.0;30.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -1509,7 +1494,6 @@
 8282;s388;s388v4;s388v4c4;23 May 1745 St Helena;1745;5.0;23.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8290;s389;s389v1;s389v1c6;22 Apr St Helena;1749;4.0;22.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8298;s389;s389v2;s389v2c7;10 Jun St Helena;1752;6.0;10.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-8299;s389;s389v2;s389v2c8;17 Aug North;1752;8.0;17.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 8308;s389;s389v3;s389v3c9;8 Aug St Helena;1756;8.0;8.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8324;s389;s389v4;s389v4c12;25 Jun St Helena;1760;6.0;25.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8331;s391;s391v1;s391v1c6;15 Apr 1766 St Helena;1766;4.0;15.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -1595,10 +1579,8 @@
 8735;s403;s403v1;s403v1c5;2 Mar 1819 St Helena;1819;3.0;2.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8742;s403;s403v2;s403v2c6;25 Mar 1821 St Helena;1821;3.0;25.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8748;s403;s403v3;s403v3c5;2 Feb 1823 St Helena;1823;2.0;2.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-8749;s403;s403v3;s403v3c6;5 Apr North;1823;4.0;5.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 8756;s403;s403v4;s403v4c7;31 Jan 1825 St Helena;1825;1.0;31.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8761;s403;s403v5;s403v5c4;12 Apr 1826 St Helena;1826;4.0;12.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-8762;s403;s403v5;s403v5c5;9 Jun North;1826;6.0;9.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 8768;s403;s403v6;s403v6c6;24 Jan 1828 St Helena;1828;1.0;24.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8777;s403;s403v7;s403v7c8;22 May St Helena;1830;5.0;22.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8783;s403;s403v8;s403v8c5;28 Mar 1832 Cape;1832;3.0;28.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
@@ -1607,7 +1589,6 @@
 8807;s404;s404v2;s404v2c9;12 Jul St Helena;1821;7.0;12.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8810;s404;s404v3;s404v3c2;11 Mar 1823 St Helena;1823;3.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8818;s404;s404v4;s404v4c7;16 Apr St Helena;1825;4.0;16.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-8819;s404;s404v4;s404v4c8;9 Jun North;1825;6.0;9.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 8827;s404;s404v5;s404v5c8;2 Jun St Helena;1827;6.0;2.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8833;s404;s404v6;s404v6c5;28 Jan 1829 St Helena;1829;1.0;28.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 8841;s404;s404v7;s404v7c7;1 Feb 1831 St Helena;1831;2.0;1.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -1649,7 +1630,6 @@
 9030;s413;s413v1;s413v1c4;1 Feb 1774 Sao Tiago;1774;2.0;1.0;l40;False;l40;Sao Tiago;calls;15.04;-23.38;atlantic
 9031;s413;s413v1;s413v1c5;18 Apr St Helena;1774;4.0;18.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 9038;s413;s413v1;s413v1c12;31 Oct St Helena;1775;10.0;31.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-9039;s413;s413v1;s413v1c13;Feb 1776 Londonderry;1776;2.0;;l629;False;l629;Londonderry;calls;43.22646;-72.80649;atlantic
 9042;s413;s413v2;s413v2c2;7 Mar 1778 Cape;1778;3.0;7.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 9046;s413;s413v2;s413v2c6;25 Jan 1779 St Helena;1779;1.0;25.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 9056;s414;s414v1;s414v1c7;9 Jun St Helena;1804;6.0;9.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -1777,7 +1757,6 @@
 9686;s435;s435v1;s435v1c6;15 Apr St Helena;1801;4.0;15.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 9693;s435;s435v2;s435v2c6;19 Mar St Helena;1803;3.0;19.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 9703;s435;s435v3;s435v3c9;27 Jun St Helena;1805;6.0;27.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-9704;s435;s435v3;s435v3c10;15 Sep North;1805;9.0;15.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 9712;s435;s435v4;s435v4c8;16 Jun St Helena;1807;6.0;16.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 9715;s435;s435v5;s435v5c2;30 May Madeira;1807;5.0;30.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 9720;s435;s435v5;s435v5c7;10 Apr Cape;1809;4.0;10.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
@@ -1815,7 +1794,6 @@
 9849;s441;s441v1;s441v1c7;5 Aug St Helena;1798;8.0;5.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 9860;s443;s443v1;s443v1c2;14 Mar Madeira;1747;3.0;14.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 9867;s443;s443v1;s443v1c9;27 May St Helena;1749;5.0;27.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-9868;s443;s443v1;s443v1c10;6 Aug North;1749;8.0;6.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 9879;s443;s443v2;s443v2c11;11 Jun St Helena;1752;6.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 9882;s443;s443v3;s443v3c2;13 May Sao Tiago;1755;5.0;13.0;l40;False;l40;Sao Tiago;calls;15.04;-23.38;atlantic
 9888;s443;s443v3;s443v3c8;10 Jun St Helena;1756;6.0;10.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -2053,7 +2031,6 @@
 11148;s500;s500v4;s500v4c6;26 Mar St Helena;1819;3.0;26.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 11209;s504;s504v1;s504v1c7;3 Jul St Helena;1754;7.0;3.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 11213;s504;s504v2;s504v2c3;22 Jan St Helena;1757;1.0;22.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-11221;s504;s504v2;s504v2c11;6 Nov Clyde;1758;11.0;6.0;l748;False;l748;Clyde;calls;41.30422;-82.97519;atlantic
 11233;s504;s504v3;s504v3c10;3 Jan 1762 St Helena;1762;1.0;3.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 11241;s504;s504v4;s504v4c6;3 Jun St Helena;1764;6.0;3.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 11246;s505;s505v1;s505v1c2;5 Mar Sao Tiago;1698;3.0;5.0;l40;False;l40;Sao Tiago;calls;15.04;-23.38;atlantic
@@ -2084,7 +2061,6 @@
 11368;s512;s512v2;s512v2c6;5 Nov St Helena;1700;11.0;5.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 11373;s512;s512v3;s512v3c4;25 May St Helena;1703;5.0;25.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 11374;s512;s512v3;s512v3c5;4 Aug Ascension;1703;8.0;4.0;l72;False;l72;Ascension;calls;-7.56;-14.22;atlantic
-11381;s512;s512v4;s512v4c5;22 Aug 'Ganges';1705;8.0;22.0;l754;False;l754;Ganges;calls;43.93419;3.70797;atlantic
 11383;s512;s512v4;s512v4c7;26 May Cape;1706;5.0;26.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 11384;s512;s512v4;s512v4c8;5 Aug St Helena;1706;8.0;5.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 11391;s513;s513v1;s513v1c5;4 Mar 1824 St Helena;1824;3.0;4.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -2260,7 +2236,6 @@
 12230;s548;s548v4;s548v4c7;20 Apr 1820 St Helena;1820;4.0;20.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 12240;s548;s548v6;s548v6c7;7 Feb 1824 St Helena;1824;2.0;7.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 12249;s548;s548v7;s548v7c8;2 Feb 1826 St Helena;1826;2.0;2.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-12250;s548;s548v7;s548v7c9;3 Apr North;1826;4.0;3.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 12258;s548;s548v8;s548v8c8;15 Feb 1828 St Helena;1828;2.0;15.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 12261;s548;s548v9;s548v9c2;9 Apr St Helena;1829;4.0;9.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 12265;s548;s548v9;s548v9c6;30 Jun St Helena;1830;6.0;30.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -2735,7 +2710,6 @@
 14709;s670;s670v2;s670v2c1;3 Dec Tristan de Cunha;1791;12.0;3.0;l910;True;l910;Tristan de Cunha;calls;-37.7;-12.18;atlantic
 14719;s670;s670v2;s670v2c11;18 Jun St Helena;1794;6.0;18.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 14726;s671;s671v1;s671v1c6;5 Aug St Helena;1798;8.0;5.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-14731;s671;s671v2;s671v2c4;3 May Anger;1800;5.0;3.0;l916;False;l916;Anger;calls;47.27422;15.69139;atlantic
 14732;s671;s671v2;s671v2c5;15 Jul St Helena;1800;7.0;15.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 14739;s671;s671v3;s671v3c6;12 Apr 1802 St Helena;1802;4.0;12.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 14743;s672;s672v1;s672v1c3;9 Jun St Helena;1813;6.0;9.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -2859,7 +2833,7 @@
 15387;s698;s698v1;s698v1c4;6 Aug Cape;1813;8.0;6.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 15388;s698;s698v1;s698v1c5;5 Sep St Helena 1 Mar 1814;1814;3.0;1.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 15403;s701;s701v1;s701v1c1;New York 21 Apr 1800;1800;4.0;21.0;l938;False;l938;New York;calls;42.55779;-88.86511;atlantic
-15404;s701;s701v1;s701v1c2;13 Jun Hamburg;1800;6.0;13.0;l939;False;l939;Hamburg;calls;42.71589;-78.82948;atlantic
+15404;s701;s701v1;s701v1c2;13 Jun Hamburg;1800;6.0;13.0;l939;False;l939;Hamburg;calls;53.33;10.0;atlantic
 15407;s701;s701v1;s701v1c5;15 Dec Madeira;1800;12.0;15.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 15410;s701;s701v1;s701v1c8;12 Aug St Helena;1801;8.0;12.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 15413;s702;s702v1;s702v1c2;5 Sep Madeira;1794;9.0;5.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
@@ -2955,13 +2929,11 @@
 15928;s739;s739v3;s739v3c4;13 Jul Quebec;1825;7.0;13.0;l145;False;l145;Quebec;calls;46.81228;-71.21454;atlantic
 15939;s741;s741v1;s741v1c2;2 May Madeira;1701;5.0;2.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 15940;s741;s741v1;s741v1c3;16 May Sao Tiago;1701;5.0;16.0;l40;False;l40;Sao Tiago;calls;15.04;-23.38;atlantic
-15952;s742;s742v1;s742v1c2;30 Jul Anger;1819;7.0;30.0;l916;False;l916;Anger;calls;47.27422;15.69139;atlantic
 15955;s742;s742v1;s742v1c5;1 Feb 1820 Cape;1820;2.0;1.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 15956;s742;s742v1;s742v1c6;23 Feb St Helena;1820;2.0;23.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 15963;s742;s742v2;s742v2c6;18 Jun St Helena;1822;6.0;18.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 15973;s742;s742v3;s742v3c9;4 Mar 1824 St Helena;1824;3.0;4.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 15979;s742;s742v4;s742v4c5;6 Feb 1826 St Helena;1826;2.0;6.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-15982;s742;s742v5;s742v5c2;18 Jul Anger;1827;7.0;18.0;l916;False;l916;Anger;calls;47.27422;15.69139;atlantic
 15985;s742;s742v5;s742v5c5;17 Mar 1828 St Helena;1828;3.0;17.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 15988;s742;s742v6;s742v6c2;19 May St Helena;1829;5.0;19.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 15994;s742;s742v6;s742v6c8;13 Jul St Helena;1830;7.0;13.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -3025,7 +2997,6 @@
 16297;s754;s754v2;s754v2c6;5 Apr St Helena;1788;4.0;5.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 16302;s754;s754v3;s754v3c4;24 Feb 1790 St Helena;1790;2.0;24.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 16309;s754;s754v4;s754v4c6;31 Jul St Helena;1793;7.0;31.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-16312;s754;s754v5;s754v5c2;7 Sep Anger;1794;9.0;7.0;l916;False;l916;Anger;calls;47.27422;15.69139;atlantic
 16315;s754;s754v5;s754v5c5;14 Apr St Helena;1795;4.0;14.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 16319;s754;s754v6;s754v6c3;24 Dec Cape;1797;12.0;24.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 16320;s754;s754v6;s754v6c4;3 Feb 1798 St Helena;1798;2.0;3.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -3326,7 +3297,6 @@
 17891;s823;s823v5;s823v5c2;27 May Madeira;1810;5.0;27.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 17904;s823;s823v5;s823v5c15;2 Jun St Helena;1812;6.0;2.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 17907;s823;s823v6;s823v6c2;8 Apr Madeira;1813;4.0;8.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
-17909;s823;s823v6;s823v6c4;27 Oct Anger;1813;10.0;27.0;l916;False;l916;Anger;calls;47.27422;15.69139;atlantic
 17910;s823;s823v6;s823v6c5;13 Jan 1814 St Helena;1814;1.0;13.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 17913;s823;s823v7;s823v7c2;18 Apr Madeira;1815;4.0;18.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 17919;s823;s823v7;s823v7c8;8 May St Helena;1816;5.0;8.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -3338,7 +3308,6 @@
 17943;s824;s824v5;s824v5c2;27 May Madeira;1810;5.0;27.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 17956;s824;s824v5;s824v5c15;2 Jun St Helena;1812;6.0;2.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 17959;s824;s824v6;s824v6c2;8 Apr Madeira;1813;4.0;8.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
-17961;s824;s824v6;s824v6c4;27 Oct Anger;1813;10.0;27.0;l916;False;l916;Anger;calls;47.27422;15.69139;atlantic
 17962;s824;s824v6;s824v6c5;13 Jan 1814 St Helena;1814;1.0;13.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 17965;s824;s824v7;s824v7c2;18 Apr Madeira;1815;4.0;18.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 17971;s824;s824v7;s824v7c8;8 May St Helena;1816;5.0;8.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -4089,7 +4058,6 @@
 21761;s990;s990v5;s990v5c2;22 Jul Cape;1796;7.0;22.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 21771;s990;s990v5;s990v5c12;5 Aug St Helena;1798;8.0;5.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 21778;s990;s990v6;s990v6c6;12 Apr St Helena;1802;4.0;12.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-21779;s990;s990v6;s990v6c7;26 Jun North;1802;6.0;26.0;l127;False;l127;North;calls;40.84856;-111.90688;atlantic
 21783;s990;s990v8;s990v8c2;8 Mar Madeira;1809;3.0;8.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 21791;s991;s991v1;s991v1c2;8 Mar Madeira;1809;3.0;8.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
 21801;s993;s993v1;s993v1c2;10 Mar Madeira;1789;3.0;10.0;l57;False;l57;Madeira;calls;32.45;-17.0;atlantic
@@ -4500,7 +4468,6 @@
 23890;s1079;s1079v4;s1079v4c11;5 Jan 1729 Cape;1729;1.0;5.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 23891;s1079;s1079v4;s1079v4c12;11 Feb St Helena;1729;2.0;11.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 23908;s1081;s1081v1;s1081v1c5;10 May 1755 St Helena;1755;5.0;10.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
-23925;s1081;s1081v3;s1081v3c12;23 Oct Pearl River;1761;10.0;23.0;l1228;False;l1228;Pearl River;calls;32.78347;-89.22784;atlantic
 23928;s1081;s1081v3;s1081v3c15;24 Apr St Helena;1762;4.0;24.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 23932;s1081;s1081v4;s1081v4c2;23 May St Helena;1764;5.0;23.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 23937;s1081;s1081v4;s1081v4c7;2 Nov St Helena;1765;11.0;2.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -4990,9 +4957,9 @@
 26546;s1205;s1205v1;s1205v1c11;21 May Cape;1694;5.0;21.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 26547;s1205;s1205v1;s1205v1c12;20 Jun St Helena;1694;6.0;20.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 26548;s1205;s1205v1;s1205v1c13;15 Aug Barbados;1694;8.0;15.0;l102;False;l102;Barbados;calls;13.1012;-59.3309;atlantic
-26552;s1206;s1206v1;s1206v1c2;27 Dec Genoa;1701;12.0;27.0;l1331;False;l1331;Genoa;calls;41.51811;-83.35909;atlantic
+26552;s1206;s1206v1;s1206v1c2;27 Dec Genoa;1701;12.0;27.0;l1331;False;l1331;Genoa;calls;44.244;8.5558;atlantic
 26553;s1206;s1206v1;s1206v1c3;11 Jan 1702 Leghorn;1702;1.0;11.0;l1332;False;l1332;Leghorn;calls;43.54427;10.32615;atlantic
-26554;s1206;s1206v1;s1206v1c4;5 Feb Genoa;1702;2.0;5.0;l1331;False;l1331;Genoa;calls;41.51811;-83.35909;atlantic
+26554;s1206;s1206v1;s1206v1c4;5 Feb Genoa;1702;2.0;5.0;l1331;False;l1331;Genoa;calls;44.244;8.5558;atlantic
 26557;s1206;s1206v1;s1206v1c7;26 Oct Sao Tiago;1702;10.0;26.0;l40;False;l40;Sao Tiago;calls;15.04;-23.38;atlantic
 26558;s1206;s1206v1;s1206v1c8;2 Jan 1703 Cape;1703;1.0;2.0;l11;False;l11;Cape;calls;-34.2129;18.2832;atlantic
 26572;s1208;s1208v1;s1208v1c5;22 Jul St Helena;1747;7.0;22.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
@@ -5342,7 +5309,6 @@
 28494;s1296;s1296v6;s1296v6c4;20 Mar 1817 St Helena;1817;3.0;20.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 28504;s1297;s1297v3;s1297v3c3;14 Jun St Helena;1677;6.0;14.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 28505;s1297;s1297v3;s1297v3c4;2 Jul Ascension;1677;7.0;2.0;l72;False;l72;Ascension;calls;-7.56;-14.22;atlantic
-28519;s1298;s1298v4;s1298v4c2;29 Apr Anger;1791;4.0;29.0;l916;False;l916;Anger;calls;47.27422;15.69139;atlantic
 28520;s1298;s1298v4;s1298v4c3;8 Jul St Helena;1791;7.0;8.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 28523;s1298;s1298v5;s1298v5c2;16 Feb 1796 St Helena;1796;2.0;16.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic
 28531;s1299;s1299v1;s1299v1c6;15 May St Helena;1806;5.0;15.0;l5;False;l5;St Helena;calls;-15.58;-5.42;atlantic

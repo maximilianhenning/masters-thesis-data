@@ -167,6 +167,7 @@ Bonavista;calls;16.6;-22.48
 Sydney;calls;-33.5204;151.12236
 Isle of Wight;calls;50.4;-1.16
 Eddystone;calls;50.108;-4.159
+North;calls;51.1241;1.3901
 Bahia;calls;-12.977;-38.5004
 Stokes Bay;calls;50.779;-1.164
 Dhufar;calls;17.011;54.0523
@@ -203,6 +204,14 @@ Sierra Leone;calls;8.4625;-13.2401
 Texel;calls;53.3;4.48
 Mozambique Channel;calls;-16.0782;42.5175
 Aceh;calls;5.3325;95.1934
+Hamburg;calls;53.33;10.0
+Pearl River;calls;22.32;113.44
+Genoa;calls;44.244;8.5558
+Londonderry;calls;54.5951;-7.1912
+Clyde;calls;55.4046;-4.5816
+Belem;calls;-1.2721;-48.3014
+Ganges;calls;22.42;89.4
+Anger;calls;-6.04;105.53
 Hugh;calls;;
 Blackwa;calls;;
 voyages to Sumatra 1624, Lagundy 1625, Coromandel;calls;;
@@ -1895,9 +1904,8 @@ Harwood;persons_birth;;
 Seo & tap St Colas;persons_birth;;
 Whitekirk;persons_birth;;
 Macias Asst Sunysem Noy 1782;persons_birth;;
-d LE Si Mathew's Pricey St;persons_birth;;
-d b Barnstaple;persons_birth;;
-Cape ASTELL 1823/4 & 1826/7 ‘ewin;persons_birth;;
+d m St Matthew's Friday St;persons_birth;;
+ap Eltham;persons_birth;;
 4th mate RHODA 1757/8;persons_birth;;
 British garrison of New York;persons_birth;;
 captured by French off Benkulen 794;persons_birth;;

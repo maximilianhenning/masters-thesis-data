@@ -399,7 +399,7 @@ Downs -17 Jul 1632 St Augustine’s Bay - Johanna - 3 Oct Bandar Abbas - 27 Nov 
 5	1635/6	Bantam
 Capt John Scallon Downs Mar 1636 -
 6 1642/3	Madras and	Bantam
-Bowns 8 Mar 1643 - 9 Aug Johanna - 23 Sep Madras -1 Oct Masulipatam -13 Dec Bantam 12 Jul 1644 - 28 Sep Surat 2 Dec - Sind -15 Jan 1645 Surat - Bantam 31 Jul 1646 - 2 Oct Surat - 29 Nov Sind - 23 Dec Surat - remained in India ?
+Bowns 8 Mar 1643 - 9 Aug Johanna - 23 Sep Madras -1 Oct Masulipatam -13 Dec Bantam 12 Jul 1644 - 28 Sep Surat 2 Dec - Sindh -15 Jan 1645 Surat - Bantam 31 Jul 1646 - 2 Oct Surat - 29 Nov Sindh - 23 Dec Surat - remained in India ?
 HARTWELL
 Built by Crockenden, launched 1787, 3 decks, 4in bottom, length 151ft 2in, breadth 38ft, hold 16ft, wing transom 25ft lin, port cell 27ft 5in, between decks 6ft & 6ft 4in, roundhouse 6ft 3in, 113 crew, 26 guns, 937 tons
 Principal Managing Owner: John Fiott
@@ -1057,7 +1057,7 @@ HIND (1)
 1 1642/3 Surat, to remain
 L/MAR/A/LXV Journal 26 Apr - 22 Jun 1644, anon
 L/MAR/A/LXVI Journal 26 Apr 1644 - 8 Feb 1645, Richard Mathew*
-Downs 10 Apr 1643 - 9 Aug Johanna - 18 Sep Surat - 7 Nov Sind - Dec Surat 8 Feb 1644 - 3 Mar Bandar Abbas - Surat 26 Apr - 2 May Goa - 12 Jun Malacca - 7 Aug Macao - repaired off coast of China - 4 Nov Macao - 20 Dec Malacca - 14 Mar 1645 Surat - Mokha 6 Aug - Malabar  -23 Dec Surat 16 Feb 1646 - Bandar Abbas - Apr Surat - 29 May Madras - Jul Bantam - voyages between Bantam and Surat 1647-1649
+Downs 10 Apr 1643 - 9 Aug Johanna - 18 Sep Surat - 7 Nov Sindh - Dec Surat 8 Feb 1644 - 3 Mar Bandar Abbas - Surat 26 Apr - 2 May Goa - 12 Jun Malacca - 7 Aug Macao - repaired off coast of China - 4 Nov Macao - 20 Dec Malacca - 14 Mar 1645 Surat - Mokha 6 Aug - Malabar  -23 Dec Surat 16 Feb 1646 - Bandar Abbas - Apr Surat - 29 May Madras - Jul Bantam - voyages between Bantam and Surat 1647-1649
 * journal contains sketches
 HIND(2)
 1 1800/1 Bengal

@@ -1,21 +1,21 @@
 ID;label;category;count
 1;apprentice;before_mast;343
-2;purser;before_mast;3923
+2;purser;before_mast;3924
 3;seaman;before_mast;1690
 4;capt's servant;middle;281
 5;quarter master;middle;13
-6;midshipman;middle;3306
+6;midshipman;middle;3313
 7;coxswain;middle;7
 8;lieutenant;middle;190
 9;boatswain;middle;15
-10;6th mate;low_mates;1730
-11;5th mate;low_mates;2930
-12;4th mate;low_mates;3815
-13;surgeon's mate;low_mates;212
-14;surgeon;low_mates;4890
-15;3rd mate;high_mates;4046
-16;2nd mate;high_mates;4786
-17;1st mate;high_mates;4615
-18;master;master_capt;455
-19;capt;master_capt;5585
+10;6th mate;low_mates;1733
+11;5th mate;low_mates;2938
+12;4th mate;low_mates;3819
+13;surgeon's mate;low_mates;214
+14;surgeon;low_mates;4916
+15;3rd mate;high_mates;4056
+16;2nd mate;high_mates;4793
+17;1st mate;high_mates;4625
+18;master;master_capt;456
+19;capt;master_capt;5588
 20;passenger;master_capt;123

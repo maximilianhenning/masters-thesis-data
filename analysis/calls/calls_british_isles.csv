@@ -148,11 +148,15 @@
 670;s36;s36v3;s36v3c1;Portsmouth 17 May 1796;1796;5.0;17.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 679;s36;s36v3;s36v3c10;3 Apr Gravesend;1793;4.0;3.0;l70;False;l70;Gravesend;calls;51.44206;0.37106;british_isles
 680;s36;s36v4;s36v4c1;Portsmouth 2 Apr 1799;1799;4.0;2.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
+689;s36;s36v4;s36v4c10;30 Sep North;1800;9.0;30.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 690;s36;s36v5;s36v5c1;Portsmouth 19 May 1801;1801;5.0;19.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
+697;s36;s36v5;s36v5c8;17 Sep North;1802;9.0;17.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 698;s36;s36v6;s36v6c1;Downs 6 May 1803;1803;5.0;6.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+704;s36;s36v6;s36v6c7;16 Aug North;1804;8.0;16.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 705;s36;s36v7;s36v7c1;Portsmouth 26 Feb 1807;1807;2.0;26.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 713;s36;s36v7;s36v7c9;14 Sep Long Reach;1808;9.0;14.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 714;s36;s36v8;s36v8c1;Portsmouth 19 Feb 1810;1810;2.0;19.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
+722;s36;s36v8;s36v8c9;13 Aug North;1811;8.0;13.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 723;s37;s37v1;s37v1c1;Downs 16 Apr 1827;1827;4.0;16.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 727;s38;s38v1;s38v1c1;Falmouth 13 Sep 1798;1798;9.0;13.0;l21;False;l21;Falmouth;calls;50.15441;-5.07113;british_isles
 733;s38;s38v1;s38v1c7;18 Apr Deptford;1800;4.0;18.0;l51;False;l51;Deptford;calls;51.478;-0.0265;british_isles
@@ -200,6 +204,7 @@
 881;s48;s48v6;s48v6c1;Portsmouth 8 Apr 1812;1812;4.0;8.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 889;s48;s48v7;s48v7c1;Portsmouth 8 Jun 1814;1814;6.0;8.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 895;s48;s48v8;s48v8c1;Downs 19 May 1816;1816;5.0;19.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+901;s48;s48v8;s48v8c7;29 May North;1817;5.0;29.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 902;s49;s49v1;s49v1c1;Downs 23 Jan 1765;1765;1.0;23.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 906;s49;s49v1;s49v1c5;10 Aug Woolwich;1766;8.0;10.0;l97;False;l97;Woolwich;calls;51.491;0.0648;british_isles
 907;s49;s49v2;s49v2c1;Downs 21 Mar 1768;1768;3.0;21.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -424,6 +429,7 @@
 1935;s106;s106v1;s106v1c1;Portsmouth 27 Jul 1811;1811;7.0;27.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 1942;s106;s106v1;s106v1c8;11 Nov Gravesend;1812;11.0;11.0;l70;False;l70;Gravesend;calls;51.44206;0.37106;british_isles
 1943;s107;s107v1;s107v1c1;Downs 24 Mar 1816;1816;3.0;24.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+1949;s107;s107v1;s107v1c7;11 Aug North;1815;8.0;11.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 1952;s108;s108v1;s108v1c2;Aug 1673;1673;8.0;;;True;;Purfleet;calls;51.48;0.25;british_isles
 1955;s108;s108v3;s108v3c2;6 Jan 1678 Downs;1678;1.0;6.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 1956;s108;s108v4;s108v4c1;Downs 7 Sep 1680;1680;9.0;7.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -655,6 +661,7 @@
 2966;s156;s156v6;s156v6c1;Portsmouth 1 Mar 1819;1819;3.0;1.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 2973;s156;s156v6;s156v6c8;29 Sep Long Reach;1820;9.0;29.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 2974;s156;s156v7;s156v7c1;Downs 28 Apr 1821;1821;4.0;28.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+2979;s156;s156v7;s156v7c6;22 Apr North;1822;4.0;22.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 2980;s156;s156v8;s156v8c1;Downs 20 Apr 1823;1823;4.0;20.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 2984;s156;s156v8;s156v8c5;23 Mar Long Reach;1824;3.0;23.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 2985;s156;s156v9;s156v9c1;Downs 4 May 1825;1825;5.0;4.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -737,6 +744,7 @@
 3359;s171;s171v3;s171v3c1;Portsmouth 25 May 1791;1791;5.0;25.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 3374;s171;s171v3;s171v3c16;22 Apr Long Reach;1793;4.0;22.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 3375;s171;s171v4;s171v4c1;Portsmouth 2 May 1794;1794;5.0;2.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
+3382;s171;s171v4;s171v4c8;26 Dec North;1795;12.0;26.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 3383;s171;s171v5;s171v5c1;Portsmouth 17 May 1796;1796;5.0;17.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 3391;s171;s171v5;s171v5c9;18 Dec Gravesend;1797;12.0;18.0;l70;False;l70;Gravesend;calls;51.44206;0.37106;british_isles
 3392;s171;s171v6;s171v6c1;Portsmouth 29 Apr 1798;1798;4.0;29.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
@@ -1006,6 +1014,7 @@
 4576;s219;s219v7;s219v7c1;Portsmouth 5 Mar 1808;1808;3.0;5.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 4585;s219;s219v7;s219v7c10;14 Sep Long Reach;1809;9.0;14.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 4586;s219;s219v8;s219v8c1;Portsmouth 28 Apr 1810;1810;4.0;28.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
+4593;s219;s219v8;s219v8c8;29 Sep North;1811;9.0;29.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 4594;s220;s220v1;s220v1c1;Downs 23 Feb 1713;1713;2.0;23.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 4613;s220;s220v1;s220v1c20;24 Apr 1716 Woolwich;1716;4.0;24.0;l97;False;l97;Woolwich;calls;51.491;0.0648;british_isles
 4614;s220;s220v2;s220v2c1;Downs 24 Jan 1717;1717;1.0;24.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -1058,6 +1067,7 @@
 4811;s226;s226v5;s226v5c1;Downs 14 Apr 1817;1817;4.0;14.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 4816;s226;s226v5;s226v5c6;6 Jun Gravesend;1818;6.0;6.0;l70;False;l70;Gravesend;calls;51.44206;0.37106;british_isles
 4817;s226;s226v6;s226v6c1;Downs 22 Apr 1819;1819;4.0;22.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+4821;s226;s226v6;s226v6c5;31 May North;1820;5.0;31.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 4822;s227;s227v1;s227v1c1;Downs 26 Oct 1682;1682;10.0;26.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 4836;s228;s228v1;s228v1c6;25 Apr Portsmouth;1812;4.0;25.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 4842;s229;s229v1;s229v1c5;8 Aug Long Reach;1796;8.0;8.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
@@ -1140,6 +1150,7 @@
 5193;s246;s246v9;s246v9c1;Downs 3 Apr 1815;1815;4.0;3.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 5200;s246;s246v9;s246v9c8;14 May Long Reach;1816;5.0;14.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 5201;s247;s247v1;s247v1c1;Downs 27 Apr 1803;1803;4.0;27.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+5210;s247;s247v1;s247v1c10;15 Oct North;1804;10.0;15.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 5211;s247;s247v2;s247v2c1;Portsmouth 8 Mar 1805;1805;3.0;8.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 5214;s247;s247v2;s247v2c4;7 Nov Portsmouth 8 Mar 1805;1805;3.0;8.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 5224;s247;s247v2;s247v2c14;22 Jul Long Reach;1806;7.0;22.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
@@ -1245,6 +1256,7 @@
 5634;s265;s265v3;s265v3c8;17 Jun Long Reach;1801;6.0;17.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 5637;s265;s265v4;s265v4c3;26 Apr Long Reach;1803;4.0;26.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 5638;s265;s265v5;s265v5c1;Portsmouth 13 Feb 1804;1804;2.0;13.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
+5646;s265;s265v5;s265v5c9;15 Sep North;1805;9.0;15.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 5647;s265;s265v6;s265v6c1;Portsmouth 14 May 1806;1806;5.0;14.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 5652;s265;s265v7;s265v7c1;Portsmouth 13 Apr 1810;1810;4.0;13.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 5659;s265;s265v7;s265v7c8;30 Sep Long Reach;1811;9.0;30.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
@@ -1581,6 +1593,7 @@
 7057;s336;s336v4;s336v4c1;Downs 22 Jan 1720;1720;1.0;22.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 7066;s337;s337v1;s337v1c1;Downs 27 Jan 1723;1723;1.0;27.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 7075;s337;s337v2;s337v2c1;Downs 4 Mar 1726;1726;3.0;4.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+7080;s337;s337v2;s337v2c6;26 Aug North;1727;8.0;26.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 7081;s337;s337v3;s337v3c1;Downs 3 Jan 1730;1730;1.0;3.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 7092;s337;s337v3;s337v3c12;15 Apr Portsmouth;1733;4.0;15.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 7093;s337;s337v4;s337v4c1;Downs 30 Apr 1735;1735;4.0;30.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -1616,6 +1629,7 @@
 7253;s341;s341v3;s341v3c1;Portsmouth 28 Apr 1809;1809;4.0;28.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 7261;s341;s341v3;s341v3c9;7 Jul Long Reach;1810;7.0;7.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 7262;s341;s341v4;s341v4c1;Torbay 12 May 1811;1811;5.0;12.0;l55;False;l55;Torbay;calls;50.278;-3.3325;british_isles
+7270;s341;s341v4;s341v4c9;23 Jul North;1812;7.0;23.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 7271;s341;s341v5;s341v5c1;Portsmouth 2 Jun 1813;1813;6.0;2.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 7273;s342;s342v1;s342v1c1;Downs;1814;;;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 7282;s342;s342v1;s342v1c9;Dutch Fleet of Defence off Malabar 1622/3;1621;;;;True;;Purfleet;calls;51.48;0.25;british_isles
@@ -1777,6 +1791,7 @@
 7993;s376;s376v1;s376v1c1;Cowes 13 Feb 1822;1822;2.0;13.0;l357;False;l357;Cowes;calls;50.76252;-1.29781;british_isles
 8001;s376;s376v1;s376v1c9;24 May Gravesend;1823;5.0;24.0;l70;False;l70;Gravesend;calls;51.44206;0.37106;british_isles
 8002;s376;s376v2;s376v2c1;Cowes 1 Feb 1824;1824;2.0;1.0;l357;False;l357;Cowes;calls;50.76252;-1.29781;british_isles
+8009;s376;s376v2;s376v2c8;17 Apr North;1825;4.0;17.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 8010;s376;s376v3;s376v3c1;Cowes 8 Mar 1826;1826;3.0;8.0;l357;False;l357;Cowes;calls;50.76252;-1.29781;british_isles
 8017;s376;s376v4;s376v4c1;Plymouth 28 Feb 1828;1828;2.0;28.0;l85;False;l85;Plymouth;calls;50.37153;-4.14305;british_isles
 8024;s376;s376v5;s376v5c1;Downs 5 Jan 1830;1830;1.0;5.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -1843,6 +1858,7 @@
 8285;s389;s389v1;s389v1c1;Downs 15 Jan 1748;1748;1.0;15.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 8291;s389;s389v1;s389v1c7;9 Jul Long Reach;1749;7.0;9.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 8292;s389;s389v2;s389v2c1;Downs 16 Feb 1751;1751;2.0;16.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+8299;s389;s389v2;s389v2c8;17 Aug North;1752;8.0;17.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 8300;s389;s389v3;s389v3c1;Downs 17 Feb 1755;1755;2.0;17.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 8309;s389;s389v3;s389v3c10;28 Oct River Shannon;1756;10.0;28.0;l94;False;l94;River Shannon;calls;52.35;-9.18;british_isles
 8310;s389;s389v3;s389v3c11;22 Jan 1757 Erith;1757;1.0;22.0;l75;False;l75;Erith;calls;51.48315;0.17484;british_isles
@@ -1933,9 +1949,11 @@
 8737;s403;s403v2;s403v2c1;Downs 8 Mar 1820;1820;3.0;8.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 8743;s403;s403v2;s403v2c7;20 May Long Reach;1821;5.0;20.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 8744;s403;s403v3;s403v3c1;Downs 5 Jan 1822;1822;1.0;5.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+8749;s403;s403v3;s403v3c6;5 Apr North;1823;4.0;5.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 8750;s403;s403v4;s403v4c1;Downs 11 Jan 1824;1824;1.0;11.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 8757;s403;s403v4;s403v4c8;16 Mar Gravesend;1825;3.0;16.0;l70;False;l70;Gravesend;calls;51.44206;0.37106;british_isles
 8758;s403;s403v5;s403v5c1;Downs 6 Jun 1825;1825;6.0;6.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+8762;s403;s403v5;s403v5c5;9 Jun North;1826;6.0;9.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 8763;s403;s403v6;s403v6c1;Downs 21 Jan 1827;1827;1.0;21.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 8769;s403;s403v6;s403v6c7;21 Mar Gravesend;1828;3.0;21.0;l70;False;l70;Gravesend;calls;51.44206;0.37106;british_isles
 8770;s403;s403v7;s403v7c1;Downs 8 Feb 1829;1829;2.0;8.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -1947,6 +1965,7 @@
 8799;s404;s404v2;s404v2c1;Downs 6 Mar 1820;1820;3.0;6.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 8808;s404;s404v2;s404v2c10;13 Sep Long Reach;1821;9.0;13.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 8812;s404;s404v4;s404v4c1;Downs 26 Feb 1824;1824;2.0;26.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
+8819;s404;s404v4;s404v4c8;9 Jun North;1825;6.0;9.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 8820;s404;s404v5;s404v5c1;Downs 4 Feb 1826;1826;2.0;4.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 8821;s404;s404v5;s404v5c2;16 Feb Cork 4 Apr;1826;4.0;4.0;l131;False;l131;Cork;calls;51.89797;-8.47061;british_isles
 8829;s404;s404v6;s404v6c1;Downs 5 Jan 1828;1828;1.0;5.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -2004,6 +2023,7 @@
 9027;s413;s413v1;s413v1c1;Downs May 1773;1773;5.0;;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 9028;s413;s413v1;s413v1c2;15 Jun Falmouth;1773;6.0;15.0;l21;False;l21;Falmouth;calls;50.15441;-5.07113;british_isles
 9029;s413;s413v1;s413v1c3;2 Oct Plymouth;1773;10.0;2.0;l85;False;l85;Plymouth;calls;50.37153;-4.14305;british_isles
+9039;s413;s413v1;s413v1c13;Feb 1776 Londonderry;1776;2.0;;l629;False;l629;Londonderry;calls;54.5951;-7.1912;british_isles
 9040;s413;s413v1;s413v1c14;13 Apr Downs;1776;4.0;13.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 9041;s413;s413v2;s413v2c1;Portsmouth Jun 1777;1777;6.0;;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 9047;s413;s413v2;s413v2c7;1 May Downs;1779;5.0;1.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -2166,6 +2186,7 @@
 9687;s435;s435v1;s435v1c7;17 Jun Long Reach;1801;6.0;17.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 9688;s435;s435v2;s435v2c1;Portsmouth 13 Apr 1802;1802;4.0;13.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 9694;s435;s435v2;s435v2c7;1 Jun Long Reach;1803;6.0;1.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
+9704;s435;s435v3;s435v3c10;15 Sep North;1805;9.0;15.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 9722;s435;s435v5;s435v5c9;17 Jul Long Reach;1809;7.0;17.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 9732;s435;s435v6;s435v6c10;14 Aug Long Reach;1811;8.0;14.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 9733;s435;s435v7;s435v7c1;Portsmouth 10 Mar 1812;1812;3.0;10.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
@@ -2203,6 +2224,7 @@
 9853;s442;s442v1;s442v1c1;Downs 21 Apr 1760;1760;4.0;21.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 9857;s442;s442v1;s442v1c4;39;1766;;39.0;;True;;Purfleet;calls;51.48;0.25;british_isles
 9859;s443;s443v1;s443v1c1;Portsmouth 3 Mar 1747;1747;3.0;3.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
+9868;s443;s443v1;s443v1c10;6 Aug North;1749;8.0;6.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 9869;s443;s443v2;s443v2c1;Downs 20 Mar 1751;1751;3.0;20.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 9880;s443;s443v2;s443v2c12;19 Aug Long Reach;1752;8.0;19.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
 9881;s443;s443v3;s443v3c1;Downs 17 Feb 1755;1755;2.0;17.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -2509,6 +2531,7 @@
 11210;s504;s504v1;s504v1c8;7 Oct Downs;1754;10.0;7.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 11211;s504;s504v2;s504v2c1;Downs 30 Jan 1757;1757;1.0;30.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 11212;s504;s504v2;s504v2c2;13 Mar Torbay;1757;3.0;13.0;l55;False;l55;Torbay;calls;50.278;-3.3325;british_isles
+11221;s504;s504v2;s504v2c11;6 Nov Clyde;1758;11.0;6.0;l748;False;l748;Clyde;calls;55.4046;-4.5816;british_isles
 11222;s504;s504v2;s504v2c12;23 Feb 1759 Cork;1759;2.0;23.0;l131;False;l131;Cork;calls;51.89797;-8.47061;british_isles
 11223;s504;s504v2;s504v2c13;20 Apr Downs;1759;4.0;20.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 11224;s504;s504v3;s504v3c1;Downs 3 Feb 1760;1760;2.0;3.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -2745,6 +2768,7 @@
 12232;s548;s548v5;s548v5c1;Downs 23 Jan 1821;1821;1.0;23.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 12234;s548;s548v6;s548v6c1;Downs 8 Jan 1823;1823;1.0;8.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 12242;s548;s548v7;s548v7c1;Portsmouth 21 Jan 1825;1825;1.0;21.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
+12250;s548;s548v7;s548v7c9;3 Apr North;1826;4.0;3.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 12251;s548;s548v8;s548v8c1;Plymouth 18 Mar 1827;1827;3.0;18.0;l85;False;l85;Plymouth;calls;50.37153;-4.14305;british_isles
 12260;s548;s548v9;s548v9c1;Downs 29 Jan 1829;1829;1.0;29.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 12267;s549;s549v1;s549v1c1;Downs 14 Jun 1761;1761;6.0;14.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
@@ -5097,6 +5121,7 @@
 21760;s990;s990v5;s990v5c1;Portsmouth 12 Apr 1796;1796;4.0;12.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 21772;s990;s990v5;s990v5c13;18 Oct Downs;1798;10.0;18.0;l1;False;l1;Downs;calls;51.1108;1.2923;british_isles
 21773;s990;s990v6;s990v6c1;Portsmouth 9 Jan 1801;1801;1.0;9.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
+21779;s990;s990v6;s990v6c7;26 Jun North;1802;6.0;26.0;l127;False;l127;North;calls;51.1241;1.3901;british_isles
 21780;s990;s990v7;s990v7c1;Portsmouth 26 Feb 1807;1807;2.0;26.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 21782;s990;s990v8;s990v8c1;Portsmouth 24 Feb 1809;1809;2.0;24.0;l18;False;l18;Portsmouth;calls;50.79899;-1.09125;british_isles
 21789;s990;s990v8;s990v8c8;1 Aug 1810 Long Reach;1810;8.0;1.0;l108;False;l108;Long Reach;calls;51.4415;0.3685;british_isles
