@@ -1,6 +1,6 @@
-# masters-thesis-data
+# The East India Company's Shipping in Data
 
-This is the repository for the MA thesis "The East India Company's Shipping in Data". The thesis digitised two books (Farrington, Anthony: A Biographical Index of East India Company Maritime Service Officers 1600-1834, London 1999; Farrington, Anthony: Catalogue of East India Company Ships’ Journals and Logs 1600-1834, London 1999) to create a new dataset and then analysed it.
+This is the repository for the MA thesis "The East India Company's Shipping in Data", submitted by Maximilian Henning for the Digital Humanities MA at the University of Groningen in 2023. The thesis digitised two books (Farrington, Anthony: A Biographical Index of East India Company Maritime Service Officers 1600-1834, London 1999; Farrington, Anthony: Catalogue of East India Company Ships’ Journals and Logs 1600-1834, London 1999) to create a new dataset and then analysed it.
 
 The repository is structured as follows:
 
