@@ -640,7 +640,7 @@ def region_finder(row):
     return "nan"
 locations_complete_df["region"] = locations_complete_df.apply(region_finder, axis = 1)
 
-# Drop raw columns in voyages
+# Drop raw column in voyages
 
 voyages_complete_df = voyages_df.drop(columns = ["raw"])
 
