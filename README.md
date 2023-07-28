@@ -1,6 +1,8 @@
 # masters-thesis-data
 
-This is the repository for the MA thesis "The East India Company's Shipping in Data". It is structured as follows:
+This is the repository for the MA thesis "The East India Company's Shipping in Data". The thesis digitised two books (Farrington, Anthony: A Biographical Index of East India Company Maritime Service Officers 1600-1834, London 1999; Farrington, Anthony: Catalogue of East India Company Ships’ Journals and Logs 1600-1834, London 1999) to create a new dataset and then analysed it.
+
+The repository is structured as follows:
 
 - Output: The finished datasets, ready for use.
 - Analysis: The analysis of these datasets, mainly in Jupyter Notebooks but also in QGIS.
